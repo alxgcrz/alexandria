@@ -63,7 +63,7 @@ Useful links for my daily work
 
 ### [Games] - [Learn]
 
-* ![Star][star] [Pixel Prospector](http://www.pixelprospector.com/)
+* :star: [Pixel Prospector](http://www.pixelprospector.com/)
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
