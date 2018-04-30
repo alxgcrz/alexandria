@@ -63,7 +63,7 @@ Useful links for my daily work
 
 ### [Games] - [Learn]
 
-* :star: [Pixel Prospector](http://www.pixelprospector.com/)
+* ![Star][star] [Pixel Prospector](http://www.pixelprospector.com/)
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
@@ -1745,6 +1745,7 @@ Useful links for my daily work
 * [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
 * [workspace • Git Cheatsheet • NDP Software](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 * [Github Learning Lab](https://lab.github.com/)
+* [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
 
 ### [Programación] - [Go]
 
@@ -1858,6 +1859,7 @@ Useful links for my daily work
 * [Kotlin From Scratch - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [Learn kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
 * [Kotlin Development](https://www.kotlindevelopment.com/)
+* [Kotlin by Example](http://kotlinbyexample.org/)
 
 #### [Programación] - [Kotlin] - [Samples]
 
@@ -2783,9 +2785,6 @@ Useful links for my daily work
 
 #### [Desarrollo] - [Misc] - [Gradle]
 
-* [Gradle Tutorial : Part 10 : Consuming Endpoints in Android Code | iRomin](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/)
-* [Gradle Tutorial : Part 9 : Cloud Endpoints + Persistence + Android Studio | iRomin](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/)
-* [Gradle Tutorial : Part 8 : Gradle + App Engine + Endpoints + Android Studio | iRomin](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/)
 * [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
 * [Gradle Tutorial : Part 2 : Java Projects | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
 * [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
@@ -2793,6 +2792,9 @@ Useful links for my daily work
 * [Gradle Tutorial : Part 5 : Gradle App Engine Plugin | iRomin](http://rominirani.com/2014/08/15/gradle-tutorial-part-5-gradle-app-engine-plugin/)
 * [Gradle Tutorial : Part 6 : Android Studio + Gradle | iRomin](http://rominirani.com/2014/08/19/gradle-tutorial-part-6-android-studio-gradle/)
 * [Gradle Tutorial : Part 7 : Android Studio + App Engine + Gradle | iRomin](http://rominirani.com/2014/08/20/gradle-tutorial-part-7-android-studio-app-engine-gradle/)
+* [Gradle Tutorial : Part 8 : Gradle + App Engine + Endpoints + Android Studio | iRomin](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/)
+* [Gradle Tutorial : Part 9 : Cloud Endpoints + Persistence + Android Studio | iRomin](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/)
+* [Gradle Tutorial : Part 10 : Consuming Endpoints in Android Code | iRomin](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/)
 * [“Build Automation Tools” o como se diga en Cristiano | Cocoa Mental](http://www.cocoaosx.com/2014/01/21/build-automation-tools-make-cmake-rake-gradle-maven/)
 * [Exprimiendo las ‘builds’ con Gradle | Androcode](http://androcode.es/2015/07/exprimiendo-las-builds-con-gralde/)
 
@@ -2832,4 +2834,4 @@ Useful links for my daily work
 
 ----
 
-[star]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACNUExURQAAAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAJxFeBoAAAAudFJOUwCn+wzaS/wHGAvG0kaG6PPxdHimI0RD7Aql6yKamJ2b+K+twtbAXraAtdWBYPlwNSOGAAAAgElEQVQY01WPxxKDMAwFRbVNSwJJSCcd0t7/fx6OkQe8B413D9aIaCCKyEGEoXBCCSymLmfAXI4eeNBUgRGV5YkPg5/kmSIPDltS6dTTDdGyHn23//+yiq3H62HJwYYjbz3Z0HC42HDlcNPv80+PB4c7ik7KT4E3h/ZpLhXfl549WKMUyA+uhg4AAAAASUVORK5CYII= "Destacado"
+[star]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACNUExURQAAAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAJxFeBoAAAAudFJOUwCn+wzaS/wHGAvG0kaG6PPxdHimI0RD7Aql6yKamJ2b+K+twtbAXraAtdWBYPlwNSOGAAAAgElEQVQY01WPxxKDMAwFRbVNSwJJSCcd0t7/fx6OkQe8B413D9aIaCCKyEGEoXBCCSymLmfAXI4eeNBUgRGV5YkPg5/kmSIPDltS6dTTDdGyHn23//+yiq3H62HJwYYjbz3Z0HC42HDlcNPv80+PB4c7ik7KT4E3h/ZpLhXfl549WKMUyA+uhg4AAAAASUVORK5CYII=
