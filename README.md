@@ -1800,7 +1800,7 @@ Useful links for my daily work
 * [SDKMAN! the Software Development Kit Manager](http://sdkman.io/)
 * [Spark Framework - A tiny Java web framework](http://sparkjava.com/)
 * [Spring](https://spring.io/)
-* [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+* ![Star][star] [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [JMeter](https://jmeter.apache.org/)
 * [VisualVM](https://visualvm.github.io/)
@@ -2085,7 +2085,7 @@ Useful links for my daily work
 ### [Programación] - [UWP]
 
 * [UWP Community Toolkit Documentation - UWP Community Toolkit | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/)
-* [UWP Community Toolkit Documentation - UWP Community Toolkit | Microsoft Docs](https://docs.microsoft.com/es-es/windows/uwpcommunitytoolkit/)
+* [Microsoft/UWPCommunityToolkit: The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.](https://github.com/Microsoft/WindowsCommunityToolkit)
 * [Documentación de UWP: desarrollador de aplicaciones UWP - UWP app developer | Microsoft Docs](https://docs.microsoft.com/es-es/windows/uwp/index)
 * [Windows-XAML/Template10: Making Windows 10 apps awesome](https://github.com/Windows-XAML/Template10)
 * [Visual Studio y Xamarin | Microsoft Docs](https://docs.microsoft.com/es-es/visualstudio/cross-platform/visual-studio-and-xamarin)
@@ -2100,7 +2100,6 @@ Useful links for my daily work
 * [Connect(); 2017: SmartHotel360 Demo Apps and Architecture | The Visual Studio Blog](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
-* [Microsoft/UWPCommunityToolkit: The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.](https://github.com/Microsoft/UWPCommunityToolkit)
 
 ### [Programación] - [Vue]
 
