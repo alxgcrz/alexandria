@@ -1852,6 +1852,7 @@ Useful links for my daily work
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
 * [Android Kotlin Style guide](https://android.github.io/kotlin-guides/style.html)
 * ![Star][star] [Kotlin is Awesome!](https://kotlin.link/)
+* [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
 #### [Programación] - [Kotlin] - [Learn]
 
