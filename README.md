@@ -216,6 +216,7 @@ Useful links for my daily work
 #### [Games] - [Engines] - [Unity]
 
 * [Unity Engine](https://unity3d.com/es/learn)
+* [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
 * [Complete multi-touch solution for Unity](https://github.com/TouchScript/TouchScript)
 * [UnityList - Unity3D Assets Search Engine](https://unitylist.com/)
@@ -1107,6 +1108,7 @@ Useful links for my daily work
 * [ubuntu-make - Ubuntu Wiki](https://wiki.ubuntu.com/ubuntu-make)
 * [Snaps on Ubuntu | Desktop | Ubuntu](https://www.ubuntu.com/desktop/snappy)
 * [uApp Explorer](https://uappexplorer.com/snaps)
+* [Flathub Beta](https://flathub.org/home)
 
 ----
 
