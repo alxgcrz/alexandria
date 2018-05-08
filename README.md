@@ -217,6 +217,7 @@ Useful links for my daily work
 
 * [Unity Engine](https://unity3d.com/es/learn)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
+* [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
 * [Complete multi-touch solution for Unity](https://github.com/TouchScript/TouchScript)
 * [UnityList - Unity3D Assets Search Engine](https://unitylist.com/)
@@ -1278,7 +1279,7 @@ Useful links for my daily work
 * [Cocoon.io](https://cocoon.io/)
 * [Crosswalk](https://crosswalk-project.org/)
 * [DHTMLX Touch - JavaScript Mobile Framework for Building HTML5 Web Apps](https://dhtmlx.com/touch/)
-* [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
+
 * [eMobc - Framework de Desarrollo de Aplicaciones Móviles](http://www.emobc.com/index.php)
 * [Enyo JavaScript Application Framework](http://enyojs.com/)
 * [Framework7 - Full Featured Mobile HTML Framework For Building iOS & Android Apps](http://framework7.io/)
@@ -1292,6 +1293,11 @@ Useful links for my daily work
 * [Ratchet](http://goratchet.com/)
 * [Weex](https://weex.apache.org/)
 * [WinJS Tutorial](http://try.buildwinjs.com/)
+
+#### [Programación] - [Android] - [Frameworks] - [Flutter]
+
+* [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
+* [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 #### [Programación] - [Android] - [Learn]
 
@@ -1811,6 +1817,8 @@ Useful links for my daily work
 * [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
 * [Tutorial JMH](https://www.adictosaltrabajo.com/tutoriales/introduccion-a-jmh/)
+* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
+* [Apache Kafka® is used for building real-time data pipelines and streaming apps](https://kafka.apache.org/)
 
 ### [Programación] - [Javascript]
 
