@@ -1279,7 +1279,6 @@ Useful links for my daily work
 * [Cocoon.io](https://cocoon.io/)
 * [Crosswalk](https://crosswalk-project.org/)
 * [DHTMLX Touch - JavaScript Mobile Framework for Building HTML5 Web Apps](https://dhtmlx.com/touch/)
-
 * [eMobc - Framework de Desarrollo de Aplicaciones Móviles](http://www.emobc.com/index.php)
 * [Enyo JavaScript Application Framework](http://enyojs.com/)
 * [Framework7 - Full Featured Mobile HTML Framework For Building iOS & Android Apps](http://framework7.io/)
@@ -1858,7 +1857,7 @@ Useful links for my daily work
 ### [Programación] - [Kotlin]
 
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
-* [Android Kotlin Style guide](https://android.github.io/kotlin-guides/style.html)
+* [Android Kotlin Guides](https://android.github.io/kotlin-guides/index.html)
 * ![Star][star] [Kotlin is Awesome!](https://kotlin.link/)
 * [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
