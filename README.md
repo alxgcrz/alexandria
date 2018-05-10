@@ -216,6 +216,7 @@ Useful links for my daily work
 #### [Games] - [Engines] - [Unity]
 
 * [Unity Engine](https://unity3d.com/es/learn)
+* [Unity para juegos móviles](https://unity3d.com/es/mobile/solution-guide)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
@@ -2821,7 +2822,6 @@ Useful links for my daily work
 #### [Desarrollo] - [Misc] - [WEB]
 
 * [BOWER: A package manager for the web](http://bower.io/)
-* [Bowery - Home](http://bowery.io/)
 * [Brunch | ultra-fast HTML5 build tool](http://brunch.io/)
 * [Couscous! Put your documentation in a website!](http://couscous.io/)
 * [Duo](http://duojs.org/)
@@ -2830,16 +2830,17 @@ Useful links for my daily work
 * [Grunt for People Who Think Things Like Grunt are Weird and Hard ◆ 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
 * [Gulp.js en español - tutorial básico y primeros pasos](http://frontend-labs.com/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos)
 * [How to follow the Google webmaster guidelines](https://varvy.com/)
-* [Inferno](https://infernojs.org/)
+* [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
 * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
-* [MNML](http://mn-ml.cc/)
 * [muicss/loadjs: A tiny async loader / dependency manager for modern browsers (711 bytes)](https://github.com/muicss/loadjs)
 * [nickjanssen/angus · GitHub](https://github.com/nickjanssen/angus)
-* [Nightmare](http://www.nightmarejs.org/)
+* [Nightmare - A high-level browser automation library](http://www.nightmarejs.org/)
 * [Perf Tooling Today](http://perf-tooling.today/)
 * [siddharthkp/cost-of-modules: Find out which of your dependencies are slowing you down 🐢](https://github.com/siddharthkp/cost-of-modules/)
-* [webpack module bundler](https://webpack.github.io/)
+* [webpack module bundler](https://webpack.js.org/)
 * [Yarn](https://yarnpkg.com/)
+* [Brunch - Build tool](https://brunch.io/)
+* [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 
 ----
 
