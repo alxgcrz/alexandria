@@ -1490,6 +1490,7 @@ Useful links for my daily work
 ##### [Programación] - [Android] -  [Recursos] - [Maps]
 
 * [Mapbox](https://www.mapbox.com/)
+* [Leaflet](https://leafletjs.com/)
 
 ##### [Programación] - [Android] -  [Recursos] - [Official SDKs]
 
@@ -2061,6 +2062,7 @@ Useful links for my daily work
 * [Boilrplate](http://www.boilrplate.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 * [cdnjs.com - the missing cdn for javascript and css](http://cdnjs.com/)
+* [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
 * [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 * [Color Hex Color Codes](http://www.color-hex.com/)
 * [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
@@ -2368,6 +2370,7 @@ Useful links for my daily work
 * [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
 * [Odometer — Transition numbers with ease](http://github.hubspot.com/odometer/docs/welcome/)
 * [OriDomi - origami for the web](http://oridomi.com/#)
+* ![Star][star][LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 
 #### [Desarrollo] - [Bibliotecas] - [Audio]
 
@@ -2419,6 +2422,7 @@ Useful links for my daily work
 * [Swiper - Most Modern Mobile Touch Slider](http://idangero.us/swiper/)
 * [WOW Slider : jQuery Image Slider & Gallery](http://wowslider.com/)
 * [Superslides - A fullscreen slider for jQuery](http://archive.nicinabox.com/superslides/#2)
+* ![Star][start][Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
 
 #### [Desarrollo] - [Bibliotecas] - [Date]
 
@@ -2447,6 +2451,7 @@ Useful links for my daily work
 * [MixItUp | KunkaLabs](https://www.kunkalabs.com/mixitup/)
 * [Packery](https://packery.metafizzy.co/)
 * [Responsive Grid System | Cute Grids](http://www.cutegrids.com/)
+* ![Star][star][Masonry](https://masonry.desandro.com/)
 
 #### [Desarrollo] - [Bibliotecas] - [Header]
 
