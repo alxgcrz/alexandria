@@ -9,7 +9,7 @@ Useful links for my daily work
 
 ## [Programación]
 
-* ![Star][star] [Exercism.io - Level up your programming skills](http://exercism.io/)
+* ![Star][:star:] [Exercism.io - Level up your programming skills](http://exercism.io/)
 
 ### [Programación] - [Machine Learning]
 
@@ -192,7 +192,7 @@ Useful links for my daily work
 
 #### [Programación] - [Android] -  [Recursos]
 
-* ![Star][star] [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
+* ![Star][:star:] [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
 
 ##### [Programación] - [Android] -  [Recursos] - [Android Testing Framework]
 
@@ -584,7 +584,7 @@ Useful links for my daily work
 * [SDKMAN! the Software Development Kit Manager](http://sdkman.io/)
 * [Spark Framework - A tiny Java web framework](http://sparkjava.com/)
 * [Spring](https://spring.io/)
-* ![Star][star] [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+* ![Star][:star:] [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [JMeter](https://jmeter.apache.org/)
 * [VisualVM](https://visualvm.github.io/)
@@ -635,7 +635,7 @@ Useful links for my daily work
 
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
 * [Android Kotlin Guides](https://android.github.io/kotlin-guides/index.html)
-* ![Star][star] [Kotlin is Awesome!](https://kotlin.link/)
+* ![Star][:star:] [Kotlin is Awesome!](https://kotlin.link/)
 * [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
 #### [Programación] - [Kotlin] - [Learn]
@@ -1147,7 +1147,7 @@ Useful links for my daily work
 * [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
 * [Odometer — Transition numbers with ease](http://github.hubspot.com/odometer/docs/welcome/)
 * [OriDomi - origami for the web](http://oridomi.com/#)
-* ![Star][star][LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
+* ![Star][:star:] [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 
 #### [Desarrollo] - [Bibliotecas] - [Audio]
 
@@ -1199,7 +1199,7 @@ Useful links for my daily work
 * [Swiper - Most Modern Mobile Touch Slider](http://idangero.us/swiper/)
 * [WOW Slider : jQuery Image Slider & Gallery](http://wowslider.com/)
 * [Superslides - A fullscreen slider for jQuery](http://archive.nicinabox.com/superslides/#2)
-* ![Star][star][Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
+* ![Star][:star:] [Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
 
 #### [Desarrollo] - [Bibliotecas] - [Date]
 
@@ -1228,7 +1228,7 @@ Useful links for my daily work
 * [MixItUp | KunkaLabs](https://www.kunkalabs.com/mixitup/)
 * [Packery](https://packery.metafizzy.co/)
 * [Responsive Grid System | Cute Grids](http://www.cutegrids.com/)
-* ![Star][star][Masonry](https://masonry.desandro.com/)
+* ![Star][:star:] [Masonry](https://masonry.desandro.com/)
 
 #### [Desarrollo] - [Bibliotecas] - [Header]
 
@@ -1683,7 +1683,7 @@ Useful links for my daily work
 
 ### [Games] - [Learn]
 
-* ![Star][star] [Pixel Prospector](http://www.pixelprospector.com/)
+* ![Star][:star:] [Pixel Prospector](http://www.pixelprospector.com/)
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
@@ -1695,7 +1695,7 @@ Useful links for my daily work
 
 #### [Games] - [Learn] - [Books]
 
-* ![Star][star] [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
+* ![Star][:star:] [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 * [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 
@@ -1719,7 +1719,7 @@ Useful links for my daily work
 
 ### [Games] - [OpenSource]
 
-* ![Star][star] [Games on GitHub](https://github.com/leereilly/games)
+* ![Star][:star:] [Games on GitHub](https://github.com/leereilly/games)
 * [Stellar (GMS)](https://github.com/Regniwekim/Stellar)
 * [Naev](https://github.com/naev/naev)
 * [HelloMarioEngine (GMS)](https://github.com/HelloFangaming/HelloMarioEngine)
@@ -1865,11 +1865,11 @@ Useful links for my daily work
 * [List of Free tools and websites for game creation](https://forum.yoyogames.com/index.php?threads/list-of-free-tools-and-websites-for-game-creation.22209/)
 * [Engines, tools and apps for ludum dare](https://www.belenalbeza.com/articles/engines-tools-and-apps-for-ludum-dare/)
 * [How to jam](https://opensource.com/article/17/12/how-to-gaming-jam-development)
-* ![Star][star] [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
-* ![Star][star] [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
-* ![Star][star] [Game Development Resources](https://game-development.zeef.com/david.arcila)
-* ![Star][star] [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
-* ![Star][star] [ShaderToy](https://www.shadertoy.com/)
+* ![Star][:star:] [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
+* ![Star][:star:] [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
+* ![Star][:star:] [Game Development Resources](https://game-development.zeef.com/david.arcila)
+* ![Star][:star:] [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
+* ![Star][:star:] [ShaderToy](https://www.shadertoy.com/)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 
 #### [Games] - [Recursos] - [3D Models]
@@ -1997,8 +1997,8 @@ Useful links for my daily work
 * [Free Music](http://soundimage.org/)
 * [Soundcloud](https://soundcloud.com/)
 * [Jamendo](https://www.jamendo.com/start)
-* ![Star][star] [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
-* ![Star][star] [Free Music for Your Videos](https://icons8.com/music/)
+* ![Star][:star:] [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
+* ![Star][:star:] [Free Music for Your Videos](https://icons8.com/music/)
 
 ----
 
@@ -2014,7 +2014,7 @@ Useful links for my daily work
 * [Startup Stash](http://startupstash.com/)
 * [Makerbook](http://makerbook.net/)
 * [Free Design Code Tools](http://growthsupply.com/free/design-code/)
-* ![Star][star] [Blue Vertigo](http://www.bluevertigo.com.ar/)
+* ![Star][:star:] [Blue Vertigo](http://www.bluevertigo.com.ar/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
@@ -2063,10 +2063,10 @@ Useful links for my daily work
 * [Public Domain Archive](http://publicdomainarchive.com/)
 * [Realistic Shots](http://realisticshots.com/)
 * [Search & discover free, hi res photos & videos](http://www.splashbase.co/)
-* ![Star][star] [Free Photos, Vectors, Icons, Fonts and Videos](https://www.stockio.com/)
+* ![Star][:star:] [Free Photos, Vectors, Icons, Fonts and Videos](https://www.stockio.com/)
 * [Beautiful free stock photos](https://stocksnap.io/)
 * [The British Library](https://www.flickr.com/photos/britishlibrary/sets/)
-* ![Star][star] [Unplash](https://unsplash.com/)
+* ![Star][:star:] [Unplash](https://unsplash.com/)
 * [Wallhalla - A Wallpaper search engine](https://wallhalla.com/)
 * [DeviantArt](https://zim2687.deviantart.com/gallery/)
 
@@ -2456,11 +2456,11 @@ Useful links for my daily work
 * [Blender: 3D en la Educación | Joaclint](https://joaclintistgud.wordpress.com/2012/09/20/blender-3d-en-la-educacion/)
 * [Complete Blender Game Art Tutorial. From zero experience to 2D or 3D game ready asset](http://www.gamefromscratch.com/www.gamefromscratch.com/page/Complete-Blender-Game-Art-Tutorial-From-zero-experience-to-2D-or-3D-game-ready-asset.aspx)
 * [TexTools](http://renderhjs.net/textools/blender/)
-* ![Star][star] [Blender Guru](https://www.blenderguru.com/)
+* ![Star][:star:] [Blender Guru](https://www.blenderguru.com/)
 * [BlenderNation - Daily Blender 3D Updates](https://www.blendernation.com/)
 * [Curso: CREACIÓN DE ANIMACIONES 3D CON BLENDER](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/course/view.php?id=78)
 * [Welcome to Blend Swap! | Blend Swap](https://www.blendswap.com/)
-* ![Star][star] [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
+* ![Star][:star:] [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
 * [Blender Artists Community](http://blenderartists.org/forum/)
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
 * [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
@@ -2735,12 +2735,12 @@ Useful links for my daily work
 
 ## [Learn]
 
-* ![Star][star] [DevDocs](http://devdocs.io/)
-* ![Star][star] [dochub.io](http://dochub.io/)
+* ![Star][:star:] [DevDocs](http://devdocs.io/)
+* ![Star][:star:] [dochub.io](http://dochub.io/)
 * [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
-* ![Star][star] [Google Codelabs](https://codelabs.developers.google.com/)
+* ![Star][:star:] [Google Codelabs](https://codelabs.developers.google.com/)
 * [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
-* ![Star][star] [Zeal - offline API documentation browser](http://zealdocs.org/)
+* ![Star][:star:] [Zeal - offline API documentation browser](http://zealdocs.org/)
 * [How I got 2.3 million app downloads (without spending a cent on marketing) — Medium](https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779)
 * [Mejora el SEO de tu sitio con Schema.org](https://platzi.com/blog/schema-seo/)
 * [Personal Branding Guide for Designers - Designmodo](http://designmodo.com/personal-branding-guide/)
@@ -2796,8 +2796,8 @@ Useful links for my daily work
 * [vhf/free-programming-books · GitHub](https://github.com/vhf/free-programming-books)
 * [WebGL Insights](http://webglinsights.github.io/)
 * [Wikilibros](https://es.m.wikibooks.org/wiki/Portada)
-* ![Star][star] [X-Files](https://doc.lagout.org/)
-* ![Star][star] [Technology and Engineering eBooks](https://it-eb.com/)
+* ![Star][:star:] [X-Files](https://doc.lagout.org/)
+* ![Star][:star:] [Technology and Engineering eBooks](https://it-eb.com/)
 
 ### [Learn] - [Snippets]
 
@@ -2853,4 +2853,4 @@ Useful links for my daily work
 
 ----
 
-[star]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACNUExURQAAAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAJxFeBoAAAAudFJOUwCn+wzaS/wHGAvG0kaG6PPxdHimI0RD7Aql6yKamJ2b+K+twtbAXraAtdWBYPlwNSOGAAAAgElEQVQY01WPxxKDMAwFRbVNSwJJSCcd0t7/fx6OkQe8B413D9aIaCCKyEGEoXBCCSymLmfAXI4eeNBUgRGV5YkPg5/kmSIPDltS6dTTDdGyHn23//+yiq3H62HJwYYjbz3Z0HC42HDlcNPv80+PB4c7ik7KT4E3h/ZpLhXfl549WKMUyA+uhg4AAAAASUVORK5CYII=
+[:star:]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACNUExURQAAAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAJxFeBoAAAAudFJOUwCn+wzaS/wHGAvG0kaG6PPxdHimI0RD7Aql6yKamJ2b+K+twtbAXraAtdWBYPlwNSOGAAAAgElEQVQY01WPxxKDMAwFRbVNSwJJSCcd0t7/fx6OkQe8B413D9aIaCCKyEGEoXBCCSymLmfAXI4eeNBUgRGV5YkPg5/kmSIPDltS6dTTDdGyHn23//+yiq3H62HJwYYjbz3Z0HC42HDlcNPv80+PB4c7ik7KT4E3h/ZpLhXfl549WKMUyA+uhg4AAAAASUVORK5CYII=
