@@ -229,6 +229,12 @@ Useful links for my daily work
 ## [Programación]
 
 * :star: [Exercism.io - Level up your programming skills](http://exercism.io/)
+* [Codewars - Achieve mastery through challenge](https://www.codewars.com/)
+* [Coderbyte - Improve your coding skills](https://coderbyte.com/)
+* [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
+* [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
+* :star: [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
+* [How to think like a programmer](https://zellwk.com/blog/think/)
 
 ### [Programación] - [Machine Learning]
 
@@ -2059,6 +2065,7 @@ Useful links for my daily work
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
 * [Complete multi-touch solution for Unity](https://github.com/TouchScript/TouchScript)
 * [UnityList - Unity3D Assets Search Engine](https://unitylist.com/)
+* [Anima2D Skeletal Animation plugin - Unity Asset Store](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840)
 * [Fungus](http://fungusgames.com/)
 * [BEST FREE UNITY ASSETS – OVER 200 CURATED QUALITY ASSETS](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 * [Git para desarrolladores Unity3D](http://www.zehngames.com/developers/git-para-desarrolladores-unity3d/)
@@ -2393,6 +2400,7 @@ Useful links for my daily work
 * [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [typespiration.com - treating typography with respect — treating typography with respect](http://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
+* [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 
 #### [Diseño] - [Recursos] - [Iconos]
 
