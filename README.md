@@ -3,13 +3,14 @@
 Useful links for my daily work
 
 ![Bookstore](giammarco-boscaro-380903-unsplash.jpg)
+
 [Credit - Photo by Giammarco Boscaro on Unsplash](https://unsplash.com/photos/OPzWvgL-upY)
 
 ----
 
 ## [Programación]
 
-* ![Star][:star:] [Exercism.io - Level up your programming skills](http://exercism.io/)
+* ![Star][star.png] [Exercism.io - Level up your programming skills](http://exercism.io/)
 
 ### [Programación] - [Machine Learning]
 
