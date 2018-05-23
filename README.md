@@ -235,6 +235,8 @@ Useful links for my daily work
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
 * :star: [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
+* [SOLID Design Principles Explained](https://stackify.com/dependency-inversion-principle/)
+* [The Clean Code Blog](http://blog.cleancoder.com/)
 
 ### [Programación] - [Machine Learning]
 
@@ -304,10 +306,9 @@ Useful links for my daily work
 * [A Better Android Release Pipeline — Medium](https://medium.com/@rdsubhas/a-better-android-release-pipeline-7eca6d76f0da#.7favfo5nv)
 * [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
 * [Android | TechnoTalkativeTechnoTalkative](http://www.technotalkative.com/android/)
-* [Android Animation Tutorial](https://www.raywenderlich.com/128105/introduction-android-animations)
 * [Android Data Binding Library : A Blitzkrieg – Medium](https://medium.com/@ladwa.aditya/android-data-binding-library-a-blitzkrieg-504fc4462352#.nj2gqbfyl)
 * [Android Design Patterns](http://www.androiddesignpatterns.com/)
-* [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
+* :star: [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
 * [Android for All  |  Google Developers](https://developers.google.com/android/for-all/vocab-words/)
 * [Android NDK. How to integrate pre-built libraries in case of the FFmpeg.](https://proandroiddev.com/android-ndk-how-to-integrate-pre-built-libraries-in-case-of-the-ffmpeg-7ff24551a0f)
 * [Android Open Tutorials | Android Programming Examples](http://androidopentutorials.com/)
@@ -451,6 +452,8 @@ Useful links for my daily work
 ##### [Programación] - [Android] -  [Recursos] - [AR/VR]
 
 * [Viro Media - A Platform to Rapidly Create AR and VR applications using React Native](https://viromedia.com/)
+* [ARCore is Google’s platform for building augmented reality experiences](https://developers.google.com/ar/discover/)
+* [Building AR portal](http://www.yudiz.com/building-ar-portal-a-door-to-fascinating-ar-experience/)
 
 ##### [Programación] - [Android] -  [Recursos] - [Architecture]
 
@@ -1963,6 +1966,7 @@ Useful links for my daily work
 * [GDevelop](https://gdevelop-app.com/es/)
 * [Gideros](http://giderosmobile.com/)
 * [Ink](https://www.inklestudios.com/ink/)
+* [Twine is an open-source tool for telling interactive, nonlinear stories](http://twinery.org/)
 * [Löve](https://love2d.org/)
   * [_windfield_ is a physics module for LÖVE](https://github.com/SSYGEN/windfield)
 * [Monogame](http://www.monogame.net/)
