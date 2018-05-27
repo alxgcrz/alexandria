@@ -1359,23 +1359,22 @@ Useful links for my daily work
 * [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 * [KUTE.js | Javascript Animation Engine](http://thednp.github.io/kute.js/)
 * [Magic Animations CSS3](https://www.minimamente.com/example/magic_animations/)
-* [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/)
 * [matthieua/WOW · GitHub](https://github.com/matthieua/WOW)
 * [mo · js - Motion Graphics For The Web](http://mojs.io/)
 * [Morphext - jQuery Text Rotator Powered by Animate.css](http://morphext.fyianlai.com/)
 * [Particleground demo](http://jnicol.github.io/particleground/)
-* [shine.js](http://bigspaceship.github.io/shine.js/)
+* [shine.js - A library for pretty shadows](http://bigspaceship.github.io/shine.js/)
 * [snabbt.js](http://daniel-lundin.github.io/snabbt.js/)
 * [Stylie. A graphical CSS animation tool.](http://jeremyckahn.github.io/stylie/)
 * [Textillate.js](http://textillate.js.org/)
 * [Transit - CSS transitions and transformations for jQuery](http://ricostacruz.com/jquery.transit/)
 * [Tweene :: JavaScript Animation Proxy](http://tweene.com/)
-* [Velocity.js](http://velocityjs.org/)
+* [Velocity.js is an animation engine](http://velocityjs.org/)
 * [particles.js - A lightweight JavaScript library for creating particles](http://vincentgarreau.com/particles.js/)
 * [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
 * [Odometer — Transition numbers with ease](http://github.hubspot.com/odometer/docs/welcome/)
 * [OriDomi - origami for the web](http://oridomi.com/#)
-* :star: [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
+* [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 
 #### [Desarrollo] - [Bibliotecas] - [Audio]
 
@@ -1395,11 +1394,7 @@ Useful links for my daily work
 * [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/)
 * [Isomer – an isometric graphics library for HTML5 canvas](http://jdan.github.io/isomer/)
 * [jQuery Interactive 3D by Pete R. | The Pete Design](http://www.thepetedesign.com/demos/interactive_3d.html)
-* [Konva - JavaScript 2d canvas library](https://konvajs.github.io/)
-* [nosir/obelisk.js · GitHub](https://github.com/nosir/obelisk.js)
-* [Paper.js - Paper.js](http://paperjs.org/about/)
-* [Physijs - a physics plugin for threejs](http://chandlerprall.github.io/Physijs/)
-* [three.js - Javascript 3D library](https://threejs.org/)
+* [obelisk.js is a JavaScript library for building isometric pixel objects](https://github.com/nosir/obelisk.js)
 
 #### [Desarrollo] - [Bibliotecas] - [Carousel & Slider]
 
@@ -1640,6 +1635,7 @@ Useful links for my daily work
 * [svg.js - A lightweight JavaScript library for manipulating and animating svg](http://svgjs.com/)
 * [GraphicsJS | AnyChart](http://www.graphicsjs.org/)
 * [SVGMagic - Great jQuery SVG fallback plugin](http://dirkgroenen.nl/SVGMagic/index.html)
+* [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
 
 #### [Desarrollo] - [Bibliotecas] - [Text]
 
@@ -1944,6 +1940,8 @@ Useful links for my daily work
 * [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
 * [Pixel Art Tutorials](https://lospec.com/pixel-art-tutorials)
+* [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 ### [Games] - [OpenSource]
 
@@ -1956,8 +1954,6 @@ Useful links for my daily work
 ### [Games] - [Engines]
 
 * [What are the best 2D game engines?](https://www.slant.co/topics/341/~best-2d-game-engines)
-* [Which HTML5 Game Engine is right for you?](https://html5gameengine.com/)
-* [Javascript & HTML5 Game Engines Libraries](http://www.designyourway.net/blog/resources/javascript-html5-game-engines-libraries-51-examples/)
 * [Spring is a versatile 3D RTS game engine](https://springrts.com/wiki/About)
 * [Amazon Lumberyard](https://aws.amazon.com/es/lumberyard/)
 * [Bladecoder Adventure Engine](http://bladecoder.github.io/bladecoder-adventure-engine/)
@@ -1970,33 +1966,17 @@ Useful links for my daily work
 * [Löve](https://love2d.org/)
   * [_windfield_ is a physics module for LÖVE](https://github.com/SSYGEN/windfield)
 * [Monogame](http://www.monogame.net/)
-* [PixiJs](http://www.pixijs.com/)
-* [Planck.js](http://piqnt.com/planck.js/)
 * [Starling](https://gamua.com/starling/)
-* [Superpowers](http://superpowers-html5.com/index.en.html)
 * [Tilengine](http://www.tilengine.org/)
-* [WebGLStudio.js](https://webglstudio.org/)
 * [Xenko Game Engine](https://xenko.com/)
-* [SceneGraph.js](http://gwennaelbuchet.github.io/SceneGraph.js/)
 * [Atomic Game Engine](https://atomicgameengine.com/)
-* [Wimi5](http://wimi5.com/es/)
-* [iio.js](http://iio.js.org/)
 * [jMonkeyEngine](http://jmonkeyengine.org/#)
-* [LimeJS](http://www.limejs.com/)
-* [KiwiJS](http://www.kiwijs.org/)
-* [MelonJS](http://melonjs.org/)
-* [mini2Dx](https://mini2dx.org/)
 * [OpenFL](http://www.openfl.org/)
-* [Quintus](http://www.html5quintus.com/)
-* [Stage.js](http://piqnt.com/stage.js/)
 * [Stencyl](http://www.stencyl.com/)
-* [Turbulenz](http://biz.turbulenz.com/turbulenz)
 * [Defold](https://www.defold.com/)
-* [BabylonJS](http://www.babylonjs.com/)
 * [Wave Engine](https://waveengine.net/)
 * [Haxe](https://haxe.org/)
 * [Construct3](https://www.scirra.com/)
-* [Phaser](https://phaser.io/)
 * [Ren'Py](https://www.renpy.org/)
 * [EasyRPG](https://easyrpg.org/)
 * [LibGDX](http://libgdx.badlogicgames.com/)
@@ -2004,6 +1984,35 @@ Useful links for my daily work
   * [BDX](https://github.com/GoranM/bdx)
   * [How to code Super Mario Bros](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt)
   * [LibGDX Video Tutorial Series](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+
+### [Games] - [HTML5 Game Framework]
+
+* [Which HTML5 Game Engine is right for you?](https://html5gameengine.com/)
+* [Phaser](https://phaser.io/)
+* [Stage.js - 2D JavaScript library for cross-platform HTML5 game development](http://piqnt.com/stage.js/)
+* [Turbulenz](http://biz.turbulenz.com/turbulenz)
+* [MelonJS](http://melonjs.org/)
+* [LimeJS](http://www.limejs.com/)
+* [KiwiJS](http://www.kiwijs.org/)
+* [Superpowers](http://superpowers-html5.com/index.en.html)
+* [WebGLStudio.js](https://webglstudio.org/)
+* [SceneGraph.js](http://gwennaelbuchet.github.io/SceneGraph.js/)
+* [iio.js](http://iio.js.org/)
+* [Quintus](http://www.html5quintus.com/)
+* [PlayCanvas](https://github.com/playcanvas/engine)
+
+### [Games] - [Canvas Library]
+
+* [PixiJs](http://www.pixijs.com/)
+* [BabylonJS](http://www.babylonjs.com/)
+* [three.js - Javascript 3D library](https://threejs.org/)
+* [Physijs - a physics plugin for threejs](http://chandlerprall.github.io/Physijs/)
+* [Konva - JavaScript 2d canvas library](https://konvajs.github.io/)
+* [p2.js - 2D rigid body physics engine](https://github.com/schteppe/p2.js)
+* [Planck.js - 2D JavaScript physics engine](http://piqnt.com/planck.js/)
+* [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/)
+* [Physics.js - A modular, extendable and easy-to-use physics engine for javascript](http://wellcaffeinated.net/PhysicsJS/)
+* [CreateJS - A suite of modular libraries and tools](https://createjs.com/)
 
 #### [Games] - [Engines] - [GameMaker]
 
