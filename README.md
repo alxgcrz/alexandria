@@ -15,10 +15,9 @@ Useful links for my daily work
   * [Programación - Android](https://github.com/alxgcrz/alexandria#programación---android)
     * [Programación - Android - Diseño](https://github.com/alxgcrz/alexandria#programación---android---diseño)
     * [Programación - Android - Frameworks](https://github.com/alxgcrz/alexandria#programación---android---frameworks)
-      * [Programación - Android - Frameworks - Flutter](https://github.com/alxgcrz/alexandria#programación---android---frameworks---flutter)
     * [Programación - Android - Learn](https://github.com/alxgcrz/alexandria#programación---android---learn)
-      * [Programación - Android - Learn - Android Studio](https://github.com/alxgcrz/alexandria#programación---android---learn---android-studio)
       * [Programación - Android - Learn - Destacados](https://github.com/alxgcrz/alexandria#programación---android---learn---destacados)
+      * [Programación - Android - Learn - Android Studio](https://github.com/alxgcrz/alexandria#programación---android---learn---android-studio)
       * [Programación - Android - Learn - Samples](https://github.com/alxgcrz/alexandria#programación---android---learn---samples)
       * [Programación - Android - Learn - Training](https://github.com/alxgcrz/alexandria#programación---android---learn---training)
     * [Programación - Android - Recursos](https://github.com/alxgcrz/alexandria#programación---android---recursos)
@@ -28,18 +27,16 @@ Useful links for my daily work
       * [Programación - Android - Recursos - Architecture](https://github.com/alxgcrz/alexandria#programación---android---recursos---architecture)
       * [Programación - Android - Recursos - Directorio](https://github.com/alxgcrz/alexandria#programación---android---recursos---directorio)
       * [Programación - Android - Recursos - Fonts](https://github.com/alxgcrz/alexandria#programación---android---recursos---fonts)
-      * [Programación - Android - Recursos - HTTP Client](https://github.com/alxgcrz/alexandria#programación---android---recursos---http-client)
+      * [Programación - Android - Recursos - HTTP](https://github.com/alxgcrz/alexandria#programación---android---recursos---http)
       * [Programación - Android - Recursos - Image](https://github.com/alxgcrz/alexandria#programación---android---recursos---image)
       * [Programación - Android - Recursos - Maps](https://github.com/alxgcrz/alexandria#programación---android---recursos---maps)
-      * [Programación - Android - Recursos - Official SDKs](https://github.com/alxgcrz/alexandria#programación---android---recursos---official-sdks)
+      * [Programación - Android - Recursos - SDKs](https://github.com/alxgcrz/alexandria#programación---android---recursos---sdks)
       * [Programación - Android - Recursos - Onboarding](https://github.com/alxgcrz/alexandria#programación---android---recursos---onboarding)
-      * [Programación - Android - Recursos - ORM y Databases](https://github.com/alxgcrz/alexandria#programación---android---recursos---orm-y-databases)
-      * [Programación - Android - Recursos - Patterns](https://github.com/alxgcrz/alexandria#programación---android---recursos---patterns)
+      * [Programación - Android - Recursos - ORM & Database](https://github.com/alxgcrz/alexandria#programación---android---recursos---orm-&-database)
       * [Programación - Android - Recursos - Physics](https://github.com/alxgcrz/alexandria#programación---android---recursos---physics)
       * [Programación - Android - Recursos - RecyclerView](https://github.com/alxgcrz/alexandria#programación---android---recursos---recyclerview)
-      * [Programación - Android - Recursos - Rx](https://github.com/alxgcrz/alexandria#programación---android---recursos---rx)
+      * [Programación - Android - Recursos - Reactive](https://github.com/alxgcrz/alexandria#programación---android---recursos---reactive)
       * [Programación - Android - Recursos - UI](https://github.com/alxgcrz/alexandria#programación---android---recursos---ui)
-      * [Programación - Android - Recursos - Utils](https://github.com/alxgcrz/alexandria#programación---android---recursos---utils)
     * [Programación - Android - Services](https://github.com/alxgcrz/alexandria#programación---android---services)
       * [Programación - Android - Services - Firebase](https://github.com/alxgcrz/alexandria#programación---android---services---firebase)
     * [Programación - Android - Utils](https://github.com/alxgcrz/alexandria#programación---android---utils)
@@ -65,7 +62,7 @@ Useful links for my daily work
     * [Programación - Kotlin - Libraries](https://github.com/alxgcrz/alexandria#programación---kotlin---libraries)
   * [Programación - LESS](https://github.com/alxgcrz/alexandria#programación---less)
   * [Programación - Liquid](https://github.com/alxgcrz/alexandria#programación---liquid)
-  * [Programación - Node.js](https://github.com/alxgcrz/alexandria#programación---node.js)
+  * [Programación - Node.js](https://github.com/alxgcrz/alexandria#programación---nodejs)
   * [Programación - Patterns](https://github.com/alxgcrz/alexandria#programación---patterns)
   * [Programación - PHP](https://github.com/alxgcrz/alexandria#programación---php)
   * [Programación - Polymer](https://github.com/alxgcrz/alexandria#programación---polymer)
@@ -153,6 +150,8 @@ Useful links for my daily work
     * [Games - Learn - Design](https://github.com/alxgcrz/alexandria#games---learn---design)
   * [Games - OpenSource](https://github.com/alxgcrz/alexandria#games---opensource)
   * [Games - Engines](https://github.com/alxgcrz/alexandria#games---engines)
+  * [Games - HTML5 Game Framework](https://github.com/alxgcrz/alexandria#games---html5-game-framework)
+  * [Games - Canvas Library](https://github.com/alxgcrz/alexandria#games---canvas-library)
     * [Games - Engines - GameMaker](https://github.com/alxgcrz/alexandria#games---engines---gamemaker)
     * [Games - Engines - Godot Engine](https://github.com/alxgcrz/alexandria#games---engines---godot-engine)
     * [Games - Engines - Unreal Engine 4](https://github.com/alxgcrz/alexandria#games---engines---unreal-engine-4)
@@ -248,12 +247,12 @@ Useful links for my daily work
 
 ### [Programación] - [Android]
 
-* [NVIDIA CodeWorks for Android | NVIDIA Developer](https://developer.nvidia.com/codeworks-android)
+* [Android](https://www.android.com/)
+* [Desarrolladores de Android | Android Developers](https://developer.android.com/?hl=es)
 * [Las API de Google para Android  |  Google Developers](https://developers.google.com/android/?hl=es)
-* [Desarrolladores de Android | Android Developers](https://developer.android.com/index.html)
 * [Android Experiments](https://experiments.withgoogle.com/android)
 * [Android | Google Blog](https://blog.google/products/android/)
-* [Android](https://www.android.com/)
+* [NVIDIA CodeWorks for Android | NVIDIA Developer](https://developer.nvidia.com/codeworks-android)
 
 #### [Programación] - [Android] - [Diseño]
 
@@ -293,11 +292,8 @@ Useful links for my daily work
 * [Ratchet](http://goratchet.com/)
 * [Weex](https://weex.apache.org/)
 * [WinJS Tutorial](http://try.buildwinjs.com/)
-
-#### [Programación] - [Android] - [Frameworks] - [Flutter]
-
 * [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
-* [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+  * [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 
 #### [Programación] - [Android] - [Learn]
 
@@ -342,30 +338,15 @@ Useful links for my daily work
 * [Mindorks – Medium](https://medium.com/mindorks)
 * [More Material Design with Topeka for Android | Android Developers Blog](http://android-developers.blogspot.com.es/2015/06/more-material-design-with-topeka-for_16.html)
 * [Must have tools for Android development](https://android.jlelse.eu/must-have-tools-for-android-development-d76ae66f409f#.zaujr5zau)
-* [Quick and Easy Migration To Room – Yvonne Price – Medium](https://medium.com/@price.yvonne.86/quick-and-easy-migration-to-room-d40dbb142b51)
 * [Resources - App Launch Checklist | Branch Metrics](https://branch.io/resources/app-launch-checklist/)
 * [sgoliver.net blog](http://www.sgoliver.net/blog/)
 * [Standing Out From The Crowd: Improving Your Mobile App With Competitive Analysis — Smashing Magazine](https://www.smashingmagazine.com/2017/12/improving-mobile-app-competitive-analysis/)
 * [Stephen Colebourne's blog: Turning off doclint in JDK 8 Javadoc](http://blog.joda.org/2014/02/turning-off-doclint-in-jdk-8-javadoc.html)
 * [Technical Questions.md](https://gist.github.com/lawloretienne/6f7d7d92f72986f5ebd60f226d9044ee)
-* [ThirtyInch —a new MVP library for Android – Medium](https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.9ypzz2kdj)
 * [ViewModels and LiveData: Patterns + AntiPatterns – Google Developers – Medium](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
 * [Use tasks to bring the stories to you (Android Studio protip #5)](https://tips.seebrock3r.me/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0)
 * [How to Monetise your Android App with Firebase Admob](https://www.ericdecanini.com/2018/04/21/how-to-monetise-your-android-app-with-firebase-admob/)
 * [Introducing Constraint Layout 1.1](https://medium.com/google-developers/introducing-constraint-layout-1-1-d07fc02406bc)
-
-##### [Programación] - [Android] - [Learn] - [Android Studio]
-
-* [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio — Google Developers — Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.ed2hxteax)
-* [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer – Medium](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.vcqop4mgv)
-* [Android Studio + Cloud Endpoints + Objectify Persistence](https://rominirani.com/android-studio-cloud-endpoints-objectify-persistence-76b26c13bb2a#.pult17bhi)
-* [Android Studio Shortcuts - barmij.ly](https://barmij.ly/Academy/Articles/Read/Android-Studio-Shortcuts)
-* [Cómo descargar Android Studio y SDK Tools | Android Studio](https://developer.android.com/studio/index.html)
-* [Conoce Android Studio | Android Studio](https://developer.android.com/studio/intro/index.html)
-* [How to become more productive in android with android studio plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)
-* [IDEScout, Inc.](http://www.idescout.com/)
-* [Los mejores atajos de teclado para Android Studio | Androcode](http://androcode.es/2014/10/mejores-atajos-android-studio/)
-* [Making production YouTube videos from Android Studio screen recordings(video capture) : androiddev](https://www.reddit.com/r/androiddev/comments/5cdikb/making_production_youtube_videos_from_android/)
 
 ##### [Programación] - [Android] - [Learn] - [Destacados]
 
@@ -374,11 +355,9 @@ Useful links for my daily work
 * [Android Development](http://www.vogella.com/tutorials/android.html)
 * [ConstraintLayout](https://constraintlayout.com/)
 * [Distribute multiple-module library on Bintray for Java and Android developers](https://blog.mindorks.com/distribute-multiple-module-library-on-bintray-for-java-and-android-developers-212216bc1aa7)
-* [Documentation - Stack Overflow](http://stackoverflow.com/documentation/)
 * [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices)
 * [GitHub - aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference?utm_source=Android+Weekly&utm_campaign=8810b25681-android-weekly-255&utm_medium=email&utm_term=0_4eb677ad19-8810b25681-338082705)
-* [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 * [Google Developers — Medium](https://medium.com/google-developers)
 * [Gradle Plugin User Guide - Android Studio Project Site](http://tools.android.com/tech-docs/new-build-system/user-guide)
 * [Home | CodePath Android Cliffnotes](https://guides.codepath.com/android)
@@ -389,9 +368,20 @@ Useful links for my daily work
 * [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
 * [Top 200 Android articles written on Medium ( Until Jan 2017 )](https://hackernoon.com/top-200-android-articles-written-on-medium-until-jan-2017-369a9b6e0edd)
 
+##### [Programación] - [Android] - [Learn] - [Android Studio]
+
+* [Android Studio - Android Developers](https://developer.android.com/studio/?hl=es)
+* [Android Studio Shortcuts - Android Developers](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=es-419)
+* [(About) 10 Things You (Probably) Didn’t Know You Could do in Android Studio — Google Developers — Medium](https://medium.com/google-developers/about-10-things-you-probably-didn-t-know-you-could-do-in-android-studio-de231071b375#.ed2hxteax)
+* [50 Android Studio Tips, Tricks & Resources you should be familiar with, as an Android Developer – Medium](https://medium.com/@mmbialas/50-android-studio-tips-tricks-resources-you-should-be-familiar-with-as-an-android-developer-af86e7cf56d2#.vcqop4mgv)
+* [How to become more productive in android with android studio plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)
+* [Los mejores atajos de teclado para Android Studio | Androcode](http://androcode.es/2014/10/mejores-atajos-android-studio/)
+* [Making production YouTube videos from Android Studio screen recordings(video capture) : androiddev](https://www.reddit.com/r/androiddev/comments/5cdikb/making_production_youtube_videos_from_android/)
+
 ##### [Programación] - [Android] - [Learn] - [Samples]
 
 * [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.wpt3mlcpr)
+* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 * [eo/mdx: MDX - Material Design Explorer for Android](https://github.com/eo/mdx)
 * [Fossdroid: Free and open source Android apps](https://fossdroid.com/)
 * [google/iosched](https://github.com/google/iosched)
@@ -400,69 +390,61 @@ Useful links for my daily work
 * [nickbutcher/plaid](https://github.com/nickbutcher/plaid)
 * [psaravan/JamsMusicPlayer: A free, powerful and elegant music player for Android.](https://github.com/psaravan/JamsMusicPlayer)
 * [What FOSS apps are you using? : Android](https://www.reddit.com/r/Android/comments/7ioh1o/what_foss_apps_are_you_using/)
-* [googlesamples/android-architecture-components: Samples for Android Architecture Components.](https://github.com/googlesamples/android-architecture-components)
 * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 
 ##### [Programación] - [Android] - [Learn] - [Training]
 
-* [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
-* [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
-* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
-* [Udacity-Google Partnership](https://www.udacity.com/google)
-* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
-* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+* :star: [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 * [Android Developer Fundamentals  |  Google Developers Training  |  Google Developers](https://developers.google.com/training/courses/android-fundamentals)
 * [Android Developer Fundamentals Course – Practicals · GitBook](https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
 * [Android Developer Fundamentals Course – Concepts · GitBook](https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
-* [Google Developer Training](https://github.com/google-developer-training)
+* [Google Developer Training Repository](https://github.com/google-developer-training)
+* [Udacity-Google Partnership](https://www.udacity.com/google)
+* [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+* [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
-#### [Programación] - [Android] -  [Recursos]
+#### [Programación] - [Android] - [Recursos]
 
-* :star: [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
+* [google/guava · GitHub](https://github.com/google/guava)
+* [Mosh: the mobile shell](https://mosh.org/)
+* [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 
-##### [Programación] - [Android] -  [Recursos] - [Android Testing Framework]
+##### [Programación] - [Android] - [Recursos] - [Android Testing Framework]
 
-* [googlesamples/android-testing-templates](https://github.com/googlesamples/android-testing-templates)
-* [Appium: Mobile App Automation Made Awesome.](http://appium.io/)
-* [googlesamples/android-testing](https://github.com/googlesamples/android-testing)
-* [hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate)
-* [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
-* [Robolectric](http://robolectric.org/)
-* [RobotiumTech/robotium: Android UI Testing](https://github.com/robotiumtech/robotium)
-* [Sky Developers](http://developers.sky.com/external/android/2016/03/31/android-tdd-introduction/)
-* [ravidsrk/android-testing-guide: [Examples] Complete reference for Android Testing with examples.](https://github.com/ravidsrk/android-testing-guide)
-* [Android Testing Support Library](https://google.github.io/android-testing-support-library/)
-* [android-testing-templates/AndroidTestingBlueprint at master · googlesamples/android-testing-templates](https://github.com/googlesamples/android-testing-templates/tree/master/AndroidTestingBlueprint)
-* [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
-* [Testing on Android part 1: Unit Testing](http://www.tinmegali.com/en/testing-part1-unit-testing/)
+* [Testing Apps on Android | Android Developers](https://developer.android.com/training/testing/?hl=es)
 * [Testing Concepts | Android Developers](http://developer.android.com/intl/es/tools/testing/testing_android.html)
+* [Biblioteca de compatibilidad de pruebas - Android](https://developer.android.com/training/testing/?hl=es)
+  * [googlesamples/android-testing-templates](https://github.com/googlesamples/android-testing-templates)
+  * [googlesamples/android-testing](https://github.com/googlesamples/android-testing)
+  * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
+* [Appium: Mobile App Automation Made Awesome.](http://appium.io/)
+* [Robolectric](http://robolectric.org/)
+* [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
+* [ravidsrk/android-testing-guide: [Examples] Complete reference for Android Testing with examples.](https://github.com/ravidsrk/android-testing-guide)
+* [Testing on Android part 1: Unit Testing](http://www.tinmegali.com/en/testing-part1-unit-testing/)
 * [Developing Android unit and instrumentation tests - Tutorial](http://www.vogella.com/tutorials/AndroidTesting/article.html)
-* [Android Espresso Tutorial for Mobile App Testing](http://bitbar.com/android-espresso-tutorial-for-mobile-app-testing/)
-* [Unit tests with custom JUnit rules, annotations and resources - iOS, Android & Ruby Development Team | Droids On Roids](http://www.thedroidsonroids.com/blog/unit-tests-rules-annotations-resources/)
-* [Testing Apps on Android | Android Developers](https://developer.android.com/training/testing/index.html)
-* [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html?index=..%2F..%2Findex#0)
 
-##### [Programación] - [Android] -  [Recursos] - [Anotaciones]
+##### [Programación] - [Android] - [Recursos] - [Anotaciones]
 
+* [Mejorar la inspección de código con anotaciones - Android Developers](https://developer.android.com/studio/write/annotations)
 * [AndroidAnnotations](http://androidannotations.org/)
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
-* [JakeWharton/hugo · GitHub](https://github.com/JakeWharton/hugo)
 * [Android support annotations: how to use | RST IT](https://rst-it.com/blog/support-annotations-usage/)
 
-##### [Programación] - [Android] -  [Recursos] - [AR/VR]
+##### [Programación] - [Android] - [Recursos] - [AR/VR]
 
 * [Viro Media - A Platform to Rapidly Create AR and VR applications using React Native](https://viromedia.com/)
 * [ARCore is Google’s platform for building augmented reality experiences](https://developers.google.com/ar/discover/)
 * [Building AR portal](http://www.yudiz.com/building-ar-portal-a-door-to-fascinating-ar-experience/)
 
-##### [Programación] - [Android] -  [Recursos] - [Architecture]
+##### [Programación] - [Android] - [Recursos] - [Architecture]
 
+* :star: [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
 * [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture/index.html)
-* [GitHub - Fueled/flowr: FlowR is a wrapper class around the Fragment Manager.](https://github.com/Fueled/flowr)
+  * [googlesamples/android-architecture-components: Samples for Android Architecture Components.](https://github.com/googlesamples/android-architecture-components)
 
-##### [Programación] - [Android] -  [Recursos] - [Directorio]
+##### [Programación] - [Android] - [Recursos] - [Directorio]
 
-* [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
 * [App Dev Wiki](http://www.appdevwiki.com/wiki/show/HomePage)
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [Awesome Android | LibHunt](https://android.libhunt.com/)
@@ -473,114 +455,88 @@ Useful links for my daily work
 * [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [25 new Android libraries, projects and tools worthy to check in Spring 2018](https://medium.com/@mmbialas/25-new-android-libraries-projects-and-tools-worthy-to-check-in-spring-2018-68e3c5e93568)
+* [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
 
-##### [Programación] - [Android] -  [Recursos] - [Fonts]
+##### [Programación] - [Android] - [Recursos] - [Fonts]
 
 * [Downloadable Fonts | Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html)
 
-##### [Programación] - [Android] -  [Recursos] - [HTTP Client]
+##### [Programación] - [Android] - [Recursos] - [HTTP]
 
 * [Retrofit](http://square.github.io/retrofit/)
 * [Transmitting Network Data Using Volley | Android Developers](http://developer.android.com/intl/es/training/volley/index.html)
 
-##### [Programación] - [Android] -  [Recursos] - [Image]
+##### [Programación] - [Android] - [Recursos] - [Image]
 
 * [Picasso](http://square.github.io/picasso/)
-* [GitHub - bumptech/glide: An image loading and caching library for Android focused on smooth scrolling](https://github.com/bumptech/glide)
-* [bonnyfone/vectalign · GitHub](https://github.com/bonnyfone/vectalign)
-* [Glide v4 : Fast and efficient image loading for Android](http://bumptech.github.io/glide/)
+* [Glide is a fast and efficient image loading library for Android](https://bumptech.github.io/glide/)
 
-##### [Programación] - [Android] -  [Recursos] - [Maps]
+##### [Programación] - [Android] - [Recursos] - [Maps]
 
 * [Mapbox](https://www.mapbox.com/)
 * [Leaflet](https://leafletjs.com/)
 
-##### [Programación] - [Android] -  [Recursos] - [Official SDKs]
+##### [Programación] - [Android] - [Recursos] - [SDKs]
 
 * [47 Degrees](https://github.com/47deg)
 * [Airbnb](https://github.com/airbnb)
 * [ANDROID | OpenCV](http://opencv.org/platforms/android.html)
 * [AWS | SDK para móviles – Herramientas de desarrollo de aplicaciones para móviles](http://aws.amazon.com/es/mobile/sdk/)
 * [Box | Open Source](http://opensource.box.com/)
-* [Fabric | Twitter Developers](https://dev.twitter.com/products/fabric)
-* [Facebook Code | Facebook](https://code.facebook.com/android/)
 * [Home | PayPal Developer](https://developer.paypal.com/)
-* [Parse + Open Source = ❤️](https://parseplatform.github.io/#server)
-* [Realm is a mobile database: a replacement for SQLite & Core Data](https://realm.io/)
+* [Parse + Open Source = ❤️](http://parseplatform.org/)
 * [Rebound - spring dynamics for Android](http://facebook.github.io/rebound/)
-* [Soomla | SOOMLA Knowledge Base](http://know.soom.la/android/)
 * [Square Open Source](http://square.github.io/)
 * [Tuenti Code · GitHub](https://github.com/tuenti)
-* [Our Projects | Open Source at Facebook | Facebook Code | Facebook](https://code.facebook.com/projects/android)
+* [Open Source at Facebook](https://opensource.fb.com/)
 * [Evernote · GitHub](https://github.com/evernote)
 * [Yelp & Open Source](https://yelp.github.io/)
 * [Telegram Database Library](https://core.telegram.org/tdlib)
 
-##### [Programación] - [Android] -  [Recursos] - [Onboarding]
+##### [Programación] - [Android] - [Recursos] - [Onboarding]
 
 * [TangoAgency/material-intro-screen: Inspired by Heinrich Reimer Material Intro and developed with love from scratch](https://github.com/TangoAgency/material-intro-screen)
+* [PaperOnboarding is a material design slider](https://github.com/Ramotion/paper-onboarding-android)
 
-##### [Programación] - [Android] -  [Recursos] - [ORM y Databases]
+##### [Programación] - [Android] - [Recursos] - [ORM & Database]
 
 * [OrmLite - Lightweight Java ORM Supports Android and SQLite](http://ormlite.com/sqlite_java_android_orm.shtml)
 * [Sugar ORM - Insanely easy way to work with Android database.](http://satyan.github.io/sugar/)
 * [Activeandroid by pardom](http://www.activeandroid.com/)
+* [Realm Database](https://realm.io/products/realm-database)
+* :star: [Room Persistence Library - Android Developers](https://developer.android.com/topic/libraries/architecture/room?hl=es)
+* [Save data in a local database using Room - Android Developers](https://developer.android.com/training/data-storage/room/?hl=es)
+  * [Android Room with a View - Android Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view)
+  * [Android Persistence codelab - Android Codelab](https://codelabs.developers.google.com/codelabs/android-persistence/)
 
-##### [Programación] - [Android] -  [Recursos] - [Patterns]
-
-* [bluelinelabs/Conductor: A small, yet full-featured framework that allows building View-based Android applications](https://github.com/bluelinelabs/Conductor)
-* [grandcentrix/ThirtyInch: a MVP library for Android](https://github.com/grandcentrix/ThirtyInch/)
-* [ThirtyInch —a new MVP library for Android – Medium](https://medium.com/@passsy/thirtyinch-a-new-mvp-library-for-android-bd1a27262fd6#.ysermb5eg)
-
-##### [Programación] - [Android] -  [Recursos] - [Physics]
+##### [Programación] - [Android] - [Recursos] - [Physics]
 
 * [JBox2D: A Java Physics Engine](http://www.jbox2d.org/)
 
-##### [Programación] - [Android] -  [Recursos] - [RecyclerView]
+##### [Programación] - [Android] - [Recursos] - [RecyclerView]
 
 * [airbnb/epoxy: Epoxy is an Android library for building complex screens in a RecyclerView](https://github.com/airbnb/epoxy)
 
-##### [Programación] - [Android] -  [Recursos] - [Rx]
+##### [Programación] - [Android] - [Recursos] - [Reactive]
 
 * [google/agera: Reactive Programming for Android](https://github.com/google/agera)
-* [hitherejoe/Android-Boilerplate](https://github.com/hitherejoe/Android-Boilerplate/)
 * [Understanding the enigma of RxJava (Part 1)](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de#.b0109aw6s)
 * [RxJava meets Android Data Binding – Tango Agency – Medium](https://medium.com/tangoagency/rxjava-meets-android-data-binding-4ca5e1144107#.kcl4fkgca)
 
-##### [Programación] - [Android] -  [Recursos] - [UI]
+##### [Programación] - [Android] - [Recursos] - [UI]
 
-* [6wunderkinder/android-sliding-layer-lib · GitHub](https://github.com/6wunderkinder/android-sliding-layer-lib)
 * [theDazzler/droidicon](https://github.com/theDazzler/droidicon)
-* [sd6352051/NiftyDialogEffects](https://github.com/sd6352051/NiftyDialogEffects)
-* [saulmm (Saul MM) · GitHub](https://github.com/saulmm)
+* [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
 * [PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
 * [Bearded-Hen/Android-Bootstrap · GitHub](https://github.com/Bearded-Hen/Android-Bootstrap)
-* [JorgeCastilloPrz/AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
 * [mikepenz/MaterialDrawer · GitHub](https://github.com/mikepenz/MaterialDrawer)
-* [daimajia/AndroidViewAnimations · GitHub](https://github.com/daimajia/AndroidViewAnimations)
-* [nhaarman/Triad](https://github.com/nhaarman/triad)
-* [lecho/hellocharts-android: Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations](https://github.com/lecho/hellocharts-android)
-* [StevenByle/Android-Material-Themes-Demo: A demo Android application and explanation of creating dynamically colorized Material Design applications supporting Android 4.0 (API 15) and up](https://github.com/StevenByle/Android-Material-Themes-Demo)
+* [lecho/hellocharts-android: Charts/graphs library for Android compatible with API 8+](https://github.com/lecho/hellocharts-android)
 * [FlexboxLayout | Styling Android](https://blog.stylingandroid.com/category/layouts/flexboxlayout/)
 * [google/flexbox-layout: Flexbox for Android](https://github.com/google/flexbox-layout)
 * [Andy671/Dachshund-Tab-Layout: Extended Android tab layout with animated indicators that have continuous feedback.](https://github.com/Andy671/Dachshund-Tab-Layout)
-* [florent37/ExpectAnim: Describe your animation and run !](https://github.com/florent37/ExpectAnim)
 * [nisrulz/sensey: [Android Library] Detecting gestures in a snap](https://github.com/nisrulz/sensey)
 * [halfhp/androidplot: Charts and plots for Android](https://github.com/halfhp/androidplot)
 * [GitHub - willowtreeapps/spruce-android: Spruce Animation Library](https://github.com/willowtreeapps/spruce-android)
-
-##### [Programación] - [Android] -  [Recursos] - [Utils]
-
-* [Blankj/AndroidUtilCode: Android developers should collect the following utils(updating)](https://github.com/Blankj/AndroidUtilCode)
-* [Karumi/Rosie: Rosie is an Android framework to create applications following the principles of Clean Architecture.](https://github.com/Karumi/Rosie?utm_content=buffer24693&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-* [AoDevBlue/MaterialValues: An Android library for material design values](https://github.com/AoDevBlue/MaterialValues)
-* [keiferstone/nonet: An Android library for monitoring network connectivity](https://github.com/keiferstone/nonet)
-* [avast/android-butterknife-zelezny: Android Studio plug-in for generating ButterKnife injections from selected layout XML.](https://github.com/avast/android-butterknife-zelezny)
-* [Gradle, please](http://gradleplease.appspot.com/)
-* [Pixplicity/HtmlCompat: Compatibility library for Android's Html class.](https://github.com/Pixplicity/HtmlCompat)
-* [google/guava · GitHub](https://github.com/google/guava)
-* [Mosh: the mobile shell](https://mosh.org/)
-* [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 
 #### [Programación] - [Android] - [Services]
 
@@ -596,22 +552,21 @@ Useful links for my daily work
 
 ##### [Programación] - [Android] - [Services] - [Firebase]
 
-* [firebase/quickstart-android: Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
-* [Reglas de Seguridad Firebase](https://code.tutsplus.com/es/articles/quick-tip-firebase-database-security-rules--cms-27926)
 * [Firebase](https://firebase.google.com/#)
 * [Build an Android App Using Firebase and the App Engine Flexible Environment  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
+* [firebase/quickstart-android: Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
+* [Reglas de Seguridad Firebase](https://code.tutsplus.com/es/articles/quick-tip-firebase-database-security-rules--cms-27926)
 
 #### [Programación] - [Android] - [Utils]
 
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 * [App Store Screenshot Generator | Create Beautiful Screenshots for iOS and Android in Minutes](https://www.appstorescreenshot.com/)
-* [Device Metrics - Material Design](https://material.io/devices/)
+* [Device Metrics - Material Design](https://material.io/tools/devices/)
 * [DPI Calculator](http://jennift.com/dpical.html)
-* [Exynap](http://exynap.com/)
-* [Generador de material gráfico para dispositivos | Android Developers](https://developer.android.com/distribute/marketing-tools/device-art-generator.html)
+* [Generador de material gráfico para dispositivos | Android Developers](https://developer.android.com/distribute/marketing-tools/device-art-generator)
 * [InVision | Digital Product Design, Workflow & Collaboration](https://www.invisionapp.com/)
-* [Pixplicity | DP/PX Converter](https://pixplicity.com/dp-px-converter)
 * [Prototyping tool for web and mobile apps - Justinmind](https://www.justinmind.com/)
+* [Pixplicity | DP/PX Converter](https://pixplicity.com/dp-px-converter)
 * [Screen Sizes](http://screensiz.es/phone)
 * [Shape Shifter](https://shapeshifter.design/)
 * [SVG to Vector Drawable Converter – Convert SVG images to Android VectorDrawable XML resource files online](http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
@@ -1890,7 +1845,7 @@ Useful links for my daily work
 * [Team17](https://www.team17.com/)
 * [Rovio](http://www.rovio.com/developers)
 
-#### [Games]  - [Promoción] - [Publishing]
+#### [Games] - [Promoción] - [Publishing]
 
 * [Nintendo](https://developer.nintendo.com/)
 * [Facebook](https://developers.facebook.com/docs/games/instant-games)
