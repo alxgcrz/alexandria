@@ -271,6 +271,8 @@ Useful links for my daily work
 * [Android niceties](http://androidniceties.tumblr.com/)
 * [Inspired UI - mobile ui patterns](http://android.inspired-ui.com/)
 * [lovely ui](http://www.lovelyui.com/tagged/android)
+* [InVision | Digital Product Design, Workflow & Collaboration](https://www.invisionapp.com/)
+* [Prototyping tool for web and mobile apps - Justinmind](https://www.justinmind.com/)
 
 #### [Programación] - [Android] - [Frameworks]
 
@@ -298,7 +300,6 @@ Useful links for my daily work
 #### [Programación] - [Android] - [Learn]
 
 * [¿Cuánto Cuesta una App?](https://cuantocuestaunaapp.com/)
-* [80+ Best Resources for Android Developers 2016 (Blogs, Forums & More)](http://www.anysoftwaretools.com/best-android-development-resources/?utm_source=Android+Weekly&utm_campaign=30733096d0-Android_Weekly_224&utm_medium=email&utm_term=0_4eb677ad19-30733096d0-338082705)
 * [A Better Android Release Pipeline — Medium](https://medium.com/@rdsubhas/a-better-android-release-pipeline-7eca6d76f0da#.7favfo5nv)
 * [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
 * [Android | TechnoTalkativeTechnoTalkative](http://www.technotalkative.com/android/)
@@ -456,6 +457,7 @@ Useful links for my daily work
 * [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [25 new Android libraries, projects and tools worthy to check in Spring 2018](https://medium.com/@mmbialas/25-new-android-libraries-projects-and-tools-worthy-to-check-in-spring-2018-68e3c5e93568)
 * [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
+* [96 Best Resources for Android Developers 2017](https://www.anysoftwaretools.com/best-android-development-resources/)
 
 ##### [Programación] - [Android] - [Recursos] - [Fonts]
 
@@ -564,8 +566,6 @@ Useful links for my daily work
 * [Device Metrics - Material Design](https://material.io/tools/devices/)
 * [DPI Calculator](http://jennift.com/dpical.html)
 * [Generador de material gráfico para dispositivos | Android Developers](https://developer.android.com/distribute/marketing-tools/device-art-generator)
-* [InVision | Digital Product Design, Workflow & Collaboration](https://www.invisionapp.com/)
-* [Prototyping tool for web and mobile apps - Justinmind](https://www.justinmind.com/)
 * [Pixplicity | DP/PX Converter](https://pixplicity.com/dp-px-converter)
 * [Screen Sizes](http://screensiz.es/phone)
 * [Shape Shifter](https://shapeshifter.design/)
