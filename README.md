@@ -2044,7 +2044,9 @@ Useful links for my daily work
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
+* [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
 * [quill18creates - Youtube](https://www.youtube.com/channel/UCPXOQq7PWh5OdCwEO60Y8jQ)
+* [Brackeys - Youtube](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
 
 ### [Games] - [Recursos]
 
