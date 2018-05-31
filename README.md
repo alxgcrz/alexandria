@@ -2041,6 +2041,7 @@ Useful links for my daily work
 * [UnityList - Unity3D Assets Search Engine](https://unitylist.com/)
 * [Anima2D Skeletal Animation plugin - Unity Asset Store](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840)
 * [Fungus](http://fungusgames.com/)
+* [Unity para juegos narrativos, algunos plugins](https://itch.io/t/235721/unity-para-juegos-narrativos-algunos-plugins#post-430764)
 * [BEST FREE UNITY ASSETS – OVER 200 CURATED QUALITY ASSETS](http://www.procedural-worlds.com/blog/best-free-unity-assets-categorised-mega-list/)
 * [Git para desarrolladores Unity3D](http://www.zehngames.com/developers/git-para-desarrolladores-unity3d/)
 * [Unity - Pixel Art Particles](http://warcher-devlog.tumblr.com/post/131193823198/unity-pixel-art-particles)
