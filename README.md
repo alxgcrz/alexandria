@@ -1917,8 +1917,6 @@ Useful links for my daily work
 * [Corona](https://coronalabs.com/product/)
 * [GDevelop](https://gdevelop-app.com/es/)
 * [Gideros](http://giderosmobile.com/)
-* [Ink](https://www.inklestudios.com/ink/)
-* [Twine is an open-source tool for telling interactive, nonlinear stories](http://twinery.org/)
 * [Löve](https://love2d.org/)
   * [_windfield_ is a physics module for LÖVE](https://github.com/SSYGEN/windfield)
 * [Monogame](http://www.monogame.net/)
@@ -1940,6 +1938,13 @@ Useful links for my daily work
   * [BDX](https://github.com/GoranM/bdx)
   * [How to code Super Mario Bros](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt)
   * [LibGDX Video Tutorial Series](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+
+### [Games] - [Gamebooks]
+
+* [Ink - The powerful scripting language](https://www.inklestudios.com/ink/)
+* [Twine is an open-source tool for telling interactive, nonlinear stories](http://twinery.org/)
+* [Squiffy - A simple way to write interactive fiction](http://textadventures.co.uk/squiffy)
+* [Inform is a design system for interactive fiction](http://inform7.com/)
 
 ### [Games] - [HTML5 Game Framework]
 
