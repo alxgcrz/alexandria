@@ -358,7 +358,7 @@ Useful links for my daily work
 * [Distribute multiple-module library on Bintray for Java and Android developers](https://blog.mindorks.com/distribute-multiple-module-library-on-bintray-for-java-and-android-developers-212216bc1aa7)
 * [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
 * [futurice/android-best-practices](https://github.com/futurice/android-best-practices)
-* [GitHub - aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference?utm_source=Android+Weekly&utm_campaign=8810b25681-android-weekly-255&utm_medium=email&utm_term=0_4eb677ad19-8810b25681-338082705)
+* [GitHub - aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
 * [Google Developers — Medium](https://medium.com/google-developers)
 * [Gradle Plugin User Guide - Android Studio Project Site](http://tools.android.com/tech-docs/new-build-system/user-guide)
 * [Home | CodePath Android Cliffnotes](https://guides.codepath.com/android)
@@ -627,7 +627,7 @@ Useful links for my daily work
 * [10 CSS Rules Every Web Designer Should Know](http://line25.com/articles/10-css-rules-every-web-designer-should-know)
 * [25 Fragmentos CSS para algunas de las tareas más comunes y frustrantes || webintenta blog](http://webintenta.com/25-fragmentos-css-para-algunas-de-las-tareas-ms-comunes-y-frustrantes.html)
 * [20 Protips For Writing Modern CSS | Tutorialzine](http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/)
-* [Building Resizeable Components with Relative CSS Units | CSS-Tricks](https://css-tricks.com/building-resizeable-components-relative-css-units/?utm_source=html5weekly&utm_medium=email)
+* [Building Resizeable Components with Relative CSS Units | CSS-Tricks](https://css-tricks.com/building-resizeable-components-relative-css-units/)
 * [Cómo perder peso (en el navegador)](http://browserdiet.com/es/)
 
 #### [Programación] - [CSS3] - [Flexbox]
@@ -751,17 +751,16 @@ Useful links for my daily work
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [google/guava · GitHub](https://github.com/google/guava)
 * [How to Write Doc Comments for the Javadoc Tool](http://www.oracle.com/technetwork/java/javase/documentation/index-137868.html)
-* [https://github.com/akullpp/awesome-java?utm_content=bufferf85a1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer](https://github.com/akullpp/awesome-java?utm_content=bufferf85a1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)
 * [Introducción al testeo aplicaciones web con Selenium y Java (I) | BBits](http://borrowbits.com/2015/07/introduccion-al-testeo-aplicaciones-web-con-selenium-y-java-i/)
 * [JAR Search - findJAR.com](http://www.findjar.com/index.x)
 * [Java 9: It's Heeeere - DZone Java](https://dzone.com/articles/java-9-its-heeeere)
-* [Java libraries you can't miss in 2017 · Blogging fun by Sergej Jevsejev](http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/?utm_source=ycombinator)
+* [Java libraries you can't miss in 2017 · Blogging fun by Sergej Jevsejev](http://blog.jevsejev.io/2017/02/19/java-libraries-you-cannot-miss-in-2017/)
 * [Java Tutorials Learning Paths](http://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-* [Javvy](http://javvy-app.com/)
 * [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](http://jsoup.org/)
 * [Novedades y nuevas características de Java 9, los módulos](https://picodotdev.github.io/blog-bitix/2017/09/novedades-y-nuevas-caracteristicas-de-java-9-los-modulos/)
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
-* [Pippo : Pippo](http://www.pippo.ro/)
+* [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 * [PrimeFaces | Ultimate UI Framework for Java EE](https://www.primefaces.org/)
 * [SDKMAN! the Software Development Kit Manager](http://sdkman.io/)
@@ -773,11 +772,19 @@ Useful links for my daily work
 * [VisualVM](https://visualvm.github.io/)
 * [Jakarta EE - The New Home of Cloud Native Java](https://jakarta.ee/)
 * [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
-* [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
 * [Tutorial JMH](https://www.adictosaltrabajo.com/tutoriales/introduccion-a-jmh/)
 * [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
 * [Apache Kafka® is used for building real-time data pipelines and streaming apps](https://kafka.apache.org/)
+
+#### [Programación] - [Java] - [JavaFX]
+
+* [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
+* [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
+* [fxexperience - JavaFX ControlsFX](http://fxexperience.com/controlsfx/)
+* [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
+* [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+* [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 
 ### [Programación] - [Javascript]
 
@@ -951,7 +958,7 @@ Useful links for my daily work
 * [PWABuilder](https://www.pwabuilder.com/)
 * [hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
 * [HNPWA](https://hnpwa.com/)
-* [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction?utm_source=gamedevjsweekly&utm_medium=email)
+* [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 
 ### [Programación] - [Python]
 
@@ -996,7 +1003,7 @@ Useful links for my daily work
 * [gillesbertaux/andy · GitHub](https://github.com/gillesbertaux/andy)
 * [Hocus-Pocus](http://hocus-pocus.io/#boxes)
 * [MVCSS](http://mvcss.github.io/)
-* [My Favorite Sass Tools](http://www.sitepoint.com/my-favorite-sass-tools/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+SitepointFeed+%28SitePoint+Feed%29)
+* [My Favorite Sass Tools](http://www.sitepoint.com/my-favorite-sass-tools/)
 * [polikin/animate.sass · GitHub](https://github.com/polikin/animate.sass)
 * [Sache: Find Sass and Compass Extensions for your next project](http://www.sache.in/)
 * [Sass Guidelines](http://sass-guidelin.es/)
@@ -1867,6 +1874,7 @@ Useful links for my daily work
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
+* [Progressive Web Games](https://hacks.mozilla.org/2018/05/progressive-web-games/)
 
 #### [Games] - [Learn] - [Formación]
 
@@ -1987,16 +1995,16 @@ Useful links for my daily work
 * [Beginner Resources](https://www.yoyogames.com/blog/392)
 * [The Essential Gamemaker Functions, Concepts and Utils](http://fauxoperativegames.com/essential_function_guide/)
 * [GameMaker Handbook](https://www.reddit.com/r/gamemaker/comments/3lyoik/game_maker_handbook_resources_for_beginners_an/)
-* [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
-* [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
-* [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
-* [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
-* [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
-* [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
-* [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
-* [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
-* [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
-* [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
+  * :clapper: [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
+  * :clapper: [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
+  * :clapper: [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
+  * :clapper: [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
+  * :clapper: [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
+  * :clapper: [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
+  * :clapper: [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
+  * :clapper: [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
+  * :clapper: [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
+  * :star::clapper: [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
 
 #### [Games] - [Engines] - [Godot Engine]
 
@@ -2050,7 +2058,10 @@ Useful links for my daily work
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
-* [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
+  * [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
+  * :clapper: [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+  * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
+  * :clapper: [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
 
 ### [Games] - [Recursos]
 
@@ -2697,6 +2708,7 @@ Useful links for my daily work
 * [Shout](https://grahammacphee.com/shout)
 * [Video2Gif](https://github.com/nostrenz/ffmpeg-video2gif-gui)
 * [ScreenToGif - Screen, webcam and sketchboard recorder with an integrated editor](http://www.screentogif.com/)
+* [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com/)
 
 ### [Software] - [Video]
 
@@ -2811,7 +2823,7 @@ Useful links for my daily work
 #### [Seguridad] - [Utils] - [Frameworks]
 
 * [Golismero Project. The web knife.](http://www.golismero.com/)
-* [Metasploitable 2 – Guía en Video](http://www.dragonjar.org/metasploitable-2-guia-en-video.xhtml?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dragonjar%2FpKru+%28La+Comunidad+DragonJAR%29)
+* [Metasploitable 2 – Guía en Video](http://www.dragonjar.org/metasploitable-2-guia-en-video.xhtml)
 * [Metasploitable 2 Exploitability Guide | SecurityStreet](https://community.rapid7.com/docs/DOC-1875)
 * [Metasploitable - Browse /Metasploitable2 at SourceForge.net](http://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Manual de Armitage en Español](http://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml)
@@ -2894,7 +2906,7 @@ Useful links for my daily work
 * [Creación y uso de alias de comandos (linux) - Felinfo: Java, Linux, Virtualización. Open Source.](http://felinfo.blogspot.com.es/2011/12/creacion-y-uso-de-alias-de-comandos.html)
 * [Crear un Screencast en un Gif](http://www.linuxhispano.net/2013/11/07/crear-un-screencast-en-un-gif/)
 * [Descarga un sitio entero con wget aún cuando hayan restricciones](http://blog.desdelinux.net/descarga-sitio-entero-wget-cuando-hayan-restricciones/)
-* [hosty: Script para eliminar publicidad en cualquier navegador](http://blog.desdelinux.net/hosty-script-eliminar-publicidad/?utm_source=feedburner)
+* [hosty: Script para eliminar publicidad en cualquier navegador](http://blog.desdelinux.net/hosty-script-eliminar-publicidad/)
 * [Learn the Wget Command with 20 Practical Examples](http://www.labnol.org/software/wget-command-examples/28750/)
 * [Maximiza la seguridad en GNU/Linux](http://blog.desdelinux.net/maxima-seguridad-linux/)
 * [Particionar, dar formato y montar un disco duro en linux. Pasos para añadir un nuevo disco duro.](https://www.pedroventura.com/linux/anadir-y-dar-formato-a-un-nuevo-disco-duro-en-linux/)
@@ -3012,7 +3024,7 @@ Useful links for my daily work
 
 * [Bootstrap Style Guide Boilerplate](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
 * [DoCSSa – Sass based CSS architecture and methodology](http://docssa.info/#)
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml?utm_source=html5weekly&utm_medium=email#Action_Items)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 * [Open Source @ IFTTT](http://ifttt.github.io/)
 * [SalGnt/cscs](https://github.com/SalGnt/cscs)
