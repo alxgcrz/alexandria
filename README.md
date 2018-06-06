@@ -776,6 +776,10 @@ Useful links for my daily work
 * [Tutorial JMH](https://www.adictosaltrabajo.com/tutoriales/introduccion-a-jmh/)
 * [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
 * [Apache Kafka® is used for building real-time data pipelines and streaming apps](https://kafka.apache.org/)
+* [A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.](http://micronaut.io/)
+* [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
+* [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
+* [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
 
 #### [Programación] - [Java] - [JavaFX]
 
@@ -2155,6 +2159,7 @@ Useful links for my daily work
 * [Texture Ninja](https://texture.ninja/)
 * [Texture Duion](https://duion.com/art/textures)
 * [Wild Textures](http://www.wildtextures.com/)
+* [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
 * :wrench: [Awesome Bump](http://awesomebump.besaba.com/about/)
 * :wrench: [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
@@ -2188,10 +2193,13 @@ Useful links for my daily work
 * :wrench: [Audiosauna](http://www.audiosauna.com/)
 * :wrench: [Bfxr](https://www.bfxr.net/)
 * :wrench: [ChipTone](http://sfbgames.com/chiptone/)
+* :wrench: [Audacity](https://www.audacityteam.org/download/linux/)
+* :wrench: [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
+* :wrench: [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
+* :wrench: [LMMS](https://lmms.io/)
+* :wrench: [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
 * [FFmpeg](https://ffmpeg.org/)
 * [Fmod](https://www.fmod.com/)
-* :wrench: [LMMS](https://www.fmod.com/)
-* :wrench: [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
 * [ccMixter](http://ccmixter.org/)
 * [100-Free-Common-Phrases-for-Video-Games](https://github.com/Cyael/100-Free-Common-Phrases-for-Video-Games)
 * [dig.ccMixter](http://dig.ccmixter.org/)
@@ -2371,7 +2379,7 @@ Useful links for my daily work
 * [FREE Fonts To Download - Thousands of fonts to download free for windows and mac](https://fontzone.net/)
 * [Free Fonts, Cool Fonts, Tattoo fonts - Fontm.com](http://fontm.com/)
 * [Free Fonts! Legit Free & Quality » Font Squirrel](https://www.fontsquirrel.com/)
-* [Fuentes](http://www.fontreactor.com/)
+* [Font collection](http://www.fontreactor.com/)
 * [Google Fonts](https://fonts.google.com/)
 * [Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
 * [IBM Type](https://ibm.github.io/type/)
@@ -2388,6 +2396,7 @@ Useful links for my daily work
 * [typespiration.com - treating typography with respect — treating typography with respect](http://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 * [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
+* [Segmented Fonts](https://aresluna.org/segmented-type/)
 
 #### [Diseño] - [Recursos] - [Iconos]
 
