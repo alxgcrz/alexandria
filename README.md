@@ -2,9 +2,9 @@
 
 Useful links for my daily work
 
-![Bookstore](giammarco-boscaro-380903-unsplash.jpg)
+![Bookstore](images/bookstore.jpg)
 
-[Credit - Photo by Giammarco Boscaro on Unsplash](https://unsplash.com/photos/OPzWvgL-upY)
+[Credit - Photo by Giammarco Boscaro (unsplash.com)](https://unsplash.com/photos/OPzWvgL-upY)
 
 ----
 
