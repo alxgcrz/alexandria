@@ -1221,6 +1221,7 @@ Useful links for my daily work
 * [Yoga | YOGA](https://facebook.github.io/yoga/)
 * [ZoaUI](https://infinnie.github.io/zoaui/)
 * [PatternFly - A community of designers and developers collaborating to build a UI framework for enterprise web applications](http://www.patternfly.org/)
+* [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
 
 ### [Desarrollo] - [Google]
 
@@ -2680,7 +2681,7 @@ Useful links for my daily work
 * [Blender: 3D en la Educación | Joaclint](https://joaclintistgud.wordpress.com/2012/09/20/blender-3d-en-la-educacion/)
 * [Complete Blender Game Art Tutorial. From zero experience to 2D or 3D game ready asset](http://www.gamefromscratch.com/www.gamefromscratch.com/page/Complete-Blender-Game-Art-Tutorial-From-zero-experience-to-2D-or-3D-game-ready-asset.aspx)
 * [TexTools](http://renderhjs.net/textools/blender/)
-* :star: [Blender Power Sequencer - Plugin](https://github.com/GDquest/Blender-power-sequencer)
+* :star: [Blender Power Sequencer - Addon](https://github.com/GDquest/Blender-power-sequencer)
 * :star: [Blender Guru](https://www.blenderguru.com/)
 * [BlenderNation - Daily Blender 3D Updates](https://www.blendernation.com/)
 * [Curso: CREACIÓN DE ANIMACIONES 3D CON BLENDER](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/course/view.php?id=78)
