@@ -467,6 +467,7 @@ Useful links for my daily work
 
 * [Retrofit](http://square.github.io/retrofit/)
 * [Transmitting Network Data Using Volley | Android Developers](http://developer.android.com/intl/es/training/volley/index.html)
+* [Scarlet - A Retrofit inspired WebSocket client for Kotlin, Java, and Android](https://github.com/Tinder/Scarlet)
 
 ##### [Programación] - [Android] - [Recursos] - [Image]
 
@@ -903,6 +904,8 @@ Useful links for my daily work
 
 * [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [kamranahmedse/design-patterns-for-humans: Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
+* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 
 ### [Programación] - [PHP]
 
@@ -2811,7 +2814,7 @@ Useful links for my daily work
 
 ### [Seguridad] - [Utils]
 
-* [Awesome-Hacking/README.md at master · Hack-with-Github/Awesome-Hacking · GitHub](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+* [Awesome-Hacking - A collection of various awesome lists for hackers, pentesters and security researchers · GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Katoolin, instala todas la herramientas de Kali Linux en Ubuntu](https://ubunlog.com/katoolin-herramientas-kali-ubuntu/)
 * [Leviathan Framework, desencadenando a la bestia : hackplayers](http://www.hackplayers.com/2017/04/leviathan-framework-desencadenando-la.html)
@@ -3072,11 +3075,12 @@ Useful links for my daily work
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/)
 * [CodeProject - For those who code](http://www.codeproject.com/)
 * [Codular - Home](http://codular.com/)
-* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 * [Estructura con CSS](http://es.learnlayout.com/)
 * [PharkMillups/beautiful-docs · GitHub](https://github.com/PharkMillups/beautiful-docs)
 * [Resumen del curso HTML5](http://msdn.microsoft.com/es-es/ie/hh749019)
 * [Snugug/north](https://github.com/Snugug/north)
+* [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
+* [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
 
 ----
 
