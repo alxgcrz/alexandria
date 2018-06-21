@@ -582,13 +582,14 @@ Useful links for my daily work
 ### [Programación] - [Containers]
 
 * [Rancher 2.0 | Rancher Labs](http://rancher.com/rancher2-0/)
-* [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 * [LXC - Linux Containers](https://linuxcontainers.org/)
 * [Openshift](https://www.openshift.org/)
 * [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
+* [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
+* [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
+* [Docker - Explore official repositories](https://hub.docker.com/explore/)
 * [Cómo desplegar contenedores en Docker](https://platzi.com/blog/desplegar-contenedores-docker/)
 * [Compilar y documentar tu servidor usando Dockerfile](https://platzi.com/blog/imagenes-con-dockerfile/)
-* [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
 * [Docker : Learning Resources – Romin Irani’s Blog](https://rominirani.com/docker-learning-resources-292dd9958bf5)
 * [Docker Explicado: Cómo crear Contenedores de Docker corriendo en Memcached | DigitalOcean](https://www.digitalocean.com/community/tutorials/docker-explicado-como-crear-contenedores-de-docker-corriendo-en-memcached-es)
 * [Docker Toolbox Setup — Windows – Romin Irani’s Blog](https://rominirani.com/docker-toolbox-setup-windows-4d65c3f691eb)
@@ -781,6 +782,7 @@ Useful links for my daily work
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
+* [Codota - Search for Java code](https://www.codota.com/code/)
 
 #### [Programación] - [Java] - [JavaFX]
 
@@ -1883,6 +1885,7 @@ Useful links for my daily work
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
 * [Progressive Web Games](https://hacks.mozilla.org/2018/05/progressive-web-games/)
+* [PacktHub - Game Development](https://hub.packtpub.com/category/game-development/)
 
 #### [Games] - [Learn] - [Formación]
 
@@ -2045,6 +2048,7 @@ Useful links for my daily work
 * [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
 * [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
 * [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
+* [Unreal Engine 4 notes](https://www.blaenkdenum.com/notes/unreal-engine/)
 
 #### [Games] - [Engines] - [Unity]
 
@@ -2165,13 +2169,14 @@ Useful links for my daily work
 * [Texture Duion](https://duion.com/art/textures)
 * [Wild Textures](http://www.wildtextures.com/)
 * [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
+* [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
 * :wrench: [Awesome Bump](http://awesomebump.besaba.com/about/)
 * :wrench: [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
 #### [Games] - [Recursos] - [Materials]
 
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
-* [PBR Materials](https://www.cc0textures.com/home)
+* [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
 * [Free C4D Materials](https://www.c4dcenter.com/)
 * [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 
@@ -3081,6 +3086,7 @@ Useful links for my daily work
 * [Snugug/north](https://github.com/Snugug/north)
 * [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
 * [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
+* [Get started making music](https://learningmusic.ableton.com/)
 
 ----
 
