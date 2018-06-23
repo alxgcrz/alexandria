@@ -1061,6 +1061,7 @@ Useful links for my daily work
 * [uinames.com](http://uinames.com/)
 * [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
+* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
 ### [Programación] - [Lua]
 
@@ -1980,6 +1981,7 @@ Useful links for my daily work
 * [iio.js](http://iio.js.org/)
 * [Quintus](http://www.html5quintus.com/)
 * [PlayCanvas](https://github.com/playcanvas/engine)
+* [Blacksmith 2D - the world’s most supported system ever built - seamlessly runs on all browsers and platforms.](http://blacksmith2d.io/)
 
 ### [Games] - [Canvas Library]
 
