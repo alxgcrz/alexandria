@@ -385,6 +385,7 @@ Useful links for my daily work
 * [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
 * [eo/mdx: MDX - Material Design Explorer for Android](https://github.com/eo/mdx)
 * [Fossdroid: Free and open source Android apps](https://fossdroid.com/)
+* [[Request] What are the best FOSS apps for Android?](https://www.reddit.com/r/androidapps/comments/86uwbs/request_what_are_the_best_foss_apps_for_android/)
 * [google/iosched](https://github.com/google/iosched)
 * [google/santa-tracker-android: Ho Ho Ho](https://github.com/google/santa-tracker-android)
 * [ivacf/archi](https://github.com/ivacf/archi)
@@ -458,6 +459,7 @@ Useful links for my daily work
 * [25 new Android libraries, projects and tools worthy to check in Spring 2018](https://medium.com/@mmbialas/25-new-android-libraries-projects-and-tools-worthy-to-check-in-spring-2018-68e3c5e93568)
 * [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
 * [96 Best Resources for Android Developers 2017](https://www.anysoftwaretools.com/best-android-development-resources/)
+* [Android by Example](https://androidexample365.com/)
 
 ##### [Programación] - [Android] - [Recursos] - [Fonts]
 
@@ -744,6 +746,7 @@ Useful links for my daily work
 * [Modernizr: the feature detection library for HTML5/CSS3](http://modernizr.com/)
 * [SwitchToHTML5 - The HTML5 Framework Generator](http://switchtohtml5.com/)
 * [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/)
+* :star: [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
 
 ### [Programación] - [Java]
 
@@ -863,6 +866,7 @@ Useful links for my daily work
 * [KTX: Kotlin support for LibGDX applications](https://libktx.github.io/)
 * [RxKotlin | RxJava bindings for Kotlin](https://github.com/ReactiveX/RxKotlin)
 * [Arrow - Functional companion to Kotlin's Standard Library](http://arrow-kt.io/)
+* [Mockk - mocking library for Kotlin](http://mockk.io/)
 
 ### [Programación] - [LESS]
 
@@ -1062,6 +1066,7 @@ Useful links for my daily work
 * [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
 * [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
+* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 
 ### [Programación] - [Lua]
 
@@ -1228,7 +1233,7 @@ Useful links for my daily work
 * [ZoaUI](https://infinnie.github.io/zoaui/)
 * [PatternFly - A community of designers and developers collaborating to build a UI framework for enterprise web applications](http://www.patternfly.org/)
 * [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
-* [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
+* :star: [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 
 ### [Desarrollo] - [Google]
 
@@ -1888,6 +1893,8 @@ Useful links for my daily work
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
 * [Progressive Web Games](https://hacks.mozilla.org/2018/05/progressive-web-games/)
 * [PacktHub - Game Development](https://hub.packtpub.com/category/game-development/)
+* [So, You Wanna Be a Game Designer?](http://wannabe.urustar.net/)
+* [Cosas interactivas y cómo empezar a hacerlas](http://ludipe.tumblr.com/sergamedev)
 
 #### [Games] - [Learn] - [Formación]
 
@@ -1917,9 +1924,9 @@ Useful links for my daily work
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 * [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
-* [Pixel Art Tutorials](https://lospec.com/pixel-art-tutorials)
+* [Pixel Art Tutorials - Palette List - Pixel Art Tools](https://lospec.com)
 * [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+* :star: [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 
 ### [Games] - [OpenSource]
 
@@ -2101,6 +2108,7 @@ Useful links for my daily work
 * :star: [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * :star: [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
 * :star: [ShaderToy](https://www.shadertoy.com/)
+* :wrench: [Shader Playground](http://shader-playground.timjones.io/)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 
 #### [Games] - [Recursos] - [3D Models]
@@ -2117,9 +2125,10 @@ Useful links for my daily work
 * [Poly - Google](https://poly.google.com/)
 * [Remix 3D - Microsoft](https://www.remix3d.com)
 * [Free 3D Collections](http://www.rockthe3d.com/)
-* [Sketchfab](https://sketchfab.com/)
+* [Sketchfab - Publish and find 3D models online - Free & Paid](https://sketchfab.com/)
 * [Yobi 3D - Search Engine](https://www.yobi3d.com/#!/)
 * [3dMdb.com is the unique 3d model aggregator and Search Engine](http://3dmdb.com/)
+* [Low poly assets](http://quaternius.com/assets.html)
 * :wrench: [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
 * :wrench: [Online 3D Converter](http://www.greentoken.de/onlineconv/)
 * :wrench: [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
@@ -2519,7 +2528,7 @@ Useful links for my daily work
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
 * [Prueba de optimización para móviles de Google Search Console](https://search.google.com/search-console/mobile-friendly)
 * [Resizer - Material Design](https://material.io/resizer/)
-* [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+* :wrench: [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
 #### [Diseño] - [Recursos] - [Vídeo]
 
@@ -3025,7 +3034,7 @@ Useful links for my daily work
 * [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [GoalKicker.com – Free Programming Books](http://books.goalkicker.com/)
-* [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
+* :star: [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 * [Libro &quot;Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender&quot;](http://www.librorealidadaumentada.com/)
 * [Libros, tutoriales y vídeos sobre HTML, CSS, JavaScript, PHP y otras tecnologías web.](http://librosweb.es/)
 * [List of Free Programming Books - reSRC](https://resrc.io/list-of-free-programming-books/)
@@ -3033,7 +3042,6 @@ Useful links for my daily work
 * [Pro Git, el libro oficial de Git](http://librosweb.es/pro_git/)
 * [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
 * [Tecnologia i Experimentals](http://repositori.uji.es/xmlui/handle/10234/25187)
-* [The Book of Shaders](https://thebookofshaders.com/?lan=es)
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 * [vhf/free-programming-books · GitHub](https://github.com/vhf/free-programming-books)
 * [WebGL Insights](http://webglinsights.github.io/)
