@@ -1898,6 +1898,7 @@ Useful links for my daily work
 * :star: [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 * [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
+* [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
 
 #### [Games] - [Learn] - [Mechanics]
 
@@ -1911,7 +1912,7 @@ Useful links for my daily work
 * [The Four Elements of Game Design: Part 2](https://gamedevelopment.tutsplus.com/tutorials/four-elements-of-game-design-2--cms-25628)
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-* [Red Blob Games](https://www.redblobgames.com/)
+* [Red Blob Games - What if you could learn math and computer science topics the same way you learn while playing a game?](https://www.redblobgames.com/)
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 * [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
@@ -2073,6 +2074,7 @@ Useful links for my daily work
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
+* [Firebase Unity Solutions - Github](https://github.com/firebase/unity-solutions)
   * [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
   * :clapper: [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
   * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
@@ -2082,6 +2084,7 @@ Useful links for my daily work
 
 * [Itch.io](https://itch.io/)
 * [2D Game Art for Programmers](http://www.2dgameartguru.com/)
+* [Pixel Game Art](http://pixelgameart.org/web/)
 * [Tools and Resources to Create Game Assets for Android iOS and PC](http://www.tldevtech.com/tools-resources-to-create-game-assets/)
 * [All the tools we use to make games](http://juicybeast.com/2017/02/09/all-the-tools-we-use-to-make-games/)
 * [Tools & Programs I Use To Run My Business](https://www.truevalhalla.com/blog/tools)
@@ -2682,6 +2685,7 @@ Useful links for my daily work
 * [calibre - E-book management](http://calibre-ebook.com/)
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
 * [Alternativas de código abierto - osalt.com](http://www.osalt.com/es/)
+* [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
 
 ### [Software] - [Blender]
 
