@@ -244,6 +244,7 @@ Useful links for my daily work
 * [TensorFlow](https://www.tensorflow.org/)
 * [Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
 * [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
+* :clapper: [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 
 ### [Programación] - [Android]
 
@@ -2037,7 +2038,7 @@ Useful links for my daily work
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
 * [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
-* [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
+* :clapper: [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
@@ -2052,13 +2053,13 @@ Useful links for my daily work
 * [Free Community Assets](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/51392-free-community-assets?80021-Free-Community-Assets=)
 * [Large useful blueprint function library (Morepork Games)](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/75960-large-useful-blueprint-function-library-morepork-games?104003-Large-useful-blueprint-function-library-(Morepork-Games)=)
 * [Unreal Engine 4 Resources](http://ue4resources.com/)
-* [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
-* [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
-* [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
-* [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
-* [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
-* [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
-* [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
+* :clapper: [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
+* :clapper: [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
+* :clapper: [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
+* :clapper: [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
+* :clapper: [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
+* :clapper: [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
+* :clapper: [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
 * [Unreal Engine 4 notes](https://www.blaenkdenum.com/notes/unreal-engine/)
 
 #### [Games] - [Engines] - [Unity]
@@ -2193,7 +2194,7 @@ Useful links for my daily work
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
 * [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
 * [Free C4D Materials](https://www.c4dcenter.com/)
-* [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
+* :clapper: [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 
 #### [Games] - [Recursos] - [Stores]
 
@@ -2373,7 +2374,7 @@ Useful links for my daily work
 * [Premium & Free Design and Web Resources | Pixeden](https://www.pixeden.com/)
 * [Curated creative design and development resources | oozled](http://oozled.com/)
 * [TemplateShock](http://www.templateshock.com/)
-* [www.premiumpixels.com](http://www.premiumpixels.com/)
+* [Free Stuff for Creative Folk](http://www.premiumpixels.com/)
 * [Free design resources, Mokcups, psd templates, icons - graphberry.com](http://www.graphberry.com/)
 
 #### [Diseño] - [Recursos] - [Fuentes]
@@ -2713,13 +2714,13 @@ Useful links for my daily work
 * :star: [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
 * [Blender Artists Community](http://blenderartists.org/forum/)
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
-* [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+* :clapper: [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
 
 #### [Software] - [Blender] - [Oficial]
 
 * [ES/Main Page - BlenderWiki](https://wiki.blender.org/index.php/ES/Main_Page)
 * [Blender Reference Manual — Blender Manual](https://docs.blender.org/manual/en/dev/)
-* [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
+* :clapper: [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
 
 ### [Software] - [Cloud]
 
@@ -2781,11 +2782,11 @@ Useful links for my daily work
 
 * [11 webs y canales de Youtube para aprender GIMP desde 0 hasta nivel experto](http://www.genbeta.com/web/11-webs-y-canales-de-youtube-para-aprender-gimp-desde-0-hasta-nivel-experto)
 * [5 Great GIMP Plugins for Designers](http://www.sitepoint.com/5-great-gimp-plugins-for-designers/)
-* [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
-* [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* :clapper: [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* :clapper: [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
 * [G'MIC - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing](http://gmic.eu/download.shtml)
 * [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
-* [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
+* :clapper: [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [GIMP, aplicaciones didácticas - Índice](http://www.ite.educacion.es/formacion/materiales/86/cd/indice.htm)
 * [PIXLS.US Blog - G'MIC 1.7.1](https://pixls.us/blog/2016/05/g-mic-1-7-1/)
 * [Programa de manipulación de imágenes de GNU](https://docs.gimp.org/2.8/es/)
@@ -3048,6 +3049,7 @@ Useful links for my daily work
 * [Wikilibros](https://es.m.wikibooks.org/wiki/Portada)
 * :star: [X-Files](https://doc.lagout.org/)
 * :star: [Technology and Engineering eBooks](https://it-eb.com/)
+* [The Nature of Code](https://natureofcode.com/book/)
 
 ### [Learn] - [Snippets]
 
