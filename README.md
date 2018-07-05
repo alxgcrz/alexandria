@@ -16,7 +16,6 @@ Useful links for my daily work
     * [Programación - Android - Diseño](https://github.com/alxgcrz/alexandria#programación---android---diseño)
     * [Programación - Android - Frameworks](https://github.com/alxgcrz/alexandria#programación---android---frameworks)
     * [Programación - Android - Learn](https://github.com/alxgcrz/alexandria#programación---android---learn)
-      * [Programación - Android - Learn - Destacados](https://github.com/alxgcrz/alexandria#programación---android---learn---destacados)
       * [Programación - Android - Learn - Android Studio](https://github.com/alxgcrz/alexandria#programación---android---learn---android-studio)
       * [Programación - Android - Learn - Samples](https://github.com/alxgcrz/alexandria#programación---android---learn---samples)
       * [Programación - Android - Learn - Training](https://github.com/alxgcrz/alexandria#programación---android---learn---training)
@@ -250,10 +249,11 @@ Useful links for my daily work
 
 * [Android](https://www.android.com/)
 * [Desarrolladores de Android | Android Developers](https://developer.android.com/?hl=es)
-* [Las API de Google para Android  |  Google Developers](https://developers.google.com/android/?hl=es)
-* [Android Experiments](https://experiments.withgoogle.com/android)
+* [Las API de Google para Android | Google Developers](https://developers.google.com/android/?hl=es)
+* [Android Experiments](https://experiments.withgoogle.com/collection/android)
 * [Android | Google Blog](https://blog.google/products/android/)
-* [NVIDIA CodeWorks for Android | NVIDIA Developer](https://developer.nvidia.com/codeworks-android)
+* [Google Developers — Medium](https://medium.com/google-developers)
+* [Android Developers Blog](https://android-developers.googleblog.com/)
 
 #### [Programación] - [Android] - [Diseño]
 
@@ -300,75 +300,23 @@ Useful links for my daily work
 
 #### [Programación] - [Android] - [Learn]
 
-* [¿Cuánto Cuesta una App?](https://cuantocuestaunaapp.com/)
-* [A Better Android Release Pipeline — Medium](https://medium.com/@rdsubhas/a-better-android-release-pipeline-7eca6d76f0da#.7favfo5nv)
-* [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
-* [Android | TechnoTalkativeTechnoTalkative](http://www.technotalkative.com/android/)
-* [Android Data Binding Library : A Blitzkrieg – Medium](https://medium.com/@ladwa.aditya/android-data-binding-library-a-blitzkrieg-504fc4462352#.nj2gqbfyl)
-* [Android Design Patterns](http://www.androiddesignpatterns.com/)
-* :star: [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
-* [Android for All  |  Google Developers](https://developers.google.com/android/for-all/vocab-words/)
-* [Android NDK. How to integrate pre-built libraries in case of the FFmpeg.](https://proandroiddev.com/android-ndk-how-to-integrate-pre-built-libraries-in-case-of-the-ffmpeg-7ff24551a0f)
-* [Android Open Tutorials | Android Programming Examples](http://androidopentutorials.com/)
-* [Android SDK Code Tutorials by Envato Tuts+](https://code.tutsplus.com/categories/android-sdk)
-* [Android strings.xml — things to remember – Google Developers Experts – Medium](https://medium.com/google-developer-experts/android-strings-xml-things-to-remember-c155025bb8bb#.ksbao9q2r)
-* [Android Weekly - Free weekly Android development newsletter](http://androidweekly.net/)
-* [Building a simple audio app in Android (Part 2/3) – Google Developers – Medium](https://medium.com/google-developers/building-a-simple-audio-app-in-android-part-2-3-a514f6224b83)
-* [Code an Image Gallery Android App with Glide](https://code.tutsplus.com/tutorials/code-an-image-gallery-android-app-with-glide--cms-28207)
-* [Creando para Android (IV): La promoción de un juego](http://www.elandroidelibre.com/2015/08/creando-un-juego-para-android-iv-la-promocion-aso.html)
-* [Curso Programación Android](http://elbauldelprogramador.com/curso-programacion-android/)
-* [Cyril Mottier](http://cyrilmottier.com/)
-* [Effective Android Items](http://orhanobut.github.io/effective-android/)
-* [Firebase Cloud Firestore Database Tutorial Android Example](http://www.zoftino.com/firebase-cloud-firestore-databse-tutorial-android-example)
-* [Formación Android](http://mundogeek.net/android/)
-* [Get Started in Android Studio | AdMob for Android | Google Developers](https://developers.google.com/admob/android/quick-start)
-* [Get Started With Google Play Games Services](https://code.tutsplus.com/tutorials/get-started-with-google-play-games-services--cms-27755)
-* [Grokking Android | Grokking Android](http://www.grokkingandroid.com/)
-* [How To Become A Complete Android Developer – Mindorks](https://blog.mindorks.com/how-to-become-a-complete-android-developer-110d7ef91f2a)
-* [How to Monetize Your Android Apps With AdMob](https://code.tutsplus.com/tutorials/how-to-monetize-your-android-apps-with-admob--cms-29255)
-* [How To Simplify Networking In Android: Introducing The Volley HTTP Library – Smashing Magazine](https://www.smashingmagazine.com/2017/03/simplify-android-networking-volley-http-library/)
-* [How to Spy on Your Android Phone](https://initblog.com/2017/android-burpsuite/)
-* [How We Deal with Localizing iOS and Android Apps](https://medium.cobeisfresh.com/how-we-deal-with-localizing-ios-and-android-apps-4d98b4534483#.o7hyqn6bc)
-* [https://geekytheory.com/category/android](https://geekytheory.com/category/android)
-* [Improve Code Inspection with Annotations | Android Studio](https://developer.android.com/studio/write/annotations.html)
-* [Including Open Source Notices  |  Google APIs for Android  |  Google Developers](https://developers.google.com/android/guides/opensource)
-* [Java 8 for Android Development: Stream API and Date & Time Libraries](https://code.tutsplus.com/tutorials/java-8-for-android-development-stream-api-and-date-time-libraries--cms-29904)
-* [La AndroTeca | Androcode](http://androcode.es/la-androteca/)
-* [Las apps de pago son un esquema Ponzi](http://www.elblogsalmon.com/sectores/las-apps-de-pago-son-un-esquema-ponzi)
-* [Launching Your First App](http://sixrevisions.com/tips/launching-your-first-app/)
-* [Material Design](http://www.materialdoc.es/)
-* [Mindorks – Medium](https://medium.com/mindorks)
-* [More Material Design with Topeka for Android | Android Developers Blog](http://android-developers.blogspot.com.es/2015/06/more-material-design-with-topeka-for_16.html)
-* [Must have tools for Android development](https://android.jlelse.eu/must-have-tools-for-android-development-d76ae66f409f#.zaujr5zau)
-* [Resources - App Launch Checklist | Branch Metrics](https://branch.io/resources/app-launch-checklist/)
-* [sgoliver.net blog](http://www.sgoliver.net/blog/)
-* [Standing Out From The Crowd: Improving Your Mobile App With Competitive Analysis — Smashing Magazine](https://www.smashingmagazine.com/2017/12/improving-mobile-app-competitive-analysis/)
-* [Stephen Colebourne's blog: Turning off doclint in JDK 8 Javadoc](http://blog.joda.org/2014/02/turning-off-doclint-in-jdk-8-javadoc.html)
-* [Technical Questions.md](https://gist.github.com/lawloretienne/6f7d7d92f72986f5ebd60f226d9044ee)
-* [ViewModels and LiveData: Patterns + AntiPatterns – Google Developers – Medium](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
-* [Use tasks to bring the stories to you (Android Studio protip #5)](https://tips.seebrock3r.me/use-tasks-to-bring-the-stories-to-you-android-studio-protip-5-7458380439d0)
-* [How to Monetise your Android App with Firebase Admob](https://www.ericdecanini.com/2018/04/21/how-to-monetise-your-android-app-with-firebase-admob/)
-* [Introducing Constraint Layout 1.1](https://medium.com/google-developers/introducing-constraint-layout-1-1-d07fc02406bc)
-
-##### [Programación] - [Android] - [Learn] - [Destacados]
-
-* [Analyzing UI Performance with Systrace | Android Studio](https://developer.android.com/studio/profile/systrace.html)
-* [Android Architecture Components - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/android-architecture-components--cms-1208)
 * [Android Development](http://www.vogella.com/tutorials/android.html)
 * [ConstraintLayout](https://constraintlayout.com/)
-* [Distribute multiple-module library on Bintray for Java and Android developers](https://blog.mindorks.com/distribute-multiple-module-library-on-bintray-for-java-and-android-developers-212216bc1aa7)
-* [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
-* [futurice/android-best-practices](https://github.com/futurice/android-best-practices)
-* [GitHub - aritraroy/UltimateAndroidReference: Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
-* [Google Developers — Medium](https://medium.com/google-developers)
-* [Gradle Plugin User Guide - Android Studio Project Site](http://tools.android.com/tech-docs/new-build-system/user-guide)
+* [Mindorks – Medium](https://medium.com/mindorks)
+* [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Home | CodePath Android Cliffnotes](https://guides.codepath.com/android)
-* [How to distribute Android library in a convenient way](https://android.jlelse.eu/how-to-distribute-android-library-in-a-convenient-way-d43fb68304a7)
-* [How to distribute your own Android library through jCenter and Maven Central from Android Studio :: The Cheese Factory](https://inthecheesefactory.com/blog/how-to-upload-library-to-jcenter-maven-central-as-dependency/en)
-* [Learn Some New Moves – Nick Butcher – Medium](https://medium.com/@crafty/learn-some-new-moves-b8aad7828014)
+* [GitHub - Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
 * [PGSSoft/AndroidSDKPoster: Wall poster with detailed changelog of Android SDK versions 14-27, broken down into 30 categories](https://github.com/PGSSoft/AndroidSDKPoster)
-* [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://blog.mindorks.com/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
-* [Top 200 Android articles written on Medium ( Until Jan 2017 )](https://hackernoon.com/top-200-android-articles-written-on-medium-until-jan-2017-369a9b6e0edd)
+* [Technical Questions.md](https://gist.github.com/lawloretienne/6f7d7d92f72986f5ebd60f226d9044ee)
+* [Curso de Programación Android - sgoliver.net](http://www.sgoliver.net/blog/curso-de-programacion-android/)
+* [Las apps de pago son un esquema Ponzi](http://www.elblogsalmon.com/sectores/las-apps-de-pago-son-un-esquema-ponzi)
+* [Creando para Android (IV): La promoción de un juego](http://www.elandroidelibre.com/2015/08/creando-un-juego-para-android-iv-la-promocion-aso.html)
+* [¿Cuánto Cuesta una App?](https://cuantocuestaunaapp.com/)
+* [Effective Android Items](http://orhanobut.github.io/effective-android/)
+* [Android Weekly - Free weekly Android development newsletter](http://androidweekly.net/)
+* :star: [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
+* [Android SDK Code Tutorials by Envato Tuts+](https://code.tutsplus.com/categories/android-sdk)
+* [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
 
 ##### [Programación] - [Android] - [Learn] - [Android Studio]
 
@@ -379,6 +327,7 @@ Useful links for my daily work
 * [How to become more productive in android with android studio plugins](https://blog.mindorks.com/how-to-become-more-productive-in-android-with-android-studio-plugins-3beb3861fa7)
 * [Los mejores atajos de teclado para Android Studio | Androcode](http://androcode.es/2014/10/mejores-atajos-android-studio/)
 * [Making production YouTube videos from Android Studio screen recordings(video capture) : androiddev](https://www.reddit.com/r/androiddev/comments/5cdikb/making_production_youtube_videos_from_android/)
+* [Welcome to my very own Android Studio protip series](https://tips.seebrock3r.me/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286)
 
 ##### [Programación] - [Android] - [Learn] - [Samples]
 
@@ -445,6 +394,7 @@ Useful links for my daily work
 * :star: [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
 * [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture/index.html)
   * [googlesamples/android-architecture-components: Samples for Android Architecture Components.](https://github.com/googlesamples/android-architecture-components)
+* [Android Architecture Components - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/android-architecture-components--cms-1208)
 
 ##### [Programación] - [Android] - [Recursos] - [Directorio]
 
@@ -498,6 +448,7 @@ Useful links for my daily work
 * [Evernote · GitHub](https://github.com/evernote)
 * [Yelp & Open Source](https://yelp.github.io/)
 * [Telegram Database Library](https://core.telegram.org/tdlib)
+* [NVIDIA CodeWorks for Android | NVIDIA Developer](https://developer.nvidia.com/codeworks-android)
 
 ##### [Programación] - [Android] - [Recursos] - [Onboarding]
 
@@ -543,6 +494,15 @@ Useful links for my daily work
 * [nisrulz/sensey: [Android Library] Detecting gestures in a snap](https://github.com/nisrulz/sensey)
 * [halfhp/androidplot: Charts and plots for Android](https://github.com/halfhp/androidplot)
 * [GitHub - willowtreeapps/spruce-android: Spruce Animation Library](https://github.com/willowtreeapps/spruce-android)
+* [Kyrie is a superset of Android's VectorDrawable and AnimatedVectorDrawable classes - Github](https://github.com/alexjlockwood/kyrie)
+
+##### [Programación] - [Android] - [Recursos] - [Code Analysis]
+
+* [FindBugs](http://findbugs.sourceforge.net/)
+* [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
+* [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
+* [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
+* [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
 
 #### [Programación] - [Android] - [Services]
 
@@ -562,6 +522,7 @@ Useful links for my daily work
 * [Build an Android App Using Firebase and the App Engine Flexible Environment  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
 * [firebase/quickstart-android: Firebase Quickstart Samples for Android](https://github.com/firebase/quickstart-android)
 * [Reglas de Seguridad Firebase](https://code.tutsplus.com/es/articles/quick-tip-firebase-database-security-rules--cms-27926)
+* [Firebase Cloud Firestore Database Tutorial Android Example](http://www.zoftino.com/firebase-cloud-firestore-databse-tutorial-android-example)
 
 #### [Programación] - [Android] - [Utils]
 
