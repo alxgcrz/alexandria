@@ -1,7 +1,5 @@
 # Alexandria
 
-Useful links for my daily work
-
 ![Bookstore](images/bookstore.jpg)
 
 [Credit - Photo by Giammarco Boscaro (unsplash.com)](https://unsplash.com/photos/OPzWvgL-upY)
@@ -36,6 +34,7 @@ Useful links for my daily work
       * [Programación - Android - Recursos - RecyclerView](https://github.com/alxgcrz/alexandria#programación---android---recursos---recyclerview)
       * [Programación - Android - Recursos - Reactive](https://github.com/alxgcrz/alexandria#programación---android---recursos---reactive)
       * [Programación - Android - Recursos - UI](https://github.com/alxgcrz/alexandria#programación---android---recursos---ui)
+      * [Programación - Android - Recursos - Code Analysis](https://github.com/alxgcrz/alexandria#programación---android---recursos---code-analysis)
     * [Programación - Android - Services](https://github.com/alxgcrz/alexandria#programación---android---services)
       * [Programación - Android - Services - Firebase](https://github.com/alxgcrz/alexandria#programación---android---services---firebase)
     * [Programación - Android - Utils](https://github.com/alxgcrz/alexandria#programación---android---utils)
@@ -47,13 +46,13 @@ Useful links for my daily work
     * [Programación - CSS3 - Online](https://github.com/alxgcrz/alexandria#programación---css3---online)
     * [Programación - CSS3 - Utils](https://github.com/alxgcrz/alexandria#programación---css3---utils)
   * [Programación - Dart](https://github.com/alxgcrz/alexandria#programación---dart)
-  * [Programación - Editor](https://github.com/alxgcrz/alexandria#programación---editor)
   * [Programación - Git](https://github.com/alxgcrz/alexandria#programación---git)
   * [Programación - Go](https://github.com/alxgcrz/alexandria#programación---go)
   * [Programación - GraphQL](https://github.com/alxgcrz/alexandria#programación---graphql)
   * [Programación - Haxe](https://github.com/alxgcrz/alexandria#programación---haxe)
   * [Programación - HTML5](https://github.com/alxgcrz/alexandria#programación---html5)
   * [Programación - Java](https://github.com/alxgcrz/alexandria#programación---java)
+    * [Programación - Java - JavaFX](https://github.com/alxgcrz/alexandria#programación---java---javafx)
   * [Programación - Javascript](https://github.com/alxgcrz/alexandria#programación---javascript)
   * [Programación - Kotlin](https://github.com/alxgcrz/alexandria#programación---kotlin)
     * [Programación - Kotlin - Learn](https://github.com/alxgcrz/alexandria#programación---kotlin---learn)
@@ -61,8 +60,7 @@ Useful links for my daily work
     * [Programación - Kotlin - Libraries](https://github.com/alxgcrz/alexandria#programación---kotlin---libraries)
   * [Programación - LESS](https://github.com/alxgcrz/alexandria#programación---less)
   * [Programación - Liquid](https://github.com/alxgcrz/alexandria#programación---liquid)
-  * [Programación - Node.js](https://github.com/alxgcrz/alexandria#programación---nodejs)
-  * [Programación - Patterns](https://github.com/alxgcrz/alexandria#programación---patterns)
+  * [Programación - Node.js](https://github.com/alxgcrz/alexandria#programación---node.js)
   * [Programación - PHP](https://github.com/alxgcrz/alexandria#programación---php)
   * [Programación - Polymer](https://github.com/alxgcrz/alexandria#programación---polymer)
   * [Programación - Processing](https://github.com/alxgcrz/alexandria#programación---processing)
@@ -72,18 +70,20 @@ Useful links for my daily work
   * [Programación - ReactiveX](https://github.com/alxgcrz/alexandria#programación---reactivex)
   * [Programación - RxJava](https://github.com/alxgcrz/alexandria#programación---rxjava)
   * [Programación - SASS](https://github.com/alxgcrz/alexandria#programación---sass)
-  * [Programación - Utils](https://github.com/alxgcrz/alexandria#programación---utils)
   * [Programación - Lua](https://github.com/alxgcrz/alexandria#programación---lua)
   * [Programación - UWP](https://github.com/alxgcrz/alexandria#programación---uwp)
   * [Programación - Vue](https://github.com/alxgcrz/alexandria#programación---vue)
   * [Programación - Electron](https://github.com/alxgcrz/alexandria#programación---electron)
+  * [Programación - Patterns](https://github.com/alxgcrz/alexandria#programación---patterns)
+  * [Programación - Online Editors](https://github.com/alxgcrz/alexandria#programación---online-editors)
+  * [Programación - Utils](https://github.com/alxgcrz/alexandria#programación---utils)
 * [Desarrollo](https://github.com/alxgcrz/alexandria#desarrollo)
+  * [Desarrollo - Awesomeness](https://github.com/alxgcrz/alexandria#desarrollo---awesomeness)
   * [Desarrollo - Database](https://github.com/alxgcrz/alexandria#desarrollo---database)
   * [Desarrollo - API](https://github.com/alxgcrz/alexandria#desarrollo---api)
     * [Desarrollo - API - Learn](https://github.com/alxgcrz/alexandria#desarrollo---api---learn)
     * [Desarrollo - API - List](https://github.com/alxgcrz/alexandria#desarrollo---api---list)
     * [Desarrollo - API - Utils](https://github.com/alxgcrz/alexandria#desarrollo---api---utils)
-  * [Desarrollo - Awesomeness](https://github.com/alxgcrz/alexandria#desarrollo---awesomeness)
   * [Desarrollo - FrontEnd](https://github.com/alxgcrz/alexandria#desarrollo---frontend)
   * [Desarrollo - Google](https://github.com/alxgcrz/alexandria#desarrollo---google)
   * [Desarrollo - Hosting](https://github.com/alxgcrz/alexandria#desarrollo---hosting)
@@ -149,6 +149,7 @@ Useful links for my daily work
     * [Games - Learn - Design](https://github.com/alxgcrz/alexandria#games---learn---design)
   * [Games - OpenSource](https://github.com/alxgcrz/alexandria#games---opensource)
   * [Games - Engines](https://github.com/alxgcrz/alexandria#games---engines)
+  * [Games - Gamebooks](https://github.com/alxgcrz/alexandria#games---gamebooks)
   * [Games - HTML5 Game Framework](https://github.com/alxgcrz/alexandria#games---html5-game-framework)
   * [Games - Canvas Library](https://github.com/alxgcrz/alexandria#games---canvas-library)
     * [Games - Engines - GameMaker](https://github.com/alxgcrz/alexandria#games---engines---gamemaker)
@@ -197,6 +198,7 @@ Useful links for my daily work
     * [Software - Image - Krita](https://github.com/alxgcrz/alexandria#software---image---krita)
     * [Software - Image - Gimp](https://github.com/alxgcrz/alexandria#software---image---gimp)
     * [Software - Image - Inkscape](https://github.com/alxgcrz/alexandria#software---image---inkscape)
+    * [Software - Image - Animation](https://github.com/alxgcrz/alexandria#software---image---animation)
 * [Seguridad](https://github.com/alxgcrz/alexandria#seguridad)
   * [Seguridad - Learn](https://github.com/alxgcrz/alexandria#seguridad---learn)
   * [Seguridad - Utils](https://github.com/alxgcrz/alexandria#seguridad---utils)
@@ -218,9 +220,7 @@ Useful links for my daily work
   * [Linux - Ubuntu](https://github.com/alxgcrz/alexandria#linux---ubuntu)
 * [Learn](https://github.com/alxgcrz/alexandria#learn)
   * [Learn - Academy](https://github.com/alxgcrz/alexandria#learn---academy)
-  * [Learn - Cheatsheets](https://github.com/alxgcrz/alexandria#learn---cheatsheets)
   * [Learn - Libros](https://github.com/alxgcrz/alexandria#learn---libros)
-  * [Learn - Snippets](https://github.com/alxgcrz/alexandria#learn---snippets)
   * [Learn - Style Guide](https://github.com/alxgcrz/alexandria#learn---style-guide)
   * [Learn - Tutorials](https://github.com/alxgcrz/alexandria#learn---tutorials)
 
@@ -235,6 +235,10 @@ Useful links for my daily work
 * [How to think like a programmer](https://zellwk.com/blog/think/)
 * [SOLID Design Principles Explained](https://stackify.com/dependency-inversion-principle/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
+* [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
+* [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
+* [CodeProject - For those who code](http://www.codeproject.com/)
+* :star: [Google Codelabs](https://codelabs.developers.google.com/)
 
 ### [Programación] - [Machine Learning]
 
@@ -317,6 +321,9 @@ Useful links for my daily work
 * :star: [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
 * [Android SDK Code Tutorials by Envato Tuts+](https://code.tutsplus.com/categories/android-sdk)
 * [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
+* [Conferencia: Ganar dinero con Android | Emezeta](http://www.emezeta.com/articulos/conferencia-ganar-dinero-con-android)
+* [¿Cómo se declaran en Hacienda la venta de aplicaciones en Google Play?](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-la-venta-de-aplicaciones-en-google-play)
+* [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
 
 ##### [Programación] - [Android] - [Learn] - [Android Studio]
 
@@ -643,17 +650,6 @@ Useful links for my daily work
 * [Dart in the Shell, Part 1 - YouTube](http://www.youtube.com/watch?v=Rh_kaQUXXX4)
 * [Dart API Reference](https://api.dartlang.org/apidocs/channels/stable/#dart-io)
 
-### [Programación] - [Editor]
-
-* [The first commented line is your dabblet’s title ✿ dabblet.com](http://dabblet.com/)
-* [Thimble por Mozilla - Un editor online de código para alumnos y educadores.](https://thimble.mozilla.org/es/)
-* [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
-* [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
-* [HTML, CSS and JavaScript demo - Liveweave](https://liveweave.com/)
-* [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
-* [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
-* [repl.it - Select a Language](https://repl.it/languages)
-
 ### [Programación] - [Git]
 
 * [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
@@ -868,13 +864,6 @@ Useful links for my daily work
 * [hapi.js](http://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/)
 
-### [Programación] - [Patterns]
-
-* [Design Patterns & Refactoring](https://sourcemaking.com/)
-* [kamranahmedse/design-patterns-for-humans: Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
-* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
-
 ### [Programación] - [PHP]
 
 * [Apigility](https://www.apigility.org/)
@@ -931,7 +920,7 @@ Useful links for my daily work
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [Manifoldjs is becoming PWA Builder – Web Dev @ Microsoft – Medium](https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.k5psn0mpw)
 * [PWABuilder](https://www.pwabuilder.com/)
-* [hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))](https://github.com/hemanth/awesome-pwa)
+* [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
 * [HNPWA](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 
@@ -997,39 +986,6 @@ Useful links for my daily work
 * [Bitters - predefined style for Bourbon](http://bitters.bourbon.io/)
 * [Bourbon Neat](http://neat.bourbon.io/)
 
-### [Programación] - [Utils]
-
-* [Boilrplate](http://www.boilrplate.com/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* [cdnjs.com - the missing cdn for javascript and css](http://cdnjs.com/)
-* [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
-* [Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
-* [Color Hex Color Codes](http://www.color-hex.com/)
-* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
-* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
-* [DevDocs API Documentation](http://devdocs.io/)
-* [Devhints — TL;DR for developer documentation](https://devhints.io/)
-* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
-* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
-* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
-* [HEAD - A free guide to &lt;head&gt; elements](https://gethead.info/#google-android)
-* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
-* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
-* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
-* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
-* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
-* [Random User Generator](http://randomuser.me/)
-* [Responsinator](http://www.responsinator.com/)
-* [sonar, a linting tool for the web](https://sonarwhal.com/)
-* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
-* [tldr | simplified, community driven man pages](https://tldr.ostera.io/)
-* [TLDR pages](http://tldr.sh/)
-* [uinames.com](http://uinames.com/)
-* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
-* [Web Developer Checklist](http://webdevchecklist.com/)
-* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
-* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
-
 ### [Programación] - [Lua]
 
 * [Lua 5.3 Reference Manual - contents](http://www.lua.org/manual/5.3/)
@@ -1066,11 +1022,80 @@ Useful links for my daily work
 
 * [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
 
+### [Programación] - [Patterns]
+
+* [Design Patterns & Refactoring](https://sourcemaking.com/)
+* [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
+* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
+
+### [Programación] - [Online Editors]
+
+* [The first commented line is your dabblet’s title ✿ dabblet.com](http://dabblet.com/)
+* [Thimble por Mozilla - Un editor online de código para alumnos y educadores.](https://thimble.mozilla.org/es/)
+* [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+* [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
+* [HTML, CSS and JavaScript demo - Liveweave](https://liveweave.com/)
+* [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
+* [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
+* [repl.it - Select a Language](https://repl.it/languages)
+
+### [Programación] - [Utils]
+
+* :star: [DevDocs](http://devdocs.io/)
+* :star: [dochub.io](http://dochub.io/)
+* :star: [Zeal - offline API documentation browser](http://zealdocs.org/)
+* :star: [Devhints — TL;DR for developer documentation](https://devhints.io/)
+* :star: [searchcode | source code search engine](https://searchcode.com/)
+* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
+* [Boilrplate](http://www.boilrplate.com/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* :star: [Emmet — the essential toolkit for web-developers](http://emmet.io/)
+* [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
+* [Color Hex Color Codes](http://www.color-hex.com/)
+* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
+* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
+* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
+* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
+* [HEAD - A free guide to head elements](https://gethead.info/#google-android)
+* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
+* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
+* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
+* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
+* [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
+* [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
+* [sonar, a linting tool for the web](https://sonarwhal.com/)
+* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* [tldr | simplified, community driven man pages](https://tldr.ostera.io/)
+* [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
+* [uinames.com is a simple tool to generate fake names](http://uinames.com/)
+* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
+* [Web Developer Checklist](http://webdevchecklist.com/)
+* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
+* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
+* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
+* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
+
 ----
 
 ## [Desarrollo]
 
-### [Desarrollo ] - [Database]
+### [Desarrollo] - [Awesomeness]
+
+* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
+* [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
+* [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
+* [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
+* [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
+* [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
+* [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
+* [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
+* [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+
+### [Desarrollo] - [Database]
 
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Crate](https://crate.io/)
@@ -1120,20 +1145,6 @@ Useful links for my daily work
 * [Deployd](http://deployd.com/)
 * [dyson](http://webpro.github.io/dyson/)
 * [Welcome | RAML](https://raml.org/index.html)
-
-### [Desarrollo] - [Awesomeness]
-
-* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
-* [bayandin/awesome-awesomeness: A curated list of awesome awesomeness](https://github.com/bayandin/awesome-awesomeness)
-* [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [GitHub - sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [jnv/lists](https://github.com/jnv/lists)
-* [Kickball/awesome-selfhosted: This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.](https://github.com/Kickball/awesome-selfhosted)
-* [lk-geimfari/awesomo: An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
-* [mobile and gaming topics and resources](http://www.gitlogs.com/resource-guides)
-* [Mozilla Webdev](https://mozilla.github.io/webdev/)
-* [Pretty Awesome Lists](https://www.prettyawesomelists.com/)
-* [sindresorhus/awesome · GitHub](https://github.com/sindresorhus/awesome)
 
 ### [Desarrollo] - [FrontEnd]
 
@@ -1736,6 +1747,7 @@ Useful links for my daily work
 * [Open Source Projects MaxCDN Sponsors.](http://www.maxcdn.com/open-source/)
 * [A List of Free Public CDNs for Web Developers](http://sixrevisions.com/resources/free-public-cdns/)
 * [cdnjs.com - the missing cdn for javascript and css](https://cdnjs.com/)
+* [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
 
 #### [Desarrollo] - [Misc] - [Experiments]
 
@@ -2026,6 +2038,8 @@ Useful links for my daily work
 #### [Games] - [Engines] - [Unity]
 
 * [Unity Engine](https://unity3d.com/es/learn)
+  * [Intro to 2D World building w/ Tilemap](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap?playlist=17093)
+  * [Making A Flappy Bird Style Game](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
 * [Unity para juegos móviles](https://unity3d.com/es/mobile/solution-guide)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
@@ -2045,7 +2059,8 @@ Useful links for my daily work
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
 * [Firebase Unity Solutions - Github](https://github.com/firebase/unity-solutions)
-  * [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
+* [2d-extras is a repository containing helpful reusable scripts - Github](https://github.com/unity-technologies/2d-extras)
+* [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
   * :clapper: [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
   * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
   * :clapper: [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
@@ -2185,6 +2200,7 @@ Useful links for my daily work
 * :wrench: [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
 * :wrench: [LMMS](https://lmms.io/)
 * :wrench: [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
+* :wrench: [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [Fmod](https://www.fmod.com/)
 * [ccMixter](http://ccmixter.org/)
@@ -2207,6 +2223,7 @@ Useful links for my daily work
 * [Jamendo](https://www.jamendo.com/start)
 * :star: [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
 * :star: [Free Music for Your Videos](https://icons8.com/music/)
+* [Get started making music](https://learningmusic.ableton.com/)
 
 ----
 
@@ -2634,25 +2651,16 @@ Useful links for my daily work
 
 ## [Software]
 
-* [Paint.NET - Free Software for Digital Photo Editing](http://www.getpaint.net/index.html)
-* [Tupí: Software de Animación 2D para Linux | Noticias, tira, podcast, juegos, Linux y software libre](http://www.linuxhispano.net/2013/09/17/tupi-software-de-animacion-2d-para-linux/)
-* [Synfig Studio :: Home](http://www.synfig.org/cms/)
-* [Syncplify.me Notepad! - Syncplify.me official web site](http://www.syncplify.me/syncplifyme-notepad.html)
 * [Solo. Project Management](http://www.getsoloapp.com/)
-* [pixus - The AIR pixel ruler application. A handy tool for web and interface designers. - Google Project Hosting](https://code.google.com/p/pixus/)
 * [Overview - Redmine](http://www.redmine.org/projects/redmine/wiki)
-* [musikcube](https://musikcube.com/)
-* [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
+* [musikcube is a fully functional terminal-based music player, library, and streaming audio server](https://musikcube.com/)
 * [Microsoft DaRT: herramientas de diagnóstico y recuperación, reparación | TechNet](http://technet.microsoft.com/es-es/windows/hh826071)
-* [Introducción :: WinSCP](http://winscp.net/eng/docs/lang:es)
-* [Install OpenProject with Docker](https://www.openproject.org/docker/)
-* [Home - Pencil Project](http://pencil.evolus.vn/)
+* [WinSCP es un cliente SFTP gráfico para Windows que emplea SSH](http://winscp.net/eng/docs/lang:es)
+* [OpenProject - Collaborative Project Management](https://www.openproject.org/docker/)
 * [GNS3, un simulador de redes reales y virtuales para Ubuntu](https://ubunlog.com/gns3-simulador-redes-ubuntu/)
-* [GitHub - pencil2d/pencil: Pencil2D is an animation/drawing software for Mac OS X, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source.](https://github.com/pencil2d/pencil)
 * [Free source code hosting for Git and Mercurial by Bitbucket](https://bitbucket.org/)
-* [Emmet — the essential toolkit for web-developers](http://emmet.io/)
 * [Ejemplos de Mapas](https://qgis.org/es/site/about/screenshots.html)
-* [Duplicati](https://www.duplicati.com/)
+* [Duplicati - Free backup software to store encrypted backups online](https://www.duplicati.com/)
 * [Calligra Suite | The integrated work applications suite](http://www.calligra.org/)
 * [calibre - E-book management](http://calibre-ebook.com/)
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
@@ -2712,18 +2720,10 @@ Useful links for my daily work
 ### [Software] - [Video]
 
 * [OpenShot Video Editor | Simple, powerful, and free video editor for Linux!](http://www.openshot.org/)
-* [10 razones para utilizar Flowblade como editor de videos | Desde Linux](http://blog.desdelinux.net/10-razones-para-utilizar-flowblade-como-editor-de-videos/)
 * [HandBrake: Open Source Video Transcoder](https://handbrake.fr/)
 * [Shotcut - Home](https://www.shotcutapp.com/)
-* [Cómo usar ffmpeg para editar video | Emezeta](http://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
-* [17 trucos (y algún extra) para aprovechar VLC al máximo](http://www.xataka.com/aplicaciones/17-trucos-y-algun-extra-para-aprovechar-vlc-al-maximo)
 * [Kdenlive | Libre Video Editor](https://kdenlive.org/)
 * [Lightworks: The professional editor for everyone](https://www.lwks.com/)
-* [Shotcut Video Editor, editor de vídeo de código abierto con soporte 4K](https://ubunlog.com/shotcut-video-editor-ubuntu/)
-* [Natron, software de composición similar a After Effects de código abierto](https://ubunlog.com/natron-after-effects-ubuntu/)
-* [Mps-youtube, reproducir y descargar vídeos de Youtube desde la terminal](https://ubunlog.com/mps-youtube-videos-terminal/)
-* [Curlew Multimedia Converter, instalación desde PPA en Ubuntu](https://ubunlog.com/curlew-multimedia-converter-ubuntu/)
-* [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
 * [Lightworks](http://www.lwks.com/)
 * [appleseed - A modern, open source production renderer](http://appleseedhq.net/)
 * [FFmpeg Nvidia Cuda](https://developer.nvidia.com/ffmpeg)
@@ -2731,8 +2731,20 @@ Useful links for my daily work
 * [XMedia Recode](https://www.videohelp.com/software/XMedia-Recode)
 * [OBS- Free and open source software for video recording and live streaming](https://obsproject.com/)
 * [VSDC](http://www.videosoftdev.com/free-video-editor)
+* [Natron - Cross-platform open-source compositing software.](https://natron.fr/)
+* [Cómo usar ffmpeg para editar video | Emezeta](http://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
+* [17 trucos (y algún extra) para aprovechar VLC al máximo](http://www.xataka.com/aplicaciones/17-trucos-y-algun-extra-para-aprovechar-vlc-al-maximo)
+* [10 razones para utilizar Flowblade como editor de videos | Desde Linux](http://blog.desdelinux.net/10-razones-para-utilizar-flowblade-como-editor-de-videos/)
+* [Natron, software de composición similar a After Effects de código abierto](https://ubunlog.com/natron-after-effects-ubuntu/)
+* [Mps-youtube, reproducir y descargar vídeos de Youtube desde la terminal](https://ubunlog.com/mps-youtube-videos-terminal/)
+* [Curlew Multimedia Converter, instalación desde PPA en Ubuntu](https://ubunlog.com/curlew-multimedia-converter-ubuntu/)
+* [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
 
 ### [Software] - [Image]
+
+* [Paint.NET - Free Software for Digital Photo Editing](http://www.getpaint.net/index.html)
+* [pixus - The AIR pixel ruler application. A handy tool for web and interface designers. - Google Project Hosting](https://code.google.com/p/pixus/)
+* [Home - Pencil Project](http://pencil.evolus.vn/)
 
 #### [Software] - [Image] - [Krita]
 
@@ -2757,6 +2769,12 @@ Useful links for my daily work
 * [ChristianBecker/inkscape-android-export: This Inkscape extension exports all selected items in different densities. The exported PNGs will be named by their ID in the SVG.](https://github.com/ChristianBecker/inkscape-android-export)
 * [Recursos para aprender a trabajar con Inkscape - Desde Linux](http://blog.desdelinux.net/recursos-para-aprender-a-trabajar-con-inkscape/)
 * [Inkscape. Dibuja Libremente.](https://inkscape.org/es/)
+
+#### [Software] - [Image] - [Animation]
+
+* [Tupí: Software de Animación 2D para Linux | Noticias, tira, podcast, juegos, Linux y software libre](http://www.linuxhispano.net/2013/09/17/tupi-software-de-animacion-2d-para-linux/)
+* [Synfig Studio :: Home](https://www.synfig.org/)
+* [Pencil2D is an animation/drawing software for Mac OS X, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source.](https://github.com/pencil2d/pencil)
 
 ----
 
@@ -2948,24 +2966,10 @@ Useful links for my daily work
 
 ## [Learn]
 
-* :star: [DevDocs](http://devdocs.io/)
-* :star: [dochub.io](http://dochub.io/)
 * [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
-* :star: [Google Codelabs](https://codelabs.developers.google.com/)
-* [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
-* :star: [Zeal - offline API documentation browser](http://zealdocs.org/)
-* [How I got 2.3 million app downloads (without spending a cent on marketing) — Medium](https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779)
-* [Mejora el SEO de tu sitio con Schema.org](https://platzi.com/blog/schema-seo/)
-* [Personal Branding Guide for Designers - Designmodo](http://designmodo.com/personal-branding-guide/)
-* [Te enseñamos algunos comandos de teclado en Windows para hacer que tu tiempo sea más productivo](https://www.xatakawindows.com/windows/te-ensenamos-algunos-comandos-de-teclado-en-windows-para-hacer-que-tu-tiempo-sea-mas-productivo)
-* [The Beginner's Guide to Faster Websites](https://www.git-tower.com/learn/website-optimization/)
-* [Conferencia: Ganar dinero con Android | Emezeta](http://www.emezeta.com/articulos/conferencia-ganar-dinero-con-android)
-* [¿Cómo se declaran en Hacienda la venta de aplicaciones en Google Play?](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-la-venta-de-aplicaciones-en-google-play)
-* [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
 
 ### [Learn] - [Academy]
 
-* [CodeCombat - Learn how to code by playing a game](https://codecombat.com/)
 * [DevCode | Aprende a desarrollar aplicaciones web y móviles](https://www.devcode.la/)
 * [Free Online Classes & Nanodegrees | Udacity](https://eu.udacity.com/)
 * [Khan Academy | Práctica, lecciones y cursos en línea gratuitos](https://es.khanacademy.org/)
@@ -2980,24 +2984,18 @@ Useful links for my daily work
 * [Coursera | Online Courses From Top Universities. Join for Free](https://es.coursera.org/)
 * [Review the best online courses on the internet in one place | Courseroot](https://courseroot.com/)
 * [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
-
-### [Learn] - [Cheatsheets]
-
-* [Cheetyr – Cheat Sheets for Designers & Developers](http://www.cheetyr.com/home)
-* [Devhints — TL;DR for developer documentation](https://devhints.io/)
-* [jQuery Cheat Sheet](https://oscarotero.com/jquery/)
-* [OverAPI.com | Collecting all the cheat sheets](http://overapi.com/)
+* :star: [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 
 ### [Learn] - [Libros]
 
 * [Atlas Beta - The new learning environment from O’Reilly](http://chimera.labs.oreilly.com/)
 * [Colección Aprenda como si estuviera en primero  - Tecnun. Escuela de Ingenieros. Universidad de Navarra](http://www4.tecnun.es/recursos/labmat0.html)
 * [E-books | Succinctly Series | Syncfusion](https://www.syncfusion.com/ebooks)
-* [EbookFoundation/free-programming-books: Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [GoalKicker.com – Free Programming Books](http://books.goalkicker.com/)
 * :star: [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
-* [Libro &quot;Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender&quot;](http://www.librorealidadaumentada.com/)
+* [Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender](http://www.librorealidadaumentada.com/)
 * [Libros, tutoriales y vídeos sobre HTML, CSS, JavaScript, PHP y otras tecnologías web.](http://librosweb.es/)
 * [List of Free Programming Books - reSRC](https://resrc.io/list-of-free-programming-books/)
 * [OpenLibra | La Biblioteca Libre Online: libros y ebooks en PDF gratis.](https://openlibra.com/es/collection)
@@ -3005,34 +3003,29 @@ Useful links for my daily work
 * [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
 * [Tecnologia i Experimentals](http://repositori.uji.es/xmlui/handle/10234/25187)
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
-* [vhf/free-programming-books · GitHub](https://github.com/vhf/free-programming-books)
 * [WebGL Insights](http://webglinsights.github.io/)
 * [Wikilibros](https://es.m.wikibooks.org/wiki/Portada)
 * :star: [X-Files](https://doc.lagout.org/)
 * :star: [Technology and Engineering eBooks](https://it-eb.com/)
 * [The Nature of Code](https://natureofcode.com/book/)
 
-### [Learn] - [Snippets]
-
-* [Code Snippets | CSS-Tricks](https://css-tricks.com/snippets/)
-* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
-* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* [searchcode | source code search engine](https://searchcode.com/)
-
 ### [Learn] - [Style Guide]
 
 * [Bootstrap Style Guide Boilerplate](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
-* [DoCSSa – Sass based CSS architecture and methodology](http://docssa.info/#)
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
+* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [Google Java Style](https://google.github.io/styleguide/javaguide.html)
 * [Open Source @ IFTTT](http://ifttt.github.io/)
-* [SalGnt/cscs](https://github.com/SalGnt/cscs)
-* [sparkbox/style-prototype · GitHub](https://github.com/sparkbox/style-prototype)
-* [styleguide](https://google.github.io/styleguide/)
-* [Styleguide](http://hugeinc.github.io/styleguide/)
+* [A curated list of Coding Style Conventions and Standards. - Github](https://github.com/SalGnt/cscs)
+* [Google Style Guides](https://google.github.io/styleguide/)
+* [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
 
 ### [Learn] - [Tutorials]
 
+* [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
+* [How I got 2.3 million app downloads (without spending a cent on marketing) — Medium](https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779)
+* [Personal Branding Guide for Designers - Designmodo](http://designmodo.com/personal-branding-guide/)
+* [Te enseñamos algunos comandos de teclado en Windows para hacer que tu tiempo sea más productivo](https://www.xatakawindows.com/windows/te-ensenamos-algunos-comandos-de-teclado-en-windows-para-hacer-que-tu-tiempo-sea-mas-productivo)
+* [The Beginner's Guide to Faster Websites](https://www.git-tower.com/learn/website-optimization/)
 * [Beginner’s Guide to Website SSL Certs](http://www.hongkiat.com/blog/ssl-certs-guide/)
 * [Flippin Awesome | Awesome tutorials with HTML, CSS, JavaScript and Mobile](http://flippinawesome.org/)
 * [Grow your expert full-stack JavaScript skills with tagtree screencasts.](http://tagtree.tv/)
@@ -3043,7 +3036,7 @@ Useful links for my daily work
 * [Quackit Web Tutorials](http://www.quackit.com/)
 * [Script Tutorials | Web Developer Tutorials | HTML5 and CSS3 Tutorials](http://www.script-tutorials.com/)
 * [simpl.info](https://simpl.info/)
-* [svgpocketguide/svgpocketguide.md at master · jonitrythall/svgpocketguide](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
+* [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
 * [Thinkful | A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 * [Tutorials | Codrops](http://tympanus.net/codrops/category/tutorials/)
 * [Tutorials | HTML Dog](http://www.htmldog.com/guides/)
@@ -3053,18 +3046,13 @@ Useful links for my daily work
 * [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com/)
 * [300ms tap delay, gone away - HTML5Rocks Updates](http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away)
 * [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [A Beginner's Guide to jQuery - Designmodo](http://designmodo.com/jquery/)
 * [Blueprints | Codrops](http://tympanus.net/codrops/category/blueprints/)
 * [Code Guide by @mdo](http://mdo.github.io/code-guide/)
-* [CodeProject - For those who code](http://www.codeproject.com/)
-* [Codular - Home](http://codular.com/)
 * [Estructura con CSS](http://es.learnlayout.com/)
-* [PharkMillups/beautiful-docs · GitHub](https://github.com/PharkMillups/beautiful-docs)
+* [Pointers to useful, well-written, and otherwise beautiful documentation. - GitHub](https://github.com/PharkMillups/beautiful-docs)
 * [Resumen del curso HTML5](http://msdn.microsoft.com/es-es/ie/hh749019)
-* [Snugug/north](https://github.com/Snugug/north)
-* [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
-* [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
-* [Get started making music](https://learningmusic.ableton.com/)
+* [North is a set of standards and best practices for developing modern web based properties.](http://pointnorth.io/)
+* [Mejora el SEO de tu sitio con Schema.org](https://platzi.com/blog/schema-seo/)
 
 ----
 
