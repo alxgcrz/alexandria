@@ -717,6 +717,7 @@
 * :star: [Guava - Google core libraries for Java](https://github.com/google/guava)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+* [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
 * [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
@@ -1849,6 +1850,7 @@
 
 * [Cultura Digital](https://culturadigital.blog.gencat.cat/)
 * [GAME BCN](http://gamebcn.co/)
+* [Videogames Industry Official Listing](http://www.gamespain.es/)
 
 ### [Games] - [Learn]
 
@@ -2217,6 +2219,7 @@
 * :star: [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
 * :star: [Free Music for Your Videos](https://icons8.com/music/)
 * [Get started making music](https://learningmusic.ableton.com/)
+* [Ubuntu Studio Audio Handbook](https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook)
 
 ----
 
