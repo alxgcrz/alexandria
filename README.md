@@ -239,6 +239,8 @@
 * [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
 * [CodeProject - For those who code](http://www.codeproject.com/)
 * :star: [Google Codelabs](https://codelabs.developers.google.com/)
+* :star: [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
+* :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
 
 ### [Programación] - [Machine Learning]
 
@@ -567,6 +569,7 @@
 * [Docker Tutorial Series – Romin Irani’s Blog](https://rominirani.com/docker-tutorial-series-a7e6ff90a023)
 * [CoreOS](https://coreos.com/)
 * [rkt - A security-minded, standards-based container engine](https://coreos.com/rkt/)
+* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
 
 ### [Programación] - [CSS3]
 
@@ -780,6 +783,7 @@
 * [Underscore.js](http://documentcloud.github.io/underscore/#)
 * [Use JSDoc: Index](http://usejsdoc.org/)
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
+* [JavaScript Robotics, By Your Command](https://cylonjs.com/)
 
 ### [Programación] - [Kotlin]
 
@@ -1039,9 +1043,10 @@
 * :star: [Zeal - offline API documentation browser](http://zealdocs.org/)
 * :star: [Devhints — TL;DR for developer documentation](https://devhints.io/)
 * :star: [searchcode | source code search engine](https://searchcode.com/)
+* [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
 * [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
-* [Boilrplate](http://www.boilrplate.com/)
+* [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 * :star: [Emmet — the essential toolkit for web-developers](http://emmet.io/)
 * [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
@@ -1298,18 +1303,18 @@
 * [CSS Shake](http://elrumordelaluz.github.io/csshake/)
 * [CSS3 Animation Cheat Sheet - Justin Aguilar](http://www.justinaguilar.com/animations/#)
 * [CSS3 Keyframes Animation Generator](http://cssanimate.com/)
-* [Dynamics.js](http://dynamicsjs.com/)
-* [Examples | Granim.js](https://sarcadass.github.io/granim.js/examples.html)
-* [gudh.github.io/ihover/dist/index.html](http://gudh.github.io/ihover/dist/index.html)
+* [Dynamics.js | JavaScript library to create physics-based animations](http://dynamicsjs.com/)
+* [Granim.js | Create fluid and interactive gradients animations](https://sarcadass.github.io/granim.js/examples.html)
+* [iHover is an impressive hover effects collection, powered by pure CSS3](http://gudh.github.io/ihover/dist/index.html)
 * [Hover.css - A collection of CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 * [KUTE.js | Javascript Animation Engine](http://thednp.github.io/kute.js/)
 * [Magic Animations CSS3](https://www.minimamente.com/example/magic_animations/)
-* [matthieua/WOW · GitHub](https://github.com/matthieua/WOW)
+* [WOW.js | Reveal CSS animation as you scroll down a page](https://github.com/matthieua/WOW)
 * [mo · js - Motion Graphics For The Web](http://mojs.io/)
 * [Morphext - jQuery Text Rotator Powered by Animate.css](http://morphext.fyianlai.com/)
-* [Particleground demo](http://jnicol.github.io/particleground/)
+* [Particleground | A JavaScript plugin for snazzy background particle systems](http://jnicol.github.io/particleground/)
 * [shine.js - A library for pretty shadows](http://bigspaceship.github.io/shine.js/)
-* [snabbt.js](http://daniel-lundin.github.io/snabbt.js/)
+* [snabbt.js - Minimalistic animation library in javascript](http://daniel-lundin.github.io/snabbt.js/)
 * [Stylie. A graphical CSS animation tool.](http://jeremyckahn.github.io/stylie/)
 * [Textillate.js](http://textillate.js.org/)
 * [Transit - CSS transitions and transformations for jQuery](http://ricostacruz.com/jquery.transit/)
@@ -1763,13 +1768,14 @@
 #### [Desarrollo] - [Misc] - [HTTP]
 
 * [Fenix Web Server | Static Web Servers for the Desktop](http://fenixwebserver.com/)
-* [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie)
+* [httpie - Modern command line HTTP client](https://github.com/jakubroztocil/httpie)
 * [h2non/toxy](https://github.com/h2non/toxy)
 
 #### [Desarrollo] - [Misc] - [Virtual Machines]
 
 * [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
 * [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
+* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
 
 #### [Desarrollo] - [Misc] - [WEB]
 
@@ -1888,12 +1894,17 @@
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/)
 * [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 * [Red Blob Games - What if you could learn math and computer science topics the same way you learn while playing a game?](https://www.redblobgames.com/)
-* [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
-* [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
 * [Pixel Art Tutorials - Palette List - Pixel Art Tools](https://lospec.com)
-* [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+#### [Games] - [Learn] - [Maths & Physics]
+
 * :star: [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+* [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
+* [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
+* [Phet - Interactive Simulations](https://phet.colorado.edu/es/simulations/category/new)
+* [Physics Simulations](https://www.myphysicslab.com/)
 
 ### [Games] - [OpenSource]
 
