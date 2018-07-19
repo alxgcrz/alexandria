@@ -797,6 +797,7 @@
 * [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 * [Kotlin Academy](https://blog.kotlin-academy.com/)
+* [Kotlin programmer dictionary](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-2cb67fff1fe2)
 * [Kotlin From Scratch - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [Learn kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
 * [Kotlin Development](https://www.kotlindevelopment.com/)
