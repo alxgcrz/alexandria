@@ -2071,6 +2071,7 @@
   * :clapper: [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
   * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
   * :clapper: [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
+  * :clapper: [quill18creates](https://www.youtube.com/user/quill18creates/videos)
 
 ### [Games] - [Recursos]
 
