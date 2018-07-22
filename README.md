@@ -1025,6 +1025,7 @@
 * [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 * [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
+* [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
 ### [Programación] - [Online Editors]
 
