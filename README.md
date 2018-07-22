@@ -835,9 +835,12 @@
 * [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.madebysource.com/)
 * [Less CSS Preprocessor Toolbox - Tutorials, Tools, Mixins and Frameworks](http://speckyboy.com/2014/04/23/less-css-preprocessor-toolbox/)
 
-### [Programación] - [Liquid]
+### [Programación] - [Templating Engine]
 
 * [Liquid Templating Engine](http://shopify.github.io/liquid/)
+* [Swig - A Node.js and Browser JavaScript Template Engine](http://node-swig.github.io/swig-templates/)
+* [Jade - Template Engine](http://jade-lang.com/)
+* [Pug - Template Engine](https://pugjs.org/api/getting-started.html)
 
 ### [Programación] - [Node.js]
 
@@ -854,11 +857,8 @@
 * [Hexo - Node.js blog framework](http://zespia.tw/hexo/)
 * [Bucky — Performance Measurement of Your App's Actual Users](http://github.hubspot.com/bucky/)
 * [MEAN.io - A Fullstack Javascript Framework](http://www.mean.io/#!/)
-* [Swig - A Node.js and Browser JavaScript Template Engine](http://paularmstrong.github.io/swig/)
 * [Intro to npm](http://foohack.com/2010/08/intro-to-npm/)
-* [Jade - Template Engine](http://jade-lang.com/)
-* [nodeschool.io](http://nodeschool.io/)
-* [hapi.js](http://hapijs.com/)
+* [hapi.js - A rich framework for building applications and services](http://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/)
 
 ### [Programación] - [PHP]
