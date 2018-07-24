@@ -1066,8 +1066,6 @@
 * [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
 * [sonar, a linting tool for the web](https://sonarwhal.com/)
 * [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
-* [tldr | simplified, community driven man pages](https://tldr.ostera.io/)
-* [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
 * [uinames.com is a simple tool to generate fake names](http://uinames.com/)
 * [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
@@ -2907,7 +2905,8 @@
 
 ## [Linux]
 
-* [alebcay/awesome-shell · GitHub](https://github.com/alebcay/awesome-shell)
+* :star: [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
+* [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
 * [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
 * [CheatSheet con 400 comandos para GNU/Linux que deberías saber | Blackploit [PenTest]](http://www.blackploit.com/2013/05/cheatsheet-comandos-para-GNU-Linux.html)
 * [Easy, proactive monitoring of processes, programs, files, directories, filesystems and hosts | Monit](https://mmonit.com/monit/)
