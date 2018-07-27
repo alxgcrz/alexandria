@@ -1,8 +1,6 @@
-# Alexandria
+# __Alexandria__
 
-![Bookstore](images/bookstore.jpg)
-
-[Credit - Photo by Giammarco Boscaro (unsplash.com)](https://unsplash.com/photos/OPzWvgL-upY)
+![Bookstore](images/book.png)
 
 ----
 
@@ -236,7 +234,6 @@
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
 * :star: [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
-* [SOLID Design Principles Explained](https://stackify.com/dependency-inversion-principle/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
 * [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
@@ -573,6 +570,7 @@
 * [CoreOS](https://coreos.com/)
 * [rkt - A security-minded, standards-based container engine](https://coreos.com/rkt/)
 * [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
+* [The Fn project is an open-source container-native serverless platform that you can run anywhere](http://fnproject.io/)
 
 ### [Programación] - [CSS3]
 
@@ -716,6 +714,7 @@
 
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
 * [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
+* [Oracle - Blog](https://blogs.oracle.com/java/)
 * :star: [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * :star: [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
@@ -727,8 +726,6 @@
 * [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
-* [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
-* [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 * [Spring](https://spring.io/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
@@ -743,6 +740,14 @@
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
 
+#### [Programación] - [Java] - [Web]
+
+* [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
+* [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
+* [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
+* [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
+* [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
+
 #### [Programación] - [Java] - [JavaFX]
 
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
@@ -751,6 +756,7 @@
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
+* [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 
 ### [Programación] - [Javascript]
 
@@ -825,6 +831,7 @@
 * [RxKotlin | RxJava bindings for Kotlin](https://github.com/ReactiveX/RxKotlin)
 * [Arrow - Functional companion to Kotlin's Standard Library](http://arrow-kt.io/)
 * [Mockk - mocking library for Kotlin](http://mockk.io/)
+* [CameraKit is an open-source library to support the Android Camera 1 and 2 APIs](https://camerakit.website/)
 
 ### [Programación] - [LESS]
 
@@ -1029,6 +1036,8 @@
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 * [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+* :star: [Design patterns implemented in Java](http://java-design-patterns.com/)
+* [SOLID Design Principles Explained](https://stackify.com/dependency-inversion-principle/)
 
 ### [Programación] - [Online Editors]
 
@@ -1207,6 +1216,7 @@
 * [PatternFly - A community of designers and developers collaborating to build a UI framework for enterprise web applications](http://www.patternfly.org/)
 * [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
 * :star: [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
+* [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
 
 ### [Desarrollo] - [Google]
 
@@ -1573,7 +1583,7 @@
 
 #### [Desarrollo] - [Bibliotecas] - [SVG Animation]
 
-* [Snap.svg - Home](http://snapsvg.io/)
+* [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io/)
 * [SVG animation with SMIL - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
 * [oak.is / Animated SVGs: Custom easing and timing](http://oak.is/thinking/animated-svgs/)
 * [svg.js - A lightweight JavaScript library for manipulating and animating svg](http://www.svgjs.com/)
@@ -1583,8 +1593,8 @@
 * [seen.js](http://seenjs.io/)
 * [willianjusten/awesome-svg · GitHub](https://github.com/willianjusten/awesome-svg)
 * [flexible.gs - Responsive Grid System](http://flexible.gs/#)
-* [vivus.js - svg animation](http://maxwellito.github.io/vivus/)
-* [BonsaiJS - A Graphics Library](http://bonsaijs.org/)
+* [vivus.js - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs](http://maxwellito.github.io/vivus/)
+* [BonsaiJS - A lightweight graphics library with an intuitive graphics API and an SVG renderer](http://bonsaijs.org/)
 * [svg.js - A lightweight JavaScript library for manipulating and animating svg](http://svgjs.com/)
 * [GraphicsJS | AnyChart](http://www.graphicsjs.org/)
 * [SVGMagic - Great jQuery SVG fallback plugin](http://dirkgroenen.nl/SVGMagic/index.html)
@@ -1916,6 +1926,9 @@
 * [Naev](https://github.com/naev/naev)
 * [HelloMarioEngine (GMS)](https://github.com/HelloFangaming/HelloMarioEngine)
 * [Yet Another Pixel Dungeon](https://github.com/ConsideredHamster/YetAnotherPixelDungeon)
+* [4X Space Strategy game Star Ruler 2's open source distribution](https://github.com/BlindMindStudios/StarRuler2-Source)
+* [FOSS games available on Steam](https://www.reddit.com/r/opensourcegames/comments/91zs0p/would_anyone_like_to_help_me_compile_a_list_of/)
+* [Libregamewiki - the free gaming encyclopedia](https://libregamewiki.org/List_of_games)
 
 ### [Games] - [Engines]
 
@@ -2086,6 +2099,7 @@
 * [GAME DEV LINK LIBRARY](http://gdu.io/links)
 * [Guide to free Game Development 2016 Edition](http://www.gamefromscratch.com/post/2016/09/09/Guide-To-Free-Game-Development-2016-Edition.aspx)
 * [Vlamberr Toolkit](http://www.vlambeer.com/toolkit/)
+* [Re-implementation of presskit() (original from Vlamberr) as a static site generator](https://github.com/pixelnest/presskit.html)
 * [Jammer Resources](https://globalgamejam.org/jammer-resources)
 * [List of Free tools and websites for game creation](https://forum.yoyogames.com/index.php?threads/list-of-free-tools-and-websites-for-game-creation.22209/)
 * [Engines, tools and apps for ludum dare](https://www.belenalbeza.com/articles/engines-tools-and-apps-for-ludum-dare/)
@@ -2511,8 +2525,7 @@
 * [draw.io](https://www.draw.io/)
 * [Figma: the collaborative interface design tool.](https://www.figma.com/)
 * [Graaf, pure CSS grid overlays](http://graaf.space/)
-* [Gravit](https://gravit.io/)
-* [Gravit Designer](http://designer.io/)
+* [Gravit Designer is a full-featured, free vector design app right at your fingertips.](http://designer.io/)
 * [Hipster Logo Generator - Created by Elijah Zapien](http://www.hipsterlogogenerator.com/)
 * [Mobile Website Speed Testing Tool - Google](https://testmysite.thinkwithgoogle.com/)
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
@@ -3065,6 +3078,7 @@
 * [Resumen del curso HTML5](http://msdn.microsoft.com/es-es/ie/hh749019)
 * [North is a set of standards and best practices for developing modern web based properties.](http://pointnorth.io/)
 * [Mejora el SEO de tu sitio con Schema.org](https://platzi.com/blog/schema-seo/)
+* [Six tips for effective learning](http://www.puzzlr.org/six-tips-for-effective-learning/)
 
 ----
 
