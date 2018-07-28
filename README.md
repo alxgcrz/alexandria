@@ -314,6 +314,7 @@
 * [GitHub - Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
 * [PGSSoft/AndroidSDKPoster: Wall poster with detailed changelog of Android SDK versions 14-27, broken down into 30 categories](https://github.com/PGSSoft/AndroidSDKPoster)
 * [Technical Questions.md](https://gist.github.com/lawloretienne/6f7d7d92f72986f5ebd60f226d9044ee)
+* :star: [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
 * [Curso de Programación Android - sgoliver.net](http://www.sgoliver.net/blog/curso-de-programacion-android/)
 * [Las apps de pago son un esquema Ponzi](http://www.elblogsalmon.com/sectores/las-apps-de-pago-son-un-esquema-ponzi)
 * [Creando para Android (IV): La promoción de un juego](http://www.elandroidelibre.com/2015/08/creando-un-juego-para-android-iv-la-promocion-aso.html)
