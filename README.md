@@ -241,6 +241,7 @@
 * :star: [Google Codelabs](https://codelabs.developers.google.com/)
 * :star: [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
+* :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 
 ### [Programación] - [Machine Learning]
 
@@ -1039,7 +1040,6 @@
 * [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * :star: [Design patterns implemented in Java](http://java-design-patterns.com/)
-* [SOLID Design Principles Explained](https://stackify.com/dependency-inversion-principle/)
 
 ### [Programación] - [Online Editors]
 
