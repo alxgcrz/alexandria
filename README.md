@@ -421,6 +421,7 @@
 * [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
 * [96 Best Resources for Android Developers 2017](https://www.anysoftwaretools.com/best-android-development-resources/)
 * [Android by Example](https://androidexample365.com/)
+* [Search Android Libraries, Projects, and Tools](https://mindorks.com/android/store)
 
 ##### [Programación] - [Android] - [Recursos] - [Fonts]
 
@@ -2266,6 +2267,7 @@
 * [Makerbook](http://makerbook.net/)
 * [Free Design Code Tools](http://growthsupply.com/free/design-code/)
 * :star: [Blue Vertigo](http://www.bluevertigo.com.ar/)
+* [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
