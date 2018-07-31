@@ -7,7 +7,6 @@
 ## Table of Contents
 
 * [Programación](https://github.com/alxgcrz/alexandria#programación)
-  * [Programación - Machine Learning](https://github.com/alxgcrz/alexandria#programación---machine-learning)
   * [Programación - Android](https://github.com/alxgcrz/alexandria#programación---android)
     * [Programación - Android - Diseño](https://github.com/alxgcrz/alexandria#programación---android---diseño)
     * [Programación - Android - Frameworks](https://github.com/alxgcrz/alexandria#programación---android---frameworks)
@@ -44,12 +43,14 @@
     * [Programación - CSS3 - Online](https://github.com/alxgcrz/alexandria#programación---css3---online)
     * [Programación - CSS3 - Utils](https://github.com/alxgcrz/alexandria#programación---css3---utils)
   * [Programación - Dart](https://github.com/alxgcrz/alexandria#programación---dart)
+  * [Programación - Electron](https://github.com/alxgcrz/alexandria#programación---electron)
   * [Programación - Git](https://github.com/alxgcrz/alexandria#programación---git)
   * [Programación - Go](https://github.com/alxgcrz/alexandria#programación---go)
   * [Programación - GraphQL](https://github.com/alxgcrz/alexandria#programación---graphql)
   * [Programación - Haxe](https://github.com/alxgcrz/alexandria#programación---haxe)
   * [Programación - HTML5](https://github.com/alxgcrz/alexandria#programación---html5)
   * [Programación - Java](https://github.com/alxgcrz/alexandria#programación---java)
+    * [Programación - Java - Web](https://github.com/alxgcrz/alexandria#programación---java---web)
     * [Programación - Java - JavaFX](https://github.com/alxgcrz/alexandria#programación---java---javafx)
   * [Programación - Javascript](https://github.com/alxgcrz/alexandria#programación---javascript)
   * [Programación - Kotlin](https://github.com/alxgcrz/alexandria#programación---kotlin)
@@ -57,8 +58,11 @@
     * [Programación - Kotlin - Samples](https://github.com/alxgcrz/alexandria#programación---kotlin---samples)
     * [Programación - Kotlin - Libraries](https://github.com/alxgcrz/alexandria#programación---kotlin---libraries)
   * [Programación - LESS](https://github.com/alxgcrz/alexandria#programación---less)
-  * [Programación - Liquid](https://github.com/alxgcrz/alexandria#programación---liquid)
+  * [Programación - Lua](https://github.com/alxgcrz/alexandria#programación---lua)
+  * [Programación - Machine Learning](https://github.com/alxgcrz/alexandria#programación---machine-learning)
   * [Programación - Node.js](https://github.com/alxgcrz/alexandria#programación---node.js)
+  * [Programación - Online Editors](https://github.com/alxgcrz/alexandria#programación---online-editors)
+  * [Programación - Patterns](https://github.com/alxgcrz/alexandria#programación---patterns)
   * [Programación - PHP](https://github.com/alxgcrz/alexandria#programación---php)
   * [Programación - Polymer](https://github.com/alxgcrz/alexandria#programación---polymer)
   * [Programación - Processing](https://github.com/alxgcrz/alexandria#programación---processing)
@@ -68,12 +72,10 @@
   * [Programación - ReactiveX](https://github.com/alxgcrz/alexandria#programación---reactivex)
   * [Programación - RxJava](https://github.com/alxgcrz/alexandria#programación---rxjava)
   * [Programación - SASS](https://github.com/alxgcrz/alexandria#programación---sass)
-  * [Programación - Lua](https://github.com/alxgcrz/alexandria#programación---lua)
+  * [Programación - Templating Engine](https://github.com/alxgcrz/alexandria#programación---templating-engine)
+  * [Programación - Typescript](https://github.com/alxgcrz/alexandria#programación---typescript)
   * [Programación - UWP](https://github.com/alxgcrz/alexandria#programación---uwp)
   * [Programación - Vue](https://github.com/alxgcrz/alexandria#programación---vue)
-  * [Programación - Electron](https://github.com/alxgcrz/alexandria#programación---electron)
-  * [Programación - Patterns](https://github.com/alxgcrz/alexandria#programación---patterns)
-  * [Programación - Online Editors](https://github.com/alxgcrz/alexandria#programación---online-editors)
   * [Programación - Utils](https://github.com/alxgcrz/alexandria#programación---utils)
 * [Desarrollo](https://github.com/alxgcrz/alexandria#desarrollo)
   * [Desarrollo - Awesomeness](https://github.com/alxgcrz/alexandria#desarrollo---awesomeness)
@@ -145,6 +147,7 @@
     * [Games - Learn - Books](https://github.com/alxgcrz/alexandria#games---learn---books)
     * [Games - Learn - Mechanics](https://github.com/alxgcrz/alexandria#games---learn---mechanics)
     * [Games - Learn - Design](https://github.com/alxgcrz/alexandria#games---learn---design)
+    * [Games - Learn - Maths & Physics](https://github.com/alxgcrz/alexandria#games---learn---maths-&-physics)
   * [Games - OpenSource](https://github.com/alxgcrz/alexandria#games---opensource)
   * [Games - Engines](https://github.com/alxgcrz/alexandria#games---engines)
   * [Games - Gamebooks](https://github.com/alxgcrz/alexandria#games---gamebooks)
@@ -243,15 +246,6 @@
 * :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
 * :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 
-### [Programación] - [Machine Learning]
-
-* [About - A.I. Experiments](https://aiexperiments.withgoogle.com/about)
-* [OpenAI Blog](https://openai.com/blog/)
-* [TensorFlow](https://www.tensorflow.org/)
-* [Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
-* [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
-* :clapper: [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
-
 ### [Programación] - [Android]
 
 * [Android](https://www.android.com/)
@@ -349,11 +343,15 @@
 * [[Request] What are the best FOSS apps for Android?](https://www.reddit.com/r/androidapps/comments/86uwbs/request_what_are_the_best_foss_apps_for_android/)
 * [google/iosched](https://github.com/google/iosched)
 * [google/santa-tracker-android: Ho Ho Ho](https://github.com/google/santa-tracker-android)
-* [ivacf/archi](https://github.com/ivacf/archi)
-* [nickbutcher/plaid](https://github.com/nickbutcher/plaid)
-* [psaravan/JamsMusicPlayer: A free, powerful and elegant music player for Android.](https://github.com/psaravan/JamsMusicPlayer)
+* [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
+* [plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
+* [JamsMusicPlayer: A free, powerful and elegant music player for Android.](https://github.com/psaravan/JamsMusicPlayer)
 * [What FOSS apps are you using? : Android](https://www.reddit.com/r/Android/comments/7ioh1o/what_foss_apps_are_you_using/)
 * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
+* [F-Droid](https://f-droid.org/packages/)
+* [Subreddit r/fossdroid](https://www.reddit.com/r/fossdroid/)
+* [50+ Open Source Android Apps](https://techwiser.com/open-source-android-apps/)
+* [Collection of Free and Open Source Android apps](https://gitlab.com/Ashpex/android-FOSS-apps)
 
 ##### [Programación] - [Android] - [Learn] - [Training]
 
@@ -413,7 +411,7 @@
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
 * [Awesome Android | LibHunt](https://android.libhunt.com/)
 * [Developer tools - Android library statistics | AppBrain.com](http://www.appbrain.com/stats/libraries/dev)
-* [JStumpp/awesome-android](https://github.com/JStumpp/awesome-android)
+* [A curated list of awesome Android packages and resources - Github](https://github.com/JStumpp/awesome-android)
 * [Must Have Libraries · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
 * [The Android Arsenal - A categorized directory of free libraries and tools for Android](https://android-arsenal.com/)
 * [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
@@ -657,6 +655,10 @@
 * [Dart in the Shell, Part 1 - YouTube](http://www.youtube.com/watch?v=Rh_kaQUXXX4)
 * [Dart API Reference](https://api.dartlang.org/apidocs/channels/stable/#dart-io)
 
+### [Programación] - [Electron]
+
+* [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
+
 ### [Programación] - [Git]
 
 * [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
@@ -794,7 +796,6 @@
 * [Unbeatable JavaScript Tools - The Dojo Toolkit](http://dojotoolkit.org/)
 * [Underscore.js](http://documentcloud.github.io/underscore/#)
 * [Use JSDoc: Index](http://usejsdoc.org/)
-* [Welcome to TypeScript](http://www.typescriptlang.org/)
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
 
 ### [Programación] - [Kotlin]
@@ -848,12 +849,21 @@
 * [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.madebysource.com/)
 * [Less CSS Preprocessor Toolbox - Tutorials, Tools, Mixins and Frameworks](http://speckyboy.com/2014/04/23/less-css-preprocessor-toolbox/)
 
-### [Programación] - [Templating Engine]
+### [Programación] - [Lua]
 
-* [Liquid Templating Engine](http://shopify.github.io/liquid/)
-* [Swig - A Node.js and Browser JavaScript Template Engine](http://node-swig.github.io/swig-templates/)
-* [Jade - Template Engine](http://jade-lang.com/)
-* [Pug - Template Engine](https://pugjs.org/api/getting-started.html)
+* [Lua 5.3 Reference Manual - contents](http://www.lua.org/manual/5.3/)
+* [Manual de Referencia de Lua 5.1 - contenido](http://www.lua.org/manual/5.1/es/)
+* [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
+* [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+
+### [Programación] - [Machine Learning]
+
+* [About - A.I. Experiments](https://aiexperiments.withgoogle.com/about)
+* [OpenAI Blog](https://openai.com/blog/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
+* [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
+* :clapper: [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 
 ### [Programación] - [Node.js]
 
@@ -873,6 +883,26 @@
 * [Intro to npm](http://foohack.com/2010/08/intro-to-npm/)
 * [hapi.js - A rich framework for building applications and services](http://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/)
+
+### [Programación] - [Online Editors]
+
+* [The first commented line is your dabblet’s title ✿ dabblet.com](http://dabblet.com/)
+* [Thimble por Mozilla - Un editor online de código para alumnos y educadores.](https://thimble.mozilla.org/es/)
+* [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+* [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
+* [HTML, CSS and JavaScript demo - Liveweave](https://liveweave.com/)
+* [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
+* [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
+* [repl.it - Select a Language](https://repl.it/languages)
+
+### [Programación] - [Patterns]
+
+* [Design Patterns & Refactoring](https://sourcemaking.com/)
+* [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
+* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
+* [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+* :star: [Design patterns implemented in Java](http://java-design-patterns.com/)
 
 ### [Programación] - [PHP]
 
@@ -996,12 +1026,16 @@
 * [Bitters - predefined style for Bourbon](http://bitters.bourbon.io/)
 * [Bourbon Neat](http://neat.bourbon.io/)
 
-### [Programación] - [Lua]
+### [Programación] - [Templating Engine]
 
-* [Lua 5.3 Reference Manual - contents](http://www.lua.org/manual/5.3/)
-* [Manual de Referencia de Lua 5.1 - contenido](http://www.lua.org/manual/5.1/es/)
-* [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
-* [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+* [Liquid Templating Engine](http://shopify.github.io/liquid/)
+* [Swig - A Node.js and Browser JavaScript Template Engine](http://node-swig.github.io/swig-templates/)
+* [Jade - Template Engine](http://jade-lang.com/)
+* [Pug - Template Engine](https://pugjs.org/api/getting-started.html)
+
+### [Programación] - [Typescript]
+
+* [Welcome to TypeScript](http://www.typescriptlang.org/)
 
 ### [Programación] - [UWP]
 
@@ -1027,30 +1061,6 @@
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Vue.js 2 Component Framework | Vuetify.js](https://vuetifyjs.com/)
 * [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
-
-### [Programación] - [Electron]
-
-* [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
-
-### [Programación] - [Patterns]
-
-* [Design Patterns & Refactoring](https://sourcemaking.com/)
-* [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
-* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
-* [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-* :star: [Design patterns implemented in Java](http://java-design-patterns.com/)
-
-### [Programación] - [Online Editors]
-
-* [The first commented line is your dabblet’s title ✿ dabblet.com](http://dabblet.com/)
-* [Thimble por Mozilla - Un editor online de código para alumnos y educadores.](https://thimble.mozilla.org/es/)
-* [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
-* [Create a new fiddle - JSFiddle](https://jsfiddle.net/)
-* [HTML, CSS and JavaScript demo - Liveweave](https://liveweave.com/)
-* [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
-* [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
-* [repl.it - Select a Language](https://repl.it/languages)
 
 ### [Programación] - [Utils]
 
@@ -1095,7 +1105,6 @@
 ### [Desarrollo] - [Awesomeness]
 
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
-* [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
 * [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
 * [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
@@ -1103,8 +1112,9 @@
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
 * [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
-* [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
-* [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* :star: [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
+* :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* :star: [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
 
 ### [Desarrollo] - [Database]
 
@@ -1258,11 +1268,11 @@
 * [Billable: Billing Made Simple. Period.](http://billable.me/)
 * [Docracy - Free Legal Documents](https://www.docracy.com/)
 * [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-* [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
+* :star: [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
 * [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
 * [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
 * [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
-* [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
+* :star: [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
 
 ### [Desarrollo] - [Microsoft]
 
@@ -1931,6 +1941,7 @@
 * [4X Space Strategy game Star Ruler 2's open source distribution](https://github.com/BlindMindStudios/StarRuler2-Source)
 * [FOSS games available on Steam](https://www.reddit.com/r/opensourcegames/comments/91zs0p/would_anyone_like_to_help_me_compile_a_list_of/)
 * [Libregamewiki - the free gaming encyclopedia](https://libregamewiki.org/List_of_games)
+* [Open Source Old Game Clones](https://osgameclones.com/)
 
 ### [Games] - [Engines]
 
@@ -2113,6 +2124,7 @@
 * :star: [ShaderToy](https://www.shadertoy.com/)
 * :wrench: [Shader Playground](http://shader-playground.timjones.io/)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
+* [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
 #### [Games] - [Recursos] - [3D Models]
 
