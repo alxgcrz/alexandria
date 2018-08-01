@@ -352,6 +352,7 @@
 * [Subreddit r/fossdroid](https://www.reddit.com/r/fossdroid/)
 * [50+ Open Source Android Apps](https://techwiser.com/open-source-android-apps/)
 * [Collection of Free and Open Source Android apps](https://gitlab.com/Ashpex/android-FOSS-apps)
+* [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
 
 ##### [Programación] - [Android] - [Learn] - [Training]
 
@@ -836,6 +837,7 @@
 * [Arrow - Functional companion to Kotlin's Standard Library](http://arrow-kt.io/)
 * [Mockk - mocking library for Kotlin](http://mockk.io/)
 * [CameraKit is an open-source library to support the Android Camera 1 and 2 APIs](https://camerakit.website/)
+* [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
 
 ### [Programación] - [LESS]
 
@@ -1086,6 +1088,7 @@
 * [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
 * [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
 * [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
+* :star: [Learn, Build and Test RegEx](https://regexr.com/)
 * [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
 * [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
 * [sonar, a linting tool for the web](https://sonarwhal.com/)
