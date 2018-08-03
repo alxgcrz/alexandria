@@ -234,6 +234,7 @@
 * [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
 * [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
 * [Learn how to code and build efficient algorithms](https://www.spoj.com/)
+* [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
 * :star: [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
@@ -245,6 +246,7 @@
 * :star: [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
 * :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* [Open Source Guides](https://opensource.guide/)
 
 ### [Programación] - [Android]
 
@@ -561,6 +563,7 @@
 * [Openshift](https://www.openshift.org/)
 * [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
 * [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
+* :star: [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
 * [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 * [Docker - Explore official repositories](https://hub.docker.com/explore/)
 * [Cómo desplegar contenedores en Docker](https://platzi.com/blog/desplegar-contenedores-docker/)
