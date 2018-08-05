@@ -2711,6 +2711,7 @@
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
 * [Alternativas de código abierto - osalt.com](http://www.osalt.com/es/)
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
+* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 
 ### [Software] - [Blender]
 
