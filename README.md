@@ -338,23 +338,42 @@
 
 ##### [Programación] - [Android] - [Learn] - [Samples]
 
-* [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4#.wpt3mlcpr)
-* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
-* [eo/mdx: MDX - Material Design Explorer for Android](https://github.com/eo/mdx)
-* [Fossdroid: Free and open source Android apps](https://fossdroid.com/)
-* [[Request] What are the best FOSS apps for Android?](https://www.reddit.com/r/androidapps/comments/86uwbs/request_what_are_the_best_foss_apps_for_android/)
-* [google/iosched](https://github.com/google/iosched)
+* [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
+* [The Google I/O 2017 Android App](https://github.com/google/iosched)
 * [google/santa-tracker-android: Ho Ho Ho](https://github.com/google/santa-tracker-android)
 * [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
-* [plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
-* [JamsMusicPlayer: A free, powerful and elegant music player for Android.](https://github.com/psaravan/JamsMusicPlayer)
-* [What FOSS apps are you using? : Android](https://www.reddit.com/r/Android/comments/7ioh1o/what_foss_apps_are_you_using/)
-* [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
+* [Plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
+
+##### [Programación] - [Android] - [Learn] - [FOSS]
+
 * [F-Droid](https://f-droid.org/packages/)
 * [Subreddit r/fossdroid](https://www.reddit.com/r/fossdroid/)
+* [Fossdroid: Free and open source Android apps](https://fossdroid.com/)
+* [List of free and open-source Android applications - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/List_of_free_and_open-source_Android_applications)
+* [[Request] What are the best FOSS apps for Android?](https://www.reddit.com/r/androidapps/comments/86uwbs/request_what_are_the_best_foss_apps_for_android/)
+* [What FOSS apps are you using? : Android](https://www.reddit.com/r/Android/comments/7ioh1o/what_foss_apps_are_you_using/)
 * [50+ Open Source Android Apps](https://techwiser.com/open-source-android-apps/)
 * [Collection of Free and Open Source Android apps](https://gitlab.com/Ashpex/android-FOSS-apps)
-* [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
+* [LeafPic is an ad-free, open-source and material-designed android gallery alternative](https://gitlab.com/HoraApps/LeafPic)
+* [A simple calendar with events, customizable widget and no ads.](https://github.com/SimpleMobileTools/Simple-Calendar)
+* [Amaze File Manager - Material design file manager for Android](https://github.com/TeamAmaze/AmazeFileManager)
+* [Easy Sound Recorder - A simple sound recording app implementing Material Design](https://github.com/dkim0419/SoundRecorder)
+* [ML Manager - A modern, easy and customizable app manager for Android with Material Design](https://github.com/javiersantos/MLManager)
+* [MovieGuide - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture](https://github.com/esoxjem/MovieGuide)
+* [Another Android Explorer ( File Manager ) is an All-in-One Open source file manager](https://github.com/1hakr/AnExplorer)
+* [Minimal Todo](https://github.com/avjinder/Minimal-Todo)
+* [Timber - Material Design Music Player](https://github.com/naman14/Timber)
+* [AnotherMonitor - Monitors and records the CPU and memory usage of Android devices](https://github.com/AntonioRedondo/AnotherMonitor)
+* [Omni-Notes - Open source note-taking application for Android](https://github.com/federicoiosue/Omni-Notes)
+* [Pedometer - Lightweight pedometer app for Android using the hardware step sensor](https://github.com/j4velin/Pedometer)
+* [MDX - Material Design Explorer for Android](https://github.com/eo/mdx)
+* [JamsMusicPlayer: A free, powerful and elegant music player for Android.](https://github.com/psaravan/JamsMusicPlayer)
+* [Materialistic - A material-design Hacker News Android reader](https://github.com/hidroh/materialistic)
+* [Telecine - Record full-resolution video on your Android devices](https://github.com/JakeWharton/Telecine)
+* [Phonograph - A material designed music player for Android](https://github.com/kabouzeid/Phonograph)
+* [Shuttle Music Player](https://github.com/timusus/Shuttle)
+* [ExoPlayer is an application level media player for Android](https://github.com/google/ExoPlayer)
+* [AntennaPod - A podcast manager for Android](https://github.com/AntennaPod/AntennaPod)
 
 ##### [Programación] - [Android] - [Learn] - [Training]
 
