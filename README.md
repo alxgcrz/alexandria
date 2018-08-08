@@ -528,6 +528,10 @@
 * [GitHub - willowtreeapps/spruce-android: Spruce Animation Library](https://github.com/willowtreeapps/spruce-android)
 * [Kyrie is a superset of Android's VectorDrawable and AnimatedVectorDrawable classes - Github](https://github.com/alexjlockwood/kyrie)
 
+##### [Programación] - [Android] - [Recursos] - [PBR]
+
+* [Filament is a physically based rendering engine for Android](https://github.com/google/filament)
+
 ##### [Programación] - [Android] - [Recursos] - [Code Analysis]
 
 * [FindBugs](http://findbugs.sourceforge.net/)
@@ -785,6 +789,7 @@
 * [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
+* [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 
 ### [Programación] - [Javascript]
 
@@ -1927,7 +1932,6 @@
 
 #### [Games] - [Learn] - [Books]
 
-* :star: [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 * [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
@@ -2126,6 +2130,7 @@
   * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
   * :clapper: [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
   * :clapper: [quill18creates](https://www.youtube.com/user/quill18creates/videos)
+  * :clapper: [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
 
 ### [Games] - [Recursos]
 
@@ -2147,8 +2152,6 @@
 * :star: [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
 * :star: [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * :star: [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
-* :star: [ShaderToy](https://www.shadertoy.com/)
-* :wrench: [Shader Playground](http://shader-playground.timjones.io/)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 * [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
@@ -2235,6 +2238,14 @@
 * [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
 * [Free C4D Materials](https://www.c4dcenter.com/)
 * :clapper: [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
+* [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
+* [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
+
+#### [Games] - [Recursos] - [Shaders]
+
+* :star: [ShaderToy](https://www.shadertoy.com/)
+* :wrench: [Shader Playground](http://shader-playground.timjones.io/)
+* :star: [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 
 #### [Games] - [Recursos] - [Stores]
 
