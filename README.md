@@ -379,13 +379,19 @@
 
 * :star: [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 * [Android Developer Fundamentals  |  Google Developers Training  |  Google Developers](https://developers.google.com/training/courses/android-fundamentals)
-* [Android Developer Fundamentals Course – Practicals · GitBook](https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
-* [Android Developer Fundamentals Course – Concepts · GitBook](https://www.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
 * [Google Developer Training Repository](https://github.com/google-developer-training)
 * [Udacity-Google Partnership](https://www.udacity.com/google)
 * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
+* Android Developer Fundamentals
+  * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
+  * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
+  
+* Advanced Android Development:
+  * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
+  * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
+  
 #### [Programación] - [Android] - [Recursos]
 
 * [google/guava · GitHub](https://github.com/google/guava)
@@ -1966,7 +1972,7 @@
 * :star: [Games on GitHub](https://github.com/leereilly/games)
 * [Stellar (GMS)](https://github.com/Regniwekim/Stellar)
 * [Naev](https://github.com/naev/naev)
-* [HelloMarioEngine (GMS)](https://github.com/HelloFangaming/HelloMarioEngine)
+* [HelloMarioEngine (GMS)](https://hellofangaming.github.io/HelloMarioEngine/)
 * [Yet Another Pixel Dungeon](https://github.com/ConsideredHamster/YetAnotherPixelDungeon)
 * [4X Space Strategy game Star Ruler 2's open source distribution](https://github.com/BlindMindStudios/StarRuler2-Source)
 * [FOSS games available on Steam](https://www.reddit.com/r/opensourcegames/comments/91zs0p/would_anyone_like_to_help_me_compile_a_list_of/)
@@ -2987,6 +2993,7 @@
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
+* :star: [Aptik Migration Utility](http://www.teejeetech.in/p/aptik.html)
 
 ### [Linux] - [Learn]
 
