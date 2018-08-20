@@ -2323,6 +2323,7 @@
 * [Free Design Code Tools](http://growthsupply.com/free/design-code/)
 * :star: [Blue Vertigo](http://www.bluevertigo.com.ar/)
 * [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
+* [A collection of useful online resources for designers.](https://neede.co/#/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
