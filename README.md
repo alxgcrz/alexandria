@@ -2324,6 +2324,7 @@
 * :star: [Blue Vertigo](http://www.bluevertigo.com.ar/)
 * [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
 * [A collection of useful online resources for designers.](https://neede.co/#/)
+* [A free resource library for product designers](http://www.designnotes.co/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
