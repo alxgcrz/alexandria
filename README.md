@@ -1602,9 +1602,6 @@
 * [windows](http://nick-jonas.github.io/windows/)
 * [zynga/scroller @ GitHub](http://zynga.github.io/scroller/)
 * [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
-* [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
-* [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
-* [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
 
 #### [Desarrollo] - [Bibliotecas] - [Social]
 
@@ -1861,6 +1858,7 @@
 * [Yarn](https://yarnpkg.com/)
 * [Brunch - Build tool](https://brunch.io/)
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
+* [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 
 ----
 
