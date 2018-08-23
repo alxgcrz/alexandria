@@ -2417,6 +2417,7 @@
 * [Red, White, and Blue – Springboard](https://medium.springboard.com/a-designers-guide-to-selecting-colors-for-your-product-9944756838d4)
 * [uiGradients - Beautiful coloured gradients](http://uigradients.com/)
 * [Web Safe Colors](http://websafecolors.info/)
+* :star: [Google, but for colors.](https://picular.co/)
 
 #### [Diseño] - [Recursos] - [Freebies]
 
