@@ -2323,6 +2323,7 @@
 * [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
 * [A collection of useful online resources for designers.](https://neede.co/#/)
 * [A free resource library for product designers](http://www.designnotes.co/)
+* :star: [Curated free resources for makers](http://freebiebucket.com/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
