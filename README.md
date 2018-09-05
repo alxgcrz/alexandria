@@ -324,6 +324,7 @@
 * [Conferencia: Ganar dinero con Android | Emezeta](http://www.emezeta.com/articulos/conferencia-ganar-dinero-con-android)
 * [¿Cómo se declaran en Hacienda la venta de aplicaciones en Google Play?](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-la-venta-de-aplicaciones-en-google-play)
 * [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
+* [Running and Debugging Your Android Application Remotely](http://fantalive.zapto.org:80/live/SxtgJeFxUS/DNbC4Xcc5U/16026.ts)
 
 ##### [Programación] - [Android] - [Learn] - [Android Studio]
 
@@ -469,6 +470,7 @@
 
 * [Mapbox](https://www.mapbox.com/)
 * [Leaflet](https://leafletjs.com/)
+* [Maps SDK For Android - TomTom](https://developer.tomtom.com/maps-sdk-android)
 
 ##### [Programación] - [Android] - [Recursos] - [SDKs]
 
