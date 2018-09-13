@@ -2803,6 +2803,7 @@
 * [Video2Gif](https://github.com/nostrenz/ffmpeg-video2gif-gui)
 * [ScreenToGif - Screen, webcam and sketchboard recorder with an integrated editor](http://www.screentogif.com/)
 * [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com/)
+* [Gifski - Highest-quality GIF encoder based on pngquant](https://gif.ski/)
 
 ### [Software] - [Video]
 
