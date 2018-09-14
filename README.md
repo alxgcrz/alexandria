@@ -1131,7 +1131,6 @@
 * [uinames.com is a simple tool to generate fake names](http://uinames.com/)
 * [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
 * [Web Developer Checklist](http://webdevchecklist.com/)
-* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 * [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
@@ -1862,7 +1861,13 @@
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 
-----
+#### [Desarrollo] - [Misc] - [Markdown]
+
+* :star: [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
+* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
+* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
+* [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
+* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
 ## [Games]
 
@@ -2752,7 +2757,6 @@
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
 * [Alternativas de código abierto - osalt.com](http://www.osalt.com/es/)
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
-* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 
 ### [Software] - [Blender]
 
@@ -3002,7 +3006,6 @@
 
 ### [Linux] - [Learn]
 
-* [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
 * [Administración de usuarios y grupos | Redes Linux](http://www.ite.educacion.es/formacion/materiales/85/cd/linux/m1/administracin_de_usuarios_y_grupos.html)
 * [APT, APTITUDE y DPKG : Guía Rápida : Chuleta](http://claves-de-linux.blogspot.com.es/2012/04/apt-aptitude-dpkg-chuleta-guia-rapida.html)
 * [Authenticating by Public Key OpenSSH](http://archive.networknewz.com/networknewz-10-20030707AuthenticatingbyPublicKeyOpenSSH.html)
