@@ -3034,6 +3034,7 @@
 * [Net Activity Viewer](http://netactview.sourceforge.net/index.html)
 * [Terraform by HashiCorp](https://www.terraform.io/)
 * [Foreman :: Introduction](https://theforeman.org/introduction.html)
+* [Monit is a small Open Source utility for managing and monitoring Unix systems.](https://mmonit.com/monit/)
 
 ### [Linux] - [Ubuntu]
 
