@@ -455,6 +455,10 @@
 
 * [Downloadable Fonts | Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html)
 
+##### [Programación] - [Android] - [Recursos] - [Browser]
+
+* [Mozilla Android Components](https://mozilla-mobile.github.io/android-components/)
+
 ##### [Programación] - [Android] - [Recursos] - [HTTP]
 
 * [Retrofit](http://square.github.io/retrofit/)
@@ -798,6 +802,7 @@
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
+* [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
 
 ### [Programación] - [Javascript]
 
@@ -1860,6 +1865,7 @@
 * [Brunch - Build tool](https://brunch.io/)
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
+* [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
 
 #### [Desarrollo] - [Misc] - [Markdown]
 
@@ -2426,6 +2432,7 @@
 * [uiGradients - Beautiful coloured gradients](http://uigradients.com/)
 * [Web Safe Colors](http://websafecolors.info/)
 * :star: [Google, but for colors.](https://picular.co/)
+* :star: [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
 
 #### [Diseño] - [Recursos] - [Freebies]
 
@@ -2536,6 +2543,7 @@
 * [The Elegant Icon Font – 360 Of The Best Free Icons For The Modern Web | Elegant Themes Blog](https://www.elegantthemes.com/blog/resources/elegant-icon-font)
 * [Typicons](http://s-ings.com/typicons/)
 * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/)
+* [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
 
 #### [Diseño] - [Recursos] - [Mockups]
 
