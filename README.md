@@ -257,6 +257,7 @@
 * [Android | Google Blog](https://blog.google/products/android/)
 * [Google Developers — Medium](https://medium.com/google-developers)
 * [Android Developers Blog](https://android-developers.googleblog.com/)
+* [Google's Maven Repositoy](https://dl.google.com/dl/android/maven2/index.html)
 
 #### [Programación] - [Android] - [Diseño]
 
@@ -340,7 +341,8 @@
 ##### [Programación] - [Android] - [Learn] - [Samples]
 
 * [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
-* [The Google I/O 2017 Android App](https://github.com/google/iosched)
+* :star: [The Google I/O 2018 Android App](https://github.com/google/iosched/)
+  * [Google I/O 2018 app — Architecture and Testing](https://medium.com/androiddevelopers/google-i-o-2018-app-architecture-and-testing-f546e37fc7eb)
 * [google/santa-tracker-android: Ho Ho Ho](https://github.com/google/santa-tracker-android)
 * [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
 * [Plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
@@ -433,6 +435,8 @@
 * [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture/index.html)
   * [googlesamples/android-architecture-components: Samples for Android Architecture Components.](https://github.com/googlesamples/android-architecture-components)
 * [Android Architecture Components - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/android-architecture-components--cms-1208)
+* [MvRx: Android on Autopilot](https://github.com/airbnb/MvRx/)
+  * [Introducing MvRx: Android on Autopilot](https://medium.com/airbnb-engineering/introducing-mvrx-android-on-autopilot-552bca86bd0a)
 
 ##### [Programación] - [Android] - [Recursos] - [Directorio]
 
@@ -759,6 +763,9 @@
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
 * [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
 * [Oracle - Blog](https://blogs.oracle.com/java/)
+* [OpenJDK](http://openjdk.java.net/)
+* [Java Development Kit builds, from Oracle](http://jdk.java.net/)
+* [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
 * :star: [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * :star: [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
@@ -796,6 +803,7 @@
 
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
 * [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
+* [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
 * [fxexperience - JavaFX ControlsFX](http://fxexperience.com/controlsfx/)
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
@@ -803,6 +811,7 @@
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
+* [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 
 ### [Programación] - [Javascript]
 
@@ -1005,6 +1014,7 @@
 * [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
 * [HNPWA](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
+* [Appscope](https://appsco.pe/)
 
 ### [Programación] - [Python]
 
@@ -1272,6 +1282,7 @@
 * [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
 * :star: [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 * [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
+* [JetBrains - Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
 
 ### [Desarrollo] - [Google]
 
@@ -1651,6 +1662,7 @@
 * [GraphicsJS | AnyChart](http://www.graphicsjs.org/)
 * [SVGMagic - Great jQuery SVG fallback plugin](http://dirkgroenen.nl/SVGMagic/index.html)
 * [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
+* :star: [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
 
 #### [Desarrollo] - [Bibliotecas] - [Text]
 
@@ -1745,6 +1757,7 @@
 * [Welcome to an Easier Way to Blog](http://dropplets.com/)
 * [Wolf CMS - Open Source Content Management System -](http://www.wolfcms.org/)
 * [Zotonic, the Erlang Web Framework — Zotonic](http://zotonic.com/)
+* [headless - A list of Content Management System](https://headlesscms.org/)
 
 ##### [Desarrollo] - [Misc] - [Blogging] - [Ghost]
 
@@ -1784,6 +1797,7 @@
 * [Pancake](https://pancake.io/)
 * [Sculpin — PHP Static Site Generator](https://sculpin.io/)
 * [Wintersmith](http://wintersmith.io/)
+* [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
 
 #### [Desarrollo] - [Misc] - [Bootstrap]
 
@@ -1930,6 +1944,7 @@
 * [Cultura Digital](https://culturadigital.blog.gencat.cat/)
 * [GAME BCN](http://gamebcn.co/)
 * [Videogames Industry Official Listing](http://www.gamespain.es/)
+* [Asociación Española de Videojuegos](http://www.aevi.org.es/)
 
 ### [Games] - [Learn]
 
@@ -2069,6 +2084,7 @@
 * [GMLscripts](http://www.gmlscripts.com/)
 * [Optimization tips for your games](https://www.reddit.com/r/gamemaker/comments/4sv7ia/optimization_tips_for_your_games/)
 * [Beginner Resources](https://www.yoyogames.com/blog/392)
+* [GameMaker Resources](https://gamemakerdiscord.github.io/)
 * [The Essential Gamemaker Functions, Concepts and Utils](http://fauxoperativegames.com/essential_function_guide/)
 * [GameMaker Handbook](https://www.reddit.com/r/gamemaker/comments/3lyoik/game_maker_handbook_resources_for_beginners_an/)
   * :clapper: [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
@@ -3063,6 +3079,7 @@
 * [Snaps on Ubuntu | Desktop | Ubuntu](https://www.ubuntu.com/desktop/snappy)
 * [uApp Explorer](https://uappexplorer.com/snaps)
 * [Flathub Beta](https://flathub.org/home)
+* [The Log File Navigator - An advanced log file viewer for the small-scale](http://lnav.org/)
 
 ----
 
