@@ -1798,6 +1798,7 @@
 * [Sculpin — PHP Static Site Generator](https://sculpin.io/)
 * [Wintersmith](http://wintersmith.io/)
 * [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
+* [Cogear.JS is a static websites generator](https://cogearjs.org/)
 
 #### [Desarrollo] - [Misc] - [Bootstrap]
 
@@ -1945,6 +1946,7 @@
 * [GAME BCN](http://gamebcn.co/)
 * [Videogames Industry Official Listing](http://www.gamespain.es/)
 * [Asociación Española de Videojuegos](http://www.aevi.org.es/)
+* [Asociación Española de Empresas Productoras y Desarrolladoras de Videojuegos y Software de Entretenimiento](http://www.dev.org.es/)
 
 ### [Games] - [Learn]
 
