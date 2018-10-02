@@ -766,6 +766,7 @@
 * [OpenJDK](http://openjdk.java.net/)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
+* [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
 * :star: [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * :star: [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
@@ -2139,9 +2140,12 @@
   * [Intro to 2D World building w/ Tilemap](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap?playlist=17093)
   * [Making A Flappy Bird Style Game](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
   * [2D UFO tutorial](https://unity3d.com/es/learn/tutorials/s/2d-ufo-tutorial)
+  * [2D Physics Overview](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/2d-physics-overview?playlist=17093)
   * [Unity Youtube](https://www.youtube.com/user/Unity3D/playlists?shelf_id=0&view=1&sort=dd)
 * [Unity para juegos móviles](https://unity3d.com/es/mobile/solution-guide)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
+* [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
+
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
 * [Complete multi-touch solution for Unity](https://github.com/TouchScript/TouchScript)
@@ -2355,6 +2359,7 @@
 * [A collection of useful online resources for designers.](https://neede.co/#/)
 * [A free resource library for product designers](http://www.designnotes.co/)
 * :star: [Curated free resources for makers](http://freebiebucket.com/)
+* [Curated list of resources](http://thestocks.im/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
