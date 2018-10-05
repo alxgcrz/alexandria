@@ -2806,6 +2806,7 @@
 * [Blender Artists Community](http://blenderartists.org/forum/)
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
 * :clapper: [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+* [FBX Bundle add-on for Blender that is meant to simplify the process of batch exporting FBX files for Unity](http://renderhjs.net/fbxbundle/)
 
 #### [Software] - [Blender] - [Oficial]
 
