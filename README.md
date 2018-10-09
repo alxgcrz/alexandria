@@ -1124,6 +1124,7 @@
 * :star: [searchcode | source code search engine](https://searchcode.com/)
 * [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
 * [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
