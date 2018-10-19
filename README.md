@@ -1971,6 +1971,7 @@
 * [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 * [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
+* [Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 
 #### [Games] - [Learn] - [Mechanics]
 
