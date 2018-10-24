@@ -247,6 +247,11 @@
 * :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
 * :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 * [Open Source Guides](https://opensource.guide/)
+* :star: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [/r/learningprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq)
+* :star: [Curated lists and insight into burgeoning industries, topics, and communities.](https://github.com/collections)
+* [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/wiki/index)
+* :star: [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 
 ### [Programación] - [Android]
 
@@ -301,6 +306,7 @@
 * [WinJS Tutorial](http://try.buildwinjs.com/)
 * [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
   * [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+  * [Flutter](https://flutter-es.io/)
 
 #### [Programación] - [Android] - [Learn]
 
@@ -774,7 +780,7 @@
 * :star: [Guava - Google core libraries for Java](https://github.com/google/guava)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
-* [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
+* :star: [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
 * [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
@@ -791,6 +797,7 @@
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
+* [Deep Learning for Java](https://deeplearning4j.org/)
 
 #### [Programación] - [Java] - [Web]
 
@@ -813,6 +820,7 @@
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
 * [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
+* [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 
 ### [Programación] - [Javascript]
 
@@ -866,6 +874,7 @@
 * [Learn kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
 * [Kotlin Development](https://www.kotlindevelopment.com/)
 * [Kotlin by Example](http://kotlinbyexample.org/)
+* [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 
 #### [Programación] - [Kotlin] - [Samples]
 
@@ -1912,6 +1921,7 @@
 * [Three Hundred Mechanics](http://www.squidi.net/three/index.php)
 * [2048](http://gabrielecirulli.github.io/2048/)
 * [Kolor](http://kolor.moro.es/)
+* [49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
 ### [Games] - [Promoción]
 
