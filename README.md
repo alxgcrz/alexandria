@@ -1294,6 +1294,7 @@
 * :star: [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 * [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
 * [JetBrains - Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
+* [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
 
 ### [Desarrollo] - [Google]
 
@@ -2164,6 +2165,7 @@
 * [Página de Firebase](https://firebase.google.com/games/?hl=es-419)
 
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
+* [How to create UI for all Resolutions](https://www.febucci.com/2018/10/unity-ui-tutorial/)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
 * [Complete multi-touch solution for Unity](https://github.com/TouchScript/TouchScript)
 * [UnityList - Unity3D Assets Search Engine](https://unitylist.com/)
@@ -2374,6 +2376,7 @@
 * [A free resource library for product designers](http://www.designnotes.co/)
 * :star: [Curated free resources for makers](http://freebiebucket.com/)
 * [Curated list of resources](http://thestocks.im/)
+* [Collection of Free Stock Resources](https://www.stockjo.com/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
@@ -2428,6 +2431,8 @@
 * :star: [Unplash](https://unsplash.com/)
 * [Wallhalla - A Wallpaper search engine](https://wallhalla.com/)
 * [DeviantArt](https://zim2687.deviantart.com/gallery/)
+* [Discover & Download Free Vector Art!](https://www.vecteezy.com/)
+* [Free vectors, stock illustrations and graphics](https://www.vectorportal.com/)
 
 #### [Diseño] - [Recursos] - [Colores]
 
@@ -2492,6 +2497,7 @@
 * [TemplateShock](http://www.templateshock.com/)
 * [Free Stuff for Creative Folk](http://www.premiumpixels.com/)
 * [Free design resources, Mokcups, psd templates, icons - graphberry.com](http://www.graphberry.com/)
+* [List of Free Design resources for your projects!](https://noshit.xyz/)
 
 #### [Diseño] - [Recursos] - [Fuentes]
 
