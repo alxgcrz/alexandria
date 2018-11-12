@@ -331,7 +331,7 @@
 * [Conferencia: Ganar dinero con Android | Emezeta](http://www.emezeta.com/articulos/conferencia-ganar-dinero-con-android)
 * [¿Cómo se declaran en Hacienda la venta de aplicaciones en Google Play?](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-la-venta-de-aplicaciones-en-google-play)
 * [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
-* [Running and Debugging Your Android Application Remotely](http://fantalive.zapto.org:80/live/SxtgJeFxUS/DNbC4Xcc5U/16026.ts)
+* [Running and Debugging Your Android Application Remotely](http://docwiki.appmethod.com/appmethod/1.15/topics/en/Running_and_Debugging_Your_Android_Application_Remotely)
 
 ##### [Programación] - [Android] - [Learn] - [Android Studio]
 
@@ -2590,6 +2590,7 @@
 * [Typicons](http://s-ings.com/typicons/)
 * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/)
 * [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
+* [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
 
 #### [Diseño] - [Recursos] - [Mockups]
 
