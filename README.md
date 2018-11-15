@@ -1882,7 +1882,6 @@
 * [Gulp.js en español - tutorial básico y primeros pasos](http://frontend-labs.com/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos)
 * [How to follow the Google webmaster guidelines](https://varvy.com/)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
-* [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
 * [muicss/loadjs: A tiny async loader / dependency manager for modern browsers (711 bytes)](https://github.com/muicss/loadjs)
 * [nickjanssen/angus · GitHub](https://github.com/nickjanssen/angus)
 * [Nightmare - A high-level browser automation library](http://www.nightmarejs.org/)
@@ -1894,6 +1893,8 @@
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
+* [web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.](https://web.dev/)
+  * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
 
 #### [Desarrollo] - [Misc] - [Markdown]
 
