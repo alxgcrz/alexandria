@@ -467,7 +467,7 @@
 
 ##### [Programación] - [Android] - [Recursos] - [Browser]
 
-* [Mozilla Android Components](https://mozilla-mobile.github.io/android-components/)
+* [Mozilla Android Components - A collection of Android libraries to build browsers or browser-like applications.](https://github.com/mozilla-mobile/android-components)
 
 ##### [Programación] - [Android] - [Recursos] - [HTTP]
 
@@ -549,6 +549,7 @@
 * [halfhp/androidplot: Charts and plots for Android](https://github.com/halfhp/androidplot)
 * [GitHub - willowtreeapps/spruce-android: Spruce Animation Library](https://github.com/willowtreeapps/spruce-android)
 * [Kyrie is a superset of Android's VectorDrawable and AnimatedVectorDrawable classes - Github](https://github.com/alexjlockwood/kyrie)
+* [Cyanea - A theme engine for Android](https://github.com/jaredrummler/Cyanea)
 
 ##### [Programación] - [Android] - [Recursos] - [PBR]
 
@@ -559,8 +560,10 @@
 * [FindBugs](http://findbugs.sourceforge.net/)
 * [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
 * [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
+* [Continuous Code Quality](https://www.sonarqube.org/)
 * [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
 * [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
+* [Codacy - Automatically identify issues through static code analysis](https://www.codacy.com/)
 
 #### [Programación] - [Android] - [Services]
 
@@ -789,6 +792,7 @@
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.](https://jmeter.apache.org/)
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
+* [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
 * [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
 * [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
@@ -798,6 +802,8 @@
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
 * [Deep Learning for Java](https://deeplearning4j.org/)
+* [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
+* [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 
 #### [Programación] - [Java] - [Web]
 
@@ -866,7 +872,6 @@
 
 #### [Programación] - [Kotlin] - [Learn]
 
-* [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 * [Kotlin Academy](https://blog.kotlin-academy.com/)
 * [Kotlin programmer dictionary](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-2cb67fff1fe2)
@@ -875,6 +880,7 @@
 * [Kotlin Development](https://www.kotlindevelopment.com/)
 * [Kotlin by Example](http://kotlinbyexample.org/)
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
+* [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
 
 #### [Programación] - [Kotlin] - [Samples]
 
@@ -897,6 +903,7 @@
 * [Mockk - mocking library for Kotlin](http://mockk.io/)
 * [CameraKit is an open-source library to support the Android Camera 1 and 2 APIs](https://camerakit.website/)
 * [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
+* [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
 
 ### [Programación] - [LESS]
 
@@ -1180,6 +1187,7 @@
 * :star: [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
 * :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 * :star: [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### [Desarrollo] - [Database]
 
@@ -1771,6 +1779,7 @@
 * [Wolf CMS - Open Source Content Management System -](http://www.wolfcms.org/)
 * [Zotonic, the Erlang Web Framework — Zotonic](http://zotonic.com/)
 * [headless - A list of Content Management System](https://headlesscms.org/)
+* [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 
 ##### [Desarrollo] - [Misc] - [Blogging] - [Ghost]
 
@@ -2297,6 +2306,7 @@
 * :clapper: [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
+* :wrench: [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
 #### [Games] - [Recursos] - [Shaders]
 
@@ -2387,6 +2397,8 @@
 
 #### [Diseño] - [Recursos] - [Images]
 
+* :star: :wrench: [Squoosh](https://squoosh.app/)
+* :star: :wrench: [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
 * :wrench: [Lorem Ipsum... but for photos](https://picsum.photos/)
 * :wrench: [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
 * :wrench: [Compress.io](https://compressor.io/)
@@ -2813,6 +2825,8 @@
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
 * [Alternativas de código abierto - osalt.com](http://www.osalt.com/es/)
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
+* [ConEmu - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more](https://github.com/Maximus5/ConEmu)
+* [AutoHotkey - The ultimate automation scripting language for Windows](https://www.autohotkey.com/)
 
 ### [Software] - [Blender]
 
