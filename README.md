@@ -387,15 +387,15 @@
 ##### [Programación] - [Android] - [Learn] - [Training]
 
 * :star: [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
-* [Android Developer Fundamentals  |  Google Developers Training  |  Google Developers](https://developers.google.com/training/courses/android-fundamentals)
 * [Google Developer Training Repository](https://github.com/google-developer-training)
 * [Udacity-Google Partnership](https://www.udacity.com/google)
 * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
 
-* Android Developer Fundamentals
-  * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-concepts/details)
-  * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-fundamentals-course-practicals/details)
+* [Android Developer Fundamentals - V2](https://developers.google.com/training/courses/android-fundamentals-v2)
+  * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
+  * [Practical - Codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2)
+  * [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/)
   
 * Advanced Android Development:
   * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
