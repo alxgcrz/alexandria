@@ -608,6 +608,7 @@
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
+* [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
 * [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 
