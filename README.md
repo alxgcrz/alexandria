@@ -88,6 +88,7 @@
 
 * [Android Development](http://www.vogella.com/tutorials/android.html)
 * [ConstraintLayout](https://constraintlayout.com/)
+* [ConstraintLayout in a nutshell](https://android.jlelse.eu/constraintlayout-in-the-limelight-6c22b54d9726)
 * [Mindorks – Medium](https://medium.com/mindorks)
 * [Best practices in Android development](https://github.com/futurice/android-best-practices)
 * [Home | CodePath Android Cliffnotes](https://guides.codepath.com/android)
@@ -333,10 +334,6 @@
 
 ##### [Programación] - [Android] - [Recursos] - [Code Analysis]
 
-* [FindBugs](http://findbugs.sourceforge.net/)
-* [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
-* [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
-* [Continuous Code Quality](https://www.sonarqube.org/)
 * [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
 * [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
 * [Codacy - Automatically identify issues through static code analysis](https://www.codacy.com/)
@@ -563,38 +560,51 @@
 * :star: [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
-* :star: [Guava - Google core libraries for Java](https://github.com/google/guava)
-* [JAR Search - findJAR.com](https://www.findjar.com/index.x)
-* [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
-* :star: [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
-* [Apache TomEE & OpenEJB](http://openejb.apache.org/)
-* [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
-* [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
-* [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
-* [Spring](https://spring.io/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
-* [Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.](https://jmeter.apache.org/)
-* [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
-* [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
-* [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
-* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
-* [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
-* [Apache Kafka® is used for building real-time data pipelines and streaming apps](https://kafka.apache.org/)
-* [A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications.](http://micronaut.io/)
-* [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
-* [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
 * [Deep Learning for Java](https://deeplearning4j.org/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 
-#### [Programación] - [Java] - [Web]
+#### [Programación] - [Java] - [Libraries]
 
+* :star: [Guava - Google core libraries for Java](https://github.com/google/guava)
+* :star: [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
+* :star: [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
+* :star: [Sonatype - The Central Repository](https://search.maven.org/)
+* [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+* [JAR Search - findJAR.com](https://www.findjar.com/index.x)
+* [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
+* [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
+* [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
+* [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
+
+#### [Programación] - [Java] - [Code Quality]
+
+* [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
+* [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
+* [Continuous Code Quality](https://www.sonarqube.org/)
+* [FindBugs](http://findbugs.sourceforge.net/)
+* [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
+* [Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.](https://jmeter.apache.org/)
+* [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
+* [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
+* [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
+
+#### [Programación] - [Java] - [Web & Microservices]
+
+* :star: [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
+* :star: [Spring](https://spring.io/)
 * [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
 * [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
+* [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
+* [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
 * [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
+* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
 * [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
+* [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
+* [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 
 #### [Programación] - [Java] - [JavaFX]
 
@@ -2232,6 +2242,7 @@
 * [DeviantArt](https://zim2687.deviantart.com/gallery/)
 * [Discover & Download Free Vector Art!](https://www.vecteezy.com/)
 * [Free vectors, stock illustrations and graphics](https://www.vectorportal.com/)
+* [DrawKit is a collection of free, beautiful, customisable MIT licensed SVG illustrations](https://www.drawkit.io/)
 
 #### [Diseño] - [Recursos] - [Colores]
 
@@ -2345,6 +2356,7 @@
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 * [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * [Segmented Fonts](https://aresluna.org/segmented-type/)
+* [The Inter UI font family](https://rsms.me/inter/)
 
 #### [Diseño] - [Recursos] - [Iconos]
 
@@ -2390,6 +2402,8 @@
 * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/)
 * [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
 * [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
+* [VectorLogoZone](https://www.vectorlogo.zone/)
+* &#x2b50; [amp-what](http://www.amp-what.com/unicode/search/)
 
 #### [Diseño] - [Recursos] - [Mockups]
 
@@ -2452,7 +2466,7 @@
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
 * [Prueba de optimización para móviles de Google Search Console](https://search.google.com/search-console/mobile-friendly)
 * [Resizer - Material Design](https://material.io/resizer/)
-* :wrench: [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+* &#128295; [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
 #### [Diseño] - [Recursos] - [Vídeo]
 
