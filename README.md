@@ -6,31 +6,33 @@
 
 ## [Programación]
 
-* :star: [Exercism.io - Level up your programming skills](http://exercism.io/)
+* ⭐ [Exercism.io - Level up your programming skills](http://exercism.io/)
 * [Codewars - Achieve mastery through challenge](https://www.codewars.com/)
-* [Coderbyte - Improve your coding skills](https://coderbyte.com/)
+* ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
 * [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
 * [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
 * [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
 * [Learn how to code and build efficient algorithms](https://www.spoj.com/)
 * [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
-* :star: [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
+* ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
 * [A list of programming tutorials in which learners build an application from scratch - Github](https://github.com/tuvtran/project-based-learning)
 * [CodeProject - For those who code](http://www.codeproject.com/)
-* :star: [Google Codelabs](https://codelabs.developers.google.com/)
-* :star: [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
-* :star: [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
-* :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* ⭐ [Google Codelabs](https://codelabs.developers.google.com/)
+* ⭐ [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
+* ⭐ [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
+* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 * [Open Source Guides](https://opensource.guide/)
-* :star: [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* ⭐ [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [/r/learningprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq)
-* :star: [Curated lists and insight into burgeoning industries, topics, and communities.](https://github.com/collections)
+* ⭐ [Curated lists and insight into burgeoning industries, topics, and communities.](https://github.com/collections)
 * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/wiki/index)
-* :star: [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+* ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+* 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+* [Scratch 3.0](https://scratch.mit.edu/)
 
 ### [Programación] - [Android]
 
@@ -95,14 +97,14 @@
 * [GitHub - Ultimate Android Reference - Your Road to Become a Better Android Developer](https://github.com/aritraroy/UltimateAndroidReference)
 * [PGSSoft/AndroidSDKPoster: Wall poster with detailed changelog of Android SDK versions 14-27, broken down into 30 categories](https://github.com/PGSSoft/AndroidSDKPoster)
 * [Technical Questions.md](https://gist.github.com/lawloretienne/6f7d7d92f72986f5ebd60f226d9044ee)
-* :star: [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
+* ⭐ [Cheat Sheet for Android Interviews](https://github.com/anitaa1990/Android-Cheat-sheet)
 * [Curso de Programación Android - sgoliver.net](http://www.sgoliver.net/blog/curso-de-programacion-android/)
 * [Las apps de pago son un esquema Ponzi](http://www.elblogsalmon.com/sectores/las-apps-de-pago-son-un-esquema-ponzi)
 * [Creando para Android (IV): La promoción de un juego](http://www.elandroidelibre.com/2015/08/creando-un-juego-para-android-iv-la-promocion-aso.html)
 * [¿Cuánto Cuesta una App?](https://cuantocuestaunaapp.com/)
 * [Effective Android Items](http://orhanobut.github.io/effective-android/)
 * [Android Weekly - Free weekly Android development newsletter](http://androidweekly.net/)
-* :star: [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
+* ⭐ [Android Development Tutorials - Ray Wenderlich](https://www.raywenderlich.com/category/android)
 * [Android SDK Code Tutorials by Envato Tuts+](https://code.tutsplus.com/categories/android-sdk)
 * [A guide to the Google Play Console – Google Play Apps & Games – Medium](https://medium.com/googleplaydev/a-guide-to-the-google-play-console-1bdc79ca956f)
 * [Conferencia: Ganar dinero con Android | Emezeta](http://www.emezeta.com/articulos/conferencia-ganar-dinero-con-android)
@@ -124,7 +126,7 @@
 ##### [Programación] - [Android] - [Learn] - [Samples]
 
 * [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
-* :star: [The Google I/O 2018 Android App](https://github.com/google/iosched/)
+* ⭐ [The Google I/O 2018 Android App](https://github.com/google/iosched/)
   * [Google I/O 2018 app — Architecture and Testing](https://medium.com/androiddevelopers/google-i-o-2018-app-architecture-and-testing-f546e37fc7eb)
 * [google/santa-tracker-android: Ho Ho Ho](https://github.com/google/santa-tracker-android)
 * [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
@@ -163,17 +165,15 @@
 
 ##### [Programación] - [Android] - [Learn] - [Training]
 
-* :star: [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
+* ⭐ [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 * [Google Developer Training Repository](https://github.com/google-developer-training)
 * [Udacity-Google Partnership](https://www.udacity.com/google)
 * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
-
 * [Android Developer Fundamentals - V2](https://developers.google.com/training/courses/android-fundamentals-v2)
   * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
   * [Practical - Codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2)
   * [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/)
-  
 * Advanced Android Development:
   * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
   * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
@@ -214,7 +214,7 @@
 
 ##### [Programación] - [Android] - [Recursos] - [Architecture]
 
-* :star: [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
+* ⭐ [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
 * [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture/index.html)
   * [googlesamples/android-architecture-components: Samples for Android Architecture Components.](https://github.com/googlesamples/android-architecture-components)
 * [Android Architecture Components - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/android-architecture-components--cms-1208)
@@ -292,7 +292,7 @@
 * [Sugar ORM - Insanely easy way to work with Android database.](http://satyan.github.io/sugar/)
 * [Activeandroid by pardom](http://www.activeandroid.com/)
 * [Realm Database](https://realm.io/products/realm-database)
-* :star: [Room Persistence Library - Android Developers](https://developer.android.com/topic/libraries/architecture/room?hl=es)
+* ⭐ [Room Persistence Library - Android Developers](https://developer.android.com/topic/libraries/architecture/room?hl=es)
 * [Save data in a local database using Room - Android Developers](https://developer.android.com/training/data-storage/room/?hl=es)
   * [Android Room with a View - Android Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view)
   * [Android Persistence codelab - Android Codelab](https://codelabs.developers.google.com/codelabs/android-persistence/)
@@ -340,7 +340,7 @@
 
 #### [Programación] - [Android] - [Services]
 
-* [— Kinto 8.0.0 documentation](http://kinto.readthedocs.io/en/latest/index.html)
+* [Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.](https://kinto.readthedocs.io/en/latest/index.html)
 * [255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget)
 * [App Annie - The App Analytics and App Data Industry Standard](https://www.appannie.com/en/)
 * [Branch Metrics - Free Deep Linking, Attribution & Mobile Analytics SDK](https://branch.io/)
@@ -384,7 +384,7 @@
 * [Openshift](https://www.openshift.org/)
 * [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
 * [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
-* :star: [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
+* ⭐ [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
 * [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
 * [Docker - Explore official repositories](https://hub.docker.com/explore/)
 * [Cómo desplegar contenedores en Docker](https://platzi.com/blog/desplegar-contenedores-docker/)
@@ -399,6 +399,7 @@
 * [The Fn project is an open-source container-native serverless platform that you can run anywhere](http://fnproject.io/)
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
+* [traefik - The Cloud Native Edge Router](https://traefik.io/)
 
 ### [Programación] - [CSS3]
 
@@ -478,7 +479,7 @@
 
 * [Dart: Structured web apps](https://www.dartlang.org/)
 * [Dart API Reference](https://api.dartlang.org/stablel)
-* :star: [Awesome - Dart](https://github.com/yissachar/awesome-dart)
+* ⭐ [Awesome - Dart](https://github.com/yissachar/awesome-dart)
 
 ### [Programación] - [Flutter]
 
@@ -515,7 +516,7 @@
 * [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
 * [workspace • Git Cheatsheet • NDP Software](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 * [Github Learning Lab](https://lab.github.com/)
-* [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
+* ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
 
 ### [Programación] - [Go]
 
@@ -545,7 +546,7 @@
 * [Modernizr: the feature detection library for HTML5/CSS3](http://modernizr.com/)
 * [SwitchToHTML5 - The HTML5 Framework Generator](http://switchtohtml5.com/)
 * [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/)
-* :star: [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
+* ⭐ [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
 
 ### [Programación] - [Java]
 
@@ -556,8 +557,8 @@
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
-* :star: [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
-* :star: [Codota - Search for Java code](https://www.codota.com/code/)
+* ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+* ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [The Scala Programming Language](http://www.scala-lang.org/)
@@ -568,16 +569,20 @@
 
 #### [Programación] - [Java] - [Libraries]
 
-* :star: [Guava - Google core libraries for Java](https://github.com/google/guava)
-* :star: [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
-* :star: [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
-* :star: [Sonatype - The Central Repository](https://search.maven.org/)
+* ⭐ [Guava - Google core libraries for Java](https://github.com/google/guava)
+* ⭐ [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
+* ⭐ [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
+* ⭐ [Eclipe Projects](https://projects.eclipse.org/)
+* ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://github.com/eclipse/eclipse-collections)
+* ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
+* [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
+* [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
 
 #### [Programación] - [Java] - [Code Quality]
 
@@ -593,8 +598,8 @@
 
 #### [Programación] - [Java] - [Web & Microservices]
 
-* :star: [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
-* :star: [Spring](https://spring.io/)
+* ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
+* ⭐ [Spring](https://spring.io/)
 * [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
 * [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
 * [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
@@ -661,7 +666,7 @@
 
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
 * [Android Kotlin Guides](https://android.github.io/kotlin-guides/index.html)
-* :star: [Kotlin is Awesome!](https://kotlin.link/)
+* ⭐ [Kotlin is Awesome!](https://kotlin.link/)
 * [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
 #### [Programación] - [Kotlin] - [Learn]
@@ -725,7 +730,7 @@
 * [TensorFlow](https://www.tensorflow.org/)
 * [Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
 * [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
-* :clapper: [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
+* 🎬 [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 
 ### [Programación] - [Node.js]
@@ -765,7 +770,7 @@
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
 * [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-* :star: [Design patterns implemented in Java](http://java-design-patterns.com/)
+* ⭐ [Design patterns implemented in Java](http://java-design-patterns.com/)
 
 ### [Programación] - [PHP]
 
@@ -928,18 +933,18 @@
 
 ### [Programación] - [Utils]
 
-* :star: [DevDocs](http://devdocs.io/)
-* :star: [dochub.io](http://dochub.io/)
-* :star: [Zeal - offline API documentation browser](http://zealdocs.org/)
-* :star: [Devhints — TL;DR for developer documentation](https://devhints.io/)
-* :star: [searchcode | source code search engine](https://searchcode.com/)
+* ⭐ [DevDocs](http://devdocs.io/)
+* ⭐ [dochub.io](http://dochub.io/)
+* ⭐ [Zeal - offline API documentation browser](http://zealdocs.org/)
+* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
+* ⭐ [searchcode | source code search engine](https://searchcode.com/)
 * [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
 * [A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
 * [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* :star: [Emmet — the essential toolkit for web-developers](http://emmet.io/)
+* ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
 * [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
 * [Color Hex Color Codes](http://www.color-hex.com/)
 * [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
@@ -951,7 +956,7 @@
 * [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
 * [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
 * [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
-* :star: [Learn, Build and Test RegEx](https://regexr.com/)
+* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
 * [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
 * [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
 * [sonar, a linting tool for the web](https://sonarwhal.com/)
@@ -962,7 +967,7 @@
 * [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* :star: [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
+* ⭐ [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 
 ----
 
@@ -978,9 +983,9 @@
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
 * [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
-* :star: [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
-* :star: [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
-* :star: [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
+* ⭐ [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
+* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 ### [Desarrollo] - [Database]
@@ -1095,7 +1100,7 @@
 * [ZoaUI](https://infinnie.github.io/zoaui/)
 * [PatternFly - A community of designers and developers collaborating to build a UI framework for enterprise web applications](http://www.patternfly.org/)
 * [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
-* :star: [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
+* ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 * [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
 * [JetBrains - Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
 * [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
@@ -1138,11 +1143,11 @@
 * [Billable: Billing Made Simple. Period.](http://billable.me/)
 * [Docracy - Free Legal Documents](https://www.docracy.com/)
 * [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-* :star: [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
+* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
 * [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
 * [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
 * [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
-* :star: [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
+* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
 
 ### [Desarrollo] - [Microsoft]
 
@@ -1267,7 +1272,7 @@
 * [Swiper - Most Modern Mobile Touch Slider](http://idangero.us/swiper/)
 * [WOW Slider : jQuery Image Slider & Gallery](http://wowslider.com/)
 * [Superslides - A fullscreen slider for jQuery](http://archive.nicinabox.com/superslides/#2)
-* :star: [Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
+* ⭐ [Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
 
 #### [Desarrollo] - [Bibliotecas] - [Date]
 
@@ -1296,7 +1301,7 @@
 * [MixItUp | KunkaLabs](https://www.kunkalabs.com/mixitup/)
 * [Packery](https://packery.metafizzy.co/)
 * [Responsive Grid System | Cute Grids](http://www.cutegrids.com/)
-* :star: [Masonry](https://masonry.desandro.com/)
+* ⭐ [Masonry](https://masonry.desandro.com/)
 
 #### [Desarrollo] - [Bibliotecas] - [Header]
 
@@ -1478,7 +1483,7 @@
 * [GraphicsJS | AnyChart](http://www.graphicsjs.org/)
 * [SVGMagic - Great jQuery SVG fallback plugin](http://dirkgroenen.nl/SVGMagic/index.html)
 * [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
-* :star: [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
+* ⭐ [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
 
 #### [Desarrollo] - [Bibliotecas] - [Text]
 
@@ -1702,7 +1707,7 @@
 
 #### [Desarrollo] - [Misc] - [Markdown]
 
-* :star: [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
+* ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
 * [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 * [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
@@ -1769,7 +1774,7 @@
 
 ### [Games] - [Learn]
 
-* :star: [Pixel Prospector](http://www.pixelprospector.com/)
+* ⭐ [Pixel Prospector](http://www.pixelprospector.com/)
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
 * [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
 * [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
@@ -1808,7 +1813,7 @@
 
 #### [Games] - [Learn] - [Maths & Physics]
 
-* :star: [Immersive linear algebra](http://immersivemath.com/ila/index.html)
+* ⭐ [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
@@ -1817,7 +1822,7 @@
 
 ### [Games] - [OpenSource]
 
-* :star: [Games on GitHub](https://github.com/leereilly/games)
+* ⭐ [Games on GitHub](https://github.com/leereilly/games)
 * [Stellar (GMS)](https://github.com/Regniwekim/Stellar)
 * [Naev](https://github.com/naev/naev)
 * [HelloMarioEngine (GMS)](https://hellofangaming.github.io/HelloMarioEngine/)
@@ -1909,16 +1914,16 @@
 * [GameMaker Resources](https://gamemakerdiscord.github.io/)
 * [The Essential Gamemaker Functions, Concepts and Utils](http://fauxoperativegames.com/essential_function_guide/)
 * [GameMaker Handbook](https://www.reddit.com/r/gamemaker/comments/3lyoik/game_maker_handbook_resources_for_beginners_an/)
-  * :clapper: [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
-  * :clapper: [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
-  * :clapper: [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
-  * :clapper: [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
-  * :clapper: [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
-  * :clapper: [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
-  * :clapper: [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
-  * :clapper: [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
-  * :clapper: [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
-  * :star::clapper: [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
+  * 🎬 [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
+  * 🎬 [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
+  * 🎬 [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
+  * 🎬 [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
+  * 🎬 [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
+  * 🎬 [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
+  * 🎬 [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
+  * 🎬 [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
+  * 🎬 [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
+  * ⭐ 🎬 [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
 
 #### [Games] - [Engines] - [Godot Engine]
 
@@ -1929,7 +1934,7 @@
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
 * [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
-* :clapper: [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
+* 🎬 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
@@ -1944,13 +1949,13 @@
 * [Free Community Assets](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/51392-free-community-assets?80021-Free-Community-Assets=)
 * [Large useful blueprint function library (Morepork Games)](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/75960-large-useful-blueprint-function-library-morepork-games?104003-Large-useful-blueprint-function-library-(Morepork-Games)=)
 * [Unreal Engine 4 Resources](http://ue4resources.com/)
-* :clapper: [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
-* :clapper: [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
-* :clapper: [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
-* :clapper: [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
-* :clapper: [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
-* :clapper: [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
-* :clapper: [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
+* 🎬 [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
+* 🎬 [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
+* 🎬 [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
+* 🎬 [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
+* 🎬 [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
+* 🎬 [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
+* 🎬 [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
 * [Unreal Engine 4 notes](https://www.blaenkdenum.com/notes/unreal-engine/)
 
 #### [Games] - [Engines] - [Unity]
@@ -1987,11 +1992,11 @@
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [2d-extras is a repository containing helpful reusable scripts - Github](https://github.com/unity-technologies/2d-extras)
 * [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
-  * :clapper: [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
-  * :clapper: [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
-  * :clapper: [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
-  * :clapper: [quill18creates](https://www.youtube.com/user/quill18creates/videos)
-  * :clapper: [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
+  * 🎬 [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+  * 🎬 [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
+  * 🎬 [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
+  * 🎬 [quill18creates](https://www.youtube.com/user/quill18creates/videos)
+  * 🎬 [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
 
 ### [Games] - [Recursos]
 
@@ -2009,10 +2014,10 @@
 * [List of Free tools and websites for game creation](https://forum.yoyogames.com/index.php?threads/list-of-free-tools-and-websites-for-game-creation.22209/)
 * [Engines, tools and apps for ludum dare](https://www.belenalbeza.com/articles/engines-tools-and-apps-for-ludum-dare/)
 * [How to jam](https://opensource.com/article/17/12/how-to-gaming-jam-development)
-* :star: [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
-* :star: [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
-* :star: [Game Development Resources](https://game-development.zeef.com/david.arcila)
-* :star: [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
+* ⭐ [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
+* ⭐ [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
+* ⭐ [Game Development Resources](https://game-development.zeef.com/david.arcila)
+* ⭐ [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 * [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
@@ -2034,12 +2039,12 @@
 * [Yobi 3D - Search Engine](https://www.yobi3d.com/#!/)
 * [3dMdb.com is the unique 3d model aggregator and Search Engine](http://3dmdb.com/)
 * [Low poly assets](http://quaternius.com/assets.html)
-* :wrench: [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
-* :wrench: [Online 3D Converter](http://www.greentoken.de/onlineconv/)
-* :wrench: [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
-* :wrench: [Open 3D Model Viewer](http://www.open3mod.com/)
-* :wrench: [The Open-Asset-Importer-Lib](http://www.assimp.org/)
-* :wrench: [MakeHuman - Blender Plugin](http://www.makehuman.org/)
+* 🔧 [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
+* 🔧 [Online 3D Converter](http://www.greentoken.de/onlineconv/)
+* 🔧 [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
+* 🔧 [Open 3D Model Viewer](http://www.open3mod.com/)
+* 🔧 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
+* 🔧 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
 
 #### [Games] - [Recursos] - [Sprites2D]
 
@@ -2054,19 +2059,19 @@
 * [Itchio Assets](https://itch.io/game-assets/free)
 * [SpriteLib](https://www.widgetworx.com/spritelib/)
 * [GameArt2D](https://www.gameart2d.com/)
-* :wrench: [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
-* :wrench: [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
-* :wrench: [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
-* :wrench: [Pixel Art to CSS](https://www.pixelartcss.com/)
-* :wrench: [Pyxel Edit](http://pyxeledit.com/about.php)
-* :wrench: [MagicaVoxel](https://ephtracy.github.io/)
-* :wrench: [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
-* :wrench: [Troxel](https://chrmoritz.github.io/Troxel/)
-* :wrench: [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
-* :wrench: [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
-* :wrench: [Spriter](https://brashmonkey.com/spriter-features/)
-* :wrench: [Synfig Studio - 2D Animation](https://www.synfig.org/)
-* :wrench: [GraphicsGale](https://graphicsgale.com/us/spec.html)
+* 🔧 [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
+* 🔧 [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
+* 🔧 [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
+* 🔧 [Pixel Art to CSS](https://www.pixelartcss.com/)
+* 🔧 [Pyxel Edit](http://pyxeledit.com/about.php)
+* 🔧 [MagicaVoxel](https://ephtracy.github.io/)
+* 🔧 [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
+* 🔧 [Troxel](https://chrmoritz.github.io/Troxel/)
+* 🔧 [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
+* 🔧 [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
+* 🔧 [Spriter](https://brashmonkey.com/spriter-features/)
+* 🔧 [Synfig Studio - 2D Animation](https://www.synfig.org/)
+* 🔧 [GraphicsGale](https://graphicsgale.com/us/spec.html)
 
 #### [Games] - [Recursos] - [Tiles]
 
@@ -2078,7 +2083,7 @@
 * [Roguelike Tilesets](https://www.reddit.com/r/gamedev/comments/444zbl/roguelike_tilesets/)
 * [Sithjester's RMXP Resources](http://untamed.wild-refuge.net/rmxpresources.php?tilesets)
 * [TomeTik](http://pousse.rapiere.free.fr/tome/)
-* :wrench: [Tiled Map Editor](http://www.mapeditor.org/)
+* 🔧 [Tiled Map Editor](http://www.mapeditor.org/)
 
 #### [Games] - [Recursos] - [Textures]
 
@@ -2090,24 +2095,24 @@
 * [Wild Textures](http://www.wildtextures.com/)
 * [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
 * [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
-* :wrench: [Awesome Bump](http://awesomebump.besaba.com/about/)
-* :wrench: [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
+* 🔧 [Awesome Bump](http://awesomebump.besaba.com/about/)
+* 🔧 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
 #### [Games] - [Recursos] - [Materials]
 
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
 * [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
 * [Free C4D Materials](https://www.c4dcenter.com/)
-* :clapper: [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
+* 🎬 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
-* :wrench: [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
+* 🔧 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
 #### [Games] - [Recursos] - [Shaders]
 
-* :star: [ShaderToy](https://www.shadertoy.com/)
-* :wrench: [Shader Playground](http://shader-playground.timjones.io/)
-* :star: [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
+* ⭐ [ShaderToy](https://www.shadertoy.com/)
+* 🔧 [Shader Playground](http://shader-playground.timjones.io/)
+* ⭐ [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 
 #### [Games] - [Recursos] - [Stores]
 
@@ -2129,15 +2134,15 @@
 
 #### [Games] - [Recursos] - [Audio]
 
-* :wrench: [Audiosauna](http://www.audiosauna.com/)
-* :wrench: [Bfxr](https://www.bfxr.net/)
-* :wrench: [ChipTone](http://sfbgames.com/chiptone/)
-* :wrench: [Audacity](https://www.audacityteam.org/download/linux/)
-* :wrench: [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
-* :wrench: [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
-* :wrench: [LMMS](https://lmms.io/)
-* :wrench: [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
-* :wrench: [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
+* 🔧 [Audiosauna](http://www.audiosauna.com/)
+* 🔧 [Bfxr](https://www.bfxr.net/)
+* 🔧 [ChipTone](http://sfbgames.com/chiptone/)
+* 🔧 [Audacity](https://www.audacityteam.org/download/linux/)
+* 🔧 [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
+* 🔧 [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
+* 🔧 [LMMS](https://lmms.io/)
+* 🔧 [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
+* 🔧 [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [Fmod](https://www.fmod.com/)
 * [ccMixter](http://ccmixter.org/)
@@ -2158,8 +2163,8 @@
 * [Free Music](http://soundimage.org/)
 * [Soundcloud](https://soundcloud.com/)
 * [Jamendo](https://www.jamendo.com/start)
-* :star: [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
-* :star: [Free Music for Your Videos](https://icons8.com/music/)
+* ⭐ [BBC Sound Effects](http://bbcsfx.acropolis.org.uk/)
+* ⭐ [Free Music for Your Videos](https://icons8.com/music/)
 * [Get started making music](https://learningmusic.ableton.com/)
 * [Ubuntu Studio Audio Handbook](https://help.ubuntu.com/community/UbuntuStudio/AudioHandbook)
 
@@ -2177,11 +2182,11 @@
 * [Startup Stash](http://startupstash.com/)
 * [Makerbook](http://makerbook.net/)
 * [Free Design Code Tools](http://growthsupply.com/free/design-code/)
-* :star: [Blue Vertigo](http://www.bluevertigo.com.ar/)
+* ⭐ [Blue Vertigo](http://www.bluevertigo.com.ar/)
 * [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
 * [A collection of useful online resources for designers.](https://neede.co/#/)
 * [A free resource library for product designers](http://www.designnotes.co/)
-* :star: [Curated free resources for makers](http://freebiebucket.com/)
+* ⭐ [Curated free resources for makers](http://freebiebucket.com/)
 * [Curated list of resources](http://thestocks.im/)
 * [Collection of Free Stock Resources](https://www.stockjo.com/)
 
@@ -2192,17 +2197,17 @@
 
 #### [Diseño] - [Recursos] - [Images]
 
-* :star: :wrench: [Squoosh](https://squoosh.app/)
-* :star: :wrench: [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
-* :wrench: [Lorem Ipsum... but for photos](https://picsum.photos/)
-* :wrench: [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
-* :wrench: [Compress.io](https://compressor.io/)
-* :wrench: [Duri.me - DataURI Generator](http://duri.me/)
-* :wrench: [Daturi - Convert images to Base64](https://daturi.me/)
-* :wrench: [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
-* :wrench: [b64.io - image optimisation & base64 encode](http://b64.io/)
-* :wrench: [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
-* :wrench: [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
+* ⭐ 🔧 [Squoosh](https://squoosh.app/)
+* ⭐ 🔧 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
+* 🔧 [Lorem Ipsum... but for photos](https://picsum.photos/)
+* 🔧 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
+* 🔧 [Compress.io](https://compressor.io/)
+* 🔧 [Duri.me - DataURI Generator](http://duri.me/)
+* 🔧 [Daturi - Convert images to Base64](https://daturi.me/)
+* 🔧 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
+* 🔧 [b64.io - image optimisation & base64 encode](http://b64.io/)
+* 🔧 [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
+* 🔧 [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
 * [Photo Sets Free for Commercial Use](http://www.drawsvg.org/drawsvg.html])
 * [Beautiful Free Photos](https://barnimages.com/)
 * [Creative Commons Search](https://ccsearch.creativecommons.org/)
@@ -2234,10 +2239,10 @@
 * [Public Domain Archive](http://publicdomainarchive.com/)
 * [Realistic Shots](http://realisticshots.com/)
 * [Search & discover free, hi res photos & videos](http://www.splashbase.co/)
-* :star: [Free Photos, Vectors, Icons, Fonts and Videos](https://www.stockio.com/)
+* ⭐ [Free Photos, Vectors, Icons, Fonts and Videos](https://www.stockio.com/)
 * [Beautiful free stock photos](https://stocksnap.io/)
 * [The British Library](https://www.flickr.com/photos/britishlibrary/sets/)
-* :star: [Unplash](https://unsplash.com/)
+* ⭐ [Unplash](https://unsplash.com/)
 * [Wallhalla - A Wallpaper search engine](https://wallhalla.com/)
 * [DeviantArt](https://zim2687.deviantart.com/gallery/)
 * [Discover & Download Free Vector Art!](https://www.vecteezy.com/)
@@ -2246,17 +2251,17 @@
 
 #### [Diseño] - [Recursos] - [Colores]
 
-* :wrench: [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
-* :wrench: [Color Supply](http://colorsupplyyy.com/app/)
-* :wrench: [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
-* :wrench: [Colormind - the smart color palette generator](http://colormind.io/)
-* :wrench: [Coolors.co - The super fast color schemes generator](https://coolors.co/)
-* :wrench: [HTML Color Codes](http://htmlcolorcodes.com/)
-* :wrench: [Khroma - The AI color tool for designers](http://khroma.co/)
-* :wrench: [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
-* :wrench: [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* :wrench: [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
-* :wrench: [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
+* 🔧 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
+* 🔧 [Color Supply](http://colorsupplyyy.com/app/)
+* 🔧 [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
+* 🔧 [Colormind - the smart color palette generator](http://colormind.io/)
+* 🔧 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* 🔧 [HTML Color Codes](http://htmlcolorcodes.com/)
+* 🔧 [Khroma - The AI color tool for designers](http://khroma.co/)
+* 🔧 [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
+* 🔧 [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* 🔧 [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
+* 🔧 [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
 * [Background Gradient Colors | Eggradients.com](https://www.eggradients.com/)
 * [BrandColors – Official color codes for the world's biggest brands](https://brandcolors.net/)
 * [Color Hunt](http://colorhunt.co/)
@@ -2286,8 +2291,8 @@
 * [uiGradients - Beautiful coloured gradients](http://uigradients.com/)
 * [Gradient Hunt](https://gradienthunt.com/)
 * [Web Safe Colors](http://websafecolors.info/)
-* :star: [Google, but for colors.](https://picular.co/)
-* :star: [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
+* ⭐ [Google, but for colors.](https://picular.co/)
+* ⭐ [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
 
 #### [Diseño] - [Recursos] - [Freebies]
 
@@ -2312,13 +2317,13 @@
 
 #### [Diseño] - [Recursos] - [Fuentes]
 
-* :wrench: [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
-* :wrench: [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
-* :wrench: [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
-* :wrench: [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
-* :wrench: [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
-* :wrench: [Identifont - Tools](http://www.identifont.com/tools.html)
-* :wrench: [Type Scale - A Visual Calculator](http://type-scale.com/)
+* 🔧 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+* 🔧 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
+* 🔧 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
+* 🔧 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
+* 🔧 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
+* 🔧 [Identifont - Tools](http://www.identifont.com/tools.html)
+* 🔧 [Type Scale - A Visual Calculator](http://type-scale.com/)
 * [1001 Fonts · Free Fonts Baby!](http://www.1001fonts.com/)
 * [21,471 free fonts for Windows and Mac - FontSpace](http://www.fontspace.com/)
 * [A More Modern Scale for Web Typography | Design in the browser with web fonts and real content — Typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
@@ -2466,7 +2471,7 @@
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
 * [Prueba de optimización para móviles de Google Search Console](https://search.google.com/search-console/mobile-friendly)
 * [Resizer - Material Design](https://material.io/resizer/)
-* &#128295; [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+* 🔧 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
 #### [Diseño] - [Recursos] - [Vídeo]
 
@@ -2636,22 +2641,22 @@
 * [Blender: 3D en la Educación | Joaclint](https://joaclintistgud.wordpress.com/2012/09/20/blender-3d-en-la-educacion/)
 * [Complete Blender Game Art Tutorial. From zero experience to 2D or 3D game ready asset](http://www.gamefromscratch.com/www.gamefromscratch.com/page/Complete-Blender-Game-Art-Tutorial-From-zero-experience-to-2D-or-3D-game-ready-asset.aspx)
 * [TexTools](http://renderhjs.net/textools/blender/)
-* :star: [Blender Power Sequencer - Addon](https://github.com/GDquest/Blender-power-sequencer)
-* :star: [Blender Guru](https://www.blenderguru.com/)
+* ⭐ [Blender Power Sequencer - Addon](https://github.com/GDquest/Blender-power-sequencer)
+* ⭐ [Blender Guru](https://www.blenderguru.com/)
 * [BlenderNation - Daily Blender 3D Updates](https://www.blendernation.com/)
 * [Curso: CREACIÓN DE ANIMACIONES 3D CON BLENDER](https://educacionadistancia.juntadeandalucia.es/profesorado/autoformacion/course/view.php?id=78)
 * [Welcome to Blend Swap! | Blend Swap](https://www.blendswap.com/)
-* :star: [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
+* ⭐ [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
 * [Blender Artists Community](http://blenderartists.org/forum/)
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
-* :clapper: [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+* 🎬 [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
 * [FBX Bundle add-on for Blender that is meant to simplify the process of batch exporting FBX files for Unity](http://renderhjs.net/fbxbundle/)
 
 #### [Software] - [Blender] - [Oficial]
 
 * [ES/Main Page - BlenderWiki](https://wiki.blender.org/index.php/ES/Main_Page)
 * [Blender Reference Manual — Blender Manual](https://docs.blender.org/manual/en/dev/)
-* :clapper: [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
+* 🎬 [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
 
 ### [Software] - [Cloud]
 
@@ -2718,11 +2723,11 @@
 
 * [11 webs y canales de Youtube para aprender GIMP desde 0 hasta nivel experto](http://www.genbeta.com/web/11-webs-y-canales-de-youtube-para-aprender-gimp-desde-0-hasta-nivel-experto)
 * [5 Great GIMP Plugins for Designers](http://www.sitepoint.com/5-great-gimp-plugins-for-designers/)
-* :clapper: [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
-* :clapper: [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* 🎬 [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* 🎬 [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
 * [G'MIC - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing](http://gmic.eu/download.shtml)
 * [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
-* :clapper: [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
+* 🎬 [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
 * [GIMP, aplicaciones didácticas - Índice](http://www.ite.educacion.es/formacion/materiales/86/cd/indice.htm)
 * [PIXLS.US Blog - G'MIC 1.7.1](https://pixls.us/blog/2016/05/g-mic-1-7-1/)
 * [Programa de manipulación de imágenes de GNU](https://docs.gimp.org/2.8/es/)
@@ -2823,6 +2828,7 @@
 
 * [ZMap · The Internet Scanner](https://zmap.io/)
 * [Nmap: Ejemplos de uso ~ Security By Default](http://www.securitybydefault.com/2014/09/nmap-ejemplos-de-uso.html)
+* [Netcap - A framework for secure and scalable network traffic analysis](https://github.com/dreadl0ck/netcap)
 
 #### [Seguridad] - [Utils] - [Powershell]
 
@@ -2860,20 +2866,28 @@
 
 ## [Linux]
 
-* :star: [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
 * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
-* [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
-* [CheatSheet con 400 comandos para GNU/Linux que deberías saber | Blackploit [PenTest]](http://www.blackploit.com/2013/05/cheatsheet-comandos-para-GNU-Linux.html)
-* [Easy, proactive monitoring of processes, programs, files, directories, filesystems and hosts | Monit](https://mmonit.com/monit/)
-* [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
-* [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
-* [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
+* 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
 * [GitHub - atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
 * [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
+* ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
+
+### [Linux] - [Command-line]
+
+* ⭐ [CheatSheet con 400 comandos para GNU/Linux que deberías saber | Blackploit [PenTest]](http://www.blackploit.com/2013/05/cheatsheet-comandos-para-GNU-Linux.html)
+* ⭐ [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
+* ⭐ [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
-* :star: [Aptik Migration Utility](http://www.teejeetech.in/p/aptik.html)
+* [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
+* [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
+* ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
+
+### [Linux] - [Shell Script]
+
+* 🔧 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
+* [Shell Script Quick Reference](https://www.abscrete.com/shell-script-quick-reference/)
 
 ### [Linux] - [Learn]
 
@@ -2951,7 +2965,7 @@
 * [Coursera | Online Courses From Top Universities. Join for Free](https://es.coursera.org/)
 * [Review the best online courses on the internet in one place | Courseroot](https://courseroot.com/)
 * [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
-* :star: [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
+* ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 
 ### [Learn] - [Libros]
 
@@ -2961,7 +2975,7 @@
 * [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
 * [GoalKicker.com – Free Programming Books](http://books.goalkicker.com/)
-* :star: [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
+* ⭐ [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
 * [Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender](http://www.librorealidadaumentada.com/)
 * [Libros, tutoriales y vídeos sobre HTML, CSS, JavaScript, PHP y otras tecnologías web.](http://librosweb.es/)
 * [List of Free Programming Books - reSRC](https://resrc.io/list-of-free-programming-books/)
@@ -2972,8 +2986,8 @@
 * [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 * [WebGL Insights](http://webglinsights.github.io/)
 * [Wikilibros](https://es.m.wikibooks.org/wiki/Portada)
-* :star: [X-Files](https://doc.lagout.org/)
-* :star: [Technology and Engineering eBooks](https://it-eb.com/)
+* ⭐ [X-Files](https://doc.lagout.org/)
+* ⭐ [Technology and Engineering eBooks](https://it-eb.com/)
 * [The Nature of Code](https://natureofcode.com/book/)
 
 ### [Learn] - [Style Guide]
@@ -3023,5 +3037,3 @@
 * [Six tips for effective learning](http://www.puzzlr.org/six-tips-for-effective-learning/)
 
 ----
-
-[:star:]: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACNUExURQAAAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAPGoAJxFeBoAAAAudFJOUwCn+wzaS/wHGAvG0kaG6PPxdHimI0RD7Aql6yKamJ2b+K+twtbAXraAtdWBYPlwNSOGAAAAgElEQVQY01WPxxKDMAwFRbVNSwJJSCcd0t7/fx6OkQe8B413D9aIaCCKyEGEoXBCCSymLmfAXI4eeNBUgRGV5YkPg5/kmSIPDltS6dTTDdGyHn23//+yiq3H62HJwYYjbz3Z0HC42HDlcNPv80+PB4c7ik7KT4E3h/ZpLhXfl549WKMUyA+uhg4AAAAASUVORK5CYII=
