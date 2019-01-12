@@ -49,6 +49,30 @@
 * ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
+### [Programación] - [Books]
+
+* ⭐ [Free Programming Ebooks from O’Reilly](https://www.oreilly.com/programming/free/)
+* [E-books | Succinctly Series | Syncfusion](https://www.syncfusion.com/ebooks)
+* [Colección Aprenda como si estuviera en primero  - Tecnun. Escuela de Ingenieros. Universidad de Navarra](http://www4.tecnun.es/recursos/labmat0.html)
+* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
+* [GoalKicker.com – Free Programming Books](http://books.goalkicker.com/)
+* ⭐ [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
+* [Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender](http://www.librorealidadaumentada.com/)
+* [uniwebsidad - Los mejores recursos para aprender diseño y programación web](https://uniwebsidad.com/)
+* [OpenLibra | La Biblioteca Libre Online: libros y ebooks en PDF gratis.](https://openlibra.com/es/collection)
+* [WebGL Insights](http://webglinsights.github.io/)
+* ⭐ [X-Files](https://doc.lagout.org/)
+* ⭐ [Technology and Engineering eBooks](https://it-eb.com/)
+* [The Nature of Code](https://natureofcode.com/book/)
+
+### [Programación] - [Style Guide]
+
+* ⭐ [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Google Style Guides](https://google.github.io/styleguide/)
+* [Bootstrap Style Guide Boilerplate is an easy way to generate living style guides semi-automatically](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
+* 👽 [SalGnt/cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
+* [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
+
 ### [Programación] - [Android]
 
 * [Android](https://www.android.com/)
@@ -520,7 +544,8 @@
 * [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
 * [First Aid git](http://firstaidgit.io/#/)
 * [Git](http://git-scm.com/)
-* [Git - Book](https://git-scm.com/book/es/v2)
+* 📕 [Git - Book](https://git-scm.com/book/es/v2)
+* 📕 [Pro Git, el libro oficial de Git](https://uniwebsidad.com/libros/pro-git)
 * [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
 * [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
 * [Git and GitHub Resources | You’ve Been Haacked](https://haacked.com/archive/2014/12/03/git-and-github-resources/)
@@ -683,6 +708,7 @@
 * [Underscore.js](http://documentcloud.github.io/underscore/#)
 * [Use JSDoc: Index](http://usejsdoc.org/)
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
+* 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 ### [Programación] - [Kotlin]
 
@@ -970,10 +996,11 @@
 * [Mozilla Developer Network](https://developer.mozilla.org/es/)
 * [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
 * [Software Intel®](https://software.intel.com/es-es)
-* [Welcome | Developer](https://developer.ubuntu.com/)
+* [Ubuntu Developer](https://developer.ubuntu.com/)
 * [Welcome to The Apache Software Foundation!](https://www.apache.org/)
 * [Yahoo Developer Network](https://developer.yahoo.com/)
 * [Stripe: Código abierto](https://stripe.com/open-source)
+* [Open Source @ IFTTT](http://ifttt.github.io/)
 
 #### [Programación] - [Official] - [Microsoft]
 
@@ -1057,6 +1084,8 @@
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
+* 🎓 [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
+* 🎓 [Quackit Web Tutorials](http://www.quackit.com/)
 * [web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.](https://web.dev/)
   * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
 
@@ -1184,6 +1213,7 @@
 * [Odometer — Transition numbers with ease](http://github.hubspot.com/odometer/docs/welcome/)
 * [OriDomi - origami for the web](http://oridomi.com/#)
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
+* 🎓 [Learn Animation | kirupa.com](http://www.kirupa.com/html5/learn_animation.htm)
 
 ##### [Programación] - [Web] -  [Bibliotecas] - [Audio]
 
@@ -2876,6 +2906,7 @@
 * [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
 * [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
 * ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
+* 📕 [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 
 ### [Linux] - [Shell Scripting]
 
@@ -2936,56 +2967,8 @@
 * [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
 * ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 
-### [Learn] - [Libros]
-
-* [Atlas Beta - The new learning environment from O’Reilly](http://chimera.labs.oreilly.com/)
-* [Colección Aprenda como si estuviera en primero  - Tecnun. Escuela de Ingenieros. Universidad de Navarra](http://www4.tecnun.es/recursos/labmat0.html)
-* [E-books | Succinctly Series | Syncfusion](https://www.syncfusion.com/ebooks)
-* [Freely available programming books](https://github.com/EbookFoundation/free-programming-books)
-* [Eloquent JavaScript](http://eloquentjavascript.net/)
-* [GoalKicker.com – Free Programming Books](http://books.goalkicker.com/)
-* ⭐ [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/)
-* [Realidad Aumentada. Un Enfoque Práctico con ARToolKit y Blender](http://www.librorealidadaumentada.com/)
-* [Libros, tutoriales y vídeos sobre HTML, CSS, JavaScript, PHP y otras tecnologías web.](http://librosweb.es/)
-* [List of Free Programming Books - reSRC](https://resrc.io/list-of-free-programming-books/)
-* [OpenLibra | La Biblioteca Libre Online: libros y ebooks en PDF gratis.](https://openlibra.com/es/collection)
-* [Pro Git, el libro oficial de Git](http://librosweb.es/pro_git/)
-* [Standard Ebooks: Free and liberated ebooks, carefully produced for the true book lover.](https://standardebooks.org/)
-* [Tecnologia i Experimentals](http://repositori.uji.es/xmlui/handle/10234/25187)
-* [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
-* [WebGL Insights](http://webglinsights.github.io/)
-* [Wikilibros](https://es.m.wikibooks.org/wiki/Portada)
-* ⭐ [X-Files](https://doc.lagout.org/)
-* ⭐ [Technology and Engineering eBooks](https://it-eb.com/)
-* [The Nature of Code](https://natureofcode.com/book/)
-
-### [Learn] - [Style Guide]
-
-* [Bootstrap Style Guide Boilerplate](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
-* [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Google Java Style](https://google.github.io/styleguide/javaguide.html)
-* [Open Source @ IFTTT](http://ifttt.github.io/)
-* [A curated list of Coding Style Conventions and Standards. - Github](https://github.com/SalGnt/cscs)
-* [Google Style Guides](https://google.github.io/styleguide/)
-* [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
-
 ### [Learn] - [Tutorials]
 
-* [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
-* [How I got 2.3 million app downloads (without spending a cent on marketing) — Medium](https://medium.com/@stuartkhall/how-i-got-2-3m-app-downloads-without-spending-a-cent-on-marketing-f4823b6bc779)
-* [Personal Branding Guide for Designers - Designmodo](http://designmodo.com/personal-branding-guide/)
-* [Te enseñamos algunos comandos de teclado en Windows para hacer que tu tiempo sea más productivo](https://www.xatakawindows.com/windows/te-ensenamos-algunos-comandos-de-teclado-en-windows-para-hacer-que-tu-tiempo-sea-mas-productivo)
-* [The Beginner's Guide to Faster Websites](https://www.git-tower.com/learn/website-optimization/)
-* [Beginner’s Guide to Website SSL Certs](http://www.hongkiat.com/blog/ssl-certs-guide/)
-* [Flippin Awesome | Awesome tutorials with HTML, CSS, JavaScript and Mobile](http://flippinawesome.org/)
-* [Grow your expert full-stack JavaScript skills with tagtree screencasts.](http://tagtree.tv/)
-* [How-To Tutorials by Envato Tuts+](https://tutsplus.com/tutorials)
-* [Learn Animation | kirupa.com](http://www.kirupa.com/html5/learn_animation.htm)
-* [Mobile Web Best Practices | Helping People Make Mobile Web Experiences](http://mobilewebbestpractices.com/)
-* [Pixel-Based Websites: Resources, Tutorials, And Examples](http://www.hongkiat.com/blog/pixel-based-websites/)
-* [Quackit Web Tutorials](http://www.quackit.com/)
-* [Script Tutorials | Web Developer Tutorials | HTML5 and CSS3 Tutorials](http://www.script-tutorials.com/)
-* [simpl.info](https://simpl.info/)
 * [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
 * [Thinkful | A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 * [Tutorials | Codrops](http://tympanus.net/codrops/category/tutorials/)
