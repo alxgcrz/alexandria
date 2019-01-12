@@ -34,6 +34,21 @@
 * 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Scratch 3.0](https://scratch.mit.edu/)
 
+### [Programación] - [Awesomeness]
+
+* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
+* [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
+* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
+* [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
+* [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
+* [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
+* [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
+* ⭐ [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
+* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 ### [Programación] - [Android]
 
 * [Android](https://www.android.com/)
@@ -401,6 +416,12 @@
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
 
+### [Programación] - [Virtual Machines]
+
+* [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
+* [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
+* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
+
 ### [Programación] - [CSS3]
 
 * [BASSCSS](https://jxnblk.github.io/basscss/)
@@ -566,6 +587,7 @@
 * [Deep Learning for Java](https://deeplearning4j.org/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
+* [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
 
 #### [Programación] - [Java] - [Libraries]
 
@@ -931,64 +953,77 @@
 * [Vue.js 2 Component Framework | Vuetify.js](https://vuetifyjs.com/)
 * [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 
-### [Programación] - [Utils]
+### [Programación] - [Markdown]
 
-* ⭐ [DevDocs](http://devdocs.io/)
-* ⭐ [dochub.io](http://dochub.io/)
-* ⭐ [Zeal - offline API documentation browser](http://zealdocs.org/)
-* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
-* ⭐ [searchcode | source code search engine](https://searchcode.com/)
-* [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
-* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
-* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
-* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
-* [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
-* [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
-* [Color Hex Color Codes](http://www.color-hex.com/)
-* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
-* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
-* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
-* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
-* [HEAD - A free guide to head elements](https://gethead.info/#google-android)
-* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
-* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
-* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
-* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
-* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
-* [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
-* [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
-* [sonar, a linting tool for the web](https://sonarwhal.com/)
-* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
-* [uinames.com is a simple tool to generate fake names](http://uinames.com/)
-* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
-* [Web Developer Checklist](http://webdevchecklist.com/)
-* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
-* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
-* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* ⭐ [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
+* ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
+* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
+* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
+* [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
+* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
-----
+### [Programación] - [Official]
 
-## [Desarrollo]
+* [Amazon Developer Services](https://developer.amazon.com/)
+* [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
+* [Home | Oracle Developers](https://developer.oracle.com/)
+* [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
+* [Mozilla Developer Network](https://developer.mozilla.org/es/)
+* [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
+* [Software Intel®](https://software.intel.com/es-es)
+* [Welcome | Developer](https://developer.ubuntu.com/)
+* [Welcome to The Apache Software Foundation!](https://www.apache.org/)
+* [Yahoo Developer Network](https://developer.yahoo.com/)
+* [Stripe: Código abierto](https://stripe.com/open-source)
 
-### [Desarrollo] - [Awesomeness]
+#### [Programación] - [Official] - [Microsoft]
 
-* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
-* [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
-* [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
-* [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
-* [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
-* [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
-* ⭐ [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
-* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
-* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [.NET](https://www.microsoft.com/net)
+* [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
+* [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
+* [Chocolatey - The package manager for Windows](https://chocolatey.org/)
+* [Documentación técnica, API y ejemplos de código | Microsoft Docs](https://docs.microsoft.com/es-es/)
+* [Documentación y tutoriales de introducción | Visual Studio](https://www.visualstudio.com/es/vs/getting-started/)
+* [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
+* [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
+* [NuGet Gallery | Home](https://www.nuget.org/)
 
-### [Desarrollo] - [Database]
+#### [Programación] - [Official] - [Google]
+
+* [Google Trends](https://trends.google.com/trends/)
+* [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
+* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
+* [The Mobile Playbook](http://www.themobileplaybook.com/es-latam/)
+* [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
+* [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Sitio web oficial de Google Analytics: Analítica web e informes – Google Analytics](http://www.google.es/intl/es/analytics/)
+* [Chrome Experiments](https://www.chromeexperiments.com/)
+* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud  |  Google Cloud Platform](https://cloud.google.com/)
+* [Google Open Source – opensource.google.com](https://opensource.google.com/)
+* [AdMob](https://apps.admob.com/v2/home?pli=1)
+* [GCP products described in 4 words or less – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
+* [All Community Tutorials  |  Google Cloud Platform Community  |  Google Cloud Platform](https://cloud.google.com/community/tutorials/)
+* [Guía de optimización en buscadores (SEO) para principiantes - Ayuda de Search Console](https://support.google.com/webmasters/answer/7451184)
+* [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
+* [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
+* [Google Developers](https://developers.google.com/)
+
+### [Programación] - [Gradle]
+
+* [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
+* [Gradle Tutorial : Part 2 : Java Projects | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
+* [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
+* [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
+* [Gradle Tutorial : Part 5 : Gradle App Engine Plugin | iRomin](http://rominirani.com/2014/08/15/gradle-tutorial-part-5-gradle-app-engine-plugin/)
+* [Gradle Tutorial : Part 6 : Android Studio + Gradle | iRomin](http://rominirani.com/2014/08/19/gradle-tutorial-part-6-android-studio-gradle/)
+* [Gradle Tutorial : Part 7 : Android Studio + App Engine + Gradle | iRomin](http://rominirani.com/2014/08/20/gradle-tutorial-part-7-android-studio-app-engine-gradle/)
+* [Gradle Tutorial : Part 8 : Gradle + App Engine + Endpoints + Android Studio | iRomin](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/)
+* [Gradle Tutorial : Part 9 : Cloud Endpoints + Persistence + Android Studio | iRomin](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/)
+* [Gradle Tutorial : Part 10 : Consuming Endpoints in Android Code | iRomin](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/)
+* [“Build Automation Tools” o como se diga en Cristiano | Cocoa Mental](http://www.cocoaosx.com/2014/01/21/build-automation-tools-make-cmake-rake-gradle-maven/)
+* [Exprimiendo las ‘builds’ con Gradle | Androcode](http://androcode.es/2015/07/exprimiendo-las-builds-con-gralde/)
+
+### [Programación] - [Database]
 
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Crate](https://crate.io/)
@@ -999,48 +1034,33 @@
 * [Titan: Distributed Graph Database](http://titan.thinkaurelius.com/)
 * [FoundationDB - From Apple](https://www.foundationdb.org/)
 
-### [Desarrollo] - [API]
+### [Programación] - [Web]
 
-#### [Desarrollo] - [API] - [Learn]
+* [BOWER: A package manager for the web](http://bower.io/)
+* [Brunch | ultra-fast HTML5 build tool](http://brunch.io/)
+* [Couscous! Put your documentation in a website!](http://couscous.io/)
+* [Duo](http://duojs.org/)
+* [Five Grunt Tasks You Won't Want to Miss!](http://www.sitepoint.com/five-grunt-tasks-wont-want-miss/)
+* [Getting started with gulp — Mark Goodyear — Front-end developer and designer](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
+* [Grunt for People Who Think Things Like Grunt are Weird and Hard ◆ 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
+* [Gulp.js en español - tutorial básico y primeros pasos](http://frontend-labs.com/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos)
+* [How to follow the Google webmaster guidelines](https://varvy.com/)
+* [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
+* [muicss/loadjs: A tiny async loader / dependency manager for modern browsers (711 bytes)](https://github.com/muicss/loadjs)
+* [nickjanssen/angus · GitHub](https://github.com/nickjanssen/angus)
+* [Nightmare - A high-level browser automation library](http://www.nightmarejs.org/)
+* [Perf Tooling Today](http://perf-tooling.today/)
+* [siddharthkp/cost-of-modules: Find out which of your dependencies are slowing you down 🐢](https://github.com/siddharthkp/cost-of-modules/)
+* [webpack module bundler](https://webpack.js.org/)
+* [Yarn](https://yarnpkg.com/)
+* [Brunch - Build tool](https://brunch.io/)
+* [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
+* [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
+* [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
+* [web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.](https://web.dev/)
+  * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
 
-* [Buenas prácticas para el Diseño de una API RESTful Pragmática](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
-* [Define el diseño de tus APIs con Blueprint, RAML o Swagger](https://www.genbetadev.com/programacion-en-la-nube/define-el-diseno-de-tus-apis-con-blueprint-raml-o-swagger)
-
-#### [Desarrollo] - [API] - [List]
-
-* [Quandl Documentation](https://docs.quandl.com/#introduction)
-* [Open Exchange Rates](https://openexchangerates.org/)
-* [Acciona SA: BME:ANA quotes & news - Google Finance](https://www.google.com/finance?q=BME%3AANA&ei=zosbVqmeN4nGU4Xqu4gG)
-* [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
-* [AnyAPI - Discover and Try Public APIs](https://any-api.com/)
-* [API Dashboard: ProgrammableWeb](http://www.programmableweb.com/apis)
-* [Google APIs Explorer](https://developers.google.com/apis-explorer/?csw=1#p/)
-* [Library :: Temboo](https://temboo.com/library/)
-* [Open Data Network](https://www.opendatanetwork.com/)
-* [The feedly Cloud API](https://developer.feedly.com/)
-* [Battle.net Developer Portal - Blizzard Developer Portal](https://dev.battle.net/)
-* [IGDB: Free Video Game Database API - Internet Game Database](https://www.igdb.com/api)
-* [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/abhishekbanthia/Public-APIs)
-* [RapidAPI Marketplace | Home](https://rapidapi.com/)
-
-#### [Desarrollo] - [API] - [Utils]
-
-* [Postman | Supercharge your API workflow](https://www.getpostman.com/)
-* [World's Most Popular API Framework | Swagger](https://swagger.io/)
-* [Insomnia REST Client](https://insomnia.rest/)
-* [Quandl4j by jimmoores](http://quandl4j.org/)
-* [Home · linkedin/rest.li Wiki](https://github.com/linkedin/rest.li/wiki)
-* [Unirest - Simplified, lightweight HTTP libraries in multiple languages](http://unirest.io/)
-* [API Blueprint - API Documentation with powerful tooling](http://apiblueprint.org/)
-* [API Commons](http://apicommons.org/index.html)
-* [Platform for API Design, Development & Documentation | Apiary](https://apiary.io/)
-* [Developer Tools to Build and Manage Awesome APIs | Apigee](https://apigee.com/about/developers)
-* [Deployd](http://deployd.com/)
-* [dyson](http://webpro.github.io/dyson/)
-* [Welcome | RAML](https://raml.org/index.html)
-* [Everest - A beautiful, cross-platform REST client.](https://github.com/RohitAwate/Everest)
-
-### [Desarrollo] - [FrontEnd]
+#### [Programación] - [Web] - [FrontEnd]
 
 * [A simple, responsive, and tiny CSS grid for humans - Pills](http://arkpod.in/pills/)
 * [AlloyUI](https://alloyui.com/)
@@ -1107,91 +1127,28 @@
 * [React UI Kits](https://dev.to/kayis/react-ui-kits-3fm2)
 * [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 
-### [Desarrollo] - [Google]
+#### [Programación] - [Web] - [Bootstrap]
 
-* [Google Trends](https://trends.google.com/trends/)
-* [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
-* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
-* [The Mobile Playbook](http://www.themobileplaybook.com/es-latam/)
-* [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
-* [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Sitio web oficial de Google Analytics: Analítica web e informes – Google Analytics](http://www.google.es/intl/es/analytics/)
-* [Chrome Experiments](https://www.chromeexperiments.com/)
-* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud  |  Google Cloud Platform](https://cloud.google.com/)
-* [Google Open Source – opensource.google.com](https://opensource.google.com/)
-* [AdMob](https://apps.admob.com/v2/home?pli=1)
-* [GCP products described in 4 words or less – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
-* [All Community Tutorials  |  Google Cloud Platform Community  |  Google Cloud Platform](https://cloud.google.com/community/tutorials/)
-* [Guía de optimización en buscadores (SEO) para principiantes - Ayuda de Search Console](https://support.google.com/webmasters/answer/7451184)
-* [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
-* [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
-* [Google Developers](https://developers.google.com/)
+* [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
+* [Bootstrap editor, visual builder and playground. Fiddle with JavaScript, CSS, HTML5 and jQuery.](http://bootply.com/)
+* [18 Essential Bootstrap UI Editors](http://mashable.com/2013/10/20/bootstrap-editors/)
+* [Twitter Bootstrap 3 – JavaScript Components - SitePoint](http://www.sitepoint.com/twitter-bootstrap-3-javascript-components/)
+* [7 cool bootstrap 3 themes builders for faster bootstrap 3 theme development](http://smashinghub.com/7-cool-bootstrap-3-themes-builders-for-faster-bootstrap-3-theme-development.htm)
+* [Start Bootstrap - Free HTML Templates for Bootstrap 3](http://startbootstrap.com/)
+* [LayoutIt! - Interface Builder for Bootstrap](http://www.layoutit.com/)
+* [Recursos para Bootstrap](http://www.genbetadev.com/desarrollo-web/recursos-para-bootstrap)
+* [Understanding the Bootstrap 3 Grid System ♥ Scotch](http://scotch.io/bar-talk/understanding-the-bootstrap-3-grid-system)
+* [Download Bootstrap 3 UI Kit](http://bootstrapuikit.com/)
+* [Documentation - Bootflat](http://bootflat.github.io/documentation.html)
+* [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
+* [Smoke](http://alfredobarron.github.io/smoke/#/)
+* [Pingendo - web authoring with comfort](http://pingendo.com/)
+* [ThemeFinder](http://themefindr.net/?)
+* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
 
-### [Desarrollo] - [Hosting]
+#### [Programación] - [Web] -  [Bibliotecas]
 
-* [http-server](https://www.npmjs.com/package/http-server)
-* [httpster](https://simbco.github.io/httpster/)
-* [OpenShift by Red Hat](https://www.openshift.com/)
-* [SSD Cloud Server, VPS Server, Simple Cloud Hosting by DigitalOcean](https://www.digitalocean.com/)
-* [Pagoda Box](https://pagodabox.io/)
-
-### [Desarrollo] - [Legal]
-
-* [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
-* [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
-* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
-* [Aviso Legal Web y LOPD](http://www.techlegal.es/)
-* [Billable: Billing Made Simple. Period.](http://billable.me/)
-* [Docracy - Free Legal Documents](https://www.docracy.com/)
-* [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
-* [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
-* [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
-* [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
-* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
-
-### [Desarrollo] - [Microsoft]
-
-* [.NET](https://www.microsoft.com/net)
-* [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
-* [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
-* [Chocolatey - The package manager for Windows](https://chocolatey.org/)
-* [Documentación técnica, API y ejemplos de código | Microsoft Docs](https://docs.microsoft.com/es-es/)
-* [Documentación y tutoriales de introducción | Visual Studio](https://www.visualstudio.com/es/vs/getting-started/)
-* [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
-* [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
-* [NuGet Gallery | Home](https://www.nuget.org/)
-
-### [Desarrollo] - [Official]
-
-* [Amazon Developer Services](https://developer.amazon.com/)
-* [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
-* [Home | Oracle Developers](https://developer.oracle.com/)
-* [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
-* [Mozilla Developer Network](https://developer.mozilla.org/es/)
-* [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
-* [Software Intel®](https://software.intel.com/es-es)
-* [Welcome | Developer](https://developer.ubuntu.com/)
-* [Welcome to The Apache Software Foundation!](https://www.apache.org/)
-* [Yahoo Developer Network](https://developer.yahoo.com/)
-* [Stripe: Código abierto](https://stripe.com/open-source)
-
-### [Desarrollo] - [Testing]
-
-* [QUnit](http://qunitjs.com/)
-* [Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript](http://sinonjs.org/)
-* [Nightwatch.js](http://nightwatchjs.org/)
-* [BrowserSync: Time-saving synchronised browser testing.](http://www.browsersync.io/)
-* [PhantomJS | PhantomJS](http://phantomjs.org/)
-* [marmelab/gremlins.js · GitHub](https://github.com/marmelab/gremlins.js)
-* [How to Test Your Site Locally with Modern.IE](http://www.sitepoint.com/test-site-locally-modern-ie/)
-* [Pruebas de interoperabilidad, exploradores y multi-plataforma | Modern.IE](https://www.modern.ie/es-es)
-* [Jenkins](https://jenkins.io/index.html)
-
-### [Desarrollo] - [Bibliotecas]
-
-#### [Desarrollo] - [Bibliotecas] - [Animation & Effects]
+##### [Programación] - [Web] -  [Bibliotecas] - [Animation & Effects]
 
 * [A simple and easy jQuery plugin used to add&lt;br class=&quot;hidden-xs&quot;&gt;page transition on css animations. · Animsition](http://git.blivesta.com/animsition/)
 * [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
@@ -1228,19 +1185,19 @@
 * [OriDomi - origami for the web](http://oridomi.com/#)
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 
-#### [Desarrollo] - [Bibliotecas] - [Audio]
+##### [Programación] - [Web] -  [Bibliotecas] - [Audio]
 
 * [AmplitudeJS: The Open Source HTML5 Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs)
 
-#### [Desarrollo] - [Bibliotecas] - [Authentication]
+##### [Programación] - [Web] -  [Bibliotecas] - [Authentication]
 
 * [hello.js - Javascript API for OAuth2 authentication and REST services](http://adodson.com/hello.js/#hellojs)
 
-#### [Desarrollo] - [Bibliotecas] - [Buttons]
+##### [Programación] - [Web] -  [Bibliotecas] - [Buttons]
 
 * [Bttn.css - Demo](https://bttn.surge.sh/)
 
-#### [Desarrollo] - [Bibliotecas] - [Canvas & 3D]
+##### [Programación] - [Web] -  [Bibliotecas] - [Canvas & 3D]
 
 * [Fabric.js Javascript Canvas Library](http://fabricjs.com/)
 * [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/)
@@ -1248,7 +1205,7 @@
 * [jQuery Interactive 3D by Pete R. | The Pete Design](http://www.thepetedesign.com/demos/interactive_3d.html)
 * [obelisk.js is a JavaScript library for building isometric pixel objects](https://github.com/nosir/obelisk.js)
 
-#### [Desarrollo] - [Bibliotecas] - [Carousel & Slider]
+##### [Programación] - [Web] -  [Bibliotecas] - [Carousel & Slider]
 
 * [AviaSlider - a unique jQuery Image slideshow plugin!](http://aviathemes.com/aviaslider/)
 * [Blueberry - A simple, fluid, responsive jQuery image slider.](http://marktyrrell.com/labs/blueberry/)
@@ -1276,18 +1233,18 @@
 * [Superslides - A fullscreen slider for jQuery](http://archive.nicinabox.com/superslides/#2)
 * ⭐ [Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
 
-#### [Desarrollo] - [Bibliotecas] - [Date]
+##### [Programación] - [Web] -  [Bibliotecas] - [Date]
 
 * [date-fns - modern JavaScript date utility library](https://date-fns.org/)
 * [FlipClock.js](http://flipclockjs.com/)
 * [Moment.js | Home](http://momentjs.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Editor]
+##### [Programación] - [Web] -  [Bibliotecas] - [Editor]
 
 * [wysihtml5 - A better approach to rich text editing](http://xing.github.io/wysihtml5/)
 * [Redactor WYSIWYG html editor](https://imperavi.com/redactor/)
 
-#### [Desarrollo] - [Bibliotecas] - [Grid]
+##### [Programación] - [Web] -  [Bibliotecas] - [Grid]
 
 * [Fibonacci – Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
 * [Flexbox Grid](http://flexboxgrid.com/)
@@ -1305,23 +1262,23 @@
 * [Responsive Grid System | Cute Grids](http://www.cutegrids.com/)
 * ⭐ [Masonry](https://masonry.desandro.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Header]
+##### [Programación] - [Web] -  [Bibliotecas] - [Header]
 
 * [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
 * [jQuery Pin](http://webpop.github.io/jquery.pin/)
 * [stickUp - a free jQuery Plugin](http://lirancohen.github.io/stickUp/)
 
-#### [Desarrollo] - [Bibliotecas] - [Highlight]
+##### [Programación] - [Web] -  [Bibliotecas] - [Highlight]
 
 * [Prism](http://prismjs.com/)
 * [google/code-prettify: Automatically exported from code.google.com/p/google-code-prettify](https://github.com/google/code-prettify)
 * [highlight.js](https://highlightjs.org/)
 
-#### [Desarrollo] - [Bibliotecas] - [i18N]
+##### [Programación] - [Web] -  [Bibliotecas] - [i18N]
 
 * [Easy translation of your one-page website via jQuery](http://darksmo.github.io/jquery-localization-tool/)
 
-#### [Desarrollo] - [Bibliotecas] - [Images]
+##### [Programación] - [Web] -  [Bibliotecas] - [Images]
 
 * [Background Blur - plugin by @msurguy](https://msurguy.github.io/background-blur/)
 * [BBC-News/Imager.js · GitHub](https://github.com/BBC-News/Imager.js)
@@ -1338,11 +1295,11 @@
 * [Usage Examples | MaxImage 2.0](http://www.aaronvanderzwan.com/maximage/)
 * [Vegas Background jQuery Plugin](http://vegas.jaysalvat.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Map]
+##### [Programación] - [Web] -  [Bibliotecas] - [Map]
 
 * [gmaps.js — the easiest way to use Google Maps](http://hpneo.github.io/gmaps/examples/markers.html)
 
-#### [Desarrollo] - [Bibliotecas] - [Menu]
+##### [Programación] - [Web] -  [Bibliotecas] - [Menu]
 
 * [jQuery.mmenu » slick app look-alike sliding menus for your mobile website](http://mmenu.frebsite.nl/)
 * [Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
@@ -1350,7 +1307,7 @@
 * [adtile/fixed-nav: Responsive, fixed and touch friendly one page navigation with animated scrolling.](https://github.com/adtile/fixed-nav)
 * [Sidr - Berriart](https://www.berriart.com/sidr/)
 
-#### [Desarrollo] - [Bibliotecas] - [Notifications & Tooltips]
+##### [Programación] - [Web] -  [Bibliotecas] - [Notifications & Tooltips]
 
 * [Chardin.js](http://heelhook.github.io/chardin.js/)
 * [Hint.css - A tooltip library in CSS](https://kushagragour.in/lab/hint/)
@@ -1364,7 +1321,7 @@
 * [qTip2 - Pretty powerful tooltips](http://qtip2.com/)
 * [Tether](http://tether.io/)
 
-#### [Desarrollo] - [Bibliotecas] - [Presentations]
+##### [Programación] - [Web] -  [Bibliotecas] - [Presentations]
 
 * [deck.js » Modern HTML Presentations](http://imakewebthings.com/deck.js/#intro)
 * [FormidableLabs/spectacle · GitHub](https://github.com/FormidableLabs/spectacle)
@@ -1375,7 +1332,7 @@
 * [Shower Presentation Engine](https://shwr.me/)
 * [WebSlides: Create Beautiful HTML Presentations](https://webslides.tv/#slide=1)
 
-#### [Desarrollo] - [Bibliotecas] - [Progress, charts & display]
+##### [Programación] - [Web] -  [Bibliotecas] - [Progress, charts & display]
 
 * [Addepar | Ember Charts](http://addepar.github.io/#/ember-charts/overview)
 * [arbor.js](http://arborjs.org/)
@@ -1405,11 +1362,11 @@
 * [List.js - Search, sort, filters, flexibility to tables, list and more!](http://listjs.com/)
 * [TOAST UI :: Make Your Web Delicious!](http://ui.toast.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Refresh]
+##### [Programación] - [Web] -  [Bibliotecas] - [Refresh]
 
 * [Pull to Refresh.js](https://www.boxfactura.com/pulltorefresh.js/)
 
-#### [Desarrollo] - [Bibliotecas] - [Scrolls]
+##### [Programación] - [Web] -  [Bibliotecas] - [Scrolls]
 
 * [· Scrolld.js ·](http://www.scrolldjs.com/)
 * [Angled Edges](https://angled-edges.josephfus.co/)
@@ -1443,7 +1400,7 @@
 * [zynga/scroller @ GitHub](http://zynga.github.io/scroller/)
 * [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
 
-#### [Desarrollo] - [Bibliotecas] - [Social]
+##### [Programación] - [Web] -  [Bibliotecas] - [Social]
 
 * [#50C1AL Share, #50C1AL Profiles](http://tolgaergin.com/files/social/index.html#)
 * [carrot/share-button · GitHub](https://github.com/carrot/share-button)
@@ -1462,12 +1419,12 @@
 * [Social Share Kit - Social sharing buttons, icons and popups](http://socialsharekit.com/)
 * [Socialite by tmort](http://socialitejs.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Sprite]
+##### [Programación] - [Web] -  [Bibliotecas] - [Sprite]
 
 * [parallax.js](http://wagerfield.github.io/parallax/)
 * [Spritely.net](http://www.spritely.net/)
 
-#### [Desarrollo] - [Bibliotecas] - [SVG Animation]
+##### [Programación] - [Web] -  [Bibliotecas] - [SVG Animation]
 
 * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io/)
 * [SVG animation with SMIL - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
@@ -1487,7 +1444,7 @@
 * [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
 * ⭐ [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
 
-#### [Desarrollo] - [Bibliotecas] - [Text]
+##### [Programación] - [Web] -  [Bibliotecas] - [Text]
 
 * [FitText - A plugin for inflating web type](http://fittextjs.com/)
 * [Arctext.js - Curving Text with CSS3 and jQuery | Codrops](http://tympanus.net/codrops/2012/01/24/arctext-js-curving-text-with-css3-and-jquery/)
@@ -1505,17 +1462,17 @@
 * [Sassline](http://sassline.com/)
 * [30 jQuery Text Effect Libraries You Need To Know](http://www.hongkiat.com/blog/jquery-text-effect-libraries/)
 
-#### [Desarrollo] - [Bibliotecas] - [Timeline]
+##### [Programación] - [Web] -  [Bibliotecas] - [Timeline]
 
 * [Chronoline.js](http://stoicloofah.github.io/chronoline.js/)
 * [Timeline JS - Beautifully crafted timelines that are easy, and intuitive to use.](http://timeline.verite.co/)
 
-#### [Desarrollo] - [Bibliotecas] - [UI]
+##### [Programación] - [Web] -  [Bibliotecas] - [UI]
 
 * [Marko](http://markojs.com/)
 * [jKit - jQuery based UI Toolkit - Index](http://jquery-jkit.com/)
 
-#### [Desarrollo] - [Bibliotecas] - [Video]
+##### [Programación] - [Web] -  [Bibliotecas] - [Video]
 
 * [amalia.js - Metadata enriched HTML5 video player](https://ina-foss.github.io/amalia.js/)
 * [Cinematico | Create an exceptional website for your YouTube or Vimeo library.](http://cinemati.co/)
@@ -1528,16 +1485,84 @@
 * [Vide - easy as hell jQuery plugin for video backgrounds](http://vodkabears.github.io/vide/)
 * [Videogular | A video player for AngularJS](http://www.videogular.com/#/)
 
-### [Desarrollo] - [Misc]
+#### [Programación] - [Web] - [CDN]
 
-#### [Desarrollo] - [Misc] - [Analytics]
+* [Open Source Projects MaxCDN Sponsors.](http://www.maxcdn.com/open-source/)
+* [A List of Free Public CDNs for Web Developers](http://sixrevisions.com/resources/free-public-cdns/)
+* [cdnjs.com - the missing cdn for javascript and css](https://cdnjs.com/)
+* [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
+
+#### [Programación] - [Web] - [Hosting]
+
+* [http-server](https://www.npmjs.com/package/http-server)
+* [httpster](https://simbco.github.io/httpster/)
+* [OpenShift by Red Hat](https://www.openshift.com/)
+* [SSD Cloud Server, VPS Server, Simple Cloud Hosting by DigitalOcean](https://www.digitalocean.com/)
+* [Pagoda Box](https://pagodabox.io/)
+
+#### [Programación] - [Web] - [Analytics]
 
 * [Open Web Analytics](http://www.openwebanalytics.com/)
 * [#1 Free Web & Mobile Analytics Software](https://matomo.org/)
 
-#### [Desarrollo] - [Misc] - [Blogging]
+#### [Programación] - [Web] - [HTTP]
 
-##### [Desarrollo] - [Misc] - [Blogging] - [CMS]
+* [Fenix Web Server | Static Web Servers for the Desktop](http://fenixwebserver.com/)
+* [httpie - Modern command line HTTP client](https://github.com/jakubroztocil/httpie)
+* [h2non/toxy](https://github.com/h2non/toxy)
+
+#### [Programación] - [Web] - [Testing]
+
+* [QUnit: A JavaScript Unit Testing framework](https://qunitjs.com/)
+* [Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript](https://sinonjs.org/)
+* [Nightwatch.js is an integrated, easy to use End-to-End testing solution for browser based apps and websites](https://nightwatchjs.org/)
+* [BrowserSync: Time-saving synchronised browser testing.](https://www.browsersync.io/)
+* 👽 [marmelab/gremlins.js - Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
+
+#### [Programación] - [Web] - [API]
+
+##### [Programación] - [Web] - [API] - [Learn]
+
+* [Buenas prácticas para el Diseño de una API RESTful Pragmática](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
+* [Define el diseño de tus APIs con Blueprint, RAML o Swagger](https://www.genbetadev.com/programacion-en-la-nube/define-el-diseno-de-tus-apis-con-blueprint-raml-o-swagger)
+
+##### [Programación] - [Web] - [API] - [List]
+
+* [Quandl Documentation](https://docs.quandl.com/#introduction)
+* [Open Exchange Rates](https://openexchangerates.org/)
+* [Acciona SA: BME:ANA quotes & news - Google Finance](https://www.google.com/finance?q=BME%3AANA&ei=zosbVqmeN4nGU4Xqu4gG)
+* [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
+* [AnyAPI - Discover and Try Public APIs](https://any-api.com/)
+* [API Dashboard: ProgrammableWeb](http://www.programmableweb.com/apis)
+* [Google APIs Explorer](https://developers.google.com/apis-explorer/?csw=1#p/)
+* [Library :: Temboo](https://temboo.com/library/)
+* [Open Data Network](https://www.opendatanetwork.com/)
+* [The feedly Cloud API](https://developer.feedly.com/)
+* [Battle.net Developer Portal - Blizzard Developer Portal](https://dev.battle.net/)
+* [IGDB: Free Video Game Database API - Internet Game Database](https://www.igdb.com/api)
+* [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/abhishekbanthia/Public-APIs)
+* [RapidAPI Marketplace | Home](https://rapidapi.com/)
+
+##### [Programación] - [Web] - [API] - [Utils]
+
+* [Postman | Supercharge your API workflow](https://www.getpostman.com/)
+* [World's Most Popular API Framework | Swagger](https://swagger.io/)
+* [Insomnia REST Client](https://insomnia.rest/)
+* [Quandl4j by jimmoores](http://quandl4j.org/)
+* [Home · linkedin/rest.li Wiki](https://github.com/linkedin/rest.li/wiki)
+* [Unirest - Simplified, lightweight HTTP libraries in multiple languages](http://unirest.io/)
+* [API Blueprint - API Documentation with powerful tooling](http://apiblueprint.org/)
+* [API Commons](http://apicommons.org/index.html)
+* [Platform for API Design, Development & Documentation | Apiary](https://apiary.io/)
+* [Developer Tools to Build and Manage Awesome APIs | Apigee](https://apigee.com/about/developers)
+* [Deployd](http://deployd.com/)
+* [dyson](http://webpro.github.io/dyson/)
+* [Welcome | RAML](https://raml.org/index.html)
+* [Everest - A beautiful, cross-platform REST client.](https://github.com/RohitAwate/Everest)
+
+#### [Programación] - [Web] - [Blogging]
+
+##### [Programación] - [Web] - [Blogging] - [CMS]
 
 * [A Free and Easy CMS for Everyone - gp|Easy CMS](http://gpeasy.com/)
 * [Alternativas a WordPress: Generadores estáticos | Emezeta](http://www.emezeta.com/articulos/alternativas-a-wordpress-generadores-estaticos)
@@ -1583,7 +1608,7 @@
 * [headless - A list of Content Management System](https://headlesscms.org/)
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 
-##### [Desarrollo] - [Misc] - [Blogging] - [Ghost]
+##### [Programación] - [Web] - [Blogging] - [Ghost]
 
 * [Just 30 Beautiful Ghost Themes - CrazyLeaf Design Blog](http://www.crazyleafdesign.com/blog/30-beautiful-ghost-themes/)
 * [Blogging with Ease: Best Resources for Ghost - noupe](http://www.noupe.com/cms/blogging-with-ease-best-resources-for-the-new-ghost-platform-80211.html)
@@ -1600,7 +1625,7 @@
 * [How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 * [How To Use the DigitalOcean Ghost Application | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-ghost-application)
 
-##### [Desarrollo] - [Misc] - [Blogging] - [Jekyll]
+##### [Programación] - [Web] - [Blogging] - [Jekyll]
 
 * [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 * [Jekyll Themes and Templates - Jekyll Tips](http://jekyll.tips/templates/)
@@ -1608,7 +1633,7 @@
 * [Jekyll Portfolio Tutorial - David Leonard](http://drksephy.github.io/2014/04/09/jekyll/)
 * [A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
 
-##### [Desarrollo] - [Misc] - [Blogging] - [Static Generator]
+##### [Programación] - [Web] - [Blogging] - [Static Generator]
 
 * [DocPad - Streamlined Web Development](http://docpad.org/)
 * [Harp, the static web server with built-in preprocessing](http://harpjs.com/)
@@ -1624,96 +1649,60 @@
 * [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
 * [Cogear.JS is a static websites generator](https://cogearjs.org/)
 
-#### [Desarrollo] - [Misc] - [Bootstrap]
+### [Programación] - [Utils]
 
-* [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
-* [Bootstrap editor, visual builder and playground. Fiddle with JavaScript, CSS, HTML5 and jQuery.](http://bootply.com/)
-* [18 Essential Bootstrap UI Editors](http://mashable.com/2013/10/20/bootstrap-editors/)
-* [Twitter Bootstrap 3 – JavaScript Components - SitePoint](http://www.sitepoint.com/twitter-bootstrap-3-javascript-components/)
-* [7 cool bootstrap 3 themes builders for faster bootstrap 3 theme development](http://smashinghub.com/7-cool-bootstrap-3-themes-builders-for-faster-bootstrap-3-theme-development.htm)
-* [Start Bootstrap - Free HTML Templates for Bootstrap 3](http://startbootstrap.com/)
-* [LayoutIt! - Interface Builder for Bootstrap](http://www.layoutit.com/)
-* [Recursos para Bootstrap](http://www.genbetadev.com/desarrollo-web/recursos-para-bootstrap)
-* [Understanding the Bootstrap 3 Grid System ♥ Scotch](http://scotch.io/bar-talk/understanding-the-bootstrap-3-grid-system)
-* [Download Bootstrap 3 UI Kit](http://bootstrapuikit.com/)
-* [Documentation - Bootflat](http://bootflat.github.io/documentation.html)
-* [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
-* [Smoke](http://alfredobarron.github.io/smoke/#/)
-* [Pingendo - web authoring with comfort](http://pingendo.com/)
-* [ThemeFinder](http://themefindr.net/?)
-* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
+* ⭐ [DevDocs](http://devdocs.io/)
+* ⭐ [dochub.io](http://dochub.io/)
+* ⭐ [Zeal - offline API documentation browser](http://zealdocs.org/)
+* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
+* ⭐ [searchcode | source code search engine](https://searchcode.com/)
+* [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
+* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
+* [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
+* [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
+* [Color Hex Color Codes](http://www.color-hex.com/)
+* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
+* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
+* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
+* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
+* [HEAD - A free guide to head elements](https://gethead.info/#google-android)
+* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
+* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
+* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
+* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
+* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
+* [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
+* [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
+* [sonar, a linting tool for the web](https://sonarwhal.com/)
+* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* [uinames.com is a simple tool to generate fake names](http://uinames.com/)
+* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
+* [Web Developer Checklist](http://webdevchecklist.com/)
+* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
+* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
+* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
+* ⭐ [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 
-#### [Desarrollo] - [Misc] - [CDN]
+#### [Programación] - [Utils] - [Legal]
 
-* [Open Source Projects MaxCDN Sponsors.](http://www.maxcdn.com/open-source/)
-* [A List of Free Public CDNs for Web Developers](http://sixrevisions.com/resources/free-public-cdns/)
-* [cdnjs.com - the missing cdn for javascript and css](https://cdnjs.com/)
-* [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
+* [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
+* [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+* [Aviso Legal Web y LOPD](http://www.techlegal.es/)
+* [Billable: Billing Made Simple. Period.](http://billable.me/)
+* [Docracy - Free Legal Documents](https://www.docracy.com/)
+* [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
+* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
+* [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
+* [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
+* [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
+* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
 
-#### [Desarrollo] - [Misc] - [Experiments]
-
-* [codedoodl.es \\ creative code sketches](http://codedoodl.es/)
-
-#### [Desarrollo] - [Misc] - [Gradle]
-
-* [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
-* [Gradle Tutorial : Part 2 : Java Projects | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
-* [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
-* [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
-* [Gradle Tutorial : Part 5 : Gradle App Engine Plugin | iRomin](http://rominirani.com/2014/08/15/gradle-tutorial-part-5-gradle-app-engine-plugin/)
-* [Gradle Tutorial : Part 6 : Android Studio + Gradle | iRomin](http://rominirani.com/2014/08/19/gradle-tutorial-part-6-android-studio-gradle/)
-* [Gradle Tutorial : Part 7 : Android Studio + App Engine + Gradle | iRomin](http://rominirani.com/2014/08/20/gradle-tutorial-part-7-android-studio-app-engine-gradle/)
-* [Gradle Tutorial : Part 8 : Gradle + App Engine + Endpoints + Android Studio | iRomin](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/)
-* [Gradle Tutorial : Part 9 : Cloud Endpoints + Persistence + Android Studio | iRomin](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/)
-* [Gradle Tutorial : Part 10 : Consuming Endpoints in Android Code | iRomin](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/)
-* [“Build Automation Tools” o como se diga en Cristiano | Cocoa Mental](http://www.cocoaosx.com/2014/01/21/build-automation-tools-make-cmake-rake-gradle-maven/)
-* [Exprimiendo las ‘builds’ con Gradle | Androcode](http://androcode.es/2015/07/exprimiendo-las-builds-con-gralde/)
-
-#### [Desarrollo] - [Misc] - [HTTP]
-
-* [Fenix Web Server | Static Web Servers for the Desktop](http://fenixwebserver.com/)
-* [httpie - Modern command line HTTP client](https://github.com/jakubroztocil/httpie)
-* [h2non/toxy](https://github.com/h2non/toxy)
-
-#### [Desarrollo] - [Misc] - [Virtual Machines]
-
-* [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
-* [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
-* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
-
-#### [Desarrollo] - [Misc] - [WEB]
-
-* [BOWER: A package manager for the web](http://bower.io/)
-* [Brunch | ultra-fast HTML5 build tool](http://brunch.io/)
-* [Couscous! Put your documentation in a website!](http://couscous.io/)
-* [Duo](http://duojs.org/)
-* [Five Grunt Tasks You Won't Want to Miss!](http://www.sitepoint.com/five-grunt-tasks-wont-want-miss/)
-* [Getting started with gulp — Mark Goodyear — Front-end developer and designer](http://markgoodyear.com/2014/01/getting-started-with-gulp/)
-* [Grunt for People Who Think Things Like Grunt are Weird and Hard ◆ 24 ways](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
-* [Gulp.js en español - tutorial básico y primeros pasos](http://frontend-labs.com/1669--gulp-js-en-espanol-tutorial-basico-primeros-pasos-y-ejemplos)
-* [How to follow the Google webmaster guidelines](https://varvy.com/)
-* [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
-* [muicss/loadjs: A tiny async loader / dependency manager for modern browsers (711 bytes)](https://github.com/muicss/loadjs)
-* [nickjanssen/angus · GitHub](https://github.com/nickjanssen/angus)
-* [Nightmare - A high-level browser automation library](http://www.nightmarejs.org/)
-* [Perf Tooling Today](http://perf-tooling.today/)
-* [siddharthkp/cost-of-modules: Find out which of your dependencies are slowing you down 🐢](https://github.com/siddharthkp/cost-of-modules/)
-* [webpack module bundler](https://webpack.js.org/)
-* [Yarn](https://yarnpkg.com/)
-* [Brunch - Build tool](https://brunch.io/)
-* [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
-* [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
-* [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
-* [web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.](https://web.dev/)
-  * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
-
-#### [Desarrollo] - [Misc] - [Markdown]
-
-* ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
-* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
-* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
-* [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
-* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
+----
 
 ## [Games]
 
