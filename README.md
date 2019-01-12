@@ -1104,6 +1104,8 @@
 * [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
 * [JetBrains - Ring UI](https://jetbrains.github.io/ring-ui/master/index.html)
 * [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
+* [React UI Kits](https://dev.to/kayis/react-ui-kits-3fm2)
+* [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 
 ### [Desarrollo] - [Google]
 
@@ -2867,12 +2869,14 @@
 ## [Linux]
 
 * [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
+* ⭐🎓 [Digital Ocean - Find all the resources you need to go from development to production](https://www.digitalocean.com/community)
 * 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
-* [GitHub - atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
+* 👽 [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
 * [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
 * ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
+* 📝 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
 
 ### [Linux] - [Command-line]
 
@@ -2884,64 +2888,40 @@
 * [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
 * ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
 
-### [Linux] - [Shell Script]
+### [Linux] - [Shell Scripting]
 
 * 🔧 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 * [Shell Script Quick Reference](https://www.abscrete.com/shell-script-quick-reference/)
 
-### [Linux] - [Learn]
-
-* [Administración de usuarios y grupos | Redes Linux](http://www.ite.educacion.es/formacion/materiales/85/cd/linux/m1/administracin_de_usuarios_y_grupos.html)
-* [APT, APTITUDE y DPKG : Guía Rápida : Chuleta](http://claves-de-linux.blogspot.com.es/2012/04/apt-aptitude-dpkg-chuleta-guia-rapida.html)
-* [Authenticating by Public Key OpenSSH](http://archive.networknewz.com/networknewz-10-20030707AuthenticatingbyPublicKeyOpenSSH.html)
-* [Capítulo VI: Gestión de permisos, usuarios y grupos en Linux | AlberTUX - sin ©](https://albertux75.wordpress.com/2008/08/01/capitulo-vi-gestion-de-permisos-usuarios-y-grupos-en-linux/)
-* [Comandos last y who: listar los usuarios logueados en tu sistema linux | La mirada del replicante](http://lamiradadelreplicante.com/2012/10/12/comandos-last-y-who-listar-los-usuarios-logueados-en-tu-sistema-linux/)
-* [Cómo sincronizar 2 equipos de manera bidireccional con Unison](http://ubunlog.com/como-sincronizar-2-equipos-de-manera-bidireccional-con-unison/)
-* [Cómo sincronizar la configuración en Linux de aplicaciones](http://hipertextual.com/archivo/2014/09/sincronizar-configuracion-aplicaciones-linux/)
-* [Creación y uso de alias de comandos (linux) - Felinfo: Java, Linux, Virtualización. Open Source.](http://felinfo.blogspot.com.es/2011/12/creacion-y-uso-de-alias-de-comandos.html)
-* [Crear un Screencast en un Gif](http://www.linuxhispano.net/2013/11/07/crear-un-screencast-en-un-gif/)
-* [Descarga un sitio entero con wget aún cuando hayan restricciones](http://blog.desdelinux.net/descarga-sitio-entero-wget-cuando-hayan-restricciones/)
-* [hosty: Script para eliminar publicidad en cualquier navegador](http://blog.desdelinux.net/hosty-script-eliminar-publicidad/)
-* [Learn the Wget Command with 20 Practical Examples](http://www.labnol.org/software/wget-command-examples/28750/)
-* [Maximiza la seguridad en GNU/Linux](http://blog.desdelinux.net/maxima-seguridad-linux/)
-* [Particionar, dar formato y montar un disco duro en linux. Pasos para añadir un nuevo disco duro.](https://www.pedroventura.com/linux/anadir-y-dar-formato-a-un-nuevo-disco-duro-en-linux/)
-* [Que hacer después de instalar Linux Mint 18.1 &quot;Serena&quot; | Desde Linux](http://blog.desdelinux.net/despues-instalar-linux-mint-18-1-serena/)
-* [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
-* [Wget, algunos ejemplos de lo que se puede hacer con esta herramienta](https://ubunlog.com/wget-ejemplos-hacer-herramienta/)
-
 ### [Linux] - [Monitoring]
 
+* 👽 [firehol/netdata - Real-time performance monitoring, done right!](https://github.com/firehol/netdata)
+* [firehol/netdata - Wiki](https://github.com/firehol/netdata/wiki)
 * [Chef - Automate IT Infrastructure | Chef](https://www.chef.io/chef/)
-* [GitHub - firehol/netdata: Get control of your servers. Simple. Effective. Awesome. https://my-netdata.io/](https://github.com/firehol/netdata)
-* [Home · firehol/netdata Wiki · GitHub](https://github.com/firehol/netdata/wiki)
-* [Installation — Ansible Documentation](http://docs.ansible.com/ansible/latest/intro_installation.html)
-* [Monitorix Project by Jordi Sanfeliu (aka Mikaku)](http://www.monitorix.org/)
-* [Net Activity Viewer](http://netactview.sourceforge.net/index.html)
+* [Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/index.html)
+* [Monitorix is a free, open source, lightweight system monitoring tool designed to monitor as many services and system resources as possible.](http://www.monitorix.org/)
+* [Netactview is a graphical network connections viewer for Linux, similar in functionality with Netstat.](http://netactview.sourceforge.net/index.html)
 * [Terraform by HashiCorp](https://www.terraform.io/)
 * [Foreman :: Introduction](https://theforeman.org/introduction.html)
 * [Monit is a small Open Source utility for managing and monitoring Unix systems.](https://mmonit.com/monit/)
-* [Graylog - Log anagement](https://www.graylog.org/)
+* [Graylog - Log Management](https://www.graylog.org/)
 
 ### [Linux] - [Ubuntu]
 
-* [3 programas ERP para usar en nuestro Ubuntu](http://ubunlog.com/3-programas-erp-para-usar-en-nuestro-ubuntu/)
-* [Cómo actualizar Ubuntu siempre a una versión LTS](http://ubunlog.com/como-actualizar-ubuntu-siempre-a-una-version-lts/)
-* [Cómo configurar Ubuntu Server para recibir actualizaciones de seguridad en forma automática](http://ubunlog.com/como-configurar-ubuntu-server-para-recibir-actualizaciones-de-seguridad-en-forma-automatica/)
-* [Cómo crear un USB Bootable de Ubuntu 16.10 fácil y rápidamente](http://ubunlog.com/crear-usb-bootable-ubuntu-16-10/)
-* [Cómo instalar Webmin en Ubuntu 15.04](http://ubunlog.com/como-instalar-webmin-en-ubuntu-15-04/)
-* [Cómo montar directorios remotos con SSHFS](http://ubunlog.com/como-montar-directorios-remotos-con-sshfs/)
-* [Cómo poner el logotipo de Ubuntu en la terminal](https://ubunlog.com/poner-logotipo-ubuntu-la-terminal/)
-* [Guía de Ubuntu Server](https://help.ubuntu.com/14.04/serverguide/index.html)
+* [Ubuntu](https://www.ubuntu.com/)
+* 🎓 [Official Ubuntu Documentation](https://help.ubuntu.com/)
 * [Home - Ubuntu Wiki](https://wiki.ubuntu.com/)
-* [Kexi, el rival de Access para Linux ya llega a la versión 3](http://ubunlog.com/kexi-el-rival-de-access-para-linux-ya-llega-a-la-version-3/)
-* [Prepara Ubuntu (u otra distro) para el desarrollo web](http://blog.desdelinux.net/desarrollador-web-distribucion/)
-* [Todo sobre Ubuntu - Ubunlog](http://ubunlog.com/)
-* [Ubuntu borrar kernels antiguos para liberar espacio](https://www.garron.me/es/gnu-linux/ubuntu-borrar-kernels-antiguos.html)
-* [ubuntu-make - Ubuntu Wiki](https://wiki.ubuntu.com/ubuntu-make)
-* [Snaps on Ubuntu | Desktop | Ubuntu](https://www.ubuntu.com/desktop/snappy)
-* [uApp Explorer](https://uappexplorer.com/snaps)
-* [Flathub Beta](https://flathub.org/home)
+* [Ubuntu Security](https://wiki.ubuntu.com/Security/Features)
+* [SSHFS is a tool that uses SSH to enable mounting of a remote filesystem on a local machine](https://help.ubuntu.com/community/SSHFS)
+* [A universal app store for Linux](https://snapcraft.io/)
+* [uApp Explorer is the unofficial viewer for snaps and Ubuntu Touch apps.](https://uappexplorer.com/snaps)
+* [Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution.](https://flathub.org/home)
+* [Ubuntu Make is a command line tool which allows you to download the latest version of popular developer tools](https://wiki.ubuntu.com/ubuntu-make)
+* 📝 [Todo sobre Ubuntu - Ubunlog](http://ubunlog.com/)
 * [The Log File Navigator - An advanced log file viewer for the small-scale](http://lnav.org/)
+* [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
+* 👽 [KittyKatt/screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
+* 🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
 
 ----
 
