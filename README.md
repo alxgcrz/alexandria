@@ -4,18 +4,8 @@
 
 ----
 
-## [Programación]
+## [Programming]
 
-* ⭐ [Exercism.io - Level up your programming skills](http://exercism.io/)
-* [Codewars - Achieve mastery through challenge](https://www.codewars.com/)
-* ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
-* [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
-* [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
-* [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
-* [Learn how to code and build efficient algorithms](https://www.spoj.com/)
-* [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
-* [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
-* ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
 * [The Clean Code Blog](http://blog.cleancoder.com/)
 * [Build your own X - Github](https://github.com/danistefanovic/build-your-own-x)
@@ -24,32 +14,97 @@
 * ⭐ [Google Codelabs](https://codelabs.developers.google.com/)
 * ⭐ [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * ⭐ [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
-* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
 * [Open Source Guides](https://opensource.guide/)
 * ⭐ [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [/r/learningprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq)
 * ⭐ [Curated lists and insight into burgeoning industries, topics, and communities.](https://github.com/collections)
 * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/wiki/index)
-* ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-* 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Scratch 3.0](https://scratch.mit.edu/)
+* [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
 
-### [Programación] - [Awesomeness]
+### [Programming] - [Utils]
 
-* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
+* ⭐ [DevDocs](http://devdocs.io/)
+* ⭐ [dochub.io](http://dochub.io/)
+* ⭐ [Zeal - offline API documentation browser](http://zealdocs.org/)
+* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
+* ⭐ [searchcode | source code search engine](https://searchcode.com/)
+* [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
+* [Pointers to useful, well-written, and otherwise beautiful documentation. - GitHub](https://github.com/PharkMillups/beautiful-docs)
+* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
+* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
+* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
+* [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
+* [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
+* [Color Hex Color Codes](http://www.color-hex.com/)
+* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
+* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
+* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
+* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
+* [HEAD - A free guide to head elements](https://gethead.info/#google-android)
+* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
+* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
+* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
+* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
+* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
+* [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
+* [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
+* [sonar, a linting tool for the web](https://sonarwhal.com/)
+* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* [uinames.com is a simple tool to generate fake names](http://uinames.com/)
+* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
+* [Web Developer Checklist](http://webdevchecklist.com/)
+* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
+* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
+* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
+* ⭐ [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
+
+### [Programming] - [Awesomeness]
+
+* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
 * [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
-* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
+* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
+* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
 * [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
 * ⭐ [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
-* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
-* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-### [Programación] - [Books]
+### [Programming] - [Challenge]
+
+* ⭐ [Exercism.io - Level up your programming skills](http://exercism.io/)
+* [Codewars - Achieve mastery through challenge](https://www.codewars.com/)
+* ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
+* [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
+* [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
+* [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
+* [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
+
+### [Programming] - [Academy]
+
+* [DevCode | Aprende a desarrollar aplicaciones web y móviles](https://www.devcode.la/)
+* [Free Online Classes & Nanodegrees | Udacity](https://eu.udacity.com/)
+* [Khan Academy | Práctica, lecciones y cursos en línea gratuitos](https://es.khanacademy.org/)
+* [Learn to code | Codecademy](https://www.codecademy.com/)
+* [Learn to Code and Help Nonprofits | freeCodeCamp](https://www.freecodecamp.org/)
+* [Learn to Code Online with Code School | Code School](https://www.codeschool.com/)
+* [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
+* [Microsoft Virtual Academy—Recursos de aprendizaje gratuitos para desarrolladores, profesionales de TI y científicos de datos](https://mva.microsoft.com/)
+* [Programmr | Get Better At Programming](http://www.programmr.com/)
+* [Talento del futuro • Acámica](https://www.acamica.com/)
+* [Udemy: cursos en línea en cualquier momento y en cualquier lugar](https://www.udemy.com/)
+* [Coursera | Online Courses From Top Universities. Join for Free](https://es.coursera.org/)
+* [Review the best online courses on the internet in one place | Courseroot](https://courseroot.com/)
+* [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
+* ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
+
+### [Programming] - [Books]
 
 * ⭐ [Free Programming Ebooks from O’Reilly](https://www.oreilly.com/programming/free/)
 * [E-books | Succinctly Series | Syncfusion](https://www.syncfusion.com/ebooks)
@@ -65,7 +120,7 @@
 * ⭐ [Technology and Engineering eBooks](https://it-eb.com/)
 * [The Nature of Code](https://natureofcode.com/book/)
 
-### [Programación] - [Style Guide]
+### [Programming] - [Style Guide]
 
 * ⭐ [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Google Style Guides](https://google.github.io/styleguide/)
@@ -73,7 +128,15 @@
 * 👽 [SalGnt/cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 * [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
 
-### [Programación] - [Android]
+### [Programming] - [Algorithms]
+
+* ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
+* 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+* [Learn how to code and build efficient algorithms](https://www.spoj.com/)
+* [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
+* ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
+
+### [Programming] - [Android]
 
 * [Android](https://www.android.com/)
 * [Desarrolladores de Android | Android Developers](https://developer.android.com/?hl=es)
@@ -84,7 +147,7 @@
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Google's Maven Repositoy](https://dl.google.com/dl/android/maven2/index.html)
 
-#### [Programación] - [Android] - [Diseño]
+#### [Programming] - [Android] - [Diseño]
 
 * [Styling Android – A technical guide to improving the UI and UX of Android apps](https://blog.stylingandroid.com/)
 * [Material Components](https://material.io/components/)
@@ -104,7 +167,7 @@
 * [InVision | Digital Product Design, Workflow & Collaboration](https://www.invisionapp.com/)
 * [Prototyping tool for web and mobile apps - Justinmind](https://www.justinmind.com/)
 
-#### [Programación] - [Android] - [Frameworks]
+#### [Programming] - [Android] - [Frameworks]
 
 * [Apache Cordova](http://cordova.apache.org/)
 * [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
@@ -125,7 +188,7 @@
 * [Weex](https://weex.apache.org/)
 * [WinJS Tutorial](http://try.buildwinjs.com/)
 
-#### [Programación] - [Android] - [Learn]
+#### [Programming] - [Android] - [Learn]
 
 * [Android Development](http://www.vogella.com/tutorials/android.html)
 * [ConstraintLayout](https://constraintlayout.com/)
@@ -151,7 +214,7 @@
 * [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
 * [Running and Debugging Your Android Application Remotely](http://docwiki.appmethod.com/appmethod/1.15/topics/en/Running_and_Debugging_Your_Android_Application_Remotely)
 
-##### [Programación] - [Android] - [Learn] - [Android Studio]
+##### [Programming] - [Android] - [Learn] - [Android Studio]
 
 * [Android Studio - Android Developers](https://developer.android.com/studio/?hl=es)
 * [Android Studio Shortcuts - Android Developers](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=es-419)
@@ -162,7 +225,7 @@
 * [Making production YouTube videos from Android Studio screen recordings(video capture) : androiddev](https://www.reddit.com/r/androiddev/comments/5cdikb/making_production_youtube_videos_from_android/)
 * [Welcome to my very own Android Studio protip series](https://tips.seebrock3r.me/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286)
 
-##### [Programación] - [Android] - [Learn] - [Samples]
+##### [Programming] - [Android] - [Learn] - [Samples]
 
 * [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
 * ⭐ [The Google I/O 2018 Android App](https://github.com/google/iosched/)
@@ -171,7 +234,7 @@
 * [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
 * [Plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
 
-##### [Programación] - [Android] - [Learn] - [FOSS]
+##### [Programming] - [Android] - [Learn] - [FOSS]
 
 * [F-Droid](https://f-droid.org/packages/)
 * [Subreddit r/fossdroid](https://www.reddit.com/r/fossdroid/)
@@ -202,7 +265,7 @@
 * [ExoPlayer is an application level media player for Android](https://github.com/google/ExoPlayer)
 * [AntennaPod - A podcast manager for Android](https://github.com/AntennaPod/AntennaPod)
 
-##### [Programación] - [Android] - [Learn] - [Training]
+##### [Programming] - [Android] - [Learn] - [Training]
 
 * ⭐ [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 * [Google Developer Training Repository](https://github.com/google-developer-training)
@@ -217,13 +280,13 @@
   * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
   * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
   
-#### [Programación] - [Android] - [Recursos]
+#### [Programming] - [Android] - [Recursos]
 
 * [google/guava · GitHub](https://github.com/google/guava)
 * [Mosh: the mobile shell](https://mosh.org/)
 * [jsoup Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 
-##### [Programación] - [Android] - [Recursos] - [Android Testing Framework]
+##### [Programming] - [Android] - [Recursos] - [Android Testing Framework]
 
 * [Testing Apps on Android | Android Developers](https://developer.android.com/training/testing/?hl=es)
 * [Testing Concepts | Android Developers](http://developer.android.com/intl/es/tools/testing/testing_android.html)
@@ -238,20 +301,20 @@
 * [Testing on Android part 1: Unit Testing](http://www.tinmegali.com/en/testing-part1-unit-testing/)
 * [Developing Android unit and instrumentation tests - Tutorial](http://www.vogella.com/tutorials/AndroidTesting/article.html)
 
-##### [Programación] - [Android] - [Recursos] - [Anotaciones]
+##### [Programming] - [Android] - [Recursos] - [Anotaciones]
 
 * [Mejorar la inspección de código con anotaciones - Android Developers](https://developer.android.com/studio/write/annotations)
 * [AndroidAnnotations](http://androidannotations.org/)
 * [Butter Knife](http://jakewharton.github.io/butterknife/)
 * [Android support annotations: how to use | RST IT](https://rst-it.com/blog/support-annotations-usage/)
 
-##### [Programación] - [Android] - [Recursos] - [AR/VR]
+##### [Programming] - [Android] - [Recursos] - [AR/VR]
 
 * [Viro Media - A Platform to Rapidly Create AR and VR applications using React Native](https://viromedia.com/)
 * [ARCore is Google’s platform for building augmented reality experiences](https://developers.google.com/ar/discover/)
 * [Building AR portal](http://www.yudiz.com/building-ar-portal-a-door-to-fascinating-ar-experience/)
 
-##### [Programación] - [Android] - [Recursos] - [Architecture]
+##### [Programming] - [Android] - [Recursos] - [Architecture]
 
 * ⭐ [Android Jetpack](https://developer.android.com/jetpack/?hl=es)
 * [Android Architecture Components | Android Developers](https://developer.android.com/topic/libraries/architecture/index.html)
@@ -260,7 +323,7 @@
 * [MvRx: Android on Autopilot](https://github.com/airbnb/MvRx/)
   * [Introducing MvRx: Android on Autopilot](https://medium.com/airbnb-engineering/introducing-mvrx-android-on-autopilot-552bca86bd0a)
 
-##### [Programación] - [Android] - [Recursos] - [Directorio]
+##### [Programming] - [Android] - [Recursos] - [Directorio]
 
 * [App Dev Wiki](http://www.appdevwiki.com/wiki/show/HomePage)
 * [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
@@ -277,32 +340,32 @@
 * [Android by Example](https://androidexample365.com/)
 * [Search Android Libraries, Projects, and Tools](https://mindorks.com/android/store)
 
-##### [Programación] - [Android] - [Recursos] - [Fonts]
+##### [Programming] - [Android] - [Recursos] - [Fonts]
 
 * [Downloadable Fonts | Android Developers](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html)
 
-##### [Programación] - [Android] - [Recursos] - [Browser]
+##### [Programming] - [Android] - [Recursos] - [Browser]
 
 * [Mozilla Android Components - A collection of Android libraries to build browsers or browser-like applications.](https://github.com/mozilla-mobile/android-components)
 
-##### [Programación] - [Android] - [Recursos] - [HTTP]
+##### [Programming] - [Android] - [Recursos] - [HTTP]
 
 * [Retrofit](http://square.github.io/retrofit/)
 * [Transmitting Network Data Using Volley | Android Developers](http://developer.android.com/intl/es/training/volley/index.html)
 * [Scarlet - A Retrofit inspired WebSocket client for Kotlin, Java, and Android](https://github.com/Tinder/Scarlet)
 
-##### [Programación] - [Android] - [Recursos] - [Image]
+##### [Programming] - [Android] - [Recursos] - [Image]
 
 * [Picasso](http://square.github.io/picasso/)
 * [Glide is a fast and efficient image loading library for Android](https://bumptech.github.io/glide/)
 
-##### [Programación] - [Android] - [Recursos] - [Maps]
+##### [Programming] - [Android] - [Recursos] - [Maps]
 
 * [Mapbox](https://www.mapbox.com/)
 * [Leaflet](https://leafletjs.com/)
 * [Maps SDK For Android - TomTom](https://developer.tomtom.com/maps-sdk-android)
 
-##### [Programación] - [Android] - [Recursos] - [SDKs]
+##### [Programming] - [Android] - [Recursos] - [SDKs]
 
 * [47 Degrees](https://github.com/47deg)
 * [Airbnb](https://github.com/airbnb)
@@ -320,12 +383,12 @@
 * [Telegram Database Library](https://core.telegram.org/tdlib)
 * [NVIDIA CodeWorks for Android | NVIDIA Developer](https://developer.nvidia.com/codeworks-android)
 
-##### [Programación] - [Android] - [Recursos] - [Onboarding]
+##### [Programming] - [Android] - [Recursos] - [Onboarding]
 
 * [TangoAgency/material-intro-screen: Inspired by Heinrich Reimer Material Intro and developed with love from scratch](https://github.com/TangoAgency/material-intro-screen)
 * [PaperOnboarding is a material design slider](https://github.com/Ramotion/paper-onboarding-android)
 
-##### [Programación] - [Android] - [Recursos] - [ORM & Database]
+##### [Programming] - [Android] - [Recursos] - [ORM & Database]
 
 * [OrmLite - Lightweight Java ORM Supports Android and SQLite](http://ormlite.com/sqlite_java_android_orm.shtml)
 * [Sugar ORM - Insanely easy way to work with Android database.](http://satyan.github.io/sugar/)
@@ -336,21 +399,21 @@
   * [Android Room with a View - Android Codelab](https://codelabs.developers.google.com/codelabs/android-room-with-a-view)
   * [Android Persistence codelab - Android Codelab](https://codelabs.developers.google.com/codelabs/android-persistence/)
 
-##### [Programación] - [Android] - [Recursos] - [Physics]
+##### [Programming] - [Android] - [Recursos] - [Physics]
 
 * [JBox2D: A Java Physics Engine](http://www.jbox2d.org/)
 
-##### [Programación] - [Android] - [Recursos] - [RecyclerView]
+##### [Programming] - [Android] - [Recursos] - [RecyclerView]
 
 * [airbnb/epoxy: Epoxy is an Android library for building complex screens in a RecyclerView](https://github.com/airbnb/epoxy)
 
-##### [Programación] - [Android] - [Recursos] - [Reactive]
+##### [Programming] - [Android] - [Recursos] - [Reactive]
 
 * [google/agera: Reactive Programming for Android](https://github.com/google/agera)
 * [Understanding the enigma of RxJava (Part 1)](https://hackernoon.com/understanding-the-enigma-of-rxjava-part-1-8e04a456d9de#.b0109aw6s)
 * [RxJava meets Android Data Binding – Tango Agency – Medium](https://medium.com/tangoagency/rxjava-meets-android-data-binding-4ca5e1144107#.kcl4fkgca)
 
-##### [Programación] - [Android] - [Recursos] - [UI]
+##### [Programming] - [Android] - [Recursos] - [UI]
 
 * [theDazzler/droidicon](https://github.com/theDazzler/droidicon)
 * [Android-Iconics](https://github.com/mikepenz/Android-Iconics)
@@ -367,17 +430,17 @@
 * [Kyrie is a superset of Android's VectorDrawable and AnimatedVectorDrawable classes - Github](https://github.com/alexjlockwood/kyrie)
 * [Cyanea - A theme engine for Android](https://github.com/jaredrummler/Cyanea)
 
-##### [Programación] - [Android] - [Recursos] - [PBR]
+##### [Programming] - [Android] - [Recursos] - [PBR]
 
 * [Filament is a physically based rendering engine for Android](https://github.com/google/filament)
 
-##### [Programación] - [Android] - [Recursos] - [Code Analysis]
+##### [Programming] - [Android] - [Recursos] - [Code Analysis]
 
 * [Ensure High-Quality Android Code With Static Analysis Tools](https://code.tutsplus.com/tutorials/ensure-high-quality-android-code-with-static-analysis-tools--cms-28787)
 * [Static Code Analysis For Android using FindBugs, PMD and Checkstyle](https://medium.com/mindorks/static-code-analysis-for-android-using-findbugs-pmd-and-checkstyle-3a2861834c6a)
 * [Codacy - Automatically identify issues through static code analysis](https://www.codacy.com/)
 
-#### [Programación] - [Android] - [Services]
+#### [Programming] - [Android] - [Services]
 
 * [Kinto is a minimalist JSON storage service with synchronisation and sharing abilities.](https://kinto.readthedocs.io/en/latest/index.html)
 * [255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget](https://github.com/255kb/stack-on-a-budget)
@@ -389,7 +452,7 @@
 * [Tappx - Promoción y monetización de apps](https://www.tappx.com/es/)
 * [Parse + Open Source = ❤️](http://parseplatform.org/)
 
-##### [Programación] - [Android] - [Services] - [Firebase]
+##### [Programming] - [Android] - [Services] - [Firebase]
 
 * [Firebase](https://firebase.google.com/#)
 * [Build an Android App Using Firebase and the App Engine Flexible Environment  |  Solutions  |  Google Cloud Platform](https://cloud.google.com/solutions/mobile/mobile-firebase-app-engine-flexible)
@@ -397,7 +460,7 @@
 * [Reglas de Seguridad Firebase](https://code.tutsplus.com/es/articles/quick-tip-firebase-database-security-rules--cms-27926)
 * [Firebase Cloud Firestore Database Tutorial Android Example](http://www.zoftino.com/firebase-cloud-firestore-databse-tutorial-android-example)
 
-#### [Programación] - [Android] - [Utils]
+#### [Programming] - [Android] - [Utils]
 
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 * [App Store Screenshot Generator | Create Beautiful Screenshots for iOS and Android in Minutes](https://www.appstorescreenshot.com/)
@@ -409,14 +472,14 @@
 * [Shape Shifter](https://shapeshifter.design/)
 * [SVG to Vector Drawable Converter – Convert SVG images to Android VectorDrawable XML resource files online](http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
 
-### [Programación] - [Angular]
+### [Programming] - [Angular]
 
 * [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.org/)
 * [AngularJS — Superheroic JavaScript MVW Framework](http://angularjs.org/)
 * [A Step-by-Step Guide to Your First AngularJS App | Toptal](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
 
-### [Programación] - [Container Platforms]
+### [Programming] - [Container Platforms]
 
 * [Rancher 2.0 | Rancher Labs](http://rancher.com/rancher2-0/)
 * [LXC - Linux Containers](https://linuxcontainers.org/)
@@ -440,13 +503,13 @@
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
 
-### [Programación] - [Virtual Machines]
+### [Programming] - [Virtual Machines]
 
 * [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
 * [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
 * [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
 
-### [Programación] - [CSS3]
+### [Programming] - [CSS3]
 
 * [BASSCSS](https://jxnblk.github.io/basscss/)
 * [ben-eb/cssnano](https://github.com/ben-eb/cssnano)
@@ -471,7 +534,7 @@
 * [Spring-cleaning Unused CSS With Grunt, Gulp, Broccoli or Brunch](http://addyosmani.com/blog/removing-unused-css/)
 * [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/)
 
-#### [Programación] - [CSS3] - [Learn]
+#### [Programming] - [CSS3] - [Learn]
 
 * [Is PostCSS a Game Changer](http://articles.dappergentlemen.com/2015/07/24/postcss/)
 * [Nesting in Sass and Less · @mdo](http://markdotto.com/2015/07/20/css-nesting/?)
@@ -481,7 +544,7 @@
 * [Building Resizeable Components with Relative CSS Units | CSS-Tricks](https://css-tricks.com/building-resizeable-components-relative-css-units/)
 * [Cómo perder peso (en el navegador)](http://browserdiet.com/es/)
 
-#### [Programación] - [CSS3] - [Flexbox]
+#### [Programming] - [CSS3] - [Flexbox]
 
 * [flexbox in 5 minutes](http://devbryce.com/site/flexbox/)
 * [5 top Flexbox resources | Creative Bloq](http://www.creativebloq.com/features/5-top-flexbox-resources)
@@ -489,7 +552,7 @@
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.y2i5i8xwc)
 * [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
 
-#### [Programación] - [CSS3] - [Online]
+#### [Programming] - [CSS3] - [Online]
 
 * [Button Maker](http://css-tricks.com/examples/ButtonMaker/)
 * [Completa colección de herramientas CSS para diseñadores web | CSSmatic](http://www.cssmatic.com/)
@@ -504,7 +567,7 @@
 * [Noise Texture Generator v2.1](http://www.noisetexturegenerator.com/)
 * [Ultimate CSS Gradient Generator - ColorZilla.com](http://www.colorzilla.com/gradient-editor/)
 
-#### [Programación] - [CSS3] - [Utils]
+#### [Programming] - [CSS3] - [Utils]
 
 * [CSS FilterLab](http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/)
 * [Tridiv | CSS 3D Editor](http://tridiv.com/)
@@ -520,24 +583,24 @@
 * [CSSDesk - Online CSS Sandbox](http://cssdesk.com/)
 * [CSS Stats](http://www.cssstats.com/)
 
-### [Programación] - [Dart]
+### [Programming] - [Dart]
 
 * [Dart: Structured web apps](https://www.dartlang.org/)
 * [Dart API Reference](https://api.dartlang.org/stablel)
 * ⭐ [Awesome - Dart](https://github.com/yissachar/awesome-dart)
 
-### [Programación] - [Flutter]
+### [Programming] - [Flutter]
 
 * [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
   * [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Flutter](https://flutter-es.io/)
 * [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
 
-### [Programación] - [Electron]
+### [Programming] - [Electron]
 
 * [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
 
-### [Programación] - [Git]
+### [Programming] - [Git]
 
 * [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [A successful Git branching model » nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
@@ -564,20 +627,20 @@
 * [Github Learning Lab](https://lab.github.com/)
 * ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
 
-### [Programación] - [Go]
+### [Programming] - [Go]
 
 * [Aprende a programar en Go con GoClipse](https://platzi.com/blog/goclipse/)
 
-### [Programación] - [GraphQL]
+### [Programming] - [GraphQL]
 
 * [GraphQL | A query language for your API](http://graphql.org/)
 * [Graphcool - GraphQL Backend Development Framework](https://www.graph.cool/)
 
-### [Programación] - [Haxe]
+### [Programming] - [Haxe]
 
 * [Haxe - The Cross-platform Toolkit](http://haxe.org/)
 
-### [Programación] - [HTML5]
+### [Programming] - [HTML5]
 
 * [10 Best HTML5 Frameworks To Speed up Web Development | BestDesignTuts](http://www.bestdesigntuts.com/10-best-html5-frameworks-that-help-speed-up-web-development)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
@@ -594,7 +657,7 @@
 * [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/)
 * ⭐ [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
 
-### [Programación] - [Java]
+### [Programming] - [Java]
 
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
 * [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
@@ -614,7 +677,7 @@
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
 
-#### [Programación] - [Java] - [Libraries]
+#### [Programming] - [Java] - [Libraries]
 
 * ⭐ [Guava - Google core libraries for Java](https://github.com/google/guava)
 * ⭐ [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
@@ -631,7 +694,7 @@
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
 * [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
 
-#### [Programación] - [Java] - [Code Quality]
+#### [Programming] - [Java] - [Code Quality]
 
 * [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
 * [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
@@ -643,7 +706,7 @@
 * [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
 
-#### [Programación] - [Java] - [Web & Microservices]
+#### [Programming] - [Java] - [Web & Microservices]
 
 * ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
 * ⭐ [Spring](https://spring.io/)
@@ -658,7 +721,7 @@
 * [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 
-#### [Programación] - [Java] - [JavaFX]
+#### [Programming] - [Java] - [JavaFX]
 
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
 * [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
@@ -674,7 +737,7 @@
 * [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 
-### [Programación] - [Javascript]
+### [Programming] - [Javascript]
 
 * [Async-IO.org: Powering the Atmosphere Framework](http://async-io.org/)
 * [ccampbell/mousetrap · GitHub](https://github.com/ccampbell/mousetrap)
@@ -710,14 +773,14 @@
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-### [Programación] - [Kotlin]
+### [Programming] - [Kotlin]
 
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
 * [Android Kotlin Guides](https://android.github.io/kotlin-guides/index.html)
 * ⭐ [Kotlin is Awesome!](https://kotlin.link/)
 * [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
-#### [Programación] - [Kotlin] - [Learn]
+#### [Programming] - [Kotlin] - [Learn]
 
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 * [Kotlin Academy](https://blog.kotlin-academy.com/)
@@ -729,7 +792,7 @@
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 * [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
 
-#### [Programación] - [Kotlin] - [Samples]
+#### [Programming] - [Kotlin] - [Samples]
 
 * [Simple Mobile Tools](https://github.com/SimpleMobileTools)
 * [GavinPacini/daysuntil: Android app demonstrating Kotlin, RxJava, Realm and More](https://github.com/GavinPacini/daysuntil)
@@ -737,7 +800,7 @@
 * [bufferapp/android-clean-architecture-boilerplate: An android boilerplate project using clean architecture](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 * [GitHub - JetBrains/kotlinconf-spinner](https://github.com/JetBrains/kotlinconf-spinner)
 
-#### [Programación] - [Kotlin] - [Libraries]
+#### [Programming] - [Kotlin] - [Libraries]
 
 * [Android-ktx | A set of Kotlin extensions for Android app development](https://github.com/android/android-ktx)
 * [Anko | Pleasant Android application development](https://github.com/Kotlin/anko)
@@ -752,7 +815,7 @@
 * [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
 * [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
 
-### [Programación] - [LESS]
+### [Programming] - [LESS]
 
 * [LESS - The Dynamic Stylesheet language](http://lesscss.org/)
 * [Css2Less](http://css2less.cc/)
@@ -764,14 +827,14 @@
 * [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.madebysource.com/)
 * [Less CSS Preprocessor Toolbox - Tutorials, Tools, Mixins and Frameworks](http://speckyboy.com/2014/04/23/less-css-preprocessor-toolbox/)
 
-### [Programación] - [Lua]
+### [Programming] - [Lua]
 
 * [Lua 5.3 Reference Manual - contents](http://www.lua.org/manual/5.3/)
 * [Manual de Referencia de Lua 5.1 - contenido](http://www.lua.org/manual/5.1/es/)
 * [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
 
-### [Programación] - [Machine Learning]
+### [Programming] - [Machine Learning]
 
 * [About - A.I. Experiments](https://aiexperiments.withgoogle.com/about)
 * [OpenAI Blog](https://openai.com/blog/)
@@ -781,7 +844,7 @@
 * 🎬 [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 
-### [Programación] - [Node.js]
+### [Programming] - [Node.js]
 
 * [Sails.js | Realtime MVC Framework for Node.js](http://sailsjs.org/#!)
 * [NodeJS | fernetjs](http://fernetjs.com/nodejs/)
@@ -800,7 +863,7 @@
 * [hapi.js - A rich framework for building applications and services](http://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/)
 
-### [Programación] - [Online Editors]
+### [Programming] - [Online Editors]
 
 * [The first commented line is your dabblet’s title ✿ dabblet.com](http://dabblet.com/)
 * [Thimble por Mozilla - Un editor online de código para alumnos y educadores.](https://thimble.mozilla.org/es/)
@@ -811,7 +874,7 @@
 * [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
 * [repl.it - Select a Language](https://repl.it/languages)
 
-### [Programación] - [Patterns]
+### [Programming] - [Patterns]
 
 * [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
@@ -820,7 +883,7 @@
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * ⭐ [Design patterns implemented in Java](http://java-design-patterns.com/)
 
-### [Programación] - [PHP]
+### [Programming] - [PHP]
 
 * [Apigility](https://www.apigility.org/)
 * [Homepage - Silex - The PHP micro-framework based on Symfony2 Components](http://silex.sensiolabs.org/)
@@ -850,7 +913,7 @@
 * [PHP: Referencia del lenguaje - Manual](http://php.net/manual/es/langref.php)
 * [phpDocumentor](http://www.phpdoc.org/docs/latest/index.html)
 
-### [Programación] - [Polymer]
+### [Programming] - [Polymer]
 
 * [40+ Sleek UI Components for modern web apps - Vaadin Elements](https://vaadin.com/elements/browse)
 * [ExpandJS](http://expandjs.com/)
@@ -863,14 +926,14 @@
 * [Brick](http://mozbrick.github.io/index.html)
 * [Mozilla Brick](http://brick.mozilla.io/)
 
-### [Programación] - [Processing]
+### [Programming] - [Processing]
 
 * [Get Started With Processing for Android](https://code.tutsplus.com/tutorials/getting-started-with-processing-for-android--cms-30419)
 * [p5.js | home](https://p5js.org/)
 * [Processing.org](https://www.processing.org/)
 * [Processing for Android](http://android.processing.org/)
 
-### [Programación] - [PWA]
+### [Programming] - [PWA]
 
 * [Progressive Web App Libraries in Production – Dev Channel – Medium](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.cybg81oty)
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
@@ -881,7 +944,7 @@
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * [Appscope](https://appsco.pe/)
 
-### [Programación] - [Python]
+### [Programming] - [Python]
 
 * [A Byte of Python](http://www.swaroopch.com/notes/python/)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
@@ -896,25 +959,25 @@
 * [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
 * [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/)
 
-### [Programación] - [React]
+### [Programming] - [React]
 
 * [Belle - Configurable React Components with great UX](http://nikgraf.github.io/belle/#/)
 * [A JavaScript library for building user interfaces | React](https://facebook.github.io/react/index.html)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/site/native.html)
 
-### [Programación] - [ReactiveX]
+### [Programming] - [ReactiveX]
 
 * [ReactiveX](http://reactivex.io/)
 * [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
 
-### [Programación] - [RxJava]
+### [Programming] - [RxJava]
 
 * [Unit Testing RxJava Observables and Subscriptions - My little Android warehouse](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
 * [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 * [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
 * [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
-### [Programación] - [SASS]
+### [Programming] - [SASS]
 
 * [9 Exciting Open Source Sass Frameworks | Webdesigner Depot](https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/)
 * [Architecting a Sass Project](http://www.sitepoint.com/architecture-sass-project/)
@@ -943,18 +1006,18 @@
 * [Bitters - predefined style for Bourbon](http://bitters.bourbon.io/)
 * [Bourbon Neat](http://neat.bourbon.io/)
 
-### [Programación] - [Templating Engine]
+### [Programming] - [Templating Engine]
 
 * [Liquid Templating Engine](http://shopify.github.io/liquid/)
 * [Swig - A Node.js and Browser JavaScript Template Engine](http://node-swig.github.io/swig-templates/)
 * [Jade - Template Engine](http://jade-lang.com/)
 * [Pug - Template Engine](https://pugjs.org/api/getting-started.html)
 
-### [Programación] - [Typescript]
+### [Programming] - [Typescript]
 
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
 
-### [Programación] - [UWP]
+### [Programming] - [UWP]
 
 * [UWP Community Toolkit Documentation - UWP Community Toolkit | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/)
 * [Microsoft/UWPCommunityToolkit: The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.](https://github.com/Microsoft/WindowsCommunityToolkit)
@@ -973,21 +1036,22 @@
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 
-### [Programación] - [Vue]
+### [Programming] - [Vue]
 
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Vue.js 2 Component Framework | Vuetify.js](https://vuetifyjs.com/)
 * [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 
-### [Programación] - [Markdown]
+### [Programming] - [Markdown]
 
+* ⭐ [Joplin is a free, open source note taking and to-do application](https://joplin.cozic.net/)
 * ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
 * [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 * [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
 * [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
-### [Programación] - [Official]
+### [Programming] - [Official]
 
 * [Amazon Developer Services](https://developer.amazon.com/)
 * [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
@@ -1002,7 +1066,7 @@
 * [Stripe: Código abierto](https://stripe.com/open-source)
 * [Open Source @ IFTTT](http://ifttt.github.io/)
 
-#### [Programación] - [Official] - [Microsoft]
+#### [Programming] - [Official] - [Microsoft]
 
 * [.NET](https://www.microsoft.com/net)
 * [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
@@ -1014,7 +1078,7 @@
 * [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
 * [NuGet Gallery | Home](https://www.nuget.org/)
 
-#### [Programación] - [Official] - [Google]
+#### [Programming] - [Official] - [Google]
 
 * [Google Trends](https://trends.google.com/trends/)
 * [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
@@ -1035,7 +1099,7 @@
 * [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
 * [Google Developers](https://developers.google.com/)
 
-### [Programación] - [Gradle]
+### [Programming] - [Gradle]
 
 * [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
 * [Gradle Tutorial : Part 2 : Java Projects | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
@@ -1050,7 +1114,7 @@
 * [“Build Automation Tools” o como se diga en Cristiano | Cocoa Mental](http://www.cocoaosx.com/2014/01/21/build-automation-tools-make-cmake-rake-gradle-maven/)
 * [Exprimiendo las ‘builds’ con Gradle | Androcode](http://androcode.es/2015/07/exprimiendo-las-builds-con-gralde/)
 
-### [Programación] - [Database]
+### [Programming] - [Database]
 
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Crate](https://crate.io/)
@@ -1061,7 +1125,7 @@
 * [Titan: Distributed Graph Database](http://titan.thinkaurelius.com/)
 * [FoundationDB - From Apple](https://www.foundationdb.org/)
 
-### [Programación] - [Web]
+### [Programming] - [Web]
 
 * [BOWER: A package manager for the web](http://bower.io/)
 * [Brunch | ultra-fast HTML5 build tool](http://brunch.io/)
@@ -1086,10 +1150,13 @@
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
 * 🎓 [HTML & CSS Is Hard | A friendly web development tutorial](https://internetingishard.com/html-and-css/)
 * 🎓 [Quackit Web Tutorials](http://www.quackit.com/)
+* 🎓 [Way2Tutorial Web Development Tutorials](http://www.way2tutorial.com/)
+* 🎓 [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [web.dev helps developers like you learn and apply the web's modern capabilities to your own sites and apps.](https://web.dev/)
-  * [Lighthouse  |  Web  |  Google Developers](https://developers.google.com/web/tools/lighthouse/)
+* [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
+* [The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more](https://developers.google.com/web/updates/)
 
-#### [Programación] - [Web] - [FrontEnd]
+#### [Programming] - [Web] - [FrontEnd]
 
 * [A simple, responsive, and tiny CSS grid for humans - Pills](http://arkpod.in/pills/)
 * [AlloyUI](https://alloyui.com/)
@@ -1156,7 +1223,7 @@
 * [React UI Kits](https://dev.to/kayis/react-ui-kits-3fm2)
 * [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 
-#### [Programación] - [Web] - [Bootstrap]
+#### [Programming] - [Web] - [Bootstrap]
 
 * [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
 * [Bootstrap editor, visual builder and playground. Fiddle with JavaScript, CSS, HTML5 and jQuery.](http://bootply.com/)
@@ -1175,9 +1242,9 @@
 * [ThemeFinder](http://themefindr.net/?)
 * [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
 
-#### [Programación] - [Web] -  [Bibliotecas]
+#### [Programming] - [Web] -  [Bibliotecas]
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Animation & Effects]
+##### [Programming] - [Web] -  [Bibliotecas] - [Animation & Effects]
 
 * [A simple and easy jQuery plugin used to add&lt;br class=&quot;hidden-xs&quot;&gt;page transition on css animations. · Animsition](http://git.blivesta.com/animsition/)
 * [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
@@ -1215,19 +1282,19 @@
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 * 🎓 [Learn Animation | kirupa.com](http://www.kirupa.com/html5/learn_animation.htm)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Audio]
+##### [Programming] - [Web] -  [Bibliotecas] - [Audio]
 
 * [AmplitudeJS: The Open Source HTML5 Audio Player For The Modern Era](https://521dimensions.com/open-source/amplitudejs)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Authentication]
+##### [Programming] - [Web] -  [Bibliotecas] - [Authentication]
 
 * [hello.js - Javascript API for OAuth2 authentication and REST services](http://adodson.com/hello.js/#hellojs)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Buttons]
+##### [Programming] - [Web] -  [Bibliotecas] - [Buttons]
 
 * [Bttn.css - Demo](https://bttn.surge.sh/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Canvas & 3D]
+##### [Programming] - [Web] -  [Bibliotecas] - [Canvas & 3D]
 
 * [Fabric.js Javascript Canvas Library](http://fabricjs.com/)
 * [HTML5 Canvas Tutorials](https://www.html5canvastutorials.com/)
@@ -1235,7 +1302,7 @@
 * [jQuery Interactive 3D by Pete R. | The Pete Design](http://www.thepetedesign.com/demos/interactive_3d.html)
 * [obelisk.js is a JavaScript library for building isometric pixel objects](https://github.com/nosir/obelisk.js)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Carousel & Slider]
+##### [Programming] - [Web] -  [Bibliotecas] - [Carousel & Slider]
 
 * [AviaSlider - a unique jQuery Image slideshow plugin!](http://aviathemes.com/aviaslider/)
 * [Blueberry - A simple, fluid, responsive jQuery image slider.](http://marktyrrell.com/labs/blueberry/)
@@ -1263,18 +1330,18 @@
 * [Superslides - A fullscreen slider for jQuery](http://archive.nicinabox.com/superslides/#2)
 * ⭐ [Flickity - Touch, responsive flickable carousels](https://flickity.metafizzy.co/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Date]
+##### [Programming] - [Web] -  [Bibliotecas] - [Date]
 
 * [date-fns - modern JavaScript date utility library](https://date-fns.org/)
 * [FlipClock.js](http://flipclockjs.com/)
 * [Moment.js | Home](http://momentjs.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Editor]
+##### [Programming] - [Web] -  [Bibliotecas] - [Editor]
 
 * [wysihtml5 - A better approach to rich text editing](http://xing.github.io/wysihtml5/)
 * [Redactor WYSIWYG html editor](https://imperavi.com/redactor/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Grid]
+##### [Programming] - [Web] -  [Bibliotecas] - [Grid]
 
 * [Fibonacci – Flexbox Composer](http://maxsteenbergen.com/fibonacci/)
 * [Flexbox Grid](http://flexboxgrid.com/)
@@ -1292,23 +1359,23 @@
 * [Responsive Grid System | Cute Grids](http://www.cutegrids.com/)
 * ⭐ [Masonry](https://masonry.desandro.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Header]
+##### [Programming] - [Web] -  [Bibliotecas] - [Header]
 
 * [Hide your header on scroll - Headroom.js](http://wicky.nillia.ms/headroom.js/)
 * [jQuery Pin](http://webpop.github.io/jquery.pin/)
 * [stickUp - a free jQuery Plugin](http://lirancohen.github.io/stickUp/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Highlight]
+##### [Programming] - [Web] -  [Bibliotecas] - [Highlight]
 
 * [Prism](http://prismjs.com/)
 * [google/code-prettify: Automatically exported from code.google.com/p/google-code-prettify](https://github.com/google/code-prettify)
 * [highlight.js](https://highlightjs.org/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [i18N]
+##### [Programming] - [Web] -  [Bibliotecas] - [i18N]
 
 * [Easy translation of your one-page website via jQuery](http://darksmo.github.io/jquery-localization-tool/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Images]
+##### [Programming] - [Web] -  [Bibliotecas] - [Images]
 
 * [Background Blur - plugin by @msurguy](https://msurguy.github.io/background-blur/)
 * [BBC-News/Imager.js · GitHub](https://github.com/BBC-News/Imager.js)
@@ -1325,11 +1392,11 @@
 * [Usage Examples | MaxImage 2.0](http://www.aaronvanderzwan.com/maximage/)
 * [Vegas Background jQuery Plugin](http://vegas.jaysalvat.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Map]
+##### [Programming] - [Web] -  [Bibliotecas] - [Map]
 
 * [gmaps.js — the easiest way to use Google Maps](http://hpneo.github.io/gmaps/examples/markers.html)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Menu]
+##### [Programming] - [Web] -  [Bibliotecas] - [Menu]
 
 * [jQuery.mmenu » slick app look-alike sliding menus for your mobile website](http://mmenu.frebsite.nl/)
 * [Midnight.js - Switch fixed headers on the fly](http://aerolab.github.io/midnight.js/)
@@ -1337,7 +1404,7 @@
 * [adtile/fixed-nav: Responsive, fixed and touch friendly one page navigation with animated scrolling.](https://github.com/adtile/fixed-nav)
 * [Sidr - Berriart](https://www.berriart.com/sidr/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Notifications & Tooltips]
+##### [Programming] - [Web] -  [Bibliotecas] - [Notifications & Tooltips]
 
 * [Chardin.js](http://heelhook.github.io/chardin.js/)
 * [Hint.css - A tooltip library in CSS](https://kushagragour.in/lab/hint/)
@@ -1351,7 +1418,7 @@
 * [qTip2 - Pretty powerful tooltips](http://qtip2.com/)
 * [Tether](http://tether.io/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Presentations]
+##### [Programming] - [Web] -  [Bibliotecas] - [Presentations]
 
 * [deck.js » Modern HTML Presentations](http://imakewebthings.com/deck.js/#intro)
 * [FormidableLabs/spectacle · GitHub](https://github.com/FormidableLabs/spectacle)
@@ -1362,7 +1429,7 @@
 * [Shower Presentation Engine](https://shwr.me/)
 * [WebSlides: Create Beautiful HTML Presentations](https://webslides.tv/#slide=1)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Progress, charts & display]
+##### [Programming] - [Web] -  [Bibliotecas] - [Progress, charts & display]
 
 * [Addepar | Ember Charts](http://addepar.github.io/#/ember-charts/overview)
 * [arbor.js](http://arborjs.org/)
@@ -1392,11 +1459,11 @@
 * [List.js - Search, sort, filters, flexibility to tables, list and more!](http://listjs.com/)
 * [TOAST UI :: Make Your Web Delicious!](http://ui.toast.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Refresh]
+##### [Programming] - [Web] -  [Bibliotecas] - [Refresh]
 
 * [Pull to Refresh.js](https://www.boxfactura.com/pulltorefresh.js/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Scrolls]
+##### [Programming] - [Web] -  [Bibliotecas] - [Scrolls]
 
 * [· Scrolld.js ·](http://www.scrolldjs.com/)
 * [Angled Edges](https://angled-edges.josephfus.co/)
@@ -1430,7 +1497,7 @@
 * [zynga/scroller @ GitHub](http://zynga.github.io/scroller/)
 * [ScrollDir](https://dollarshaveclub.github.io/scrolldir/#setup)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Social]
+##### [Programming] - [Web] -  [Bibliotecas] - [Social]
 
 * [#50C1AL Share, #50C1AL Profiles](http://tolgaergin.com/files/social/index.html#)
 * [carrot/share-button · GitHub](https://github.com/carrot/share-button)
@@ -1449,13 +1516,14 @@
 * [Social Share Kit - Social sharing buttons, icons and popups](http://socialsharekit.com/)
 * [Socialite by tmort](http://socialitejs.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Sprite]
+##### [Programming] - [Web] -  [Bibliotecas] - [Sprite]
 
 * [parallax.js](http://wagerfield.github.io/parallax/)
 * [Spritely.net](http://www.spritely.net/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [SVG Animation]
+##### [Programming] - [Web] -  [Bibliotecas] - [SVG Animation]
 
+* 🎓 [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
 * [Snap.svg - The JavaScript SVG library for the modern web](http://snapsvg.io/)
 * [SVG animation with SMIL - SVG | MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/SVG_animation_with_SMIL)
 * [oak.is / Animated SVGs: Custom easing and timing](http://oak.is/thinking/animated-svgs/)
@@ -1474,7 +1542,7 @@
 * [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
 * ⭐ [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Text]
+##### [Programming] - [Web] -  [Bibliotecas] - [Text]
 
 * [FitText - A plugin for inflating web type](http://fittextjs.com/)
 * [Arctext.js - Curving Text with CSS3 and jQuery | Codrops](http://tympanus.net/codrops/2012/01/24/arctext-js-curving-text-with-css3-and-jquery/)
@@ -1492,17 +1560,17 @@
 * [Sassline](http://sassline.com/)
 * [30 jQuery Text Effect Libraries You Need To Know](http://www.hongkiat.com/blog/jquery-text-effect-libraries/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Timeline]
+##### [Programming] - [Web] -  [Bibliotecas] - [Timeline]
 
 * [Chronoline.js](http://stoicloofah.github.io/chronoline.js/)
 * [Timeline JS - Beautifully crafted timelines that are easy, and intuitive to use.](http://timeline.verite.co/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [UI]
+##### [Programming] - [Web] -  [Bibliotecas] - [UI]
 
 * [Marko](http://markojs.com/)
 * [jKit - jQuery based UI Toolkit - Index](http://jquery-jkit.com/)
 
-##### [Programación] - [Web] -  [Bibliotecas] - [Video]
+##### [Programming] - [Web] -  [Bibliotecas] - [Video]
 
 * [amalia.js - Metadata enriched HTML5 video player](https://ina-foss.github.io/amalia.js/)
 * [Cinematico | Create an exceptional website for your YouTube or Vimeo library.](http://cinemati.co/)
@@ -1515,14 +1583,14 @@
 * [Vide - easy as hell jQuery plugin for video backgrounds](http://vodkabears.github.io/vide/)
 * [Videogular | A video player for AngularJS](http://www.videogular.com/#/)
 
-#### [Programación] - [Web] - [CDN]
+#### [Programming] - [Web] - [CDN]
 
 * [Open Source Projects MaxCDN Sponsors.](http://www.maxcdn.com/open-source/)
 * [A List of Free Public CDNs for Web Developers](http://sixrevisions.com/resources/free-public-cdns/)
 * [cdnjs.com - the missing cdn for javascript and css](https://cdnjs.com/)
 * [unpkg is a fast, global content delivery network for everything on npm](https://unpkg.com/#/)
 
-#### [Programación] - [Web] - [Hosting]
+#### [Programming] - [Web] - [Hosting]
 
 * [http-server](https://www.npmjs.com/package/http-server)
 * [httpster](https://simbco.github.io/httpster/)
@@ -1530,18 +1598,18 @@
 * [SSD Cloud Server, VPS Server, Simple Cloud Hosting by DigitalOcean](https://www.digitalocean.com/)
 * [Pagoda Box](https://pagodabox.io/)
 
-#### [Programación] - [Web] - [Analytics]
+#### [Programming] - [Web] - [Analytics]
 
 * [Open Web Analytics](http://www.openwebanalytics.com/)
 * [#1 Free Web & Mobile Analytics Software](https://matomo.org/)
 
-#### [Programación] - [Web] - [HTTP]
+#### [Programming] - [Web] - [HTTP]
 
 * [Fenix Web Server | Static Web Servers for the Desktop](http://fenixwebserver.com/)
 * [httpie - Modern command line HTTP client](https://github.com/jakubroztocil/httpie)
 * [h2non/toxy](https://github.com/h2non/toxy)
 
-#### [Programación] - [Web] - [Testing]
+#### [Programming] - [Web] - [Testing]
 
 * [QUnit: A JavaScript Unit Testing framework](https://qunitjs.com/)
 * [Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript](https://sinonjs.org/)
@@ -1549,14 +1617,14 @@
 * [BrowserSync: Time-saving synchronised browser testing.](https://www.browsersync.io/)
 * 👽 [marmelab/gremlins.js - Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
 
-#### [Programación] - [Web] - [API]
+#### [Programming] - [Web] - [API]
 
-##### [Programación] - [Web] - [API] - [Learn]
+##### [Programming] - [Web] - [API] - [Learn]
 
 * [Buenas prácticas para el Diseño de una API RESTful Pragmática](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
 * [Define el diseño de tus APIs con Blueprint, RAML o Swagger](https://www.genbetadev.com/programacion-en-la-nube/define-el-diseno-de-tus-apis-con-blueprint-raml-o-swagger)
 
-##### [Programación] - [Web] - [API] - [List]
+##### [Programming] - [Web] - [API] - [List]
 
 * [Quandl Documentation](https://docs.quandl.com/#introduction)
 * [Open Exchange Rates](https://openexchangerates.org/)
@@ -1573,7 +1641,7 @@
 * [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/abhishekbanthia/Public-APIs)
 * [RapidAPI Marketplace | Home](https://rapidapi.com/)
 
-##### [Programación] - [Web] - [API] - [Utils]
+##### [Programming] - [Web] - [API] - [Utils]
 
 * [Postman | Supercharge your API workflow](https://www.getpostman.com/)
 * [World's Most Popular API Framework | Swagger](https://swagger.io/)
@@ -1590,9 +1658,9 @@
 * [Welcome | RAML](https://raml.org/index.html)
 * [Everest - A beautiful, cross-platform REST client.](https://github.com/RohitAwate/Everest)
 
-#### [Programación] - [Web] - [Blogging]
+#### [Programming] - [Web] - [Blogging]
 
-##### [Programación] - [Web] - [Blogging] - [CMS]
+##### [Programming] - [Web] - [Blogging] - [CMS]
 
 * [A Free and Easy CMS for Everyone - gp|Easy CMS](http://gpeasy.com/)
 * [Alternativas a WordPress: Generadores estáticos | Emezeta](http://www.emezeta.com/articulos/alternativas-a-wordpress-generadores-estaticos)
@@ -1638,7 +1706,7 @@
 * [headless - A list of Content Management System](https://headlesscms.org/)
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 
-##### [Programación] - [Web] - [Blogging] - [Ghost]
+##### [Programming] - [Web] - [Blogging] - [Ghost]
 
 * [Just 30 Beautiful Ghost Themes - CrazyLeaf Design Blog](http://www.crazyleafdesign.com/blog/30-beautiful-ghost-themes/)
 * [Blogging with Ease: Best Resources for Ghost - noupe](http://www.noupe.com/cms/blogging-with-ease-best-resources-for-the-new-ghost-platform-80211.html)
@@ -1655,7 +1723,7 @@
 * [How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 * [How To Use the DigitalOcean Ghost Application | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-ghost-application)
 
-##### [Programación] - [Web] - [Blogging] - [Jekyll]
+##### [Programming] - [Web] - [Blogging] - [Jekyll]
 
 * [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 * [Jekyll Themes and Templates - Jekyll Tips](http://jekyll.tips/templates/)
@@ -1663,7 +1731,7 @@
 * [Jekyll Portfolio Tutorial - David Leonard](http://drksephy.github.io/2014/04/09/jekyll/)
 * [A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
 
-##### [Programación] - [Web] - [Blogging] - [Static Generator]
+##### [Programming] - [Web] - [Blogging] - [Static Generator]
 
 * [DocPad - Streamlined Web Development](http://docpad.org/)
 * [Harp, the static web server with built-in preprocessing](http://harpjs.com/)
@@ -1679,45 +1747,7 @@
 * [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
 * [Cogear.JS is a static websites generator](https://cogearjs.org/)
 
-### [Programación] - [Utils]
-
-* ⭐ [DevDocs](http://devdocs.io/)
-* ⭐ [dochub.io](http://dochub.io/)
-* ⭐ [Zeal - offline API documentation browser](http://zealdocs.org/)
-* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
-* ⭐ [searchcode | source code search engine](https://searchcode.com/)
-* [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
-* [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
-* [A collection of useful .gitignore templates](https://github.com/github/gitignore)
-* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
-* [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-* ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
-* [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
-* [Color Hex Color Codes](http://www.color-hex.com/)
-* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
-* [CSV to JSON - CSVJSON](http://www.csvjson.com/csv2json)
-* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
-* [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
-* [HEAD - A free guide to head elements](https://gethead.info/#google-android)
-* [Here are some sites I use to validate my websites - what tools do you use? : webdev](https://www.reddit.com/r/webdev/comments/7t3oy5/here_are_some_sites_i_use_to_validate_my_websites/)
-* [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
-* [JSON Editor Online - view, edit and format JSON online](http://www.jsoneditoronline.org/)
-* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
-* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
-* [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
-* [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
-* [sonar, a linting tool for the web](https://sonarwhal.com/)
-* [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
-* [uinames.com is a simple tool to generate fake names](http://uinames.com/)
-* [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
-* [Web Developer Checklist](http://webdevchecklist.com/)
-* [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
-* [Codepad - Organize and Share Code Snippets](https://codepad.co/)
-* [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* ⭐ [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
-
-#### [Programación] - [Utils] - [Legal]
+### [Programming] - [Legal]
 
 * [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
 * [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
@@ -2942,50 +2972,5 @@
 * [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
 * 👽 [KittyKatt/screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
-
-----
-
-## [Learn]
-
-* [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
-
-### [Learn] - [Academy]
-
-* [DevCode | Aprende a desarrollar aplicaciones web y móviles](https://www.devcode.la/)
-* [Free Online Classes & Nanodegrees | Udacity](https://eu.udacity.com/)
-* [Khan Academy | Práctica, lecciones y cursos en línea gratuitos](https://es.khanacademy.org/)
-* [Learn to code | Codecademy](https://www.codecademy.com/)
-* [Learn to Code and Help Nonprofits | freeCodeCamp](https://www.freecodecamp.org/)
-* [Learn to Code Online with Code School | Code School](https://www.codeschool.com/)
-* [Learn Web Design, Web Development, and More | Treehouse](https://teamtreehouse.com/)
-* [Microsoft Virtual Academy—Recursos de aprendizaje gratuitos para desarrolladores, profesionales de TI y científicos de datos](https://mva.microsoft.com/)
-* [Programmr | Get Better At Programming](http://www.programmr.com/)
-* [Talento del futuro • Acámica](https://www.acamica.com/)
-* [Udemy: cursos en línea en cualquier momento y en cualquier lugar](https://www.udemy.com/)
-* [Coursera | Online Courses From Top Universities. Join for Free](https://es.coursera.org/)
-* [Review the best online courses on the internet in one place | Courseroot](https://courseroot.com/)
-* [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
-* ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
-
-### [Learn] - [Tutorials]
-
-* [Pocket Guide to Writing SVG](https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md)
-* [Thinkful | A Guide To Using Github Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
-* [Tutorials | Codrops](http://tympanus.net/codrops/category/tutorials/)
-* [Tutorials | HTML Dog](http://www.htmldog.com/guides/)
-* [Tutorials | Tutorialzine](http://tutorialzine.com/category/tutorials/)
-* [UX Apprentice](http://www.uxapprentice.com/)
-* [Way2Tutorial Web Development Tutorials](http://www.way2tutorial.com/)
-* [Web development tutorials, from beginner to advanced | Nettuts+](http://net.tutsplus.com/)
-* [300ms tap delay, gone away - HTML5Rocks Updates](http://updates.html5rocks.com/2013/12/300ms-tap-delay-gone-away)
-* [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
-* [Blueprints | Codrops](http://tympanus.net/codrops/category/blueprints/)
-* [Code Guide by @mdo](http://mdo.github.io/code-guide/)
-* [Estructura con CSS](http://es.learnlayout.com/)
-* [Pointers to useful, well-written, and otherwise beautiful documentation. - GitHub](https://github.com/PharkMillups/beautiful-docs)
-* [Resumen del curso HTML5](http://msdn.microsoft.com/es-es/ie/hh749019)
-* [North is a set of standards and best practices for developing modern web based properties.](http://pointnorth.io/)
-* [Mejora el SEO de tu sitio con Schema.org](https://platzi.com/blog/schema-seo/)
-* [Six tips for effective learning](http://www.puzzlr.org/six-tips-for-effective-learning/)
 
 ----
