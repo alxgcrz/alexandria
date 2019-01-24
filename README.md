@@ -503,6 +503,9 @@
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
+* []
+* [Terraform by HashiCorp](https://www.terraform.io/)
+
 
 ### [Programming] - [Virtual Machines]
 
@@ -708,6 +711,7 @@
 * [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
+* [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 
 #### [Programming] - [Java] - [Web & Microservices]
 
@@ -723,6 +727,7 @@
 * [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
 * [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
+* [Helidon is a collection of Java libraries for writing microservices](https://helidon.io/docs/latest/#/about/01_introduction)
 
 #### [Programming] - [Java] - [JavaFX]
 
@@ -794,6 +799,7 @@
 * [Kotlin by Example](http://kotlinbyexample.org/)
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 * [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
+* 💡 [Kotlin coding puzzle and solutions](https://github.com/igorwojda/kotlin-coding-puzzle)
 
 #### [Programming] - [Kotlin] - [Samples]
 
@@ -878,6 +884,7 @@
 * [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
 * [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
 * [repl.it - Select a Language](https://repl.it/languages)
+* [CodeSandbox](https://codesandbox.io/)
 
 ### [Programming] - [Patterns]
 
@@ -2961,7 +2968,6 @@
 * [Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/index.html)
 * [Monitorix is a free, open source, lightweight system monitoring tool designed to monitor as many services and system resources as possible.](http://www.monitorix.org/)
 * [Netactview is a graphical network connections viewer for Linux, similar in functionality with Netstat.](http://netactview.sourceforge.net/index.html)
-* [Terraform by HashiCorp](https://www.terraform.io/)
 * [Foreman :: Introduction](https://theforeman.org/introduction.html)
 * [Monit is a small Open Source utility for managing and monitoring Unix systems.](https://mmonit.com/monit/)
 * [Graylog - Log Management](https://www.graylog.org/)
