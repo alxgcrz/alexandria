@@ -21,6 +21,7 @@
 * [/r/cscareerquestions](https://www.reddit.com/r/cscareerquestions/wiki/index)
 * [Scratch 3.0](https://scratch.mit.edu/)
 * [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
+* ⭐ [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 
 ### [Programming] - [Utils]
 
@@ -272,13 +273,13 @@
 * [Udacity-Google Partnership](https://www.udacity.com/google)
 * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
+* [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/)
 * [Android Developer Fundamentals - V2](https://developers.google.com/training/courses/android-fundamentals-v2)
   * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
   * [Practical - Codelabs](https://developer.android.com/courses/fundamentals-training/toc-v2)
-  * [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/)
-* Advanced Android Development:
-  * [Concepts - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-concepts/details)
-  * [Practicals - GitBook](https://legacy.gitbook.com/book/google-developer-training/android-developer-advanced-course-practicals/details)
+* [Advanced Android Development](https://developers.google.com/training/courses/android-advanced)
+  * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-advanced-course-concepts/)
+  * [Practicals - Codelabs](https://developer.android.com/courses/advanced-training/toc)
   
 #### [Programming] - [Android] - [Recursos]
 
@@ -661,12 +662,13 @@
 
 * [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
 * [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
+* ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+* [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 * [Oracle - Blog](https://blogs.oracle.com/java/)
 * [OpenJDK](http://openjdk.java.net/)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
-* ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
@@ -676,6 +678,7 @@
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
+* 📋 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -843,6 +846,8 @@
 * [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
 * 🎬 [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
+* 📕 [Dive into Deep Learning](https://d2l.ai/index.html)
+* [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
 
 ### [Programming] - [Node.js]
 
@@ -943,6 +948,10 @@
 * [HNPWA](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * [Appscope](https://appsco.pe/)
+
+### [Programming] - [Powershell]
+
+* [PowerShell Documentation](https://docs.microsoft.com/es-es/powershell/)
 
 ### [Programming] - [Python]
 
@@ -2096,6 +2105,7 @@
 * 🔧 [Open 3D Model Viewer](http://www.open3mod.com/)
 * 🔧 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
 * 🔧 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
+* 🔧 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
 
 #### [Games] - [Recursos] - [Sprites2D]
 
