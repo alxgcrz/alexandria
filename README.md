@@ -503,9 +503,7 @@
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
-* []
 * [Terraform by HashiCorp](https://www.terraform.io/)
-
 
 ### [Programming] - [Virtual Machines]
 
