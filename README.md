@@ -790,13 +790,12 @@
 
 * [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 * [Kotlin Academy](https://blog.kotlin-academy.com/)
-* [Kotlin programmer dictionary](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-2cb67fff1fe2)
+* ⭐ [Kotlin programmer dictionary](https://blog.kotlin-academy.com/kotlin-programmer-dictionary-2cb67fff1fe2)
 * [Kotlin From Scratch - Envato Tuts+ Code Tutorials](https://code.tutsplus.com/series/kotlin-from-scratch--cms-1209)
 * [Learn kotlin in Y Minutes](https://learnxinyminutes.com/docs/kotlin/)
 * [Kotlin Development](https://www.kotlindevelopment.com/)
 * [Kotlin by Example](http://kotlinbyexample.org/)
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-* [Shortcuts to Learning Kotlin – Codacy](https://blog.codacy.com/shortcuts-to-learning-kotlin-a2d3af535c80)
 * 💡 [Kotlin coding puzzle and solutions](https://github.com/igorwojda/kotlin-coding-puzzle)
 
 #### [Programming] - [Kotlin] - [Samples]
