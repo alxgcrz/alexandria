@@ -727,6 +727,8 @@
 * [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 * [Helidon is a collection of Java libraries for writing microservices](https://helidon.io/docs/latest/#/about/01_introduction)
+* [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
+* [Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE](https://www.payara.fish/)
 
 #### [Programming] - [Java] - [JavaFX]
 
@@ -935,6 +937,7 @@
 * [Welcome - Polymer Project](https://www.polymer-project.org/)
 * [Brick](http://mozbrick.github.io/index.html)
 * [Mozilla Brick](http://brick.mozilla.io/)
+* [lit-html - An efficient, expressive, extensible HTML templating library for JavaScript](https://lit-html.polymer-project.org/)
 
 ### [Programming] - [Processing]
 
