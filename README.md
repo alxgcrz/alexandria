@@ -179,7 +179,6 @@
 * [Enyo JavaScript Application Framework](http://enyojs.com/)
 * [Framework7 - Full Featured Mobile HTML Framework For Building iOS & Android Apps](http://framework7.io/)
 * [jQuery Mobile | jQuery Mobile](http://jquerymobile.com/)
-* [Mobile Angular UI - Angular JS Mobile UI framework with Bootstrap 3 Css](http://mobileangularui.com/)
 * [Moobile | Home](http://moobilejs.com/)
 * [nativeDroid2 - material design theme for jQuery Mobile](http://nativedroid.godesign.ch/material/)
 * [Onsen UI 2: Beautiful HTML5 Hybrid Mobile App Framework and Tools - Onsen UI](https://onsen.io/)
@@ -475,10 +474,9 @@
 
 ### [Programming] - [Angular]
 
-* [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.org/)
-* [AngularJS — Superheroic JavaScript MVW Framework](http://angularjs.org/)
-* [A Step-by-Step Guide to Your First AngularJS App | Toptal](http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app)
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
+* [AngularDart — Superheroic MVW Framework for Dart](https://webdev.dartlang.org/angular)
+* [Mobile Angular UI - Angular JS Mobile UI framework with Bootstrap 3 Css](http://mobileangularui.com/)
 
 ### [Programming] - [Container Platforms]
 
@@ -1679,8 +1677,7 @@
 
 ##### [Programming] - [Web] - [Blogging] - [CMS]
 
-* [A Free and Easy CMS for Everyone - gp|Easy CMS](http://gpeasy.com/)
-* [Alternativas a WordPress: Generadores estáticos | Emezeta](http://www.emezeta.com/articulos/alternativas-a-wordpress-generadores-estaticos)
+* ⭐ [headless - A list of Content Management System](https://headlesscms.org/)
 * [Apostrophe: Home](http://apostrophenow.org/)
 * [Automad / A File-Based & Open Source Content Management System](http://automad.org/)
 * [Bolt - content management (1.1.4) - The Bolt website.](http://bolt.cm/)
@@ -1720,7 +1717,6 @@
 * [Welcome to an Easier Way to Blog](http://dropplets.com/)
 * [Wolf CMS - Open Source Content Management System -](http://www.wolfcms.org/)
 * [Zotonic, the Erlang Web Framework — Zotonic](http://zotonic.com/)
-* [headless - A list of Content Management System](https://headlesscms.org/)
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 
 ##### [Programming] - [Web] - [Blogging] - [Ghost]
@@ -1750,18 +1746,15 @@
 
 ##### [Programming] - [Web] - [Blogging] - [Static Generator]
 
-* [DocPad - Streamlined Web Development](http://docpad.org/)
+* ⭐ [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
+* [DocPad - Streamlined Web Development](https://docpad.org/)
 * [Harp, the static web server with built-in preprocessing](http://harpjs.com/)
-* [Hexo](https://hexo.io/index.html)
-* [Hugo :: A fast and flexible static site generator](http://hugo.spf13.com/)
-* [Metalsmith](http://www.metalsmith.io/)
-* [Middleman: Hand-crafted frontend development](http://middlemanapp.com/)
-* [nanoc: a static site generator written in Ruby » home](http://nanoc.ws/)
-* [Octopress](http://octopress.org/)
-* [Pancake](https://pancake.io/)
-* [Sculpin — PHP Static Site Generator](https://sculpin.io/)
-* [Wintersmith](http://wintersmith.io/)
-* [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
+* [Hexo - A fast, simple & powerful blog framework](https://hexo.io/index.html)
+* [Hugo is one of the most popular open-source static site generators](https://gohugo.io/)
+* [Metalsmith - An extremely simple, pluggable static site generator.](https://metalsmith.io/)
+* [Middleman is a static site generator using all the shortcuts and tools in modern web development.](https://middlemanapp.com/)
+* [Sculpin is a static site generator written in PHP](https://sculpin.io/)
+* [Wintersmith - Flexible, minimalistic, multi-platform static site generator built on top of node.js.](http://wintersmith.io/)
 * [Cogear.JS is a static websites generator](https://cogearjs.org/)
 
 ### [Programming] - [Legal]
@@ -2249,15 +2242,14 @@
 * [Sans Francisco](http://www.sansfrancis.co/)
 * [Startup Collections](https://startupcollections.com/)
 * [Startup Stash](http://startupstash.com/)
-* [Makerbook](http://makerbook.net/)
 * [Free Design Code Tools](http://growthsupply.com/free/design-code/)
-* ⭐ [Blue Vertigo](http://www.bluevertigo.com.ar/)
+* ⭐ [Blue Vertigo](https://www.bluevertigo.com.ar/)
 * [Engigogo is a community-curated directory of resources and tools](https://engigogo.com/)
 * [A collection of useful online resources for designers.](https://neede.co/#/)
 * [A free resource library for product designers](http://www.designnotes.co/)
-* ⭐ [Curated free resources for makers](http://freebiebucket.com/)
 * [Curated list of resources](http://thestocks.im/)
 * [Collection of Free Stock Resources](https://www.stockjo.com/)
+* ⭐ [UI Goodies - The best resources for designers in one place.](http://uigoodies.com/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
