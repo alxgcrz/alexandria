@@ -34,7 +34,7 @@
 * [Pointers to useful, well-written, and otherwise beautiful documentation. - GitHub](https://github.com/PharkMillups/beautiful-docs)
 * [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
 * [A collection of useful .gitignore templates](https://github.com/github/gitignore)
-* [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
+* ⭐ [Libraries.io - The Open Source Discovery Service](https://libraries.io/)
 * [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 * [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 * ⭐ [Emmet — the essential toolkit for web-developers](http://emmet.io/)
@@ -477,6 +477,7 @@
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
 * [AngularDart — Superheroic MVW Framework for Dart](https://webdev.dartlang.org/angular)
 * [Mobile Angular UI - Angular JS Mobile UI framework with Bootstrap 3 Css](http://mobileangularui.com/)
+* [The official Angular library for Firebase](https://github.com/angular/angularfire2)
 
 ### [Programming] - [Container Platforms]
 
@@ -501,7 +502,7 @@
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
-* [Terraform by HashiCorp](https://www.terraform.io/)
+* [Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.](https://www.terraform.io/)
 
 ### [Programming] - [Virtual Machines]
 
@@ -663,7 +664,6 @@
 * [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
 * ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-* [Oracle - Blog](https://blogs.oracle.com/java/)
 * [OpenJDK](http://openjdk.java.net/)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
@@ -674,11 +674,20 @@
 * [Google Java Style](http://google.github.io/styleguide/javaguide.html)
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
+  * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
 * [Deep Learning for Java](https://deeplearning4j.org/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
-* 📋 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
+* 👉 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
+* 📝 [Oracle - Blog](https://blogs.oracle.com/java/)
+* 📝 [JavaWorld](https://www.javaworld.com/)
+* 📝 [InfoQ - Java](https://www.infoq.com/java/)
+* 📝 [Javarevisited](https://javarevisited.blogspot.com/)
+* 📝 [Java, SQL and JOOQ](https://blog.jooq.org/)
+* 📝 [A Java geek](https://blog.frankel.ch/)
+* 📝 [Baeldung](https://www.baeldung.com/)
+* 📝 [Rieckpil](https://rieckpil.de/java-in-general/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -693,6 +702,7 @@
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
+* 👌 [Flogger - A Fluent Logging API for Java by Google](https://github.com/google/flogger)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
 * [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
@@ -727,6 +737,8 @@
 * [Helidon is a collection of Java libraries for writing microservices](https://helidon.io/docs/latest/#/about/01_introduction)
 * [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
 * [Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE](https://www.payara.fish/)
+* [Quarkus is a Cloud Native, Container First framework for writing Java applications.](https://github.com/quarkusio/quarkus)
+* [Spincast is an highly flexible Java web framework, based on Guice](https://github.com/spincast/spincast-framework)
 
 #### [Programming] - [Java] - [JavaFX]
 
@@ -779,6 +791,7 @@
 * [Use JSDoc: Index](http://usejsdoc.org/)
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
+* [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
 
 ### [Programming] - [Kotlin]
 
@@ -954,6 +967,7 @@
 * [HNPWA](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * [Appscope](https://appsco.pe/)
+* 🎬 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 
 ### [Programming] - [Powershell]
 
@@ -1237,6 +1251,7 @@
 * [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
 * [React UI Kits](https://dev.to/kayis/react-ui-kits-3fm2)
 * [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
+* [U.S. Web Design System.](https://v2.designsystem.digital.gov/documentation/)
 
 #### [Programming] - [Web] - [Bootstrap]
 
@@ -1951,7 +1966,7 @@
 
 ### [Games] - [Canvas Library]
 
-* [PixiJs](http://www.pixijs.com/)
+* [PixiJS - The HTML5 Creation Engine - Create beautiful digital content with the fastest, most flexible 2D WebGL renderer](https://www.pixijs.com/)
 * [BabylonJS](http://www.babylonjs.com/)
 * [three.js - Javascript 3D library](https://threejs.org/)
 * [Physijs - a physics plugin for threejs](http://chandlerprall.github.io/Physijs/)
