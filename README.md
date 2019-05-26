@@ -503,6 +503,7 @@
 * [Crossplane - The open source multicloud control plane](https://crossplane.io/)
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
 * [Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.](https://www.terraform.io/)
+* [Razee - A multi-cluster continuous delivery tool for Kubernetes](https://razee.io/)
 
 ### [Programming] - [Virtual Machines]
 
@@ -786,7 +787,7 @@
 * [Some Of The Best Javascript Frameworks A Developer Can Have](http://www.designyourway.net/blog/jquery/best-javascript-frameworks-developer/)
 * [TaffyDB - The JavaScript Database](http://www.taffydb.com/)
 * [Umbrella JS](https://umbrellajs.com/)
-* [Unbeatable JavaScript Tools - The Dojo Toolkit](http://dojotoolkit.org/)
+* [Dojo - A Progressive Framework for Modern Web Apps](https://dojo.io/)
 * [Underscore.js](http://documentcloud.github.io/underscore/#)
 * [Use JSDoc: Index](http://usejsdoc.org/)
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
@@ -896,6 +897,7 @@
 * [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
 * [repl.it - Select a Language](https://repl.it/languages)
 * [CodeSandbox](https://codesandbox.io/)
+* [StackBlitz - Create, edit & deploy fullstack apps](https://stackblitz.com/)
 
 ### [Programming] - [Patterns]
 
@@ -935,6 +937,7 @@
 * [The League of Extraordinary Packages](http://thephpleague.com/)
 * [PHP: Referencia del lenguaje - Manual](http://php.net/manual/es/langref.php)
 * [phpDocumentor](http://www.phpdoc.org/docs/latest/index.html)
+* [Testing y TDD para PHP](https://leanpub.com/testingytddparaphp/read)
 
 ### [Programming] - [Polymer]
 
@@ -991,8 +994,9 @@
 
 ### [Programming] - [React]
 
+* [React - A JavaScript library for building user interfaces](https://reactjs.org/)
+* [React - Una biblioteca de JavaScript para construir interfaces de usuario](https://es.reactjs.org/)
 * [Belle - Configurable React Components with great UX](http://nikgraf.github.io/belle/#/)
-* [A JavaScript library for building user interfaces | React](https://facebook.github.io/react/index.html)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/site/native.html)
 
 ### [Programming] - [ReactiveX]
@@ -1157,6 +1161,7 @@
 
 ### [Programming] - [Web]
 
+* 🎓👌 [Let's build the future of the web](https://web.dev/)
 * [BOWER: A package manager for the web](http://bower.io/)
 * [Brunch | ultra-fast HTML5 build tool](http://brunch.io/)
 * [Couscous! Put your documentation in a website!](http://couscous.io/)
@@ -1253,6 +1258,8 @@
 * [React UI Kits](https://dev.to/kayis/react-ui-kits-3fm2)
 * [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 * [U.S. Web Design System.](https://v2.designsystem.digital.gov/documentation/)
+* [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/#/)
+* [Base Web, Uber’s New Design System for Building Websites in React](https://baseweb.design/)
 
 #### [Programming] - [Web] - [Bootstrap]
 
@@ -1896,6 +1903,7 @@
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 * [Phet - Interactive Simulations](https://phet.colorado.edu/es/simulations/category/new)
 * [Physics Simulations](https://www.myphysicslab.com/)
+* [Descubre las Matemáticas con GeoGebra](https://www.geogebra.org/)
 
 ### [Games] - [OpenSource]
 
@@ -2266,6 +2274,7 @@
 * [Curated list of resources](http://thestocks.im/)
 * [Collection of Free Stock Resources](https://www.stockjo.com/)
 * ⭐ [UI Goodies - The best resources for designers in one place.](http://uigoodies.com/)
+* [All in One Tool for Makers](https://www.indiemakers.tools/)
 
 #### [Diseño] - [Recursos] - [ClipArt]
 
@@ -2392,7 +2401,7 @@
 * [Free design resources, Mokcups, psd templates, icons - graphberry.com](http://www.graphberry.com/)
 * [List of Free Design resources for your projects!](https://noshit.xyz/)
 
-#### [Diseño] - [Recursos] - [Fuentes]
+#### [Diseño] - [Recursos] - [Fonts]
 
 * 🔧 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 * 🔧 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
@@ -2439,6 +2448,7 @@
 * [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * [Segmented Fonts](https://aresluna.org/segmented-type/)
 * [The Inter UI font family](https://rsms.me/inter/)
+* 🥇 [Programming Fonts](https://app.programmingfonts.org/)
 
 #### [Diseño] - [Recursos] - [Iconos]
 
@@ -2485,7 +2495,9 @@
 * [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
 * [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
 * [VectorLogoZone](https://www.vectorlogo.zone/)
-* &#x2b50; [amp-what](http://www.amp-what.com/unicode/search/)
+* ⭐ [amp-what](http://www.amp-what.com/unicode/search/)
+* [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
+* [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
 
 #### [Diseño] - [Recursos] - [Mockups]
 
