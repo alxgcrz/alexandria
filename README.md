@@ -1004,6 +1004,13 @@
 * [ReactiveX](http://reactivex.io/)
 * [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
 
+### [Programming] - [Rust]
+
+* [The Rust Programming Language](https://www.rust-lang.org/)
+* [The Rust Programming Language - Github](https://github.com/rust-lang)
+* [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
+* [You can build stuff!](http://www.arewewebyet.org/)
+
 ### [Programming] - [RxJava]
 
 * [Unit Testing RxJava Observables and Subscriptions - My little Android warehouse](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
