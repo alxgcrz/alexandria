@@ -3018,5 +3018,3 @@
 * [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
 * 👽 [KittyKatt/screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
-
-----
