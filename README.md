@@ -171,7 +171,6 @@
 #### [Programming] - [Android] - [Frameworks]
 
 * [Apache Cordova](http://cordova.apache.org/)
-* [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
 * [Cocoon.io](https://cocoon.io/)
 * [Crosswalk](https://crosswalk-project.org/)
 * [DHTMLX Touch - JavaScript Mobile Framework for Building HTML5 Web Apps](https://dhtmlx.com/touch/)
@@ -478,6 +477,7 @@
 * [AngularDart — Superheroic MVW Framework for Dart](https://webdev.dartlang.org/angular)
 * [Mobile Angular UI - Angular JS Mobile UI framework with Bootstrap 3 Css](http://mobileangularui.com/)
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
+* 📝 [Angular in depth](https://blog.angularindepth.com/)
 
 ### [Programming] - [Container Platforms]
 
@@ -972,6 +972,8 @@
 * [Appscope](https://appsco.pe/)
 * 🎬 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * [Github - PWA](https://github.com/topics/pwa)
+* [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
+* [Capacitor - The Native Bridge for Cross-Platform Web Apps](https://capacitor.ionicframework.com/)
 
 ### [Programming] - [Powershell]
 
