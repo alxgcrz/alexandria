@@ -474,10 +474,13 @@
 ### [Programming] - [Angular]
 
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
-* [AngularDart — Superheroic MVW Framework for Dart](https://webdev.dartlang.org/angular)
-* [Mobile Angular UI - Angular JS Mobile UI framework with Bootstrap 3 Css](http://mobileangularui.com/)
+* [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
+* [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.dev/)
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
 * 📝 [Angular in depth](https://blog.angularindepth.com/)
+* [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
+* [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
+* [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
 
 ### [Programming] - [Container Platforms]
 
