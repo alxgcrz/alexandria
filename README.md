@@ -624,6 +624,7 @@
 
 ### [Programming] - [Gradle]
 
+* [Gradle is an open-source build automation tool focused on flexibility and performance](https://gradle.org/)
 * [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](https://rominirani.com/gradle-tutorial-part-1-installation-setup-2ea77729fc8c)
 * [Gradle Tutorial : Part 2 : Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-2-java-projects-5aaf99368018)
 * [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d)
@@ -631,30 +632,23 @@
 
 ### [Programming] - [GraphQL]
 
-* [GraphQL | A query language for your API](http://graphql.org/)
+* [GraphQL | A query language for your API](https://graphql.org/)
 * [Graphcool - GraphQL Backend Development Framework](https://www.graph.cool/)
 
 ### [Programming] - [Haxe]
 
-* [Haxe - The Cross-platform Toolkit](http://haxe.org/)
+* [Haxe - The Cross-platform Toolkit](https://haxe.org/)
 
 ### [Programming] - [HTML5]
 
-* [10 Best HTML5 Frameworks To Speed up Web Development | BestDesignTuts](http://www.bestdesigntuts.com/10-best-html5-frameworks-that-help-speed-up-web-development)
-* [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
-* [GitHub - marko-js/marko: A friendly (and fast!) UI library from eBay that makes building web apps fun](https://github.com/marko-js/marko)
-* [HTML5 Boilerplate - A rock-solid default template for HTML5 awesome.](http://html5boilerplate.com/)
-* [HTML5 Bones: The template that goes back to basics](http://html5bones.com/)
-* [HTML5 Demos and Examples](http://html5demos.com/)
-* [HTML5 Doctor, helping you implement HTML5 today](http://html5doctor.com/)
-* [HTML5 Please - Use the new and shiny responsibly](http://html5please.com/)
-* [HTML5 Rocks - A resource for open web HTML5 developers](http://www.html5rocks.com/en/)
-* [Initializr - Start an HTML5 Boilerplate project in 15 seconds!](http://www.initializr.com/)
-* [Modernizr: the feature detection library for HTML5/CSS3](http://modernizr.com/)
-* [SwitchToHTML5 - The HTML5 Framework Generator](http://switchtohtml5.com/)
-* [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/)
-* ⭐ [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
 * ⭐ [Introducción a HTML5](https://lenguajehtml.com/p/html/)
+* 👓 [diegocard/awesome-html5 - A curated list of awesome HTML5 resources](https://github.com/diegocard/awesome-html5)
+* ⭐ [Web Fundamentals and Tools - Google](https://developers.google.com/web/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [HTML5 Please - Look up HTML5, CSS3, etc features, know if they are ready for use](https://html5please.com/)
+* [HTML5 Boilerplate - The web’s most popular front-end template](https://html5boilerplate.com/)
+* [Modernizr: the feature detection library for HTML5/CSS3](https://modernizr.com/)
+* ⭐ [HTML Reference - A free guide to all HTML elements and attributes.](https://htmlreference.io/)
 
 ### [Programming] - [Java]
 
