@@ -962,16 +962,16 @@
 
 ### [Programming] - [PWA]
 
+* 👓 [TalAter/awesome-progressive-web-apps - A collection of awesome resources for building progressive web apps](https://github.com/TalAter/awesome-progressive-web-apps)
 * [Progressive Web App Libraries in Production – Dev Channel – Medium](https://medium.com/dev-channel/progressive-web-app-libraries-in-production-b52cad37d34#.cybg81oty)
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
-* [Manifoldjs is becoming PWA Builder – Web Dev @ Microsoft – Medium](https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.k5psn0mpw)
-* [PWABuilder](https://www.pwabuilder.com/)
-* [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
-* [HNPWA](https://hnpwa.com/)
-* [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * [Appscope](https://appsco.pe/)
+* [PWABuilder - Quickly and easily turn your website into an app!](https://www.pwabuilder.com/)
+* 🐙 [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
+* [HNPWA - Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
+* [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * 🎬 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
-* [Github - PWA](https://github.com/topics/pwa)
+* 🐙 [Github - PWA](https://github.com/topics/pwa)
 * [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
 * [Capacitor - The Native Bridge for Cross-Platform Web Apps](https://capacitor.ionicframework.com/)
 
