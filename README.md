@@ -510,13 +510,13 @@
 ### [Programming] - [Angular]
 
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
+* 👓 [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
 * [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.dev/)
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
 * 📝 [Angular in depth](https://blog.angularindepth.com/)
 * [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
 * [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
-* 👓 [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
 
 ### [Programming] - [Container Platforms]
 
@@ -546,29 +546,18 @@
 
 ### [Programming] - [CSS3]
 
+* 👓 [awesome-css-group/awesome-css - A curated contents of amazing CSS](https://github.com/awesome-css-group/awesome-css)
 * [Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS](http://stylus-lang.com/)
 * [Basscss - Low-Level CSS Toolkit](https://basscss.com/)
-* [ben-eb/cssnano](https://github.com/ben-eb/cssnano)
-* [Centering in CSS: A Complete Guide | CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
-* [Compass Home | Compass Documentation](http://compass-style.org/)
-* [Crayon.css](http://riccardoscalco.github.io/crayon/)
-* [CSS Drive- Categorized CSS gallery and examples.](http://www.cssdrive.com/)
-* [CSS Guidelines (2.1.4) – High-level advice and guidelines for writing sane, manageable, scalable CSS](http://cssguidelin.es/)
-* [CSS Lint](http://csslint.net/)
-* [CSS Portal - Templates, Tutorials, Books, Software, Code Examples](http://www.cssportal.com/)
-* [CSS Reference | Codrops](http://tympanus.net/codrops/css_reference/)
-* [CSS Style Guides | CSS-Tricks](http://css-tricks.com/css-style-guides/)
-* [CSS3 Shapes | CSS3 Shapes Resource](http://www.css3shapes.com/)
-* [CSS3 Tips and Tricks](http://www.inwebson.com/css3/)
-* [CSSReflex — Code Snippets, Tools and Resources for Web Devs](http://www.cssreflex.com/)
-* [kneath/kss · GitHub](https://github.com/kneath/kss)
-* [Lenguaje CSS (Hojas de estilo)](http://lenguajecss.com/)
-* [Magic of CSS — Adam Schwartz](http://adamschwartz.co/magic-of-css/)
-* [Myth - CSS the way it was imagined.](http://www.myth.io/)
-* [postcss/postcss · GitHub](https://github.com/postcss/postcss)
-* [Rucksack | CSS Superpowers](http://simplaio.github.io/rucksack/)
-* [Spring-cleaning Unused CSS With Grunt, Gulp, Broccoli or Brunch](http://addyosmani.com/blog/removing-unused-css/)
-* [CSS Reference - A free visual guide to the most popular CSS properties.](http://cssreference.io/)
+* [PostCSS - A tool for transforming CSS with JavaScript](https://postcss.org/)
+* [cssnano is a modern, modular compression tool written on top of the PostCSS ecosystem](https://cssnano.co/)
+* [Crayon.css is a list of css variables linking color names to hexadecimal values](https://riccardoscalco.it/crayon/)
+* [CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+* 👌 [CSS Reference | An extensive CSS reference with all the important properties and info to learn CSS from the basics](http://tympanus.net/codrops/css_reference/)
+* [CSS Reference - A free visual guide to the most popular CSS properties.](https://cssreference.io/)
+* 🎓👍 [Lenguaje CSS (Hojas de estilo)](https://lenguajecss.com/p/css/)
+* 🎓 [The Magic of CSS — Adam Schwartz](https://adamschwartz.co/magic-of-css/)
+
 
 #### [Programming] - [CSS3] - [Learn]
 
@@ -710,6 +699,7 @@
 * [SwitchToHTML5 - The HTML5 Framework Generator](http://switchtohtml5.com/)
 * [HTML Reference - A free guide to all HTML elements and attributes.](http://htmlreference.io/)
 * ⭐ [Free Web Development Tutorials](https://www.reddit.com/r/webdev/comments/8sumel/free_web_development_tutorials_for_those_who_are/)
+* ⭐ [Introducción a HTML5](https://lenguajehtml.com/p/html/)
 
 ### [Programming] - [Java]
 
