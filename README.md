@@ -944,24 +944,21 @@
 
 ### [Programming] - [Polymer]
 
-* [40+ Sleek UI Components for modern web apps - Vaadin Elements](https://vaadin.com/elements/browse)
-* [ExpandJS](http://expandjs.com/)
-* [Granze/awesome-polymer · GitHub](https://github.com/Granze/awesome-polymer)
-* [Using Polymer to Create Web Components - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/using-polymer-to-create-web-components--cms-20475)
-* [Web Components](http://desarrolloweb.com/manuales/web-components.html)
+* [Polymer Project - We work on libraries, tools, and standards to help developers build a better web](https://www.polymer-project.org/)
+* 👓 [Granze/awesome-polymer - A collection of awesome Polymer resources.](https://github.com/Granze/awesome-polymer)
 * [WebComponents.org](https://www.webcomponents.org/)
-* [webcomponents/webcomponentsjs · GitHub](https://github.com/webcomponents/webcomponentsjs)
-* [Welcome - Polymer Project](https://www.polymer-project.org/)
-* [Brick](http://mozbrick.github.io/index.html)
-* [Mozilla Brick](http://brick.mozilla.io/)
+* [Brick is a collection of UI components designed for the easy and quick building of web application UIs.](http://brick.mozilla.io/)
 * [lit-html - An efficient, expressive, extensible HTML templating library for JavaScript](https://lit-html.polymer-project.org/)
+* [LitElement - A simple base class for creating fast, lightweight web components](https://lit-element.polymer-project.org/)
+* [40+ Sleek UI Components for modern web apps - Vaadin Elements](https://vaadin.com/components)
+* [ExpandJS](http://expandjs.com/)
 
 ### [Programming] - [Processing]
 
-* [Get Started With Processing for Android](https://code.tutsplus.com/tutorials/getting-started-with-processing-for-android--cms-30419)
-* [p5.js | home](https://p5js.org/)
 * [Processing.org](https://www.processing.org/)
-* [Processing for Android](http://android.processing.org/)
+* [p5.js | home](https://p5js.org/)
+* [Processing for Android](https://android.processing.org/)
+* [Get Started With Processing for Android](https://code.tutsplus.com/tutorials/getting-started-with-processing-for-android--cms-30419)
 
 ### [Programming] - [PWA]
 
