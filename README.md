@@ -550,6 +550,7 @@
 * [Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS](http://stylus-lang.com/)
 * [Basscss - Low-Level CSS Toolkit](https://basscss.com/)
 * [PostCSS - A tool for transforming CSS with JavaScript](https://postcss.org/)
+* [PostCSS Preset Env lets you convert modern CSS into something most browsers can understand](https://preset-env.cssdb.org/)
 * [cssnano is a modern, modular compression tool written on top of the PostCSS ecosystem](https://cssnano.co/)
 * [Crayon.css is a list of css variables linking color names to hexadecimal values](https://riccardoscalco.it/crayon/)
 * [CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
@@ -557,62 +558,19 @@
 * [CSS Reference - A free visual guide to the most popular CSS properties.](https://cssreference.io/)
 * 🎓👍 [Lenguaje CSS (Hojas de estilo)](https://lenguajecss.com/p/css/)
 * 🎓 [The Magic of CSS — Adam Schwartz](https://adamschwartz.co/magic-of-css/)
-
-
-#### [Programming] - [CSS3] - [Learn]
-
-* [Is PostCSS a Game Changer](http://articles.dappergentlemen.com/2015/07/24/postcss/)
-* [Nesting in Sass and Less · @mdo](http://markdotto.com/2015/07/20/css-nesting/?)
-* [10 CSS Rules Every Web Designer Should Know](http://line25.com/articles/10-css-rules-every-web-designer-should-know)
-* [25 Fragmentos CSS para algunas de las tareas más comunes y frustrantes || webintenta blog](http://webintenta.com/25-fragmentos-css-para-algunas-de-las-tareas-ms-comunes-y-frustrantes.html)
-* [20 Protips For Writing Modern CSS | Tutorialzine](http://tutorialzine.com/2016/08/20-protips-for-writing-modern-css/)
-* [Building Resizeable Components with Relative CSS Units | CSS-Tricks](https://css-tricks.com/building-resizeable-components-relative-css-units/)
-* [Cómo perder peso (en el navegador)](http://browserdiet.com/es/)
-
-#### [Programming] - [CSS3] - [Flexbox]
-
-* [flexbox in 5 minutes](http://devbryce.com/site/flexbox/)
-* [5 top Flexbox resources | Creative Bloq](http://www.creativebloq.com/features/5-top-flexbox-resources)
+* [Cómo perder peso (en el navegador)](https://browserdiet.com/es/)
+* [CSS3 Generator](http://css3generator.com/)
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.y2i5i8xwc)
-* [Flexbox Cheatsheet](http://yoksel.github.io/flex-cheatsheet/)
-
-#### [Programming] - [CSS3] - [Online]
-
-* [Button Maker](http://css-tricks.com/examples/ButtonMaker/)
-* [Completa colección de herramientas CSS para diseñadores web | CSSmatic](http://www.cssmatic.com/)
-* [CSS + CSS3 Generator | Generate CSS](http://www.generatecss.com/)
-* [CSS3 Button Generator](http://css3button.net/)
-* [CSS3 Button Generator](http://css3buttongenerator.com/)
-* [CSS3 Generator](http://css3generator.com/)
-* [CSS3 Generator - By Peter Funk & Eric Hoffman](http://www.css3.me/)
-* [CSS3 Generator | CSS3 Tools and Snippets | CSS3Gen](http://css3gen.com/)
-* [CSS3.0 Maker | CSS3.0 Generator | CSS 3.0 Generator | css3 generator](http://www.css3maker.com/)
-* [cssarrowplease](http://cssarrowplease.com/)
-* [Noise Texture Generator v2.1](http://www.noisetexturegenerator.com/)
-* [Ultimate CSS Gradient Generator - ColorZilla.com](http://www.colorzilla.com/gradient-editor/)
-
-#### [Programming] - [CSS3] - [Utils]
-
-* [CSS FilterLab](http://html.adobe.com/webplatform/graphics/customfilters/cssfilterlab/)
 * [Tridiv | CSS 3D Editor](http://tridiv.com/)
-* [Create CSS3 - Easy CSS3 Generator & SASS Compass CSS3 Generator](http://www.createcss3.com/)
-* [CSS Beautifier](http://html.fwpolice.com/css/)
-* [Online CSS3 Code Generator With a Simple Graphical Interface - EnjoyCSS](http://enjoycss.com/start/)
-* [Easy CSS3 Gradient Generator - Gradientoo](http://gradientoo.com/)
-* [The Ultimate CSS3 Generator | Web Code Tools](http://webcodetools.com/css-generators/)
-* [cssnext - Use tomorrow's CSS syntax, today.](http://cssnext.io/)
-* [css2sass | Convert CSS Snippets to Syntactically Awesome StyleSheets code](http://css2sass.herokuapp.com/)
-* [CodePen - angular interactive box-model diagram](http://codepen.io/carolineartz/full/ogVXZj)
-* [CSS Ruler • Explore CSS lengths.](http://katydecorah.com/css-ruler/)
-* [CSSDesk - Online CSS Sandbox](http://cssdesk.com/)
-* [CSS Stats](http://www.cssstats.com/)
+* [The Ultimate CSS3 Generator | Web Code Tools](https://webcode.tools/css-generator)
+* [CSS Ruler • Explore CSS lengths](https://katydecorah.com/css-ruler/)
 
 ### [Programming] - [Dart]
 
 * [Dart: Structured web apps](https://www.dartlang.org/)
 * [Dart API Reference](https://api.dartlang.org/stablel)
-* ⭐ [Awesome - Dart](https://github.com/yissachar/awesome-dart)
+* 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
 
 ### [Programming] - [Database]
 
