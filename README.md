@@ -760,6 +760,15 @@
 * [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 
+### [Programming] - [Java] - [RxJava]
+
+* [RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.](https://github.com/ReactiveX/RxJava)
+* [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
+* 👓 [eleventigers/awesome-rxjava - Useful resources for working with RxJava](https://github.com/eleventigers/awesome-rxjava)
+* [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+* [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
+* [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
+
 ### [Programming] - [Javascript]
 
 * [Async-IO.org: Powering the Atmosphere Framework](http://async-io.org/)
@@ -953,6 +962,10 @@
 * [40+ Sleek UI Components for modern web apps - Vaadin Elements](https://vaadin.com/components)
 * [ExpandJS](http://expandjs.com/)
 
+### [Programming] - [Powershell]
+
+* [PowerShell Documentation](https://docs.microsoft.com/es-es/powershell/)
+
 ### [Programming] - [Processing]
 
 * [Processing.org](https://www.processing.org/)
@@ -974,10 +987,6 @@
 * 🐙 [Github - PWA](https://github.com/topics/pwa)
 * [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
 * [Capacitor - The Native Bridge for Cross-Platform Web Apps](https://capacitor.ionicframework.com/)
-
-### [Programming] - [Powershell]
-
-* [PowerShell Documentation](https://docs.microsoft.com/es-es/powershell/)
 
 ### [Programming] - [Python]
 
@@ -1004,7 +1013,6 @@
 ### [Programming] - [ReactiveX]
 
 * [ReactiveX](http://reactivex.io/)
-* [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
 
 ### [Programming] - [Rust]
 
@@ -1012,13 +1020,6 @@
 * [The Rust Programming Language - Github](https://github.com/rust-lang)
 * [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 * [You can build stuff!](http://www.arewewebyet.org/)
-
-### [Programming] - [RxJava]
-
-* [Unit Testing RxJava Observables and Subscriptions - My little Android warehouse](http://fedepaol.github.io/blog/2015/09/13/testing-rxjava-observables-subscriptions/)
-* [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-* [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
-* [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
 ### [Programming] - [SASS]
 
