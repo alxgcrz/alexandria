@@ -161,8 +161,7 @@
 
 * ⭐ [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Google Style Guides](https://google.github.io/styleguide/)
-* [Bootstrap Style Guide Boilerplate is an easy way to generate living style guides semi-automatically](http://www.monolinea.com/labs/bootstrap-style-guide-boilerplate/)
-* 👽 [SalGnt/cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
+* 👓 [SalGnt/cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 * [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
 
 ### [Programming] - [Algorithms]
@@ -574,14 +573,14 @@
 
 ### [Programming] - [Database]
 
+* 👓 [Awesome - Databases](https://github.com/sindresorhus/awesome#databases)
 * [Apache CouchDB](http://couchdb.apache.org/)
-* [Crate](https://crate.io/)
-* [DBeaver | Free Universal SQL Client](https://dbeaver.jkiss.org/)
-* [Redis](https://redis.io/)
+* [DBeaver | Universal Database Tool](https://dbeaver.io/)
+* [Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker](https://redis.io/)
 * [RethinkDB: the open-source database for the realtime web](https://rethinkdb.com/)
-* [SQL Fiddle](http://sqlfiddle.com/)
-* [Titan: Distributed Graph Database](http://titan.thinkaurelius.com/)
+* [Titan: Distributed Graph Database](https://titan.thinkaurelius.com/)
 * [FoundationDB - From Apple](https://www.foundationdb.org/)
+* [Cloud Firestore es una base de datos flexible y escalable para la programación en servidores, dispositivos móviles y la Web desde Firebase y Google Cloud Platform](https://firebase.google.com/docs/firestore)
 
 ### [Programming] - [Electron]
 
@@ -589,6 +588,7 @@
 
 ### [Programming] - [Flutter]
 
+* 👓 [Solido/awesome-flutter - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more](https://github.com/Solido/awesome-flutter)
 * [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
   * [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Flutter](https://flutter-es.io/)
@@ -596,33 +596,30 @@
 
 ### [Programming] - [Git]
 
-* [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
-* [A successful Git branching model » nvie.com](http://nvie.com/posts/a-successful-git-branching-model/)
-* [Code School - Try Git](https://try.github.io/levels/1/challenges/1)
-* [First Aid git](http://firstaidgit.io/#/)
-* [Git](http://git-scm.com/)
+* [Git](https://git-scm.com/)
 * 📕 [Git - Book](https://git-scm.com/book/es/v2)
 * 📕 [Pro Git, el libro oficial de Git](https://uniwebsidad.com/libros/pro-git)
-* [git - la guía sencilla](http://rogerdudler.github.io/git-guide/index.es.html)
-* [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
-* [Git and GitHub Resources | You’ve Been Haacked](https://haacked.com/archive/2014/12/03/git-and-github-resources/)
-* [Git Immersion - Brought to you by Neo](http://gitimmersion.com/)
-* [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
-* [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
-* [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
+* ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
+* [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
+* [Resources to learn Git](https://try.github.io/)
+* [Github Learning Lab](https://lab.github.com/)
 * [GitHub Guides](https://guides.github.com/)
 * [GitLab | Open source software to collaborate on code](https://about.gitlab.com/)
-* [k88hudson/git-flight-rules: Flight rules for git](https://github.com/k88hudson/git-flight-rules)
-* [My Git Cheatsheet · GitHub](https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5)
-* [On undoing, fixing, or removing commits in git](https://sethrobertson.github.io/GitFixUm/fixup.html#uncommitted_everything)
-* [RawGit](http://rawgit.com/)
-* [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
+* ⭐ [git-tips/tips - Most commonly used git tips and trick](https://github.com/git-tips/tips)
+* ⭐ [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
+* [First Aid git](http://firstaidgit.io/#/)
+* [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
+* [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
+* 👓 [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+* [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
+* [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
+* [k88hudson/git-flight-rules - Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
 * [workspace • Git Cheatsheet • NDP Software](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
-* [Github Learning Lab](https://lab.github.com/)
-* ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
 
 ### [Programming] - [Go]
 
+* [Go is an open source programming language that makes it easy to build simple, reliable, and efficient software](https://golang.org/)
+* 👓 [avelino/awesome-go - A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [Aprende a programar en Go con GoClipse](https://platzi.com/blog/goclipse/)
 
 ### [Programming] - [Gradle]
