@@ -546,7 +546,8 @@
 
 ### [Programming] - [CSS3]
 
-* [BASSCSS](https://jxnblk.github.io/basscss/)
+* [Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS](http://stylus-lang.com/)
+* [Basscss - Low-Level CSS Toolkit](https://basscss.com/)
 * [ben-eb/cssnano](https://github.com/ben-eb/cssnano)
 * [Centering in CSS: A Complete Guide | CSS-Tricks](http://css-tricks.com/centering-css-complete-guide/)
 * [Compass Home | Compass Documentation](http://compass-style.org/)
@@ -1075,32 +1076,17 @@
 
 ### [Programming] - [SASS]
 
-* [9 Exciting Open Source Sass Frameworks | Webdesigner Depot](https://www.webdesignerdepot.com/2017/06/9-exciting-open-source-sass-frameworks/)
-* [Architecting a Sass Project](http://www.sitepoint.com/architecture-sass-project/)
-* [BASSCSS](http://www.basscss.com/)
-* [csstyle Clean, Simple Styling for the Web](http://www.csstyle.io/)
-* [Digging Into Sass - A Guide - Hongkiat](http://www.hongkiat.com/blog/easy-sass-guide/)
-* [gillesbertaux/andy · GitHub](https://github.com/gillesbertaux/andy)
-* [Hocus-Pocus](http://hocus-pocus.io/#boxes)
-* [MVCSS](http://mvcss.github.io/)
-* [My Favorite Sass Tools](http://www.sitepoint.com/my-favorite-sass-tools/)
-* [polikin/animate.sass · GitHub](https://github.com/polikin/animate.sass)
-* [Sache: Find Sass and Compass Extensions for your next project](http://www.sache.in/)
-* [Sass Guidelines](http://sass-guidelin.es/)
-* [Sassaparilla: Fiennes Edition](http://sass.fffunction.co/)
-* [SassMeister | The Sass Playground!](http://sassmeister.com/)
-* [Scut](http://davidtheclark.github.io/scut/)
-* [Team-Sass/toolkit · GitHub](https://github.com/Team-Sass/toolkit)
-* [typebase.css: The starting point for good typography on the web](http://devinhunt.github.io/typebase.css/)
-* [Typesettings | Home](http://typesettings.io/)
-* [Want To Learn Sass? Start With These Resources](http://www.designyourway.net/blog/design/learn-sass-resources/)
-* [Sassmagic - v1.0.0](http://w3cplus.github.io/SassMagic/)
-* [11 Mixin Libraries For Sass Designers Should Get - Hongkiat](http://www.hongkiat.com/blog/mixin-library-for-sass/)
-* [kouto swiss - A complete CSS framework for Stylus](http://kouto-swiss.io/)
-* [Bourbon - A Sass Mixin Library](http://bourbon.io/)
-* [Refills](http://refills.bourbon.io/)
-* [Bitters - predefined style for Bourbon](http://bitters.bourbon.io/)
-* [Bourbon Neat](http://neat.bourbon.io/)
+* 👓 [Famolus/awesome-sass - Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources](https://github.com/Famolus/awesome-sass)
+* [Sass is the most mature, stable, and powerful professional grade CSS extension language in the world](https://sass-lang.com/)
+* [csstyle is a modern approach for crafting beautifully maintainable stylesheets](https://www.csstyle.io/)
+* [Compass is an open-source CSS Authoring Framework](http://compass-style.org/)
+* [Bourbon - A Sass Mixin Library](https://www.bourbon.io/)
+* [Neat - A lightweight and flexible Sass grid](https://neat.bourbon.io/)
+* [Bitters - Scaffold styles, variables and structure for Bourbon projects](http://bitters.bourbon.io/)
+* [Scut is a collection of Sass utilities to ease and improve our implementations of common style-code patterns.](http://davidtheclark.github.io/scut/)
+* [Typebase.css is a minimal, customizable typography stylesheet](http://devinhunt.github.io/typebase.css/)
+* 🎓 [Digging Into Sass - A Guide - Hongkiat](http://www.hongkiat.com/blog/easy-sass-guide/)
+* 🎓 [Sass Guidelines](https://sass-guidelin.es/es/#introduccin)
 
 ### [Programming] - [Templating Engine]
 
