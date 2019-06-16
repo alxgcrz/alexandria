@@ -1082,9 +1082,10 @@
 
 ### [Programming] - [Vue]
 
+* [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
+* [Vuetify.js - Material Design Component Framework](https://vuetifyjs.com/en/)
+* 👓 [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
-* [Vue.js 2 Component Framework | Vuetify.js](https://vuetifyjs.com/)
-* [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 
 ### [Programming] - [Markdown]
 
