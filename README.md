@@ -748,7 +748,7 @@
 * [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 
-### [Programming] - [Java] - [RxJava]
+#### [Programming] - [Java] - [RxJava]
 
 * [RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.](https://github.com/ReactiveX/RxJava)
 * [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
@@ -843,21 +843,16 @@
 ### [Programming] - [LESS]
 
 * [LESS - The Dynamic Stylesheet language](http://lesscss.org/)
-* [Css2Less](http://css2less.cc/)
-* [LESS – The CSS Preprocessor, Tools, Mixins And Libraries | CollegeGFX](http://collegegfx.com/less-the-css-preprocessor-tools-mixins-and-libraries/)
-* [RECESS](http://twitter.github.io/recess/)
-* [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.com/)
-* [Preboot](http://getpreboot.com/)
-* [Optimizing CSS Stylesheets with RECESS - SitePoint](http://www.sitepoint.com/optimizing-css-stylesheets-recess/)
-* [LESS Hat. A kick-ass LESS Mixin Library for Everyone.](http://lesshat.madebysource.com/)
-* [Less CSS Preprocessor Toolbox - Tutorials, Tools, Mixins and Frameworks](http://speckyboy.com/2014/04/23/less-css-preprocessor-toolbox/)
+* 👓 [LucasBassetti/awesome-less -  curated list of awesome {Less}](https://github.com/LucasBassetti/awesome-less)
+* [Preboot is a comprehensive and flexible collection of LESS utilities](http://getpreboot.com/)
 
 ### [Programming] - [Lua]
 
-* [Lua 5.3 Reference Manual - contents](http://www.lua.org/manual/5.3/)
-* [Manual de Referencia de Lua 5.1 - contenido](http://www.lua.org/manual/5.1/es/)
-* [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
+* 👓 [LewisJEllis/awesome-lua - A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
+* [Lua is a powerful, efficient, lightweight, embeddable scripting language](https://www.lua.org/about.html)
+* [Manual de Referencia de Lua 5.1 - contenido](https://www.lua.org/manual/5.1/es/)
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/)
+* [Programming in Lua (first edition)](http://www.lua.org/pil/contents.html)
 
 ### [Programming] - [Machine Learning]
 
