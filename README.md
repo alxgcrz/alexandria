@@ -830,7 +830,6 @@
 * 👉 [JavaScripting.com - The Database of JavaScript Libraries](https://www.javascripting.com/)
 * [Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model](https://knockoutjs.com/)
 * [RequireJS is a JavaScript file and module loader](https://requirejs.org/)
-* [Sails.js - Sails makes it easy to build custom, enterprise-grade Node.js apps](https://sailsjs.com/)
 * [Socket.IO enables real-time, bidirectional and event-based communication](https://socket.io/)
 * [DerbyJS is a full-stack framework for writing modern web applications](http://derbyjs.com/)
 * [Meteor is an open source platform for web, mobile, and desktop](https://www.meteor.com/)
@@ -842,7 +841,6 @@
 * [JavaScript Robotics, By Your Command](https://cylonjs.com/)
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [ccampbell/mousetrap - Mousetrap is a simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
-* [Hammer.JS - Add touch gestures to your webapp](https://hammerjs.github.io/)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
 
 ### [Programming] - [Kotlin]
@@ -943,22 +941,14 @@
 
 ### [Programming] - [Node.js]
 
-* [Sails.js | Realtime MVC Framework for Node.js](http://sailsjs.org/#!)
-* [NodeJS | fernetjs](http://fernetjs.com/nodejs/)
-* [Calipso - A NodeJS CMS](http://calip.so/)
-* [DailyJS: Windows and Node: Getting Started](http://dailyjs.com/2012/05/03/windows-and-node-1/)
-* [Geddy | The original MVC Web framework for Node - a simple, structured way to create full stack javascript applications](http://geddyjs.org/)
-* [Express - node.js web application framework](http://expressjs.com/index.html)
-* [NodeCloud - Node.js resources](http://www.nodecloud.org/)
-* [An Introduction to Node.js for Front-End Developers](http://speckyboy.com/2013/11/13/node-js-for-front-end-developers/)
-* [Koa - next generation web framework for node.js](http://koajs.com/)
-* [total.js / web framework for node.js](http://www.totaljs.com/)
-* [Hexo - Node.js blog framework](http://zespia.tw/hexo/)
-* [Bucky — Performance Measurement of Your App's Actual Users](http://github.hubspot.com/bucky/)
-* [MEAN.io - A Fullstack Javascript Framework](http://www.mean.io/#!/)
-* [Intro to npm](http://foohack.com/2010/08/intro-to-npm/)
-* [hapi.js - A rich framework for building applications and services](http://hapijs.com/)
-* [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/)
+* 👓 [sindresorhus/awesome-nodejs - Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
+* [Node.js® es un entorno de ejecución para JavaScript](https://nodejs.org/es/)
+* [Sails.js - Sails makes it easy to build custom, enterprise-grade Node.js apps](https://sailsjs.com/)
+* [Express is a minimal and flexible Node.js web application framework](https://expressjs.com/)
+* [Koa is a new web framework designed by the team behind Express](https://koajs.com/)
+* 👍 [NodeCloud is a resource directory gathering sites related to Node.js](http://www.nodecloud.org/)
+* [hapi.js - A rich framework for building applications and services](https://hapijs.com/)
+* [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](https://www.electrode.io/)
 
 ### [Programming] - [Online Editors]
 
@@ -1125,22 +1115,10 @@
 
 ### [Programming] - [UWP]
 
-* [UWP Community Toolkit Documentation - UWP Community Toolkit | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/)
-* [Microsoft/UWPCommunityToolkit: The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.](https://github.com/Microsoft/WindowsCommunityToolkit)
-* [Documentación de UWP: desarrollador de aplicaciones UWP - UWP app developer | Microsoft Docs](https://docs.microsoft.com/es-es/windows/uwp/index)
-* [Windows-XAML/Template10: Making Windows 10 apps awesome](https://github.com/Windows-XAML/Template10)
-* [Visual Studio y Xamarin | Microsoft Docs](https://docs.microsoft.com/es-es/visualstudio/cross-platform/visual-studio-and-xamarin)
-* [Guides - Xamarin](https://developer.xamarin.com/guides/)
-* [Emulador de Android | Visual Studio](https://www.visualstudio.com/es/vs/msft-android-emulator/)
+* [Documentación de la Plataforma universal de Windows | Microsoft Docs](https://docs.microsoft.com/es-es/windows/uwp/index)
+* [Windows Community Toolkit Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/)
+* [Documentación de Xamarin | Microsoft Docs](https://docs.microsoft.com/es-es/visualstudio/cross-platform/visual-studio-and-xamarin)
 * [Microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio/)
-* [Connect(); 2017: SmartHotel360 Demo Apps and Architecture | The Visual Studio Blog](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
-* [Connect(); 2017: SmartHotel360 Demo Apps and Architecture | The Visual Studio Blog](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
-* [Connect(); 2017: SmartHotel360 Demo Apps and Architecture | The Visual Studio Blog](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
-* [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
-* [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
-* [Connect(); 2017: SmartHotel360 Demo Apps and Architecture | The Visual Studio Blog](https://blogs.msdn.microsoft.com/visualstudio/2017/12/13/connect-2017-smarthotel360-demo-apps-and-architecture/)
-* [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
-* [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 
 ### [Programming] - [VM]
 
@@ -1196,6 +1174,8 @@
 * [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
 * [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
 * [Ring UI — JetBrains Web UI components](https://jetbrains.github.io/ring-ui/master/index.html)
+* [Skin is eBay's official CSS framework](https://ebay.github.io/skin/)
+* [Marko - eBay](https://markojs.com/)
 * ⭐ [Bulma: a modern CSS framework based on Flexbox](https://bulma.io/)
 * 👊 [Bootstrap](https://getbootstrap.com/)
 * ⭐ [Foundation - The most advanced responsive front-end framework in the world](https://foundation.zurb.com/)
@@ -1225,38 +1205,25 @@
 #### [Programming] - [Web] - [Bootstrap]
 
 * [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
-* [Bootstrap editor, visual builder and playground. Fiddle with JavaScript, CSS, HTML5 and jQuery.](http://bootply.com/)
-* [18 Essential Bootstrap UI Editors](http://mashable.com/2013/10/20/bootstrap-editors/)
-* [Twitter Bootstrap 3 – JavaScript Components - SitePoint](http://www.sitepoint.com/twitter-bootstrap-3-javascript-components/)
-* [7 cool bootstrap 3 themes builders for faster bootstrap 3 theme development](http://smashinghub.com/7-cool-bootstrap-3-themes-builders-for-faster-bootstrap-3-theme-development.htm)
-* [Start Bootstrap - Free HTML Templates for Bootstrap 3](http://startbootstrap.com/)
-* [LayoutIt! - Interface Builder for Bootstrap](http://www.layoutit.com/)
-* [Recursos para Bootstrap](http://www.genbetadev.com/desarrollo-web/recursos-para-bootstrap)
-* [Understanding the Bootstrap 3 Grid System ♥ Scotch](http://scotch.io/bar-talk/understanding-the-bootstrap-3-grid-system)
-* [Download Bootstrap 3 UI Kit](http://bootstrapuikit.com/)
-* [Documentation - Bootflat](http://bootflat.github.io/documentation.html)
-* [Home of free code snippets for Bootstrap | Bootsnipp.com](http://bootsnipp.com/)
-* [Smoke](http://alfredobarron.github.io/smoke/#/)
-* [Pingendo - web authoring with comfort](http://pingendo.com/)
-* [ThemeFinder](http://themefindr.net/?)
-* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
+* [Start Bootstrap - Free HTML Templates for Bootstrap 3](https://startbootstrap.com/)
+* [Smoke - Form validation and components for Bootstrap](http://alfredobarron.github.io/smoke/#/)
 * [Froala Design Blocks - Over 170 responsive design blocks ready to be used in your web or mobile apps](https://www.froala.com/design-blocks)
+* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
 * ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 
 #### [Programming] - [Web] -  [Bibliotecas]
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Animation & Effects]
 
-* [A simple and easy jQuery plugin used to add&lt;br class=&quot;hidden-xs&quot;&gt;page transition on css animations. · Animsition](http://git.blivesta.com/animsition/)
+* [Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com/)
 * [AniJS, Declarative handling library for CSS animations](http://anijs.github.io/)
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Animatelo](https://gibbok.github.io/animatelo/)
 * [Animatic — CSS animations library](http://lvivski.com/animatic/)
-* [anime.js](http://animejs.com/)
 * [Animista](http://animista.net/)
-* [Bounce.js](http://bouncejs.com/)
-* [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
-* [CSS Shake](http://elrumordelaluz.github.io/csshake/)
+* [Bounce.js is a tool and JS library that lets you create beautiful CSS3 powered animations](http://bouncejs.com/)
+* 🎓 [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
+* [CSS Shake - Some CSS classes tomove your DOM!](http://elrumordelaluz.github.io/csshake/)
 * [CSS3 Animation Cheat Sheet - Justin Aguilar](http://www.justinaguilar.com/animations/#)
 * [CSS3 Keyframes Animation Generator](http://cssanimate.com/)
 * [Dynamics.js | JavaScript library to create physics-based animations](http://dynamicsjs.com/)
@@ -1277,7 +1244,7 @@
 * [Tweene :: JavaScript Animation Proxy](http://tweene.com/)
 * [Velocity.js is an animation engine](http://velocityjs.org/)
 * [particles.js - A lightweight JavaScript library for creating particles](http://vincentgarreau.com/particles.js/)
-* [Hammer.js - A javascript library for multi-touch gestures](http://eightmedia.github.io/hammer.js/)
+* [Hammer.JS - Add touch gestures to your webapp](https://hammerjs.github.io/)
 * [Odometer — Transition numbers with ease](http://github.hubspot.com/odometer/docs/welcome/)
 * [OriDomi - origami for the web](http://oridomi.com/#)
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
@@ -1393,10 +1360,6 @@
 * [Trianglify by @qrohlf](http://qrohlf.com/trianglify/)
 * [Usage Examples | MaxImage 2.0](http://www.aaronvanderzwan.com/maximage/)
 * [Vegas Background jQuery Plugin](http://vegas.jaysalvat.com/)
-
-##### [Programming] - [Web] -  [Bibliotecas] - [Map]
-
-* [gmaps.js — the easiest way to use Google Maps](http://hpneo.github.io/gmaps/examples/markers.html)
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Menu]
 
@@ -1567,11 +1530,6 @@
 * [Chronoline.js](http://stoicloofah.github.io/chronoline.js/)
 * [Timeline JS - Beautifully crafted timelines that are easy, and intuitive to use.](http://timeline.verite.co/)
 
-##### [Programming] - [Web] -  [Bibliotecas] - [UI]
-
-* [Marko](http://markojs.com/)
-* [jKit - jQuery based UI Toolkit - Index](http://jquery-jkit.com/)
-
 ##### [Programming] - [Web] -  [Bibliotecas] - [Video]
 
 * [amalia.js - Metadata enriched HTML5 video player](https://ina-foss.github.io/amalia.js/)
@@ -1665,6 +1623,7 @@
 ##### [Programming] - [Web] - [Blogging] - [CMS]
 
 * ⭐ [headless - A list of Content Management System](https://headlesscms.org/)
+* [Hexo - A fast, simple & powerful blog framework](https://hexo.io/)
 * [Apostrophe: Home](http://apostrophenow.org/)
 * [Automad / A File-Based & Open Source Content Management System](http://automad.org/)
 * [Bolt - content management (1.1.4) - The Bolt website.](http://bolt.cm/)
