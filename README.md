@@ -1089,11 +1089,10 @@
 
 ### [Programming] - [Markdown]
 
-* ⭐ [Joplin is a free, open source note taking and to-do application](https://joplin.cozic.net/)
+* ⭐ [Joplin is a free, open source note taking and to-do application](https://joplinapp.org/)
 * ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
-* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
-* [5 potentes editores de Markdown para GNU/Linux](http://blog.desdelinux.net/5-editores-de-markdown-para-gnulinux/)
+* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
 ### [Programming] - [Official]
