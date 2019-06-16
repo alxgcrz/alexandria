@@ -121,6 +121,54 @@
 * ⭐ [Technology and Engineering eBooks](https://it-eb.com/)
 * [The Nature of Code](https://natureofcode.com/book/)
 
+### [Programming] - [Official]
+
+* [Amazon Developer Services](https://developer.amazon.com/)
+* [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
+* [Home | Oracle Developers](https://developer.oracle.com/)
+* [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
+* [Mozilla Developer Network](https://developer.mozilla.org/es/)
+* [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
+* [Software Intel®](https://software.intel.com/es-es)
+* [Ubuntu Developer](https://developer.ubuntu.com/)
+* [Welcome to The Apache Software Foundation!](https://www.apache.org/)
+* [Yahoo Developer Network](https://developer.yahoo.com/)
+* [Stripe: Código abierto](https://stripe.com/open-source)
+* [Open Source @ IFTTT](http://ifttt.github.io/)
+
+#### [Programming] - [Official] - [Microsoft]
+
+* [.NET](https://www.microsoft.com/net)
+* [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
+* [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
+* [Chocolatey - The package manager for Windows](https://chocolatey.org/)
+* [Documentación técnica, API y ejemplos de código | Microsoft Docs](https://docs.microsoft.com/es-es/)
+* [Documentación y tutoriales de introducción | Visual Studio](https://www.visualstudio.com/es/vs/getting-started/)
+* [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
+* [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
+* [NuGet Gallery | Home](https://www.nuget.org/)
+
+#### [Programming] - [Official] - [Google]
+
+* [Google Trends](https://trends.google.com/trends/)
+* [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
+* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
+* [The Mobile Playbook](http://www.themobileplaybook.com/es-latam/)
+* [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
+* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
+* [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
+* [Sitio web oficial de Google Analytics: Analítica web e informes – Google Analytics](http://www.google.es/intl/es/analytics/)
+* [Chrome Experiments](https://www.chromeexperiments.com/)
+* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud  |  Google Cloud Platform](https://cloud.google.com/)
+* [Google Open Source – opensource.google.com](https://opensource.google.com/)
+* [AdMob](https://apps.admob.com/v2/home?pli=1)
+* [GCP products described in 4 words or less – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
+* [All Community Tutorials  |  Google Cloud Platform Community  |  Google Cloud Platform](https://cloud.google.com/community/tutorials/)
+* [Guía de optimización en buscadores (SEO) para principiantes - Ayuda de Search Console](https://support.google.com/webmasters/answer/7451184)
+* [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
+* [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
+* [Google Developers](https://developers.google.com/)
+
 ### [Programming] - [Style Guide]
 
 * ⭐ [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -480,7 +528,7 @@
 * 📝 [Angular in depth](https://blog.angularindepth.com/)
 * [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
 * [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
-* [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
+* 👓 [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
 
 ### [Programming] - [Container Platforms]
 
@@ -507,12 +555,6 @@
 * [traefik - The Cloud Native Edge Router](https://traefik.io/)
 * [Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.](https://www.terraform.io/)
 * [Razee - A multi-cluster continuous delivery tool for Kubernetes](https://razee.io/)
-
-### [Programming] - [Virtual Machines]
-
-* [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
-* [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
-* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
 
 ### [Programming] - [CSS3]
 
@@ -594,16 +636,27 @@
 * [Dart API Reference](https://api.dartlang.org/stablel)
 * ⭐ [Awesome - Dart](https://github.com/yissachar/awesome-dart)
 
+### [Programming] - [Database]
+
+* [Apache CouchDB](http://couchdb.apache.org/)
+* [Crate](https://crate.io/)
+* [DBeaver | Free Universal SQL Client](https://dbeaver.jkiss.org/)
+* [Redis](https://redis.io/)
+* [RethinkDB: the open-source database for the realtime web](https://rethinkdb.com/)
+* [SQL Fiddle](http://sqlfiddle.com/)
+* [Titan: Distributed Graph Database](http://titan.thinkaurelius.com/)
+* [FoundationDB - From Apple](https://www.foundationdb.org/)
+
+### [Programming] - [Electron]
+
+* [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
+
 ### [Programming] - [Flutter]
 
 * [Easy and fast SDK for beautiful apps - Flutter](https://flutter.io/)
   * [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * [Flutter](https://flutter-es.io/)
 * [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
-
-### [Programming] - [Electron]
-
-* [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
 
 ### [Programming] - [Git]
 
@@ -635,6 +688,13 @@
 ### [Programming] - [Go]
 
 * [Aprende a programar en Go con GoClipse](https://platzi.com/blog/goclipse/)
+
+### [Programming] - [Gradle]
+
+* [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](https://rominirani.com/gradle-tutorial-part-1-installation-setup-2ea77729fc8c)
+* [Gradle Tutorial : Part 2 : Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-2-java-projects-5aaf99368018)
+* [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d)
+* [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](https://rominirani.com/gradle-tutorial-part-4-java-web-applications-9f4225cc02e5)
 
 ### [Programming] - [GraphQL]
 
@@ -848,6 +908,21 @@
 * [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
 * [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
 
+### [Programming] - [Legal]
+
+* [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
+* [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
+* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
+* [Aviso Legal Web y LOPD](http://www.techlegal.es/)
+* [Billable: Billing Made Simple. Period.](http://billable.me/)
+* [Docracy - Free Legal Documents](https://www.docracy.com/)
+* [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
+* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
+* [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
+* [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
+* [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
+* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
+
 ### [Programming] - [LESS]
 
 * [LESS - The Dynamic Stylesheet language](http://lesscss.org/)
@@ -878,6 +953,14 @@
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 * 📕 [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
+
+### [Programming] - [Markdown]
+
+* ⭐ [Joplin is a free, open source note taking and to-do application](https://joplinapp.org/)
+* ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
+* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
+* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
+* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
 
 ### [Programming] - [Node.js]
 
@@ -1080,94 +1163,18 @@
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 * [Programming Windows 10 Desktop: UWP Focus (15 of 15) - CodeProject](https://www.codeproject.com/Articles/1223080/Programming-Windows-Desktop-UWP-Focus-of)
 
+### [Programming] - [VM]
+
+* [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
+* [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
+* [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
+
 ### [Programming] - [Vue]
 
 * [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
 * [Vuetify.js - Material Design Component Framework](https://vuetifyjs.com/en/)
 * 👓 [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
-
-### [Programming] - [Markdown]
-
-* ⭐ [Joplin is a free, open source note taking and to-do application](https://joplinapp.org/)
-* ⭐ [Boostnote - The note-taking app for programmers that focuses on markdown, snippets, and customizability.](https://boostnote.io/)
-* [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
-* [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
-* [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
-
-### [Programming] - [Official]
-
-* [Amazon Developer Services](https://developer.amazon.com/)
-* [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
-* [Home | Oracle Developers](https://developer.oracle.com/)
-* [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
-* [Mozilla Developer Network](https://developer.mozilla.org/es/)
-* [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
-* [Software Intel®](https://software.intel.com/es-es)
-* [Ubuntu Developer](https://developer.ubuntu.com/)
-* [Welcome to The Apache Software Foundation!](https://www.apache.org/)
-* [Yahoo Developer Network](https://developer.yahoo.com/)
-* [Stripe: Código abierto](https://stripe.com/open-source)
-* [Open Source @ IFTTT](http://ifttt.github.io/)
-
-#### [Programming] - [Official] - [Microsoft]
-
-* [.NET](https://www.microsoft.com/net)
-* [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
-* [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
-* [Chocolatey - The package manager for Windows](https://chocolatey.org/)
-* [Documentación técnica, API y ejemplos de código | Microsoft Docs](https://docs.microsoft.com/es-es/)
-* [Documentación y tutoriales de introducción | Visual Studio](https://www.visualstudio.com/es/vs/getting-started/)
-* [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
-* [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
-* [NuGet Gallery | Home](https://www.nuget.org/)
-
-#### [Programming] - [Official] - [Google]
-
-* [Google Trends](https://trends.google.com/trends/)
-* [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
-* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
-* [The Mobile Playbook](http://www.themobileplaybook.com/es-latam/)
-* [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
-* [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Sitio web oficial de Google Analytics: Analítica web e informes – Google Analytics](http://www.google.es/intl/es/analytics/)
-* [Chrome Experiments](https://www.chromeexperiments.com/)
-* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud  |  Google Cloud Platform](https://cloud.google.com/)
-* [Google Open Source – opensource.google.com](https://opensource.google.com/)
-* [AdMob](https://apps.admob.com/v2/home?pli=1)
-* [GCP products described in 4 words or less – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
-* [All Community Tutorials  |  Google Cloud Platform Community  |  Google Cloud Platform](https://cloud.google.com/community/tutorials/)
-* [Guía de optimización en buscadores (SEO) para principiantes - Ayuda de Search Console](https://support.google.com/webmasters/answer/7451184)
-* [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
-* [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
-* [Google Developers](https://developers.google.com/)
-
-### [Programming] - [Gradle]
-
-* [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-1-installation-setup/)
-* [Gradle Tutorial : Part 2 : Java Projects | iRomin](http://rominirani.com/2014/07/28/gradle-tutorial-part-2-java-projects/)
-* [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](http://rominirani.com/2014/07/29/gradle-tutorial-part-3-multiple-java-projects/)
-* [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](http://rominirani.com/2014/08/12/gradle-tutorial-part-4-java-web-applications/)
-* [Gradle Tutorial : Part 5 : Gradle App Engine Plugin | iRomin](http://rominirani.com/2014/08/15/gradle-tutorial-part-5-gradle-app-engine-plugin/)
-* [Gradle Tutorial : Part 6 : Android Studio + Gradle | iRomin](http://rominirani.com/2014/08/19/gradle-tutorial-part-6-android-studio-gradle/)
-* [Gradle Tutorial : Part 7 : Android Studio + App Engine + Gradle | iRomin](http://rominirani.com/2014/08/20/gradle-tutorial-part-7-android-studio-app-engine-gradle/)
-* [Gradle Tutorial : Part 8 : Gradle + App Engine + Endpoints + Android Studio | iRomin](http://rominirani.com/2014/08/25/gradle-tutorial-part-8-gradle-app-engine-endpoints-android-studio/)
-* [Gradle Tutorial : Part 9 : Cloud Endpoints + Persistence + Android Studio | iRomin](http://rominirani.com/2014/08/26/gradle-tutorial-part-9-cloud-endpoints-persistence-android-studio/)
-* [Gradle Tutorial : Part 10 : Consuming Endpoints in Android Code | iRomin](http://rominirani.com/2014/08/27/gradle-tutorial-part-10-consuming-endpoints-in-android-code/)
-* [“Build Automation Tools” o como se diga en Cristiano | Cocoa Mental](http://www.cocoaosx.com/2014/01/21/build-automation-tools-make-cmake-rake-gradle-maven/)
-* [Exprimiendo las ‘builds’ con Gradle | Androcode](http://androcode.es/2015/07/exprimiendo-las-builds-con-gralde/)
-
-### [Programming] - [Database]
-
-* [Apache CouchDB](http://couchdb.apache.org/)
-* [Crate](https://crate.io/)
-* [DBeaver | Free Universal SQL Client](https://dbeaver.jkiss.org/)
-* [Redis](https://redis.io/)
-* [RethinkDB: the open-source database for the realtime web](https://rethinkdb.com/)
-* [SQL Fiddle](http://sqlfiddle.com/)
-* [Titan: Distributed Graph Database](http://titan.thinkaurelius.com/)
-* [FoundationDB - From Apple](https://www.foundationdb.org/)
 
 ### [Programming] - [Web]
 
@@ -1789,21 +1796,6 @@
 * [Sculpin is a static site generator written in PHP](https://sculpin.io/)
 * [Wintersmith - Flexible, minimalistic, multi-platform static site generator built on top of node.js.](http://wintersmith.io/)
 * [Cogear.JS is a static websites generator](https://cogearjs.org/)
-
-### [Programming] - [Legal]
-
-* [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
-* [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
-* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
-* [Aviso Legal Web y LOPD](http://www.techlegal.es/)
-* [Billable: Billing Made Simple. Period.](http://billable.me/)
-* [Docracy - Free Legal Documents](https://www.docracy.com/)
-* [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
-* [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
-* [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
-* [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
-* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
 
 ----
 
