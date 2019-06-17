@@ -515,7 +515,10 @@
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
 * 📝 [Angular in depth](https://blog.angularindepth.com/)
 * [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
+* [Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications](https://github.com/mgechev/angular-performance-checklist)
 * [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
+* 👍 [Angular Material - Material Design components for Angular](https://material.angular.io/)
+* [PrimeNG - The Most Complete User Interface Suite for Angular](https://www.primefaces.org/primeng/#/)
 
 ### [Programming] - [Container Platforms]
 
@@ -671,6 +674,7 @@
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
+* [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
 * 👉 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
 * 📝 [Oracle - Blog](https://blogs.oracle.com/java/)
 * 📝 [JavaWorld](https://www.javaworld.com/)
@@ -680,6 +684,7 @@
 * 📝 [A Java geek](https://blog.frankel.ch/)
 * 📝 [Baeldung](https://www.baeldung.com/)
 * 📝 [Rieckpil](https://rieckpil.de/java-in-general/)
+* ⭐🏅 [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -698,6 +703,7 @@
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
 * [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
+* [Open Source Web Crawler for Java](https://github.com/yasserg/crawler4j)
 
 #### [Programming] - [Java] - [Code Quality]
 
@@ -782,6 +788,7 @@
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [ccampbell/mousetrap - Mousetrap is a simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
+* 👌 [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
 
 ### [Programming] - [Kotlin]
 
@@ -1097,8 +1104,9 @@
 * [Skin is eBay's official CSS framework](https://ebay.github.io/skin/)
 * [Marko - eBay](https://markojs.com/)
 * ⭐ [Bulma: a modern CSS framework based on Flexbox](https://bulma.io/)
-* 👊 [Bootstrap](https://getbootstrap.com/)
+* ⭐ [Bootstrap](https://getbootstrap.com/)
 * ⭐ [Foundation - The most advanced responsive front-end framework in the world](https://foundation.zurb.com/)
+* [CodyHouse's Design System is an arsenal of production-ready components and tools](https://codyhouse.co/ds/get-started)
 * [Pure.css - A set of small, responsive CSS modules that you can use in every web project](https://purecss.io/)
 * [InK - Create responsive web interfaces quick and efficiently](https://ink.sapo.pt/)
 * [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
