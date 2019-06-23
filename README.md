@@ -714,25 +714,36 @@
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
 * [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 
-#### [Programming] - [Java] - [Web & Microservices]
+#### [Programming] - [Java] - [WebMicroservices]
 
 * ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
-* ⭐ [Spring](https://spring.io/)
+* ⭐ [Spring Framework](https://spring.io/projects/spring-framework)
+* ⭐ [Spring](https://spring.io/projects/spring-boot)
 * [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
 * [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
 * [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
 * [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
 * [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
-* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
-* [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
 * [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
-* [Helidon is a collection of Java libraries for writing microservices](https://helidon.io/docs/latest/#/about/01_introduction)
-* [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
 * [Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE](https://www.payara.fish/)
-* [Quarkus is a Cloud Native, Container First framework for writing Java applications.](https://github.com/quarkusio/quarkus)
+* [Quarkus is a Cloud Native, Container First framework for writing Java applications.](https://quarkus.io/)
 * [Spincast is an highly flexible Java web framework, based on Guice](https://github.com/spincast/spincast-framework)
+* [Jersey - RESTful Web Services in Java - Oracle](https://jersey.github.io/)
+* [Restlet Framework helps Java developers build better web APIs that follow the REST architecture style](https://restlet.com/open-source/)
+
+#### [Programming] - [Java] - [Microservices]
+
+* [Eclipse MicroProfile - Optimizing Enterprise Java for a Microservices Architecture](https://microprofile.io/)
+* [Helidon is a collection of Java libraries for writing microservices](https://helidon.io)
+* [Payara Micro is the open source, lightweight middleware platform of choice for containerized Java EE (Jakarta EE) microservices deployments](https://www.payara.fish/software/payara-server/payara-micro/)
+* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
+* [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
+* [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
+* [Cricket - Microservices Framework](https://cricketmsf.org/)
+* [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/1.3.5/docs/)
+* [Thorntail - Optimised for microservice architectures - Red Hat](https://thorntail.io/)
 
 #### [Programming] - [Java] - [JavaFX]
 
