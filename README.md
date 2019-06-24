@@ -667,7 +667,6 @@
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
   * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
 * [Deep Learning for Java](https://deeplearning4j.org/)
-* [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
 * [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
@@ -700,6 +699,12 @@
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
 * [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
 * [Open Source Web Crawler for Java](https://github.com/yasserg/crawler4j)
+* [jsweet - A transpiler from Java to TypeScript/JavaScript](http://www.jsweet.org/)
+* [TeaVM is an ahead-of-time compiler for Java bytecode that emits JavaScript and WebAssembly that runs in a browser](http://teavm.org/)
+* [GWT is a development toolkit for building and optimizing complex browser-based applications](http://www.gwtproject.org/)
+* [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
+* [Vaadin Flow - The fastest way of building web apps with Java](https://vaadin.com/flow)
+* [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 
 #### [Programming] - [Java] - [Code Quality]
 
@@ -714,7 +719,7 @@
 * [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
 * [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 
-#### [Programming] - [Java] - [WebMicroservices]
+#### [Programming] - [Java] - [Web]
 
 * ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
 * ⭐ [Spring Framework](https://spring.io/projects/spring-framework)
