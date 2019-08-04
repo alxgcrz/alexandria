@@ -22,6 +22,7 @@
 * [Scratch 3.0](https://scratch.mit.edu/)
 * [Find the best online programming courses & tutorials - Hackr.io](https://hackr.io/)
 * ⭐ [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
+* [The open source tools and SaaS behind popular tech companies](https://stackshare.io/stacks)
 
 ### [Programming] - [Utils]
 
@@ -540,7 +541,12 @@
 * [Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.](https://www.terraform.io/)
 * [Razee - A multi-cluster continuous delivery tool for Kubernetes](https://razee.io/)
 * ⭐👉 [Serverless Guide - An open-source definitive guide to serverless architectures.](https://github.com/serverless/guide)
-* [serverless framework open source](https://serverless.com/framework/)
+* [Serverless framework open source](https://serverless.com/framework/)
+* [The foundation for your cloud-powered mobile & web apps](https://aws-amplify.github.io)
+* [The AWS Cloud Development Kit (AWS CDK) is a software development framework for defining your cloud infrastructure in code and provisioning it through AWS CloudFormation](https://docs.aws.amazon.com/cdk/)
+* [Infrastructure as Code in the Era of GraphQL and Full Stack Serverless](https://dev.to/dabit3/infrastructure-as-code-in-the-era-of-graphql-and-full-stack-serverless-11bc)
+* [AWS CloudFormation ofrece un lenguaje común para describir y aprovisionar todos los recursos de la infraestructura en el entorno en la nube](https://aws.amazon.com/es/cloudformation/)
+* [Cloud Run is a service by Google Cloud Platform to run your stateless HTTP containers without worrying about provisioning machines, clusters or autoscaling](https://github.com/ahmetb/cloud-run-faq)
 
 ### [Programming] - [CSS3]
 
@@ -614,6 +620,7 @@
 * [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
 * [k88hudson/git-flight-rules - Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
 * [workspace • Git Cheatsheet • NDP Software](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
+* [hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal](https://hub.github.com/)
 
 ### [Programming] - [Go]
 
@@ -651,14 +658,18 @@
 
 ### [Programming] - [Java]
 
-* [Oracle JDK 9 Documentation](https://docs.oracle.com/javase/9/)
-* [Java Platform, Standard Edition (Java SE) 8](https://docs.oracle.com/javase/8/)
+* [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html)
+* [Oracle Technology Network / Java](https://www.oracle.com/technetwork/java/index.html)
 * ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+* [Java API Specifications](https://www.oracle.com/technetwork/java/api-141528.html)
+* [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
+* [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 * [OpenJDK](http://openjdk.java.net/)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
 * [Amazon Corretto](https://aws.amazon.com/es/corretto/)
+* [Prebuilt OpenJDK Binaries for Free!](https://adoptopenjdk.net/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
 * ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
 * [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
@@ -680,6 +691,8 @@
 * 📝 [Baeldung](https://www.baeldung.com/)
 * 📝 [Rieckpil](https://rieckpil.de/java-in-general/)
 * ⭐🏅 [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
+* [Ideone is an online compiler and debugging tool](http://ideone.com/)
+* ⭐💻 [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -695,6 +708,7 @@
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
 * 👌 [Flogger - A Fluent Logging API for Java by Google](https://github.com/google/flogger)
+* [The Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction for various logging frameworks](https://www.slf4j.org/manual.html)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
 * [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
@@ -723,20 +737,21 @@
 
 * ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
 * ⭐ [Spring Framework](https://spring.io/projects/spring-framework)
-* ⭐ [Spring](https://spring.io/projects/spring-boot)
+* ⭐ [Spring Boot](https://spring.io/projects/spring-boot)
 * [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
 * [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
 * [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
 * [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 * [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
 * [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
-* [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React Web applications and Spring microservices](https://www.jhipster.tech/)
+* ⭐ [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React/Vue Web applications and Spring microservices](https://www.jhipster.tech/)
 * [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
 * [Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE](https://www.payara.fish/)
 * [Quarkus is a Cloud Native, Container First framework for writing Java applications.](https://quarkus.io/)
 * [Spincast is an highly flexible Java web framework, based on Guice](https://github.com/spincast/spincast-framework)
 * [Jersey - RESTful Web Services in Java - Oracle](https://jersey.github.io/)
 * [Restlet Framework helps Java developers build better web APIs that follow the REST architecture style](https://restlet.com/open-source/)
+* [Cettia is a full-featured real-time web framework for Java that works with any web frameworks on the Java Virtual Machine](https://cettia.io/)
 
 #### [Programming] - [Java] - [Microservices]
 
@@ -843,6 +858,7 @@
 * [CameraKit is an open-source library to support the Android Camera 1 and 2 APIs](https://camerakit.website/)
 * [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
 * [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
+* [Korlibs is a set of Kotlin Common modern libraries](https://korlibs.soywiz.com/)
 
 ### [Programming] - [Legal]
 
@@ -913,7 +929,7 @@
 * [HTML, CSS and JavaScript demo - Liveweave](https://liveweave.com/)
 * [JS Bin - Collaborative JavaScript Debugging](http://jsbin.com/?html,js)
 * [Cssizer.com | Real Time CSS Editing](http://cssizer.com/)
-* [repl.it - Select a Language](https://repl.it/languages)
+* [Repl.it - Select a Language](https://repl.it/languages)
 * [CodeSandbox](https://codesandbox.io/)
 * [StackBlitz - Create, edit & deploy fullstack apps](https://stackblitz.com/)
 
@@ -1008,6 +1024,8 @@
 * [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/)
 * [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
 * [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/)
+* [PyQt examples](https://github.com/pyqt/examples)
+* [Python and Qt are great for writing cross-platform desktop apps](https://build-system.fman.io/)
 
 ### [Programming] - [React]
 
@@ -1544,6 +1562,7 @@
 ##### [Programming] - [Web] - [API] - [Utils]
 
 * [Postman | Supercharge your API workflow](https://www.getpostman.com/)
+* [Milkman - An Extensible Request/Response Workbench with JavaFX](https://github.com/warmuuh/milkman)
 * [World's Most Popular API Framework | Swagger](https://swagger.io/)
 * [Insomnia REST Client](https://insomnia.rest/)
 * [Quandl4j by jimmoores](http://quandl4j.org/)
@@ -2224,6 +2243,7 @@
 * [NOMENCLATURE OF COLOURS - A recreation of the original 1821 color guidebook with new cross references, photographic examples, and posters designed by Nicholas Rougeux](https://www.c82.net/werner/)
 * [uiGradients - Beautiful coloured gradients](http://uigradients.com/)
 * [Gradient Hunt](https://gradienthunt.com/)
+* [Gradient Magic](https://www.gradientmagic.com/)
 * [Web Safe Colors](http://websafecolors.info/)
 * ⭐ [Google, but for colors.](https://picular.co/)
 * ⭐ [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
@@ -2716,7 +2736,10 @@
 * [Cómo añadir a nuestro servidor SSH un segundo factor de autenticación con Google Authenticator : hackplayers](http://www.hackplayers.com/2012/12/ssh-con-google-authenticator.html)
 * [Cifrado Tomb: entierra tus secretos en Linux](http://hipertextual.com/archivo/2014/09/cifrado-tomb-linux/)
 * [How to build a 8 GPU password cracker — #_shellntel](https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker)
-* [https://a.ndronic.us/guides/metasploit/html/index.html](https://a.ndronic.us/guides/metasploit/html/index.html)
+* [The Easiest Metasploit Guide](https://a.ndronic.us/guides/metasploit/html/index.html)
+* [La importancia del bastionado de servidores - Part I](https://www.securityartwork.es/2019/07/01/la-importancia-del-bastionado-de-servidores-parte-1-introduccion-y-tipos-de-infraestructura/)
+* [La importancia del bastionado de servidores - Part II](https://www.securityartwork.es/2019/07/04/la-importancia-del-bastionado-de-servidores-parte-2-bastionando-el-servidor/)
+* [La importancia del bastionado de servidores - Part III](https://www.securityartwork.es/2019/07/08/la-importancia-del-bastionado-de-servidores-parte-3-el-incidente/)
 
 ### [Seguridad] - [Utils]
 
