@@ -184,7 +184,7 @@
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Google's Maven Repositoy](https://dl.google.com/dl/android/maven2/index.html)
 
-#### [Programming] - [Android] - [Diseño]
+#### [Programming] - [Android] - [Design]
 
 * [Styling Android – A technical guide to improving the UI and UX of Android apps](https://blog.stylingandroid.com/)
 * [Material Components](https://material.io/components/)
@@ -719,6 +719,7 @@
 * [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
 * [Vaadin Flow - The fastest way of building web apps with Java](https://vaadin.com/flow)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
+* [Manifold: A Preprocessor for Java](http://manifold.systems/)
 
 #### [Programming] - [Java] - [Code Quality]
 
@@ -1679,20 +1680,13 @@
 * [IndieDB](http://www.indiedb.com/)
 * [Ludum Dare](https://ldjam.com/)
 
-### [Games] - [Inspiration]
+### [Games] - [Publishing]
 
-* [Three Hundred Mechanics](http://www.squidi.net/three/index.php)
-* [2048](http://gabrielecirulli.github.io/2048/)
-* [Kolor](http://kolor.moro.es/)
-* [49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+* [Nintendo](https://developer.nintendo.com/)
+* [Facebook](https://developers.facebook.com/docs/games/instant-games)
+* [Xbox Live Creators Program](https://www.xbox.com/es-ES/developers/creators-program)
 
-### [Games] - [Promoción]
-
-#### [Games] - [Promoción] - [Ferias]
-
-* [Fun&Serious](http://www.funandseriousgamefestival.com/)
-
-#### [Games] - [Promoción] - [Publishers]
+#### [Games] - [Publishing] - [Publishers]
 
 * [DevolverDigital](http://www.devolverdigital.com/games/page/)
 * [PlayDigious](https://playdigious.com/)
@@ -1704,18 +1698,12 @@
 * [Team17](https://www.team17.com/)
 * [Rovio](http://www.rovio.com/developers)
 
-#### [Games] - [Promoción] - [Publishing]
-
-* [Nintendo](https://developer.nintendo.com/)
-* [Facebook](https://developers.facebook.com/docs/games/instant-games)
-* [Xbox Live Creators Program](https://www.xbox.com/es-ES/developers/creators-program)
-
-#### [Games] - [Promoción] - [Marketing]
+#### [Games] - [Publishing] - [Marketing]
 
 * [Tappx](https://www.tappx.com/es/)
 * [Cómo presentar vuestro juego a un publisher](http://www.marketingdevideojuegos.com/como-presentar-vuestro-juego-a-un-publisher/)
 
-#### [Games] - [Promoción] - [Institucional]
+#### [Games] - [Institucional]
 
 * [Cultura Digital](https://culturadigital.blog.gencat.cat/)
 * [GAME BCN](http://gamebcn.co/)
@@ -1750,6 +1738,7 @@
 
 * [Three Hundred Mechanics](http://www.squidi.net/three/index.php)
 * [Game Mechanic Explorer](https://gamemechanicexplorer.com/)
+* [49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
 #### [Games] - [Learn] - [Design]
 
@@ -1921,12 +1910,10 @@
 * [Unity para juegos móviles](https://unity3d.com/es/mobile/solution-guide)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
 * [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
-
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
 * [Firebase Unity Solutions - Github](https://github.com/firebase/unity-solutions)
 * [Página de Firebase](https://firebase.google.com/games/?hl=es-419)
-
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
 * [How to create UI for all Resolutions](https://www.febucci.com/2018/10/unity-ui-tutorial/)
 * [Unity C# Cheat Sheet](https://gist.github.com/samsheffield/96608e465091069d15fdaea29457ec85)
@@ -1950,7 +1937,7 @@
   * 🎬 [quill18creates](https://www.youtube.com/user/quill18creates/videos)
   * 🎬 [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
 
-### [Games] - [Recursos]
+### [Games] - [Resources]
 
 * [Itch.io](https://itch.io/)
 * [2D Game Art for Programmers](http://www.2dgameartguru.com/)
@@ -1973,7 +1960,7 @@
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 * [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
-#### [Games] - [Recursos] - [3D Models]
+#### [Games] - [Resources] - [3D Models]
 
 * [3dsky](https://3dsky.org/)
 * [3D Models](https://flyingarchitecture.com/models)
@@ -1999,7 +1986,7 @@
 * 🔧 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
 * 🔧 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
 
-#### [Games] - [Recursos] - [Sprites2D]
+#### [Games] - [Resources] - [Sprites2D]
 
 * [Kenney](http://kenney.nl/assets)
 * [OpenGameArt](https://opengameart.org/)
@@ -2026,7 +2013,7 @@
 * 🔧 [Synfig Studio - 2D Animation](https://www.synfig.org/)
 * 🔧 [GraphicsGale](https://graphicsgale.com/us/spec.html)
 
-#### [Games] - [Recursos] - [Tiles]
+#### [Games] - [Resources] - [Tiles]
 
 * [Free dungeon 2D isometric tileset (Creative Commons)](http://dragosha.com/free/dungeon-part-1-tiles.html)
 * [Free resources](http://www.pioneervalleygames.com/free-resources.html)
@@ -2038,7 +2025,7 @@
 * [TomeTik](http://pousse.rapiere.free.fr/tome/)
 * 🔧 [Tiled Map Editor](http://www.mapeditor.org/)
 
-#### [Games] - [Recursos] - [Textures]
+#### [Games] - [Resources] - [Textures]
 
 * [Textures for 3D, graphic design and Photoshop!](https://www.textures.com/)
 * [HDRI Skies - Your source of high quality HDR Sky Maps](http://hdri-skies.com/)
@@ -2051,7 +2038,7 @@
 * 🔧 [Awesome Bump](http://awesomebump.besaba.com/about/)
 * 🔧 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
-#### [Games] - [Recursos] - [Materials]
+#### [Games] - [Resources] - [Materials]
 
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
 * [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
@@ -2061,13 +2048,13 @@
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
 * 🔧 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
-#### [Games] - [Recursos] - [Shaders]
+#### [Games] - [Resources] - [Shaders]
 
 * ⭐ [ShaderToy](https://www.shadertoy.com/)
 * 🔧 [Shader Playground](http://shader-playground.timjones.io/)
 * ⭐ [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 
-#### [Games] - [Recursos] - [Stores]
+#### [Games] - [Resources] - [Stores]
 
 * [HumbleBundle](https://www.humblebundle.com/)
 * [GOG](https://www.gog.com/)
@@ -2076,7 +2063,7 @@
 * [Kongregate](https://www.kongregate.com/)
 * [Newsgrounds](https://www.newgrounds.com/)
 
-#### [Games] - [Recursos] - [Game Services]
+#### [Games] - [Resources] - [Game Services]
 
 * [GameAnalytics](https://gameanalytics.com/)
 * [The Open Source Gaming Backend](https://gameeso.com/)
@@ -2085,7 +2072,7 @@
 * [PlayFab](https://playfab.com/)
 * [Nakama is an open-source realtime server for apps and games](https://heroiclabs.com/)
 
-#### [Games] - [Recursos] - [Audio]
+#### [Games] - [Resources] - [Audio]
 
 * 🔧 [Audiosauna](http://www.audiosauna.com/)
 * 🔧 [Bfxr](https://www.bfxr.net/)
@@ -2123,11 +2110,11 @@
 
 ----
 
-## [Diseño]
+## [Design]
 
 * [Google Design](https://design.google/)
 
-### [Diseño] - [Recursos]
+### [Design] - [Resources]
 
 * [wwwhere](http://wwwhere.io/)
 * [Sans Francisco](http://www.sansfrancis.co/)
@@ -2143,12 +2130,12 @@
 * ⭐ [UI Goodies - The best resources for designers in one place.](http://uigoodies.com/)
 * [All in One Tool for Makers](https://www.indiemakers.tools/)
 
-#### [Diseño] - [Recursos] - [ClipArt]
+#### [Design] - [Resources] - [ClipArt]
 
 * [OpenClipArt](https://openclipart.org/)
 * [PNG images and cliparts for web design](http://pngimg.com/)
 
-#### [Diseño] - [Recursos] - [Images]
+#### [Design] - [Resources] - [Images]
 
 * ⭐ 🔧 [Squoosh](https://squoosh.app/)
 * ⭐ 🔧 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
@@ -2202,7 +2189,7 @@
 * [Free vectors, stock illustrations and graphics](https://www.vectorportal.com/)
 * [DrawKit is a collection of free, beautiful, customisable MIT licensed SVG illustrations](https://www.drawkit.io/)
 
-#### [Diseño] - [Recursos] - [Colores]
+#### [Design] - [Resources] - [Colors]
 
 * 🔧 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
 * 🔧 [Color Supply](http://colorsupplyyy.com/app/)
@@ -2248,7 +2235,7 @@
 * ⭐ [Google, but for colors.](https://picular.co/)
 * ⭐ [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
 
-#### [Diseño] - [Recursos] - [Freebies]
+#### [Design] - [Resources] - [Freebies]
 
 * [Psd, premium icons & free web design resources for designers — latest freebies by PixelBuddha.](https://pixelbuddha.net/)
 * [Designer Mill | Collection of Best Free Design Resources](https://www.designermill.com/)
@@ -2269,7 +2256,7 @@
 * [Free design resources, Mokcups, psd templates, icons - graphberry.com](http://www.graphberry.com/)
 * [List of Free Design resources for your projects!](https://noshit.xyz/)
 
-#### [Diseño] - [Recursos] - [Fonts]
+#### [Design] - [Resources] - [Fonts]
 
 * 🔧 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 * 🔧 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
@@ -2316,9 +2303,9 @@
 * [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * [Segmented Fonts](https://aresluna.org/segmented-type/)
 * [The Inter UI font family](https://rsms.me/inter/)
-* 🥇 [Programming Fonts](https://app.programmingfonts.org/)
+* 🥇 [Programming Fonts](https://app.programmingfonts.org/) El veloz
 
-#### [Diseño] - [Recursos] - [Iconos]
+#### [Design] - [Resources] - [Icons]
 
 * [1058 free SVG and PNG icons easily customizable for games or apps | Game-icons.net](http://game-icons.net/)
 * [13,000 Free Icons - The Largest Icon Pack Ever | Icons8](https://icons8.com/)
@@ -2367,7 +2354,7 @@
 * [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
 
-#### [Diseño] - [Recursos] - [Mockups]
+#### [Design] - [Resources] - [Mockups]
 
 * [100 Free High Resolution Photorealistic Mockup Templates](https://speckyboy.com/free-high-resolution-photorealistic-mockups/)
 * [110+ Free Android Based Smartphones Mockup PSD Designs | InstantShift](http://www.instantshift.com/2016/02/26/free-android-smartphones-mockup-psds/)
@@ -2389,7 +2376,7 @@
 * [The Mockup Club – Best Free Mockups](https://themockup.club/)
 * [Threed.io - Generate custom 3D Device Mockups.](http://threed.io/)
 
-#### [Diseño] - [Recursos] - [Plantillas]
+#### [Design] - [Resources] - [Templates]
 
 * [15+ Best Free WordPress Themes Responsive WordPress Themes 2018 - aThemes](https://athemes.com/wordpress-themes/free/)
 * [All Free Bootstrap Themes & Templates - Start Bootstrap](https://startbootstrap.com/template-categories/all/)
@@ -2406,7 +2393,7 @@
 * [themefisher/infinity-bootstrap4-coming-soon-template](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template)
 * [WordPress Themes & Website Templates from ThemeForest](https://themeforest.net/)
 
-#### [Diseño] - [Recursos] - [UI Kit]
+#### [Design] - [Resources] - [UI Kit]
 
 * [DO: Free UI Kit for Photoshop, Sketch and Craft Library | InVision | InVision](https://www.invisionapp.com/do)
 * [NOW: Free UI Kit for Photoshop, Sketch and Craft Library | InVision](https://www.invisionapp.com/now)
@@ -2414,7 +2401,7 @@
 * [A1 Free UI Kit on Behance](https://www.behance.net/gallery/29868169/A1-Free-UI-Kit)
 * [Best of 2016: 100 Free GUIs for Mobile and Web Designers | NOUPE](https://www.noupe.com/essentials/html-css-psd-series/2016-free-guis-for-mobile-and-web-designers.html)
 
-#### [Diseño] - [Recursos] - [Utils]
+#### [Design] - [Resources] - [Utils]
 
 * [Am I Responsive?](http://ami.responsivedesign.is/)
 * [Canva – Amazingly simple graphic design](https://www.canva.com/)
@@ -2430,7 +2417,7 @@
 * [Resizer - Material Design](https://material.io/resizer/)
 * 🔧 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
-#### [Diseño] - [Recursos] - [Vídeo]
+#### [Design] - [Resources] - [Video]
 
 * [Archives of HD Video Effects - HD & Pre-Keyed.](http://footagecrate.com/free-video-effects-categories.html)
 * [Coverr - Beautiful, free videos for your homepage](http://coverr.co/)
@@ -2449,7 +2436,7 @@
 * [Public Domain ~ Free Media for Creative Projects | Pond5](https://www.pond5.com/free)
 * [XStockvideo](http://www.xstockvideo.com/)
 
-### [Diseño] - [Learn]
+### [Design] - [Learn]
 
 * [20 steps to the perfect website layout | Web design | Creative Bloq](http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625)
 * [29 Well-Designed Online Style Guides - Web Design Ledger](https://webdesignledger.com/29-online-style-guides)
@@ -2469,7 +2456,7 @@
 * [The iOS Design Guidelines - Ivo Mynttinen / User Interface Designer](http://iosdesign.ivomynttinen.com/)
 * [The ultimate guide to flat design | Webdesigner Depot](http://www.webdesignerdepot.com/2013/09/the-ultimate-guide-to-flat-design/)
 
-### [Diseño] - [Inspiración]
+### [Design] - [Inspiration]
 
 * [Calltoidea](http://www.calltoidea.com/)
 * [Designspiration — Design Inspiration](http://designspiration.net/)
@@ -2485,7 +2472,7 @@
 * [Science Fiction Interfaces](http://sciencefictioninterfaces.tumblr.com/)
 * [Odyssey example FTW | By CartoDB using Odyssey.js](http://bl.ocks.org/anonymous/raw/bb0a6baace7549a41f05/)
 
-#### [Diseño] - [Inspiración] - [Web]
+#### [Design] - [Inspiration] - [Web]
 
 * [siteInspire - Web Design Inspiration](https://www.siteinspire.com/)
 * [Media Queries](https://mediaqueri.es/)
@@ -2502,23 +2489,23 @@
 * [Webdesign-Inspiration.com: Best web designs inspiration gallery](http://www.webdesign-inspiration.com/)
 * [The Best Landing Page Inspiration | Lapa.Ninja](http://www.lapa.ninja/)
 
-### [Diseño] - [Material Design]
+### [Design] - [Material Design]
 
-#### [Diseño] - [MD] - [Learn]
+#### [Design] - [MD] - [Learn]
 
 * [Material Design](https://material.io/)
 * [A Closer Look at Google's Material Design Components Library](https://www.xda-developers.com/a-closer-look-at-googles-material-design-components-library-and-how-to-get-started-with-it/)
 * [Material Design with the Android Design Support Library — SitePoint](https://www.sitepoint.com/material-design-android-design-support-library/)
 * [Android: An Introduction to Material Design with Kotlin](https://www.raywenderlich.com/168916/android-an-introduction-to-material-design)
 
-#### [Diseño] - [MD] - [Colores]
+#### [Design] - [MD] - [Colors]
 
 * [Material Design Colors, Material Colors, Color Palette | Material UI](https://www.materialui.co/colors)
 * [Random Material Generator](https://codecrafted.net/randommaterial/)
 * [Material Design Color Palette Generator - Material Palette](https://www.materialpalette.com/)
 * [Material Mixer](http://materialmixer.co/#8E24AA/FF6D00)
 
-#### [Diseño] - [MD] - [Frameworks]
+#### [Design] - [MD] - [Frameworks]
 
 * [Material Kit by Creative Tim](http://demos.creative-tim.com/material-kit/index.html)
 * [Material Design Lite](https://getmdl.io/index.html)
@@ -2529,13 +2516,13 @@
 * [Material Components](https://github.com/material-components)
 * [Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.](https://propeller.in/)
 
-#### [Diseño] - [MD] - [Iconos]
+#### [Design] - [MD] - [Icons]
 
 * [google/material-design-icons](https://github.com/google/material-design-icons)
 * [Material icons - Material Design](https://material.io/icons/)
 * [Material Design Icons](https://materialdesignicons.com/)
 
-### [Diseño] - [Sites]
+### [Design] - [Sites]
 
 * [InstantShift Web Design Magazine | Web Designers and Developers Daily Resource.](http://www.instantshift.com/)
 * [Web development blog, news and tutorials - Developer Drive](http://www.developerdrive.com/)
@@ -2703,7 +2690,7 @@
 
 ----
 
-## [Seguridad]
+## [Security]
 
 * [Suricata | Open Source IDS / IPS / NSM engine](https://suricata-ids.org/)
 * [Linux Kodachi3, un SO seguro, anti-forense, anónimo... y fácil de usar : hackplayers](http://www.hackplayers.com/2017/01/linux-kodachi3-un-so-seguro-anti.html)
@@ -2721,7 +2708,7 @@
 * [Bienvenidos A Backtrack Academy - LATM - Comunidad Informatica](http://backtrackacademy.com/)
 * [0xWORD](http://0xword.com/)
 
-### [Seguridad] - [Learn]
+### [Security] - [Learn]
 
 * [Buenas prácticas con OpenSSH](http://blog.desdelinux.net/buenas-practicas-openssh/)
 * [How To Protect SSH With Two-Factor Authentication | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-two-factor-authentication)
@@ -2741,7 +2728,7 @@
 * [La importancia del bastionado de servidores - Part II](https://www.securityartwork.es/2019/07/04/la-importancia-del-bastionado-de-servidores-parte-2-bastionando-el-servidor/)
 * [La importancia del bastionado de servidores - Part III](https://www.securityartwork.es/2019/07/08/la-importancia-del-bastionado-de-servidores-parte-3-el-incidente/)
 
-### [Seguridad] - [Utils]
+### [Security] - [Utils]
 
 * [Awesome-Hacking - A collection of various awesome lists for hackers, pentesters and security researchers · GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
@@ -2751,21 +2738,21 @@
 * [Routerpwn 1.10.151](http://www.routerpwn.com/)
 * [Enhanced Mitigation Experience Toolkit - EMET - TechNet Security](http://technet.microsoft.com/es-es/security/jj653751)
 
-#### [Seguridad] - [Utils] - [BruteForcer]
+#### [Security] - [Utils] - [BruteForcer]
 
 * [lanjelot/patator](https://github.com/lanjelot/patator)
 * [THC-Hydra: Obtener credenciales de usuario por fuerza bruta | Security Art Work](http://www.securityartwork.es/2013/02/04/thc-hydra-obtener-credenciales-de-usuario-por-fuerza-bruta/)
 
-#### [Seguridad] - [Utils] - [Cifrado]
+#### [Security] - [Utils] - [Cifrado]
 
 * [AES Crypt - Advanced File Encryption](http://www.aescrypt.com/)
 
-#### [Seguridad] - [Utils] - [Footprinting]
+#### [Security] - [Utils] - [Footprinting]
 
 * [SpiderFoot - The Open Source Footprinting tool](http://www.spiderfoot.net/)
 * [SPIDERFOOT (I) | Security Art Work](http://www.securityartwork.es/2014/05/14/spiderfoot-i/)
 
-#### [Seguridad] - [Utils] - [Frameworks]
+#### [Security] - [Utils] - [Frameworks]
 
 * [Golismero Project. The web knife.](http://www.golismero.com/)
 * [Metasploitable 2 – Guía en Video](http://www.dragonjar.org/metasploitable-2-guia-en-video.xhtml)
@@ -2773,32 +2760,32 @@
 * [Metasploitable - Browse /Metasploitable2 at SourceForge.net](http://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 * [Manual de Armitage en Español](http://www.dragonjar.org/manual-de-armitage-en-espanol.xhtml)
 
-#### [Seguridad] - [Utils] - [Listado]
+#### [Security] - [Utils] - [List]
 
-* [Herramientas](https://www.elevenpaths.com/es/labsp/herramientas/index.html#*)
+* [Tools](https://www.elevenpaths.com/es/labsp/herramientas/index.html#*)
 * [ToolsWatch.org – The Hackers Arsenal Tools Portal](http://www.toolswatch.org/)
 * [Free Tools | McAfee Downloads](http://www.mcafee.com/us/downloads/free-tools/index.aspx)
 * [Recopilación de herramientas Python para pentesters : hackplayers](http://www.hackplayers.com/2013/11/recopilacion-de-herramientas-en-python-para-pentesters.html)
 
-#### [Seguridad] - [Utils] - [MITM]
+#### [Security] - [Utils] - [MITM]
 
 * [bettercap - a complete, modular, portable and easily extensible MITM framework.](http://www.bettercap.org/)
 
-#### [Seguridad] - [Utils] - [Network Scanner]
+#### [Security] - [Utils] - [Network Scanner]
 
 * [ZMap · The Internet Scanner](https://zmap.io/)
 * [Nmap: Ejemplos de uso ~ Security By Default](http://www.securitybydefault.com/2014/09/nmap-ejemplos-de-uso.html)
 * [Netcap - A framework for secure and scalable network traffic analysis](https://github.com/dreadl0ck/netcap)
 
-#### [Seguridad] - [Utils] - [Powershell]
+#### [Security] - [Utils] - [Powershell]
 
 * [Herramientas de seguridad en Powershell: Posh-SecMod ~ Security By Default](http://www.securitybydefault.com/2015/04/herramientas-de-seguridad-en-powershell.html)
 
-#### [Seguridad] - [Utils] - [SQL]
+#### [Security] - [Utils] - [SQL]
 
 * [sqlmap: automatic SQL injection and database takeover tool](http://sqlmap.org/)
 
-#### [Seguridad] - [Utils] - [URL Scanner]
+#### [Security] - [Utils] - [URL Scanner]
 
 * [VirusTotal - Free Online Virus, Malware and URL Scanner](https://www.virustotal.com/es/)
 * [urlquery.net - Free URL scanner](https://urlquery.net/index.php)
@@ -2806,7 +2793,7 @@
 * [Analizador URL's | URLVoid.com](http://www.urlvoid.com/)
 * [urlscan.io - Scan your website](https://urlscan.io/)
 
-#### [Seguridad] - [Utils] - [Web Vulnerability Scanner]
+#### [Security] - [Utils] - [Web Vulnerability Scanner]
 
 * [Vega, herramienta para auditar websites ~ Security By Default](http://www.securitybydefault.com/2013/06/vega-herramienta-para-auditar-websites.html)
 * [Vega Vulnerability Scanner](https://subgraph.com/vega/#)
@@ -2816,7 +2803,7 @@
 * [PunkSPIDER](https://www.punkspider.org/)
 * [Spaghetti, escanea la seguridad de tus aplicaciones Web](https://ubunlog.com/spaghetti-seguridad-aplicaciones-web/)
 
-#### [Seguridad] - [Utils] - [WiFi]
+#### [Security] - [Utils] - [Wi-Fi]
 
 * [INSEGUROS: Ghost Phiser 1.62 Avaible.](http://kinomakino.blogspot.com.es/2013/05/ghost-phiser-162-avaible.html)
 * [savio-code/ghost-phisher](https://github.com/savio-code/ghost-phisher)
