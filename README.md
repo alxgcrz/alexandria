@@ -897,7 +897,7 @@
 * [TensorFlow](https://www.tensorflow.org/)
 * [Deeplearning4j: Open-source, Distributed Deep Learning for the JVM](https://deeplearning4j.org/index.html)
 * [PredictionIO Open Source Machine Learning Server](http://prediction.io/)
-* 🎬 [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
+* 📺 [Neural Networks and Machine Learning - Youtube](https://www.youtube.com/user/shiffman/playlists?sort=dd&view=50&shelf_id=16)
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 * 📕 [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
@@ -1006,7 +1006,7 @@
 * 🐙 [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
 * [HNPWA - Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
-* 🎬 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
+* 📺 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
 * 🐙 [Github - PWA](https://github.com/topics/pwa)
 * [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
 * [Capacitor - The Native Bridge for Cross-Platform Web Apps](https://capacitor.ionicframework.com/)
@@ -1101,8 +1101,8 @@
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
-* 🔧 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
-* 🔧 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
+* 🔨 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
+* 🔨 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
 * [Nightmare - A high-level browser automation library](https://www.nightmarejs.org/)
@@ -1114,12 +1114,12 @@
 * 🎓 [Way2Tutorial Web Development Tutorials](https://way2tutorial.com/)
 * 🎓 [A Beginner's Guide to HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more](https://developers.google.com/web/updates/)
-* 🔧 [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
-* 🔧 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
-* 🔧 [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
-* 🔧👍 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* 🔨 [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
+* 🔨 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
+* 🔨 [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
+* 🔨👍 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* 🔧[HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
+* 🔨[HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
 
 #### [Programming] - [Web] - [Front-End]
 
@@ -1534,7 +1534,7 @@
 * [Sinon.JS - Versatile standalone test spies, stubs and mocks for JavaScript](https://sinonjs.org/)
 * [Nightwatch.js is an integrated, easy to use End-to-End testing solution for browser based apps and websites](https://nightwatchjs.org/)
 * [BrowserSync: Time-saving synchronised browser testing.](https://www.browsersync.io/)
-* 👽 [marmelab/gremlins.js - Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
+* [marmelab/gremlins.js - Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
 
 #### [Programming] - [Web] - [API]
 
@@ -1794,6 +1794,7 @@
 * [OpenFL](http://www.openfl.org/)
 * [Stencyl](http://www.stencyl.com/)
 * [Defold](https://www.defold.com/)
+  * 🎬 [Introductory Defold Game Engine Tutorials](https://www.youtube.com/playlist?list=PLseKVnAXs_iVaksj-sjkz6R1D9Fpv1EaT)
 * [Wave Engine](https://waveengine.net/)
 * [Haxe](https://haxe.org/)
 * [Construct3](https://www.scirra.com/)
@@ -1832,9 +1833,8 @@
 ### [Games] - [Canvas Library]
 
 * [PixiJS - The HTML5 Creation Engine - Create beautiful digital content with the fastest, most flexible 2D WebGL renderer](https://www.pixijs.com/)
-* [BabylonJS](http://www.babylonjs.com/)
+* [BabylonJS](https://www.babylonjs.com)
 * [three.js - Javascript 3D library](https://threejs.org/)
-* [Physijs - a physics plugin for threejs](http://chandlerprall.github.io/Physijs/)
 * [Konva - JavaScript 2d canvas library](https://konvajs.github.io/)
 * [p2.js - 2D rigid body physics engine](https://github.com/schteppe/p2.js)
 * [Planck.js - 2D JavaScript physics engine](http://piqnt.com/planck.js/)
@@ -1855,16 +1855,16 @@
 * [GameMaker Resources](https://gamemakerdiscord.github.io/)
 * [The Essential Gamemaker Functions, Concepts and Utils](http://fauxoperativegames.com/essential_function_guide/)
 * [GameMaker Handbook](https://www.reddit.com/r/gamemaker/comments/3lyoik/game_maker_handbook_resources_for_beginners_an/)
-  * 🎬 [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
-  * 🎬 [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
-  * 🎬 [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
-  * 🎬 [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
-  * 🎬 [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
-  * 🎬 [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
-  * 🎬 [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
-  * 🎬 [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
-  * 🎬 [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
-  * ⭐ 🎬 [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
+  * 📺 [Game Maker Language: 120 funciones y variables importantes (1/3)  - Youtube](https://www.youtube.com/watch?v=Dag3uzwBb8w)
+  * 📺 [Game Maker Language: 120 funciones y variables importantes (2/3) - Youtube](https://www.youtube.com/watch?v=rRze0C9TF94)
+  * 📺 [Game Maker Language: 120 funciones y variables importantes (3/3) - Youtube](https://www.youtube.com/watch?v=UKcwZ0fsTvc)
+  * 📺 [How to make the Legend of Zelda in Game Maker - YouTube](https://www.youtube.com/playlist?list=PLsLwv4RXTczJyMxB8znlQkW7H3kEYfYQ6)
+  * 📺 [HeartBeast - Youtube](https://www.youtube.com/watch?v=YObbsg2Hbcw&list=PL9FzW-m48fn1CFiBHB1liGKIyVO9j3A-I)
+  * 📺 [Your first GameMaker Game - Youtube](https://www.youtube.com/playlist?list=PLPRT_JORnIuo-DyoWbB7LBrhqlJnsltJq)
+  * 📺 [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
+  * 📺 [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
+  * 📺 [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
+  * ⭐ 📺 [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
 
 #### [Games] - [Engines] - [Godot Engine]
 
@@ -1875,7 +1875,7 @@
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
 * [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
-* 🎬 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
+* 📺 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
@@ -1890,13 +1890,13 @@
 * [Free Community Assets](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/51392-free-community-assets?80021-Free-Community-Assets=)
 * [Large useful blueprint function library (Morepork Games)](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/75960-large-useful-blueprint-function-library-morepork-games?104003-Large-useful-blueprint-function-library-(Morepork-Games)=)
 * [Unreal Engine 4 Resources](http://ue4resources.com/)
-* 🎬 [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
-* 🎬 [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
-* 🎬 [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
-* 🎬 [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
-* 🎬 [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
-* 🎬 [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
-* 🎬 [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
+* 📺 [DokipenTech](https://www.youtube.com/user/DokipenTechTutorials/feed)
+* 📺 [Kodi Mynatt](https://www.youtube.com/user/nanovoxel)
+* 📺 [Mathew Wadstein](https://www.youtube.com/channel/UCOVfF7PfLbRdVEm0hONTrNQ)
+* 📺 [MetalGameStudios](https://www.youtube.com/user/MetalGameStudios)
+* 📺 [Unreal Engine 4](https://www.youtube.com/user/UnrealDevelopmentKit/videos)
+* 📺 [Virtus Learning Hub / Creative Tutorials](https://www.youtube.com/user/VirtusEdu/videos)
+* 📺 [WazzaTuts](https://www.youtube.com/user/SuperLuigi007/videos)
 * [Unreal Engine 4 notes](https://www.blaenkdenum.com/notes/unreal-engine/)
 
 #### [Games] - [Engines] - [Unity]
@@ -1931,11 +1931,11 @@
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [2d-extras is a repository containing helpful reusable scripts - Github](https://github.com/unity-technologies/2d-extras)
 * [Catlike Coding - Unity learn](https://catlikecoding.com/unity/tutorials/)
-  * 🎬 [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
-  * 🎬 [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
-  * 🎬 [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
-  * 🎬 [quill18creates](https://www.youtube.com/user/quill18creates/videos)
-  * 🎬 [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
+  * 📺 [Brackeys](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL)
+  * 📺 [Casanis - 2D Fundamentals](https://www.youtube.com/playlist?list=PL2cNFQAw_ndwQVwpBaQnnmx9mXHkbLijP)
+  * 📺 [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g/videos)
+  * 📺 [quill18creates](https://www.youtube.com/user/quill18creates/videos)
+  * 📺 [Code Monkey](https://www.youtube.com/channel/UCFK6NCbuCIVzA6Yj1G_ZqCg/videos)
 
 ### [Games] - [Resources]
 
@@ -1978,13 +1978,13 @@
 * [Yobi 3D - Search Engine](https://www.yobi3d.com/#!/)
 * [3dMdb.com is the unique 3d model aggregator and Search Engine](http://3dmdb.com/)
 * [Low poly assets](http://quaternius.com/assets.html)
-* 🔧 [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
-* 🔧 [Online 3D Converter](http://www.greentoken.de/onlineconv/)
-* 🔧 [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
-* 🔧 [Open 3D Model Viewer](http://www.open3mod.com/)
-* 🔧 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
-* 🔧 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
-* 🔧 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
+* 🔨 [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
+* 🔨 [Online 3D Converter](http://www.greentoken.de/onlineconv/)
+* 🔨 [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
+* 🔨 [Open 3D Model Viewer](http://www.open3mod.com/)
+* 🔨 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
+* 🔨 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
+* 🔨 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
 
 #### [Games] - [Resources] - [Sprites2D]
 
@@ -1999,19 +1999,19 @@
 * [Itchio Assets](https://itch.io/game-assets/free)
 * [SpriteLib](https://www.widgetworx.com/spritelib/)
 * [GameArt2D](https://www.gameart2d.com/)
-* 🔧 [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
-* 🔧 [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
-* 🔧 [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
-* 🔧 [Pixel Art to CSS](https://www.pixelartcss.com/)
-* 🔧 [Pyxel Edit](http://pyxeledit.com/about.php)
-* 🔧 [MagicaVoxel](https://ephtracy.github.io/)
-* 🔧 [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
-* 🔧 [Troxel](https://chrmoritz.github.io/Troxel/)
-* 🔧 [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
-* 🔧 [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
-* 🔧 [Spriter](https://brashmonkey.com/spriter-features/)
-* 🔧 [Synfig Studio - 2D Animation](https://www.synfig.org/)
-* 🔧 [GraphicsGale](https://graphicsgale.com/us/spec.html)
+* 🔨 [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
+* 🔨 [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
+* 🔨 [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
+* 🔨 [Pixel Art to CSS](https://www.pixelartcss.com/)
+* 🔨 [Pyxel Edit](http://pyxeledit.com/about.php)
+* 🔨 [MagicaVoxel](https://ephtracy.github.io/)
+* 🔨 [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
+* 🔨 [Troxel](https://chrmoritz.github.io/Troxel/)
+* 🔨 [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
+* 🔨 [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
+* 🔨 [Spriter](https://brashmonkey.com/spriter-features/)
+* 🔨 [Synfig Studio - 2D Animation](https://www.synfig.org/)
+* 🔨 [GraphicsGale](https://graphicsgale.com/us/spec.html)
 
 #### [Games] - [Resources] - [Tiles]
 
@@ -2023,7 +2023,7 @@
 * [Roguelike Tilesets](https://www.reddit.com/r/gamedev/comments/444zbl/roguelike_tilesets/)
 * [Sithjester's RMXP Resources](http://untamed.wild-refuge.net/rmxpresources.php?tilesets)
 * [TomeTik](http://pousse.rapiere.free.fr/tome/)
-* 🔧 [Tiled Map Editor](http://www.mapeditor.org/)
+* 🔨 [Tiled Map Editor](http://www.mapeditor.org/)
 
 #### [Games] - [Resources] - [Textures]
 
@@ -2035,8 +2035,8 @@
 * [Wild Textures](http://www.wildtextures.com/)
 * [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
 * [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
-* 🔧 [Awesome Bump](http://awesomebump.besaba.com/about/)
-* 🔧 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
+* 🔨 [Awesome Bump](http://awesomebump.besaba.com/about/)
+* 🔨 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
 #### [Games] - [Resources] - [Materials]
 
@@ -2046,12 +2046,12 @@
 * 🎬 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
-* 🔧 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
+* 🔨 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
 #### [Games] - [Resources] - [Shaders]
 
 * ⭐ [ShaderToy](https://www.shadertoy.com/)
-* 🔧 [Shader Playground](http://shader-playground.timjones.io/)
+* 🔨 [Shader Playground](http://shader-playground.timjones.io/)
 * ⭐ [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 
 #### [Games] - [Resources] - [Stores]
@@ -2074,15 +2074,15 @@
 
 #### [Games] - [Resources] - [Audio]
 
-* 🔧 [Audiosauna](http://www.audiosauna.com/)
-* 🔧 [Bfxr](https://www.bfxr.net/)
-* 🔧 [ChipTone](http://sfbgames.com/chiptone/)
-* 🔧 [Audacity](https://www.audacityteam.org/download/linux/)
-* 🔧 [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
-* 🔧 [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
-* 🔧 [LMMS](https://lmms.io/)
-* 🔧 [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
-* 🔧 [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
+* 🔨 [Audiosauna](http://www.audiosauna.com/)
+* 🔨 [Bfxr](https://www.bfxr.net/)
+* 🔨 [ChipTone](http://sfbgames.com/chiptone/)
+* 🔨 [Audacity](https://www.audacityteam.org/download/linux/)
+* 🔨 [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
+* 🔨 [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
+* 🔨 [LMMS](https://lmms.io/)
+* 🔨 [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
+* 🔨 [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [Fmod](https://www.fmod.com/)
 * [ccMixter](http://ccmixter.org/)
@@ -2137,17 +2137,17 @@
 
 #### [Design] - [Resources] - [Images]
 
-* ⭐ 🔧 [Squoosh](https://squoosh.app/)
-* ⭐ 🔧 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
-* 🔧 [Lorem Ipsum... but for photos](https://picsum.photos/)
-* 🔧 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
-* 🔧 [Compress.io](https://compressor.io/)
-* 🔧 [Duri.me - DataURI Generator](http://duri.me/)
-* 🔧 [Daturi - Convert images to Base64](https://daturi.me/)
-* 🔧 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
-* 🔧 [b64.io - image optimisation & base64 encode](http://b64.io/)
-* 🔧 [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
-* 🔧 [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
+* ⭐ 🔨 [Squoosh](https://squoosh.app/)
+* ⭐ 🔨 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
+* 🔨 [Lorem Ipsum... but for photos](https://picsum.photos/)
+* 🔨 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
+* 🔨 [Compress.io](https://compressor.io/)
+* 🔨 [Duri.me - DataURI Generator](http://duri.me/)
+* 🔨 [Daturi - Convert images to Base64](https://daturi.me/)
+* 🔨 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
+* 🔨 [b64.io - image optimisation & base64 encode](http://b64.io/)
+* 🔨 [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
+* 🔨 [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
 * [Photo Sets Free for Commercial Use](http://www.drawsvg.org/drawsvg.html])
 * [Beautiful Free Photos](https://barnimages.com/)
 * [Creative Commons Search](https://ccsearch.creativecommons.org/)
@@ -2191,17 +2191,17 @@
 
 #### [Design] - [Resources] - [Colors]
 
-* 🔧 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
-* 🔧 [Color Supply](http://colorsupplyyy.com/app/)
-* 🔧 [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
-* 🔧 [Colormind - the smart color palette generator](http://colormind.io/)
-* 🔧 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
-* 🔧 [HTML Color Codes](http://htmlcolorcodes.com/)
-* 🔧 [Khroma - The AI color tool for designers](http://khroma.co/)
-* 🔧 [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
-* 🔧 [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* 🔧 [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
-* 🔧 [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
+* 🔨 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
+* 🔨 [Color Supply](http://colorsupplyyy.com/app/)
+* 🔨 [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
+* 🔨 [Colormind - the smart color palette generator](http://colormind.io/)
+* 🔨 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* 🔨 [HTML Color Codes](http://htmlcolorcodes.com/)
+* 🔨 [Khroma - The AI color tool for designers](http://khroma.co/)
+* 🔨 [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
+* 🔨 [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* 🔨 [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
+* 🔨 [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
 * [Background Gradient Colors | Eggradients.com](https://www.eggradients.com/)
 * [BrandColors – Official color codes for the world's biggest brands](https://brandcolors.net/)
 * [Color Hunt](http://colorhunt.co/)
@@ -2258,13 +2258,13 @@
 
 #### [Design] - [Resources] - [Fonts]
 
-* 🔧 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
-* 🔧 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
-* 🔧 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
-* 🔧 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
-* 🔧 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
-* 🔧 [Identifont - Tools](http://www.identifont.com/tools.html)
-* 🔧 [Type Scale - A Visual Calculator](http://type-scale.com/)
+* 🔨 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+* 🔨 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
+* 🔨 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
+* 🔨 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
+* 🔨 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
+* 🔨 [Identifont - Tools](http://www.identifont.com/tools.html)
+* 🔨 [Type Scale - A Visual Calculator](http://type-scale.com/)
 * [1001 Fonts · Free Fonts Baby!](http://www.1001fonts.com/)
 * [21,471 free fonts for Windows and Mac - FontSpace](http://www.fontspace.com/)
 * [A More Modern Scale for Web Typography | Design in the browser with web fonts and real content — Typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
@@ -2415,7 +2415,7 @@
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
 * [Prueba de optimización para móviles de Google Search Console](https://search.google.com/search-console/mobile-friendly)
 * [Resizer - Material Design](https://material.io/resizer/)
-* 🔧 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+* 🔨 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
 #### [Design] - [Resources] - [Video]
 
@@ -2836,7 +2836,7 @@
 
 ### [Linux] - [Shell Scripting]
 
-* 🔧 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
+* 🔨 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 * [Shell Script Quick Reference](https://www.abscrete.com/shell-script-quick-reference/)
 
 ### [Linux] - [Monitoring]
