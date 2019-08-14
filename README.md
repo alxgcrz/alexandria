@@ -693,6 +693,7 @@
 * ⭐🏅 [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
 * [Ideone is an online compiler and debugging tool](http://ideone.com/)
 * ⭐💻 [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
+* [Weld is the reference implementation of CDI: Contexts and Dependency Injection for the Java EE Platform](http://weld.cdi-spec.org/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -1760,6 +1761,7 @@
 * [Phet - Interactive Simulations](https://phet.colorado.edu/es/simulations/category/new)
 * [Physics Simulations](https://www.myphysicslab.com/)
 * [Descubre las Matemáticas con GeoGebra](https://www.geogebra.org/)
+* [Calculus for the people - Geogebra](https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw)
 
 ### [Games] - [OpenSource]
 
