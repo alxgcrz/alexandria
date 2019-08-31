@@ -575,6 +575,8 @@
 * [Dart: Structured web apps](https://www.dartlang.org/)
 * [Dart API Reference](https://api.dartlang.org/stablel)
 * 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
+* [Dart Basics](https://www.raywenderlich.com/4482551-dart-basics)
+* 📑 [Dart 2 Cheat Sheet and Quick Reference 2019](https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019)
 
 ### [Programming] - [Database]
 
@@ -683,6 +685,7 @@
 * [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
 * 👉 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
 * 📝 [Oracle - Blog](https://blogs.oracle.com/java/)
+* 📝 [Oracle - Blog](https://blogs.oracle.com/javamagazine/)
 * 📝 [JavaWorld](https://www.javaworld.com/)
 * 📝 [InfoQ - Java](https://www.infoq.com/java/)
 * 📝 [Javarevisited](https://javarevisited.blogspot.com/)
@@ -694,6 +697,7 @@
 * [Ideone is an online compiler and debugging tool](http://ideone.com/)
 * ⭐💻 [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
 * [Weld is the reference implementation of CDI: Contexts and Dependency Injection for the Java EE Platform](http://weld.cdi-spec.org/)
+* [Containerizing Apps with jlink](https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -718,7 +722,7 @@
 * [TeaVM is an ahead-of-time compiler for Java bytecode that emits JavaScript and WebAssembly that runs in a browser](http://teavm.org/)
 * [GWT is a development toolkit for building and optimizing complex browser-based applications](http://www.gwtproject.org/)
 * [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
-* [Vaadin Flow - The fastest way of building web apps with Java](https://vaadin.com/flow)
+* ⭐ [Vaadin - Build Progressive Web Apps in Java](https://vaadin.com/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Manifold: A Preprocessor for Java](http://manifold.systems/)
 
@@ -1071,6 +1075,7 @@
 ### [Programming] - [Typescript]
 
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
+* [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
 
 ### [Programming] - [UWP]
 
@@ -1141,7 +1146,7 @@
 * [CodyHouse's Design System is an arsenal of production-ready components and tools](https://codyhouse.co/ds/get-started)
 * [Pure.css - A set of small, responsive CSS modules that you can use in every web project](https://purecss.io/)
 * [InK - Create responsive web interfaces quick and efficiently](https://ink.sapo.pt/)
-* [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
+* ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 * [Metro 4 is an open source toolkit for developing with HTML, CSS, and JS](https://metroui.org.ua/index.html)
 * [Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML](https://semantic-ui.com/)
 * [UIkit - A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://getuikit.com/)
@@ -1914,6 +1919,7 @@
 * [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
+* ☕ [Google Cloud Blog: Firebase Unity Solutions](https://cloud.google.com/blog/products/gaming/firebase-unity-solutions-update-game-behavior-without-deploying-with-remote-config)
 * [Firebase Unity Solutions - Github](https://github.com/firebase/unity-solutions)
 * [Página de Firebase](https://firebase.google.com/games/?hl=es-419)
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
@@ -2048,6 +2054,7 @@
 * 🎬 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
+* [Material Packs](https://gumroad.com/juliosillet)
 * 🔨 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
 #### [Games] - [Resources] - [Shaders]
@@ -2835,6 +2842,7 @@
 * [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
 * ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
 * 📕 [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
+* [WTF - the terminal dashboard](https://wtfutil.com/)
 
 ### [Linux] - [Shell Scripting]
 
