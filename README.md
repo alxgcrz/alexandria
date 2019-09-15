@@ -725,6 +725,7 @@
 * ⭐ [Vaadin - Build Progressive Web Apps in Java](https://vaadin.com/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Manifold: A Preprocessor for Java](http://manifold.systems/)
+* [Reducing boilerplate code with Project Lombok](https://projectlombok.org/)
 
 #### [Programming] - [Java] - [Code Quality]
 
