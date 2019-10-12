@@ -547,6 +547,7 @@
 * [Infrastructure as Code in the Era of GraphQL and Full Stack Serverless](https://dev.to/dabit3/infrastructure-as-code-in-the-era-of-graphql-and-full-stack-serverless-11bc)
 * [AWS CloudFormation ofrece un lenguaje común para describir y aprovisionar todos los recursos de la infraestructura en el entorno en la nube](https://aws.amazon.com/es/cloudformation/)
 * [Cloud Run is a service by Google Cloud Platform to run your stateless HTTP containers without worrying about provisioning machines, clusters or autoscaling](https://github.com/ahmetb/cloud-run-faq)
+* [Microservice Architecture](https://microservices.io/index.html)
 
 ### [Programming] - [CSS3]
 
@@ -948,6 +949,7 @@
 * [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * ⭐ [Design patterns implemented in Java](http://java-design-patterns.com/)
+* ⭐ [The twelve-factor app](https://12factor.net/es/)
 
 ### [Programming] - [PHP]
 
@@ -1584,6 +1586,8 @@
 * [dyson](http://webpro.github.io/dyson/)
 * [Welcome | RAML](https://raml.org/index.html)
 * [Everest - A beautiful, cross-platform REST client.](https://github.com/RohitAwate/Everest)
+* [API Blueprint. A powerful high-level API description language for web APIs](https://apiblueprint.org/)
+* [MSON Lang: Generate an app from JSON](https://github.com/redgeoff/mson)
 
 #### [Programming] - [Web] - [Blogging]
 
