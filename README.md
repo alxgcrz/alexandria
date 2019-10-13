@@ -721,6 +721,7 @@
 * [Open Source Web Crawler for Java](https://github.com/yasserg/crawler4j)
 * [jsweet - A transpiler from Java to TypeScript/JavaScript](http://www.jsweet.org/)
 * [TeaVM is an ahead-of-time compiler for Java bytecode that emits JavaScript and WebAssembly that runs in a browser](http://teavm.org/)
+* [Java in the Browser with TeaVM](https://blogs.oracle.com/javamagazine/java-in-the-browser-with-teavm)
 * [GWT is a development toolkit for building and optimizing complex browser-based applications](http://www.gwtproject.org/)
 * [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
 * ⭐ [Vaadin - Build Progressive Web Apps in Java](https://vaadin.com/)
@@ -2302,7 +2303,7 @@
 * [Google Fonts](https://fonts.google.com/)
 * [Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
 * [IBM Type](https://ibm.github.io/type/)
-* [KREATIV – Curated typography and fonts](https://www.kreativfont.com/)
+* [KREATIV – Curated typography and fonts](https://www.kreativfont.com/)veloz murciélago
 * [Monoid](http://larsenwork.com/monoid/)
 * [Nofont.com](http://www.nofont.com/typefaces/open-source-serif-fonts-for-body-text)
 * [OpenFoundry / Hot 30](http://open-foundry.com/hot30)
@@ -2311,13 +2312,15 @@
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
 * [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
 * [TipoType](http://tipotype.com/)
-* [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* ⭐ [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [typespiration.com - treating typography with respect — treating typography with respect](http://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 * [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * [Segmented Fonts](https://aresluna.org/segmented-type/)
 * [The Inter UI font family](https://rsms.me/inter/)
-* 🥇 [Programming Fonts](https://app.programmingfonts.org/) El veloz
+* 🥇 [Programming Fonts](https://app.programmingfonts.org/)
+* [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
+* ⭐ [Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com/#home)
 
 #### [Design] - [Resources] - [Icons]
 
