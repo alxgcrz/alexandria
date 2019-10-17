@@ -52,6 +52,7 @@
 * [uinames.com is a simple tool to generate fake names](http://uinames.com/)
 * [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
+* [Various README templates & tips on writing high-quality documentation](https://github.com/kylelobo/The-Documentation-Compendium/)
 
 ### [Programming] - [Awesomeness]
 
@@ -114,6 +115,7 @@
 
 * [Amazon Developer Services](https://developer.amazon.com/)
 * [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
+* [Facebook - Open Source](https://opensource.facebook.com/)
 * [Home | Oracle Developers](https://developer.oracle.com/)
 * [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
 * [Mozilla Developer Network](https://developer.mozilla.org/es/)
@@ -1106,6 +1108,7 @@
 * 🐙 [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
 * 🎓👌 [Let's build the future of the web](https://web.dev/)
 * 👉 [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
+* 👉 [MDN web docs - Mozilla](https://developer.mozilla.org/en-US/)
 * [Yarn - Fast, reliable and secure dependency management](https://yarnpkg.com/lang/en/)
 * [Bower: A package manager for the web](https://bower.io/)
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
@@ -2452,6 +2455,7 @@
 * [monzoom.com - Free and royalty free 4k and hd motion graphics](https://www.monzoom.com/index.php?c=free)
 * [Public Domain ~ Free Media for Creative Projects | Pond5](https://www.pond5.com/free)
 * [XStockvideo](http://www.xstockvideo.com/)
+* [Mixkit](https://mixkit.co/)
 
 ### [Design] - [Learn]
 
