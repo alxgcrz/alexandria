@@ -167,6 +167,7 @@
 * [Google Style Guides](https://google.github.io/styleguide/)
 * 👓 [SalGnt/cscs - A curated list of Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 * [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
+* [The Design Language Framework](https://diez.org/)
 
 ### [Programming] - [Algorithms]
 
@@ -175,6 +176,8 @@
 * [Learn how to code and build efficient algorithms](https://www.spoj.com/)
 * [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
 * ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
+* ⭐📕 [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/)
+* [Visualgo - Visualising data structures and algorithms through animation](https://visualgo.net)
 
 ### [Programming] - [Android]
 
@@ -529,10 +532,12 @@
 * 👓 [Awesome Back-End Development](https://github.com/sindresorhus/awesome#back-end-development)
 * [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
   * ⭐ [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
+  * [Learning-K8S - Keep it simple](https://github.com/knrt10/kubernetes-basicLearning)
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
 * [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
   * [Docker - Explore official repositories](https://hub.docker.com/explore/)
   * [Docker | DigitalOcean](https://www.digitalocean.com/community/tags/docker/tutorials)
+  * 🇪🇸 [De Docker a Kubernetes: entendiendo qué son los contenedores](https://www.xataka.com/otros/docker-a-kubernetes-entendiendo-que-contenedores-que-mayores-revoluciones-industria-desarrollo)
 * [LXC - Linux Containers](https://linuxcontainers.org/)
 * [Openshift](https://www.okd.io/)
   * [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
@@ -608,8 +613,8 @@
 ### [Programming] - [Git]
 
 * [Git](https://git-scm.com/)
-* 📕 [Git - Book](https://git-scm.com/book/es/v2)
-* 📕 [Pro Git, el libro oficial de Git](https://uniwebsidad.com/libros/pro-git)
+* 📕🇪🇸 [Git - Book](https://git-scm.com/book/es/v2)
+* 📕🇪🇸 [Pro Git, el libro oficial de Git](https://uniwebsidad.com/libros/pro-git)
 * ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
 * [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git)
 * [Resources to learn Git](https://try.github.io/)
@@ -619,14 +624,15 @@
 * ⭐ [git-tips/tips - Most commonly used git tips and trick](https://github.com/git-tips/tips)
 * ⭐ [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
 * [First Aid git](http://firstaidgit.io/#/)
-* [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
-* [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
+* 🇪🇸 [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
+* 🇪🇸 [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
 * 👓 [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 * [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
-* [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
-* [k88hudson/git-flight-rules - Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
+* 🇪🇸 [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
+* 🇪🇸 [k88hudson/git-flight-rules - Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
 * [workspace • Git Cheatsheet • NDP Software](http://ndpsoftware.com/git-cheatsheet.html#loc=workspace;)
 * [hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal](https://hub.github.com/)
+* [GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD](https://github.com/features/actions)
 
 ### [Programming] - [Go]
 
@@ -703,6 +709,7 @@
 * ⭐ [JetBrains Academy](https://hyperskill.org/knowledge-map/73)
 * [Sourcetrail - Free and open-source cross-platform source explorer](https://www.sourcetrail.com/)
 * [A short guide to Maven](https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven)
+* [Tranquil Java (TJ) is a small and fast integrated development environment(IDE)](https://tjide.sourceforge.io/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -710,7 +717,7 @@
 * ⭐ [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
 * ⭐ [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
 * ⭐ [Eclipe Projects](https://projects.eclipse.org/)
-* ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://github.com/eclipse/eclipse-collections)
+* ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://www.eclipse.org/collections/)
 * ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
@@ -732,8 +739,28 @@
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Manifold: A Preprocessor for Java](http://manifold.systems/)
 * [Reducing boilerplate code with Project Lombok](https://projectlombok.org/)
-* [Deep Learning for Java](https://deeplearning4j.org/)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
+
+##### [Programming] - [Java] - [Libraries] -  [Artificial Intelligence (AI)]
+
+* [Overview of AI Libraries in Java](https://www.baeldung.com/java-ai)
+* [Apache Jena is an open source Java framework for building semantic web and linked data applications from RDF data](https://jena.apache.org/)
+* [PowerLoom is a platform for the creation of intelligent, knowledge-based applications](http://www.isi.edu/isd/LOOM/PowerLoom/)
+* [d3web is an open source reasoning engine for developing, testing and applying problem-solving knowledge onto a given problem situation, with many algorithms already included](https://www.d3web.de/)
+* [Eye is an open source reasoning engine for performing semi-backward reasoning.](http://www.agfa.com/w3c/euler/)
+* [Tweety is a collection of Java frameworks for logical aspects of AI and knowledge representation](http://tweetyproject.org/index.html)
+* [Neuroph is an open source Java framework for neural network creation](http://neuroph.sourceforge.net/index.html)
+* [Deeplearning4j is a deep learning library for JVM but it also provides API for neural network creation](https://deeplearning4j.org/index.html)
+* [Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)
+* [Stanford CoreNLP is the most popular Java NLP framework which provides various tools for performing NLP tasks](https://stanfordnlp.github.io/CoreNLP/)
+* [Java-ML is an open source Java framework which provides various machine learning algorithms specifically for programmers](http://java-ml.sourceforge.net/)
+* [RapidMiner is a data science platform which provides various machine learning algorithms through GUI and Java API](https://rapidminer.com/)
+* [Weka is a collection of machine learning algorithms which can be applied directly to the dataset, through the provided GUI or called through the provided API](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Encong is a Java machine learning framework which supports many machine learning algorithms](https://www.heatonresearch.com/encog/)
+* [Jenetics is an advanced genetic algorithm written in Java](http://jenetics.io/)
+* [Watchmaker Framework is a framework for implementing genetic algorithms in Java](http://watchmaker.uncommons.org/)
+* [ECJ 23 is a Java based research framework with strong algorithmic support for genetic algorithms](https://cs.gmu.edu/~eclab/projects/ecj/)
+* [Eva is a simple Java OOP evolutionary algorithm framework](https://github.com/decorators-squad/eva)
 
 #### [Programming] - [Java] - [Code Quality]
 
@@ -746,7 +773,8 @@
 * [Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.](https://jmeter.apache.org/)
 * [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
 * [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
-* [JMH - Java Benchmark Tool](http://openjdk.java.net/projects/code-tools/jmh/)
+* [JMH - Java Microbenchmark Harness](http://openjdk.java.net/projects/code-tools/jmh/)
+ * [Getting Started](https://www.baeldung.com/java-microbenchmark-harness)
 * [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 
 #### [Programming] - [Java] - [Web]
@@ -1120,8 +1148,8 @@
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
-* 🔨 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
-* 🔨 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
+* 🧰 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
+* 🧰 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
 * [Nightmare - A high-level browser automation library](https://www.nightmarejs.org/)
@@ -1133,12 +1161,12 @@
 * 🎓 [Way2Tutorial Web Development Tutorials](https://way2tutorial.com/)
 * 🎓 [A Beginner's Guide to HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [The latest and freshest updates from the Web teams at Google. Chrome, V8, tooling, and more](https://developers.google.com/web/updates/)
-* 🔨 [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
-* 🔨 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
-* 🔨 [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
-* 🔨👍 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* 🧰 [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
+* 🧰 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
+* 🧰 [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
+* 🧰👍 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
-* 🔨[HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
+* 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
 
 #### [Programming] - [Web] - [Front-End]
 
@@ -1554,6 +1582,7 @@
 * [Nightwatch.js is an integrated, easy to use End-to-End testing solution for browser based apps and websites](https://nightwatchjs.org/)
 * [BrowserSync: Time-saving synchronised browser testing.](https://www.browsersync.io/)
 * [marmelab/gremlins.js - Monkey testing library for web apps and Node.js](https://github.com/marmelab/gremlins.js)
+* [Cypress is a next generation front end testing tool built for the modern web](https://docs.cypress.io/guides/overview/why-cypress.html#In-a-nutshell)
 
 #### [Programming] - [Web] - [API]
 
@@ -1782,6 +1811,7 @@
 * [Physics Simulations](https://www.myphysicslab.com/)
 * [Descubre las Matemáticas con GeoGebra](https://www.geogebra.org/)
 * [Calculus for the people - Geogebra](https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw)
+* 🇪🇸 [Infinite Patterns](https://naukas.com/2019/10/06/los-conceptos-detras-de-infinite-patterns/)
 
 ### [Games] - [OpenSource]
 
@@ -1827,6 +1857,7 @@
   * [BDX](https://github.com/GoranM/bdx)
   * [How to code Super Mario Bros](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt)
   * [LibGDX Video Tutorial Series](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+  * [Talos is an open source, node based particle effect editor that can be used in game development](https://talosvfx.com/)
 
 ### [Games] - [Gamebooks]
 
@@ -2001,13 +2032,13 @@
 * [Yobi 3D - Search Engine](https://www.yobi3d.com/#!/)
 * [3dMdb.com is the unique 3d model aggregator and Search Engine](http://3dmdb.com/)
 * [Low poly assets](http://quaternius.com/assets.html)
-* 🔨 [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
-* 🔨 [Online 3D Converter](http://www.greentoken.de/onlineconv/)
-* 🔨 [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
-* 🔨 [Open 3D Model Viewer](http://www.open3mod.com/)
-* 🔨 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
-* 🔨 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
-* 🔨 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
+* 🧰 [DAZ Studio - Animación 3D](https://www.daz3d.com/daz_studio)
+* 🧰 [Online 3D Converter](http://www.greentoken.de/onlineconv/)
+* 🧰 [Autodesk FBX Converter](http://usa.autodesk.com/adsk/servlet/pc/item?siteID=123112&id=22694909)
+* 🧰 [Open 3D Model Viewer](http://www.open3mod.com/)
+* 🧰 [The Open-Asset-Importer-Lib](http://www.assimp.org/)
+* 🧰 [MakeHuman - Blender Plugin](http://www.makehuman.org/)
+* 🧰 [Dust3D is a cross-platform open-source modeling software. Auto UV unwrapping, auto rigging with PBR Material support](https://dust3d.org/)
 
 #### [Games] - [Resources] - [Sprites2D]
 
@@ -2022,19 +2053,19 @@
 * [Itchio Assets](https://itch.io/game-assets/free)
 * [SpriteLib](https://www.widgetworx.com/spritelib/)
 * [GameArt2D](https://www.gameart2d.com/)
-* 🔨 [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
-* 🔨 [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
-* 🔨 [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
-* 🔨 [Pixel Art to CSS](https://www.pixelartcss.com/)
-* 🔨 [Pyxel Edit](http://pyxeledit.com/about.php)
-* 🔨 [MagicaVoxel](https://ephtracy.github.io/)
-* 🔨 [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
-* 🔨 [Troxel](https://chrmoritz.github.io/Troxel/)
-* 🔨 [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
-* 🔨 [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
-* 🔨 [Spriter](https://brashmonkey.com/spriter-features/)
-* 🔨 [Synfig Studio - 2D Animation](https://www.synfig.org/)
-* 🔨 [GraphicsGale](https://graphicsgale.com/us/spec.html)
+* 🧰 [GDX Texture Packer](https://github.com/crashinvaders/gdx-texture-packer-gui)
+* 🧰 [Aseprite - Animated Sprite Editor & Pixel Art Tool](https://www.aseprite.org/)
+* 🧰 [Piskel is a free online editor for pixel art](https://www.piskelapp.com/)
+* 🧰 [Pixel Art to CSS](https://www.pixelartcss.com/)
+* 🧰 [Pyxel Edit](http://pyxeledit.com/about.php)
+* 🧰 [MagicaVoxel](https://ephtracy.github.io/)
+* 🧰 [VoxelShop - Voxel Editor](https://blackflux.com/node/11)
+* 🧰 [Troxel](https://chrmoritz.github.io/Troxel/)
+* 🧰 [DragonBones - 2D Animation](https://dragonbones.github.io/en/index.html)
+* 🧰 [OpenToonz - 2D Animation](https://opentoonz.github.io/e/)
+* 🧰 [Spriter](https://brashmonkey.com/spriter-features/)
+* 🧰 [Synfig Studio - 2D Animation](https://www.synfig.org/)
+* 🧰 [GraphicsGale](https://graphicsgale.com/us/spec.html)
 
 #### [Games] - [Resources] - [Tiles]
 
@@ -2046,7 +2077,7 @@
 * [Roguelike Tilesets](https://www.reddit.com/r/gamedev/comments/444zbl/roguelike_tilesets/)
 * [Sithjester's RMXP Resources](http://untamed.wild-refuge.net/rmxpresources.php?tilesets)
 * [TomeTik](http://pousse.rapiere.free.fr/tome/)
-* 🔨 [Tiled Map Editor](http://www.mapeditor.org/)
+* 🧰 [Tiled Map Editor](http://www.mapeditor.org/)
 
 #### [Games] - [Resources] - [Textures]
 
@@ -2058,8 +2089,8 @@
 * [Wild Textures](http://www.wildtextures.com/)
 * [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
 * [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
-* 🔨 [Awesome Bump](http://awesomebump.besaba.com/about/)
-* 🔨 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
+* 🧰 [Awesome Bump](http://awesomebump.besaba.com/about/)
+* 🧰 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 
 #### [Games] - [Resources] - [Materials]
 
@@ -2070,12 +2101,12 @@
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
 * [Material Packs](https://gumroad.com/juliosillet)
-* 🔨 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
+* 🧰 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 
 #### [Games] - [Resources] - [Shaders]
 
 * ⭐ [ShaderToy](https://www.shadertoy.com/)
-* 🔨 [Shader Playground](http://shader-playground.timjones.io/)
+* 🧰 [Shader Playground](http://shader-playground.timjones.io/)
 * ⭐ [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
 
 #### [Games] - [Resources] - [Stores]
@@ -2098,15 +2129,15 @@
 
 #### [Games] - [Resources] - [Audio]
 
-* 🔨 [Audiosauna](http://www.audiosauna.com/)
-* 🔨 [Bfxr](https://www.bfxr.net/)
-* 🔨 [ChipTone](http://sfbgames.com/chiptone/)
-* 🔨 [Audacity](https://www.audacityteam.org/download/linux/)
-* 🔨 [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
-* 🔨 [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
-* 🔨 [LMMS](https://lmms.io/)
-* 🔨 [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
-* 🔨 [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
+* 🧰 [Audiosauna](http://www.audiosauna.com/)
+* 🧰 [Bfxr](https://www.bfxr.net/)
+* 🧰 [ChipTone](http://sfbgames.com/chiptone/)
+* 🧰 [Audacity](https://www.audacityteam.org/download/linux/)
+* 🧰 [BeepBox is an online tool for sketching and sharing chiptune melodies](https://www.beepbox.co)
+* 🧰 [Sfxr is a handy sound effects randomizer](http://www.drpetter.se/project_sfxr.html)
+* 🧰 [LMMS](https://lmms.io/)
+* 🧰 [SFMaker](https://www.leshylabs.com/apps/sfMaker/)
+* 🧰 [Mixxx - Free MP3 DJ Mixing Software](https://www.mixxx.org/)
 * [FFmpeg](https://ffmpeg.org/)
 * [Fmod](https://www.fmod.com/)
 * [ccMixter](http://ccmixter.org/)
@@ -2136,7 +2167,9 @@
 
 ## [Design]
 
-* [Google Design](https://design.google/)
+* ⭐🔝 [amp-what](http://www.amp-what.com/unicode/search/)
+* ⭐ [Glyphy- Copy & paste glyphs with ease](https://www.glyphy.io/)
+* ⭐ [Emojipedia](https://emojipedia.org/)
 
 ### [Design] - [Resources]
 
@@ -2161,17 +2194,17 @@
 
 #### [Design] - [Resources] - [Images]
 
-* ⭐ 🔨 [Squoosh](https://squoosh.app/)
-* ⭐ 🔨 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
-* 🔨 [Lorem Ipsum... but for photos](https://picsum.photos/)
-* 🔨 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
-* 🔨 [Compress.io](https://compressor.io/)
-* 🔨 [Duri.me - DataURI Generator](http://duri.me/)
-* 🔨 [Daturi - Convert images to Base64](https://daturi.me/)
-* 🔨 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
-* 🔨 [b64.io - image optimisation & base64 encode](http://b64.io/)
-* 🔨 [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
-* 🔨 [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
+* ⭐ 🧰 [Squoosh](https://squoosh.app/)
+* ⭐ 🧰 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
+* 🧰 [Lorem Ipsum... but for photos](https://picsum.photos/)
+* 🧰 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
+* 🧰 [Compress.io](https://compressor.io/)
+* 🧰 [Duri.me - DataURI Generator](http://duri.me/)
+* 🧰 [Daturi - Convert images to Base64](https://daturi.me/)
+* 🧰 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
+* 🧰 [b64.io - image optimisation & base64 encode](http://b64.io/)
+* 🧰 [SVGO - Commandline SVG Optimization](https://github.com/svg/svgo)
+* 🧰 [Drawing SVG](http://www.drawsvg.org/drawsvg.html)
 * [Photo Sets Free for Commercial Use](http://www.drawsvg.org/drawsvg.html])
 * [Beautiful Free Photos](https://barnimages.com/)
 * [Creative Commons Search](https://ccsearch.creativecommons.org/)
@@ -2217,17 +2250,17 @@
 
 #### [Design] - [Resources] - [Colors]
 
-* 🔨 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
-* 🔨 [Color Supply](http://colorsupplyyy.com/app/)
-* 🔨 [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
-* 🔨 [Colormind - the smart color palette generator](http://colormind.io/)
-* 🔨 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
-* 🔨 [HTML Color Codes](http://htmlcolorcodes.com/)
-* 🔨 [Khroma - The AI color tool for designers](http://khroma.co/)
-* 🔨 [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
-* 🔨 [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
-* 🔨 [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
-* 🔨 [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
+* 🧰 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
+* 🧰 [Color Supply](http://colorsupplyyy.com/app/)
+* 🧰 [ColorMe - Visualize The CSS Color Function](https://colorme.io/)
+* 🧰 [Colormind - the smart color palette generator](http://colormind.io/)
+* 🧰 [Coolors.co - The super fast color schemes generator](https://coolors.co/)
+* 🧰 [HTML Color Codes](http://htmlcolorcodes.com/)
+* 🧰 [Khroma - The AI color tool for designers](http://khroma.co/)
+* 🧰 [Lavish - Generate your own Bootstrap color scheme](http://www.lavishbootstrap.com/)
+* 🧰 [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* 🧰 [Rueda cromática | Esquemas de color - Adobe Color CC](https://color.adobe.com/es/create/color-wheel/)
+* 🧰 [ColorBox by Lyft Design can help you create cool color sets that you can use and share.](https://www.colorbox.io/)
 * [Background Gradient Colors | Eggradients.com](https://www.eggradients.com/)
 * [BrandColors – Official color codes for the world's biggest brands](https://brandcolors.net/)
 * [Color Hunt](http://colorhunt.co/)
@@ -2284,13 +2317,13 @@
 
 #### [Design] - [Resources] - [Fonts]
 
-* 🔨 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
-* 🔨 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
-* 🔨 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
-* 🔨 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
-* 🔨 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
-* 🔨 [Identifont - Tools](http://www.identifont.com/tools.html)
-* 🔨 [Type Scale - A Visual Calculator](http://type-scale.com/)
+* 🧰 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+* 🧰 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
+* 🧰 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
+* 🧰 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
+* 🧰 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
+* 🧰 [Identifont - Tools](http://www.identifont.com/tools.html)
+* 🧰 [Type Scale - A Visual Calculator](http://type-scale.com/)
 * [1001 Fonts · Free Fonts Baby!](http://www.1001fonts.com/)
 * [21,471 free fonts for Windows and Mac - FontSpace](http://www.fontspace.com/)
 * [A More Modern Scale for Web Typography | Design in the browser with web fonts and real content — Typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
@@ -2378,7 +2411,6 @@
 * [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
 * [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
 * [VectorLogoZone](https://www.vectorlogo.zone/)
-* ⭐ [amp-what](http://www.amp-what.com/unicode/search/)
 * [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
 
@@ -2443,7 +2475,7 @@
 * [Pixlr Web Apps | Autodesk Pixlr](https://pixlr.com/web)
 * [Prueba de optimización para móviles de Google Search Console](https://search.google.com/search-console/mobile-friendly)
 * [Resizer - Material Design](https://material.io/resizer/)
-* 🔨 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
+* 🧰 [Vectr - Free Online Vector Graphics Editor](https://vectr.com/)
 
 #### [Design] - [Resources] - [Video]
 
@@ -2484,6 +2516,7 @@
 * [The A-Z of Portfolio Design](http://www.onextrapixel.com/2013/09/04/the-a-z-of-portfolio-design/)
 * [The iOS Design Guidelines - Ivo Mynttinen / User Interface Designer](http://iosdesign.ivomynttinen.com/)
 * [The ultimate guide to flat design | Webdesigner Depot](http://www.webdesignerdepot.com/2013/09/the-ultimate-guide-to-flat-design/)
+* ⭐ [Refactoring UI](https://twitter.com/i/moments/994601867987619840)
 
 ### [Design] - [Inspiration]
 
@@ -2553,6 +2586,7 @@
 
 ### [Design] - [Sites]
 
+* ⭐ [Google Design](https://design.google/)
 * [InstantShift Web Design Magazine | Web Designers and Developers Daily Resource.](http://www.instantshift.com/)
 * [Web development blog, news and tutorials - Developer Drive](http://www.developerdrive.com/)
 * [noupe - The Curious Side of the Web](http://www.noupe.com/)
@@ -2831,6 +2865,7 @@
 * [Installation — w3af - Web application attack and audit framework 1.6.0.2 documentation](http://docs.w3af.org/en/latest/install.html)
 * [PunkSPIDER](https://www.punkspider.org/)
 * [Spaghetti, escanea la seguridad de tus aplicaciones Web](https://ubunlog.com/spaghetti-seguridad-aplicaciones-web/)
+* [Flan Scan is a lightweight network vulnerability scanner](https://github.com/cloudflare/flan)
 
 #### [Security] - [Utils] - [Wi-Fi]
 
@@ -2866,7 +2901,7 @@
 
 ### [Linux] - [Shell Scripting]
 
-* 🔨 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
+* 🧰 [ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
 * [Shell Script Quick Reference](https://www.abscrete.com/shell-script-quick-reference/)
 
 ### [Linux] - [Monitoring]
