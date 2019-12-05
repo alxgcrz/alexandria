@@ -892,7 +892,8 @@
 #### [Programming] - [Kotlin] - [Libraries]
 
 * [Android-ktx | A set of Kotlin extensions for Android app development](https://github.com/android/android-ktx)
-* [Anko | Pleasant Android application development](https://github.com/Kotlin/anko)
+* [(deprecated) Anko | Pleasant Android application development](https://github.com/Kotlin/anko)
+* [A family of small Kotlin libraries for delightful Android development](https://github.com/LouisCAD/Splitties)
 * [Javalin: Simple REST APIs for Java and Kotlin](https://javalin.io/)
 * [GitHub - edvin/tornadofx: Lightweight JavaFX Framework for Kotlin](https://github.com/edvin/tornadofx)
 * [GitHub - zsmb13/MaterialDrawerKt: A Kotlin DSL wrapper around the mikepenz/MaterialDrawer library.](https://github.com/zsmb13/MaterialDrawerKt)
