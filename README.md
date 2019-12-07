@@ -57,16 +57,15 @@
 
 ### [Programming] - [Awesomeness]
 
-* ⭐ [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
-* ⭐ [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
-* [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
-* [Some useful websites for programmers. - Github](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-* [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
-* [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
-* [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
+* ⭐👓 [Curated list of awesome lists - GitHub](https://github.com/sindresorhus/awesome)
+* ⭐👓  [A curated list of awesome awesomeness - Github](https://github.com/bayandin/awesome-awesomeness)
+* 👓 [The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)
+* 👓 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+* 👓 [This is a list of Free Software network services and web applications which can be hosted locally - Gihtub](https://github.com/Kickball/awesome-selfhosted)
 * ⭐ [Pretty Awesome Lists crawls all these lists, collects interesting information about each link](https://www.prettyawesomelists.com/)
+* [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
+* [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
+* [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
 
 ### [Programming] - [Challenge]
 
@@ -139,6 +138,7 @@
 * [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
 * [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
 * [NuGet Gallery | Home](https://www.nuget.org/)
+* ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
 
 #### [Programming] - [Official] - [Google]
 
@@ -313,6 +313,8 @@
 * [Udacity-Google Partnership](https://www.udacity.com/google)
 * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
+  * [Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
+  * [Advanced Android in Kotlin Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
 * [Android Developer Fundamentals Course](https://codelabs.developers.google.com/android-training/)
 * [Android Developer Fundamentals - V2](https://developers.google.com/training/courses/android-fundamentals-v2)
   * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
@@ -337,7 +339,7 @@
   * [Android Testing Codelab](https://codelabs.developers.google.com/codelabs/android-testing/index.html)
 * [Appium: Mobile App Automation Made Awesome.](http://appium.io/)
 * [Robolectric](http://robolectric.org/)
-* [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
+* 👓 [hotchemi/awesome-android-testing](https://github.com/hotchemi/awesome-android-testing)
 * [ravidsrk/android-testing-guide: [Examples] Complete reference for Android Testing with examples.](https://github.com/ravidsrk/android-testing-guide)
 * [Testing on Android part 1: Unit Testing](http://www.tinmegali.com/en/testing-part1-unit-testing/)
 * [Developing Android unit and instrumentation tests - Tutorial](http://www.vogella.com/tutorials/AndroidTesting/article.html)
@@ -366,15 +368,15 @@
 
 ##### [Programming] - [Android] - [Recursos] - [Directorio]
 
+* 👓 [A curated list of awesome Android packages and resources - Github](https://github.com/JStumpp/awesome-android)
+* 👓 [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+* 👓 [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+* 👓 [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
+* 👓 [Awesome Android | LibHunt](https://android.libhunt.com/)
 * [App Dev Wiki](http://www.appdevwiki.com/wiki/show/HomePage)
-* [ashishb/android-security-awesome](https://github.com/ashishb/android-security-awesome)
-* [Awesome Android | LibHunt](https://android.libhunt.com/)
 * [Developer tools - Android library statistics | AppBrain.com](http://www.appbrain.com/stats/libraries/dev)
-* [A curated list of awesome Android packages and resources - Github](https://github.com/JStumpp/awesome-android)
 * [Must Have Libraries · codepath/android_guides Wiki](https://github.com/codepath/android_guides/wiki/Must-Have-Libraries)
 * [The Android Arsenal - A categorized directory of free libraries and tools for Android](https://android-arsenal.com/)
-* [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
-* [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 * [25 new Android libraries, projects and tools worthy to check in Spring 2018](https://medium.com/@mmbialas/25-new-android-libraries-projects-and-tools-worthy-to-check-in-spring-2018-68e3c5e93568)
 * [25 new Android libraries which you definitely want to try at the beginning of 2017 – Medium](https://medium.com/@mmbialas/25-new-android-libraries-which-you-definitely-want-to-try-at-the-beginning-of-2017-45878d5408c0#.7ugfxjd3g)
 * [96 Best Resources for Android Developers 2017](https://www.anysoftwaretools.com/best-android-development-resources/)
@@ -684,7 +686,7 @@
 * [Prebuilt OpenJDK Binaries for Free!](https://adoptopenjdk.net/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
 * ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
-* [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
+* 👓 [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
   * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
@@ -775,7 +777,7 @@
 * [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
 * [JMH - Java Microbenchmark Harness](http://openjdk.java.net/projects/code-tools/jmh/)
   * [Getting Started](https://www.baeldung.com/java-microbenchmark-harness)
-* [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
+* 👓 [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 
 #### [Programming] - [Java] - [Web]
 
@@ -816,7 +818,7 @@
 * [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
 * [fxexperience - JavaFX ControlsFX](http://fxexperience.com/controlsfx/)
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
-* [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+* 👓 [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
@@ -867,7 +869,7 @@
 * [Kotlin Programming Language [Official]](https://kotlinlang.org/)
 * [Android Kotlin Guides](https://android.github.io/kotlin-guides/index.html)
 * ⭐ [Kotlin is Awesome!](https://kotlin.link/)
-* [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
+* 👓 [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
 #### [Programming] - [Kotlin] - [Learn]
 
@@ -984,7 +986,7 @@
 * [Design Patterns & Refactoring](https://sourcemaking.com/)
 * [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
-* [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
+* 👓 [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
 * [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * ⭐ [Design patterns implemented in Java](http://java-design-patterns.com/)
 * ⭐ [The twelve-factor app](https://12factor.net/es/)
@@ -1049,7 +1051,7 @@
 * [A selection of Progressive Web Apps](https://pwa.rocks/)
 * [Appscope](https://appsco.pe/)
 * [PWABuilder - Quickly and easily turn your website into an app!](https://www.pwabuilder.com/)
-* 🐙 [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
+* 👓 [Awesome list of progressive web apps! (PR welcomed ;)) - Github](https://github.com/hemanth/awesome-pwa)
 * [HNPWA - Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * 📺 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
@@ -1504,7 +1506,7 @@
 * [Glyphter: The SVG Font Machine](http://glyphter.com/)
 * [indus/VLEX · GitHub](https://github.com/indus/VLEX)
 * [seen.js](http://seenjs.io/)
-* [willianjusten/awesome-svg · GitHub](https://github.com/willianjusten/awesome-svg)
+* 👓 [willianjusten/awesome-svg · GitHub](https://github.com/willianjusten/awesome-svg)
 * [flexible.gs - Responsive Grid System](http://flexible.gs/#)
 * [vivus.js - Vivus is a lightweight JavaScript class (with no dependencies) that allows you to animate SVGs](http://maxwellito.github.io/vivus/)
 * [BonsaiJS - A lightweight graphics library with an intuitive graphics API and an SVG renderer](http://bonsaijs.org/)
@@ -1924,7 +1926,7 @@
 
 * [Godot Engine](https://godotengine.org/)
 * [Godot Docs](http://docs.godotengine.org/en/stable/)
-* [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/Calinou/awesome-godot)
+* 👓 [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/Calinou/awesome-godot)
 * [Godot Engine - ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
@@ -1981,7 +1983,7 @@
 * [Git para desarrolladores Unity3D](http://www.zehngames.com/developers/git-para-desarrolladores-unity3d/)
 * [Unity .gitignore](https://github.com/github/gitignore/blob/master/Unity.gitignore)
 * [Unity - Pixel Art Particles](http://warcher-devlog.tumblr.com/post/131193823198/unity-pixel-art-particles)
-* [Awesome Unity](https://github.com/RyanNielson/awesome-unity)
+* 👓 [Awesome Unity](https://github.com/RyanNielson/awesome-unity)
 * [Unity - Ray Wenderlich](https://www.raywenderlich.com/category/unity)
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 * [2d-extras is a repository containing helpful reusable scripts - Github](https://github.com/unity-technologies/2d-extras)
@@ -2008,7 +2010,7 @@
 * [List of Free tools and websites for game creation](https://forum.yoyogames.com/index.php?threads/list-of-free-tools-and-websites-for-game-creation.22209/)
 * [Engines, tools and apps for ludum dare](https://www.belenalbeza.com/articles/engines-tools-and-apps-for-ludum-dare/)
 * [How to jam](https://opensource.com/article/17/12/how-to-gaming-jam-development)
-* ⭐ [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
+* ⭐👓 [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev)
 * ⭐ [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
 * ⭐ [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * ⭐ [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
@@ -2794,7 +2796,7 @@
 
 ### [Security] - [Utils]
 
-* [Awesome-Hacking - A collection of various awesome lists for hackers, pentesters and security researchers · GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)
+* 👓 [Awesome-Hacking - A collection of various awesome lists for hackers, pentesters and security researchers · GitHub](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [GitHub - swisskyrepo/PayloadsAllTheThings: A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [Katoolin, instala todas la herramientas de Kali Linux en Ubuntu](https://ubunlog.com/katoolin-herramientas-kali-ubuntu/)
 * [Leviathan Framework, desencadenando a la bestia : hackplayers](http://www.hackplayers.com/2017/04/leviathan-framework-desencadenando-la.html)
@@ -2878,7 +2880,7 @@
 
 ## [Linux]
 
-* [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
+* 👓 [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
 * ⭐🎓 [Digital Ocean - Find all the resources you need to go from development to production](https://www.digitalocean.com/community)
 * 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
 * 👽 [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
