@@ -528,6 +528,7 @@
 * [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
 * 👍 [Angular Material - Material Design components for Angular](https://material.angular.io/)
 * [PrimeNG - The Most Complete User Interface Suite for Angular](https://www.primefaces.org/primeng/#/)
+* 🇪🇸 [Recursos, tutoriales y artículos para aprender Angular en español](https://github.com/Frostqui/angular-espanol)
 
 ### [Programming] - [Architecture & Container Platforms]
 
@@ -2105,6 +2106,7 @@
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
 * [Material Packs](https://gumroad.com/juliosillet)
 * 🧰 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
+* ⭐[Quixel Megscans - Epic Games](https://quixel.com/megascans/library)
 
 #### [Games] - [Resources] - [Shaders]
 
