@@ -814,18 +814,18 @@
 
 #### [Programming] - [Java] - [JavaFX]
 
+* 👓 [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
 * [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
 * [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
-* [fxexperience - JavaFX ControlsFX](http://fxexperience.com/controlsfx/)
+* [Custom controls for JavaFX](https://github.com/controlsfx/controlsfx)
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
-* 👓 [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
+* [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client/#_overview)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
 * [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
-* [Powerful JavaFX Media Player + Web Browser (interesting javaFX links)](https://github.com/goxr3plus/XR3Player)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 * [SynchronizeFX is a library for JavaFX 2 and later that enables property bindings between different JVMs, both on a local computer and over the network](https://github.com/saxsys/SynchronizeFX)
 
