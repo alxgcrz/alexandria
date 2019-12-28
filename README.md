@@ -24,6 +24,7 @@
 * ⭐ [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 * [The open source tools and SaaS behind popular tech companies](https://stackshare.io/stacks)
 * [This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers](https://github.com/ripienaar/free-for-dev)
+* [Rosetta Code - The idea is to present solutions to the same task in as many different languages as possible](http://www.rosettacode.org/wiki/Rosetta_Code)
 
 ### [Programming] - [Utils]
 
@@ -74,8 +75,9 @@
 * ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
 * [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
 * [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
-* [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
+* ⭐ [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
+* [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
 
 ### [Programming] - [Academy]
 
@@ -94,6 +96,7 @@
 * [Review the best online courses on the internet in one place | Courseroot](https://courseroot.com/)
 * [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
 * ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
+* [The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki](https://course.elementsofai.com/)
 
 ### [Programming] - [Books]
 
@@ -189,6 +192,7 @@
 * [Google Developers — Medium](https://medium.com/google-developers)
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Google's Maven Repositoy](https://dl.google.com/dl/android/maven2/index.html)
+* [Android Code Search](https://cs.android.com/)
 
 #### [Programming] - [Android] - [Design]
 
@@ -529,6 +533,14 @@
 * 👍 [Angular Material - Material Design components for Angular](https://material.angular.io/)
 * [PrimeNG - The Most Complete User Interface Suite for Angular](https://www.primefaces.org/primeng/#/)
 * 🇪🇸 [Recursos, tutoriales y artículos para aprender Angular en español](https://github.com/Frostqui/angular-espanol)
+* [Scully is a static site generator for Angular projects](https://github.com/scullyio/scully)
+* [Angular Augury - A Chrome and Firefox Dev Tools extension for debugging Angular applications.](https://augury.rangle.io/)
+* [Bit helps your team share components and collaborate to build faster together](https://bit.dev/components?q=angular)
+* [Stackblitz allows you to build full-stack applications fully in your browser](https://stackblitz.com/)
+* [Angular Flex-Layout - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API](https://github.com/angular/flex-layout)
+* [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
+* [Transloco - The internationalization (i18n) library for Angular](https://netbasal.gitbook.io/transloco/)
+* [Reactive State for Angular](https://ngrx.io/)
 
 ### [Programming] - [Architecture & Container Platforms]
 
@@ -600,6 +612,11 @@
 * [Titan: Distributed Graph Database](https://titan.thinkaurelius.com/)
 * [FoundationDB - From Apple](https://www.foundationdb.org/)
 * [Cloud Firestore es una base de datos flexible y escalable para la programación en servidores, dispositivos móviles y la Web desde Firebase y Google Cloud Platform](https://firebase.google.com/docs/firestore)
+* [Jdbi provides convenient, idiomatic access to relational data in Java](http://jdbi.org/)
+* [Exposed - Kotlin SQL Library](https://github.com/JetBrains/Exposed)
+* [jOOQ: The easiest way to write SQL in Java](https://www.jooq.org/)
+* [Flyway - Version control for your database](https://flywaydb.org/)
+* [HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
 
 ### [Programming] - [Electron]
 
@@ -681,28 +698,22 @@
 * [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
 * [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 * [OpenJDK](http://openjdk.java.net/)
+* [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
 * [Amazon Corretto](https://aws.amazon.com/es/corretto/)
 * [Prebuilt OpenJDK Binaries for Free!](https://adoptopenjdk.net/)
+* [Javadoc hosting for open source projects](https://javadoc.io/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
 * ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
 * 👓 [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
+* ⭐ [Java Ecosystem Master List - Hundreds of Links for Java Developers, All in One Place](https://javasites.dev/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
 * [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
   * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
 * [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
 * 👉 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
-* 📝 [Oracle - Blog](https://blogs.oracle.com/java/)
-* 📝 [Oracle - Blog](https://blogs.oracle.com/javamagazine/)
-* 📝 [JavaWorld](https://www.javaworld.com/)
-* 📝 [InfoQ - Java](https://www.infoq.com/java/)
-* 📝 [Javarevisited](https://javarevisited.blogspot.com/)
-* 📝 [Java, SQL and JOOQ](https://blog.jooq.org/)
-* 📝 [A Java geek](https://blog.frankel.ch/)
-* 📝 [Baeldung](https://www.baeldung.com/)
-* 📝 [Rieckpil](https://rieckpil.de/java-in-general/)
 * ⭐🏅 [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
 * [Ideone is an online compiler and debugging tool](http://ideone.com/)
 * ⭐💻 [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
@@ -713,6 +724,26 @@
 * [Sourcetrail - Free and open-source cross-platform source explorer](https://www.sourcetrail.com/)
 * [A short guide to Maven](https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven)
 * [Tranquil Java (TJ) is a small and fast integrated development environment(IDE)](https://tjide.sourceforge.io/)
+* [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
+* [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
+
+### [Programming] - [Java] - [Blogs]
+
+* [Oracle Blogs | The Java Source](https://blogs.oracle.com/java/)
+* [Oracle - Blog](https://blogs.oracle.com/javamagazine/)
+* [JavaWorld](https://www.javaworld.com/)
+* [InfoQ - Java](https://www.infoq.com/java/)
+* [Javarevisited](https://javarevisited.blogspot.com/)
+* [Java, SQL and JOOQ](https://blog.jooq.org/)
+* [A Java geek](https://blog.frankel.ch/)
+* [Baeldung](https://www.baeldung.com/)
+* [Rieckpil](https://rieckpil.de/java-in-general/)
+* [programming[guide]](https://programming.guide/java/)
+* [Java Code Geeks](https://www.javacodegeeks.com/)
+* [DZone](https://dzone.com/java-jdk-development-tutorials-tools-news)
+* [TheServerSide](https://www.theserverside.com/)
+* [Jaxenter](https://jaxenter.com/news/java)
+* [The Spring Blog](https://spring.io/blog)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -764,6 +795,7 @@
 * [Watchmaker Framework is a framework for implementing genetic algorithms in Java](http://watchmaker.uncommons.org/)
 * [ECJ 23 is a Java based research framework with strong algorithmic support for genetic algorithms](https://cs.gmu.edu/~eclab/projects/ecj/)
 * [Eva is a simple Java OOP evolutionary algorithm framework](https://github.com/decorators-squad/eva)
+* [Deep Java Library - Open source library to build and deploy Deep Learning in Java](https://djl.ai/)
 
 #### [Programming] - [Java] - [Code Quality]
 
@@ -799,9 +831,11 @@
 * [Jersey - RESTful Web Services in Java - Oracle](https://jersey.github.io/)
 * [Restlet Framework helps Java developers build better web APIs that follow the REST architecture style](https://restlet.com/open-source/)
 * [Cettia is a full-featured real-time web framework for Java that works with any web frameworks on the Java Virtual Machine](https://cettia.io/)
+* [Velocity is a Java-based template engine](https://velocity.apache.org/)
 
 #### [Programming] - [Java] - [Microservices]
 
+* 🎓 [ava Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
 * [Eclipse MicroProfile - Optimizing Enterprise Java for a Microservices Architecture](https://microprofile.io/)
 * [Helidon is a collection of Java libraries for writing microservices](https://helidon.io)
 * [Payara Micro is the open source, lightweight middleware platform of choice for containerized Java EE (Jakarta EE) microservices deployments](https://www.payara.fish/software/payara-server/payara-micro/)
@@ -821,7 +855,7 @@
 * [Custom controls for JavaFX](https://github.com/controlsfx/controlsfx)
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
-* [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client/#_overview)
+* [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
@@ -949,6 +983,7 @@
 * [Kubeflow - The Machine Learning Toolkit for Kubernetes](https://www.kubeflow.org/)
 * 📕 [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
+* [The Microsoft Cognitive Toolkit](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 
 ### [Programming] - [Markdown]
 
@@ -981,6 +1016,7 @@
 * [Repl.it - Select a Language](https://repl.it/languages)
 * [CodeSandbox](https://codesandbox.io/)
 * [StackBlitz - Create, edit & deploy fullstack apps](https://stackblitz.com/)
+* [Codiva is an online compiler and IDE for Java](https://www.codiva.io/java)
 
 ### [Programming] - [Patterns]
 
@@ -1211,6 +1247,7 @@
 * [Concise.CSS / A better front-end framework.](https://concisecss.com/)
 * [Flexbox Patterns - Build awesome user interfaces with CSS flexbox](https://www.flexboxpatterns.com/)
 * 👉 [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
+* [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/)
 
 #### [Programming] - [Web] - [Bootstrap]
 
@@ -1631,6 +1668,7 @@
 * [Everest - A beautiful, cross-platform REST client.](https://github.com/RohitAwate/Everest)
 * [API Blueprint. A powerful high-level API description language for web APIs](https://apiblueprint.org/)
 * [MSON Lang: Generate an app from JSON](https://github.com/redgeoff/mson)
+* [RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing](https://raml.org/)
 
 #### [Programming] - [Web] - [Blogging]
 
@@ -2252,6 +2290,11 @@
 * [DrawKit is a collection of free, beautiful, customisable MIT licensed SVG illustrations](https://www.drawkit.io/)
 * [100k Faces Generated by AI](https://generated.photos/)
 * [Open source illustrations kit](https://illlustrations.co/)
+* [Illustrations | unDraw](https://undraw.co/illustrations)
+* [Mix-&-match illustrations of people with a design library](https://www.humaaans.com/)
+* [Open Doodles - A Free Set of Sketchy Illustrations](https://www.opendoodles.com/)
+* [Free SVG Illustrations](https://lukaszadam.com/illustrations)
+* [Free Vector Illustrations to Class up Your Project](https://icons8.com/ouch)
 
 #### [Design] - [Resources] - [Colors]
 
@@ -2298,6 +2341,7 @@
 * [Web Safe Colors](http://websafecolors.info/)
 * ⭐ [Google, but for colors.](https://picular.co/)
 * ⭐ [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
+* [Curated colors in context](https://www.happyhues.co/)
 
 #### [Design] - [Resources] - [Freebies]
 
@@ -2391,7 +2435,6 @@
 * [Icon search engine and market place | Iconfinder](https://www.iconfinder.com/)
 * [iconmonstr - Free icons for your next project](https://iconmonstr.com/)
 * [IKONS - 264 free vector icons from Piotr Kwiatkowski](http://ikons.piotrkwiatkowski.co.uk/)
-* [Illustrations | unDraw](https://undraw.co/illustrations)
 * [Ionicons](https://ionicframework.com/docs/ionicons/)
 * [Map Icons](http://map-icons.com/)
 * [Meteocons • 40+ Weather Icons Free](http://www.alessioatzeni.com/meteocons/)
@@ -2521,7 +2564,7 @@
 * [The A-Z of Portfolio Design](http://www.onextrapixel.com/2013/09/04/the-a-z-of-portfolio-design/)
 * [The iOS Design Guidelines - Ivo Mynttinen / User Interface Designer](http://iosdesign.ivomynttinen.com/)
 * [The ultimate guide to flat design | Webdesigner Depot](http://www.webdesignerdepot.com/2013/09/the-ultimate-guide-to-flat-design/)
-* ⭐ [Refactoring UI](https://twitter.com/i/moments/994601867987619840)
+* ⭐ [Refactoring UI](https://refactoringui.com/)
 
 ### [Design] - [Inspiration]
 
@@ -2937,3 +2980,4 @@
 * [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
 * 👽 [KittyKatt/screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
+* [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
