@@ -97,6 +97,7 @@
 * [View All Tracks | Microsoft Professional Program](https://academy.microsoft.com/en-us/professional-program/tracks/)
 * ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 * [The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki](https://course.elementsofai.com/)
+* [The Odin Project](https://www.theodinproject.com/home)
 
 ### [Programming] - [Books]
 
@@ -315,7 +316,8 @@
 * ⭐ [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 * [Google Developer Training Repository](https://github.com/google-developer-training)
 * [Udacity-Google Partnership](https://www.udacity.com/google)
-* [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  * [Developing Android Apps | Udacity](https://www.udacity.com/course/new-android-fundamentals--ud851)
+  * [Developing Android Apps with Kotlin by Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
 * [Google Codelabs](https://codelabs.developers.google.com/?cat=Android)
   * [Android Kotlin Fundamentals Course](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
   * [Advanced Android in Kotlin Course](https://codelabs.developers.google.com/advanced-android-kotlin-training/)
@@ -545,11 +547,12 @@
 ### [Programming] - [Architecture & Container Platforms]
 
 * 👓 [Awesome Back-End Development](https://github.com/sindresorhus/awesome#back-end-development)
-* [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
+* ⭐ [Container tools by Google](https://github.com/GoogleContainerTools)
+* ⭐ [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
   * ⭐ [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
   * [Learning-K8S - Keep it simple](https://github.com/knrt10/kubernetes-basicLearning)
 * [Kubernetes for workstations and appliances](https://microk8s.io/)
-* [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
+* ⭐ [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
   * [Docker - Explore official repositories](https://hub.docker.com/explore/)
   * [Docker | DigitalOcean](https://www.digitalocean.com/community/tags/docker/tutorials)
   * 🇪🇸 [De Docker a Kubernetes: entendiendo qué son los contenedores](https://www.xataka.com/otros/docker-a-kubernetes-entendiendo-que-contenedores-que-mayores-revoluciones-industria-desarrollo)
