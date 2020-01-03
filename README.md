@@ -875,6 +875,16 @@
 * [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
 * [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
 
+#### [Programming] - [Java] - [Maven]
+
+* <https://maven.apache.org/guides/index.html>
+* <https://maven.apache.org/guides/MavenQuickReferenceCard.pdf>
+* <http://maven.apache.org/ref/3.1.0/maven-embedder/cli.html>
+* <https://www.javaguides.net/2018/12/maven-commands-list-pdf.html>
+* <https://www.javaguides.net/p/maven.html>
+* <https://maven.apache.org/plugins/index.html>
+* <https://itnext.io/writing-a-full-featured-maven-pom-f5b874eef312>
+
 ### [Programming] - [Javascript]
 
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -1939,6 +1949,7 @@
 * [Matter.js - a 2D rigid body JavaScript physics engine](http://brm.io/matter-js/)
 * [Physics.js - A modular, extendable and easy-to-use physics engine for javascript](http://wellcaffeinated.net/PhysicsJS/)
 * [CreateJS - A suite of modular libraries and tools](https://createjs.com/)
+* [Solandra - A simple, modern TypeScript-first Algorithmic Art Tool](https://solandra.netlify.com/)
 
 #### [Games] - [Engines] - [GameMaker]
 
@@ -1975,6 +1986,9 @@
 * [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
 * 📺 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
+* [A dictionary for people moving from GM:S to Godot](https://github.com/coppolaemilio/gamemaker-godot-dictionary)
+* [Make games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
+* [Make games with Godot: Developer Edition](https://www.gdquest.com/docs/guides/learn-godot/developer/)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
