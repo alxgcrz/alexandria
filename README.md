@@ -1860,7 +1860,7 @@
 #### [Games] - [Learn] - [Maths & Physics]
 
 * ⭐ [Immersive linear algebra](http://immersivemath.com/ila/index.html)
-* [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* 📺 [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [Sin & Cos](http://www.helixsoft.nl/articles/circle/sincos.htm)
 * [Understanding Steering Behaviors](https://gamedevelopment.tutsplus.com/series/understanding-steering-behaviors--gamedev-12732)
 * [Phet - Interactive Simulations](https://phet.colorado.edu/es/simulations/category/new)
@@ -1902,7 +1902,7 @@
 * [OpenFL](http://www.openfl.org/)
 * [Stencyl](http://www.stencyl.com/)
 * [Defold](https://www.defold.com/)
-  * 🎬 [Introductory Defold Game Engine Tutorials](https://www.youtube.com/playlist?list=PLseKVnAXs_iVaksj-sjkz6R1D9Fpv1EaT)
+  * 📺 [Introductory Defold Game Engine Tutorials](https://www.youtube.com/playlist?list=PLseKVnAXs_iVaksj-sjkz6R1D9Fpv1EaT)
 * [Wave Engine](https://waveengine.net/)
 * [Haxe](https://haxe.org/)
 * [Construct3](https://www.scirra.com/)
@@ -1911,8 +1911,8 @@
 * [LibGDX](http://libgdx.badlogicgames.com/)
   * [Free LibGDX Scene2D GUI skins](https://github.com/czyzby/gdx-skins)
   * [BDX](https://github.com/GoranM/bdx)
-  * [How to code Super Mario Bros](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt)
-  * [LibGDX Video Tutorial Series](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
+  * 📺 [How to code Super Mario Bros](https://www.youtube.com/playlist?list=PLZm85UZQLd2SXQzsF-a0-pPF6IWDDdrXt)
+  * 📺 [LibGDX Video Tutorial Series](https://www.youtube.com/playlist?list=PLS9MbmO_ssyCZ9Tjfay2tOQoaOVoG59Iy)
   * [Talos is an open source, node based particle effect editor that can be used in game development](https://talosvfx.com/)
 
 ### [Games] - [Gamebooks]
@@ -1974,7 +1974,7 @@
   * 📺 [Make a Game With No Experience - Youtube](https://www.youtube.com/playlist?list=PLUtKzyIe0aB2HjpmBhnsHpK7ig0z7ohWw)
   * 📺 [Make a RPG - Youtube](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd)
   * 📺 [Top Down Zombie Shooter](https://www.youtube.com/playlist?list=PLUQ0xH2XyXgHWa-wC1X1q2sG8lzEuqzGe)
-  * ⭐ 📺 [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
+  * ⭐📺 [Let's Learn GameMaker Studio 1.4](https://www.youtube.com/playlist?list=PLhwAMKTBx5mVkKZ0AaGZtA-isGVBPLuEO)
 
 #### [Games] - [Engines] - [Godot Engine]
 
@@ -1984,7 +1984,7 @@
 * [Godot Engine - ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
-* [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
+* 📺 [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
 * 📺 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
 * [A dictionary for people moving from GM:S to Godot](https://github.com/coppolaemilio/gamemaker-godot-dictionary)
@@ -2019,7 +2019,7 @@
   * [Making A Flappy Bird Style Game](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/project-goals?playlist=17093)
   * [2D UFO tutorial](https://unity3d.com/es/learn/tutorials/s/2d-ufo-tutorial)
   * [2D Physics Overview](https://unity3d.com/es/learn/tutorials/topics/2d-game-creation/2d-physics-overview?playlist=17093)
-  * [Unity Youtube](https://www.youtube.com/user/Unity3D/playlists?shelf_id=0&view=1&sort=dd)
+  * 📺 [Unity Youtube](https://www.youtube.com/user/Unity3D/playlists?shelf_id=0&view=1&sort=dd)
 * [Unity para juegos móviles](https://unity3d.com/es/mobile/solution-guide)
 * [Unity Engine - Scripting](https://unity3d.com/es/learn/tutorials/s/scripting)
 * [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
@@ -2157,7 +2157,7 @@
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
 * [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
 * [Free C4D Materials](https://www.c4dcenter.com/)
-* 🎬 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
+* 📺 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
 * [CRAFTING PHYSICALLY-BASED MATERIALS - Filament](https://google.github.io/filament/Material%20Properties.pdf)
 * [Material Packs](https://gumroad.com/juliosillet)
@@ -2722,14 +2722,14 @@
 * ⭐ [The 3D suite Bforartists offers the full art pipeline to create your 3D graphics](https://www.bforartists.de/)
 * [Blender Artists Community](http://blenderartists.org/forum/)
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
-* 🎬 [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+* 📺 [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
 * [FBX Bundle add-on for Blender that is meant to simplify the process of batch exporting FBX files for Unity](http://renderhjs.net/fbxbundle/)
 
 #### [Software] - [Blender] - [Oficial]
 
 * [ES/Main Page - BlenderWiki](https://wiki.blender.org/index.php/ES/Main_Page)
 * [Blender Reference Manual — Blender Manual](https://docs.blender.org/manual/en/dev/)
-* 🎬 [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
+* 📺 [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
 
 ### [Software] - [Cloud]
 
@@ -2794,26 +2794,28 @@
 
 #### [Software] - [Image] - [Gimp]
 
-* [11 webs y canales de Youtube para aprender GIMP desde 0 hasta nivel experto](http://www.genbeta.com/web/11-webs-y-canales-de-youtube-para-aprender-gimp-desde-0-hasta-nivel-experto)
+* [GIMP - The GNU Image Manipulation Program](https://www.gimp.org/)
+* [GIMP - Tutorials](https://www.gimp.org/tutorials/)
 * [5 Great GIMP Plugins for Designers](http://www.sitepoint.com/5-great-gimp-plugins-for-designers/)
-* 🎬 [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
-* 🎬 [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
-* [G'MIC - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing](http://gmic.eu/download.shtml)
-* [GIMP - The GNU Image Manipulation Program](http://www.gimp.org/)
-* 🎬 [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
-* [GIMP, aplicaciones didácticas - Índice](http://www.ite.educacion.es/formacion/materiales/86/cd/indice.htm)
+* [G'MIC - GREYC's Magic for Image Computing: A Full-Featured Open-Source Framework for Image Processing](https://gmic.eu/)
 * [PIXLS.US Blog - G'MIC 1.7.1](https://pixls.us/blog/2016/05/g-mic-1-7-1/)
-* [Programa de manipulación de imágenes de GNU](https://docs.gimp.org/2.8/es/)
+* [Gimp plugin for rescaling images with Pixel Art Scaler algorithms such as hqx, xbr and scalex](https://github.com/bbbbbr/gimp-plugin-pixel-art-scalers)
+* 🇪🇸 [Colección de Tutoriales de Diseño Gráfico con Gimp](https://www.jesusda.com/docs/tutoriales-gimp/)
+* 🇪🇸📺 [Curso Básico de Gimp - YouTube](https://www.youtube.com/playlist?list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* 🇪🇸📺 [Curso básico de Gimp -Intro- - YouTube](https://www.youtube.com/watch?v=cUadf171JnA&list=PLug2BNqcHKuKXzAI8ypuFO7wlGLNVov3p)
+* 🇪🇸📺 [Gimp en Windows 8 Curso completo - YouTube](https://www.youtube.com/playlist?list=PLmJE_P_j3_IdHj3cDRnbMhRKrX8Rx7RJR)
+* 🇪🇸📺 [MOOC UMA Creación y retoque de imágenes con software libre](https://www.youtube.com/playlist?list=PLe3hFIBgZcxxusNVL1IgyDr9DDu4LST1b)
+* 🇪🇸 [GIMP, aplicaciones didácticas - Índice](http://www.ite.educacion.es/formacion/materiales/86/cd/indice.htm)
+* 🇪🇸 [Programa de manipulación de imágenes de GNU](https://docs.gimp.org/2.8/es/)
 
 #### [Software] - [Image] - [Inkscape]
 
+* [Inkscape is a professional vector graphics editor for Linux, Windows and macOS. It's free and open source](https://inkscape.org/)
+* 🇪🇸 [Inkscape - Tutoriales](https://inkscape.org/es/aprende/tutoriales/)
 * [ChristianBecker/inkscape-android-export: This Inkscape extension exports all selected items in different densities. The exported PNGs will be named by their ID in the SVG.](https://github.com/ChristianBecker/inkscape-android-export)
-* [Recursos para aprender a trabajar con Inkscape - Desde Linux](http://blog.desdelinux.net/recursos-para-aprender-a-trabajar-con-inkscape/)
-* [Inkscape. Dibuja Libremente.](https://inkscape.org/es/)
 
 #### [Software] - [Image] - [Animation]
 
-* [Tupí: Software de Animación 2D para Linux | Noticias, tira, podcast, juegos, Linux y software libre](http://www.linuxhispano.net/2013/09/17/tupi-software-de-animacion-2d-para-linux/)
 * [Synfig Studio :: Home](https://www.synfig.org/)
 * [Pencil2D is an animation/drawing software for Mac OS X, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source.](https://github.com/pencil2d/pencil)
 
