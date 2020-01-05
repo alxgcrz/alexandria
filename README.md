@@ -1,12 +1,8 @@
 # __Alexandria__
 
-![Bookstore](images/book.png)
-
-----
-
 ## [Programming]
 
-* 🇪🇸⭐ [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
+* 🇪🇸⭐⭐ [97 cosas que todo programador debería saber](http://97cosas.com/programador/)
 * 🇪🇸⭐ [El Tao de la Programación](https://www.variablenotfound.com/2011/10/el-tao-de-la-programacion.html)
 * ⭐ [The Clean Code Blog](http://blog.cleancoder.com/)
 * [How to think like a programmer](https://zellwk.com/blog/think/)
@@ -32,6 +28,7 @@
 * ⭐ [Zeal - offline API documentation browser](https://zealdocs.org/)
 * ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
 * ⭐ [searchcode | source code search engine](https://searchcode.com/)
+* ⭐ [Collecting All Cheat Sheets](http://overapi.com/)
 * [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [Pointers to useful, well-written, and otherwise beautiful documentation](https://github.com/PharkMillups/beautiful-docs)
 * ⭐ [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
@@ -109,7 +106,7 @@
 * [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
 * [Facebook - Open Source](https://opensource.facebook.com/)
 * [Home | Oracle Developers](https://developer.oracle.com/)
-* [IBM developerWorks : IBM's resource for developers and IT professionals](https://www.ibm.com/developerworks/)
+* [IBM developerWorks : IBM's resource for developers and IT professionals](https://developer.ibm.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/es/)
 * [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
 * [Software Intel®](https://software.intel.com/es-es)
@@ -121,37 +118,30 @@
 
 #### [Programming] - [Official] - [Microsoft]
 
-* [.NET](https://www.microsoft.com/net)
-* [Aprender a desarrollar con Microsoft Developer Network | MSDN](https://msdn.microsoft.com/es-es)
-* [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
-* [Chocolatey - The package manager for Windows](https://chocolatey.org/)
-* [Documentación técnica, API y ejemplos de código | Microsoft Docs](https://docs.microsoft.com/es-es/)
-* [Documentación y tutoriales de introducción | Visual Studio](https://www.visualstudio.com/es/vs/getting-started/)
-* [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
-* [Learn about the Windows Subsystem for Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
-* [NuGet Gallery | Home](https://www.nuget.org/)
+* 🇪🇸🔸 [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
+* 🇪🇸 [Microsoft Docs](https://docs.microsoft.com/es-es/)
+* ⭐ [Chocolatey - The package manager for Windows](https://chocolatey.org/)
+* 🇪🇸 [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
+* 🇪🇸 [Documentación del subsistema de Windows para Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
+* [.NET](https://dotnet.microsoft.com/)
+* [Create .NET apps faster with NuGet](https://www.nuget.org/)
 * ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
 
 #### [Programming] - [Official] - [Google]
 
-* [Google Trends](https://trends.google.com/trends/)
+* 🔸 [Google Developers](https://developers.google.com/)
+* [Google Web Fundamentals](https://developers.google.com/web)
+* [Google Open Source – opensource.google.com](https://opensource.google/)
 * [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
-* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
-* [The Mobile Playbook](http://www.themobileplaybook.com/es-latam/)
 * [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
+* [Google Trends](https://trends.google.com/trends/)
+* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
 * [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
-* [Home — Google Web Fundamentals](https://developers.google.com/web/fundamentals/)
-* [Sitio web oficial de Google Analytics: Analítica web e informes – Google Analytics](http://www.google.es/intl/es/analytics/)
-* [Chrome Experiments](https://www.chromeexperiments.com/)
-* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud  |  Google Cloud Platform](https://cloud.google.com/)
-* [Google Open Source – opensource.google.com](https://opensource.google.com/)
-* [AdMob](https://apps.admob.com/v2/home?pli=1)
-* [GCP products described in 4 words or less – Google Cloud Platform — Community – Medium](https://medium.com/google-cloud/gcp-products-described-in-4-words-or-less-f3056550e595)
-* [All Community Tutorials  |  Google Cloud Platform Community  |  Google Cloud Platform](https://cloud.google.com/community/tutorials/)
-* [Guía de optimización en buscadores (SEO) para principiantes - Ayuda de Search Console](https://support.google.com/webmasters/answer/7451184)
-* [Google Arts & Culture](https://www.google.com/culturalinstitute/beta/)
+* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud](https://cloud.google.com/)
+* [GCP products described in 4 words or less – Google Cloud Platform](https://github.com/gregsramblings/google-cloud-4-words)
+* [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
+* [Google Arts & Culture](https://artsandculture.google.com/)
 * [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
-* [Google Developers](https://developers.google.com/)
 * [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
 
 ### [Programming] - [Style Guide]
@@ -517,11 +507,11 @@
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
 * [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.dev/)
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
-* 📝 [Angular in depth](https://blog.angularindepth.com/)
+* 📰 [Angular in depth](https://blog.angularindepth.com/)
 * [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
 * [Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications](https://github.com/mgechev/angular-performance-checklist)
 * [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
-* 👍 [Angular Material - Material Design components for Angular](https://material.angular.io/)
+* ⭐ [Angular Material - Material Design components for Angular](https://material.angular.io/)
 * [PrimeNG - The Most Complete User Interface Suite for Angular](https://www.primefaces.org/primeng/#/)
 * 🇪🇸 [Recursos, tutoriales y artículos para aprender Angular en español](https://github.com/Frostqui/angular-espanol)
 * [Scully is a static site generator for Angular projects](https://github.com/scullyio/scully)
@@ -592,6 +582,7 @@
 * 🎓 [CSS selectors cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
 * [CSS Layout – A collection of popular CSS layouts and patterns](https://csslayout.io/)
 * 🇪🇸🎓 [CSS - Mozilla](https://developer.mozilla.org/es/docs/Web/CSS)
+* 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
 
 ### [Programming] - [Dart]
 
@@ -715,10 +706,10 @@
   * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
 * [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
 * [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
-* 👉 [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
-* ⭐🏅 [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
+* ⭐ [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
+* ⭐⭐ [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
 * [Ideone is an online compiler and debugging tool](http://ideone.com/)
-* ⭐💻 [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
+* ⭐⭐ [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
 * [Weld is the reference implementation of CDI: Contexts and Dependency Injection for the Java EE Platform](http://weld.cdi-spec.org/)
 * [Containerizing Apps with jlink](https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink)
 * [Get Started with Java](https://www.baeldung.com/get-started-with-java-series)
@@ -760,7 +751,7 @@
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 * [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
 * [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
-* 👌 [Flogger - A Fluent Logging API for Java by Google](https://github.com/google/flogger)
+* ⭐ [Flogger - A Fluent Logging API for Java by Google](https://github.com/google/flogger)
 * [The Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction for various logging frameworks](https://www.slf4j.org/manual.html)
 * [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
 * [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
@@ -891,10 +882,10 @@
 * [CoffeeScript is a little language that compiles into JavaScript](https://coffeescript.org/)
 * [Closure Tools — The Closure Compiler, Library, Templates, and Stylesheets help developers create powerful and efficient JavaScript](https://developers.google.com/closure/)
 * [CreateJS | A suite of Javascript libraries and tools designed for working with HTML5](https://createjs.com/)
-* 👌 [Mozilla Hacks](https://hacks.mozilla.org/category/javascript/)
+* ⭐⭐ [Mozilla Hacks](https://hacks.mozilla.org/category/javascript/)
 * 📕 [JavaScript para el desarrollo de videojuegos](https://mozdevs.github.io/js-for-gamedev/es/)
 * [Javascript Crypto Library - The Javascript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions](https://www.clipperz.com/open_source/javascript_crypto_library/)
-* 👉 [JavaScripting.com - The Database of JavaScript Libraries](https://www.javascripting.com/)
+* ⭐ [JavaScripting.com - The Database of JavaScript Libraries](https://www.javascripting.com/)
 * [Knockout is a JavaScript library that helps you to create rich, responsive display and editor user interfaces with a clean underlying data model](https://knockoutjs.com/)
 * [RequireJS is a JavaScript file and module loader](https://requirejs.org/)
 * [Socket.IO enables real-time, bidirectional and event-based communication](https://socket.io/)
@@ -909,7 +900,7 @@
 * [favico.js - Make a use of your favicon](http://lab.ejci.net/favico.js/)
 * [ccampbell/mousetrap - Mousetrap is a simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
-* 👌 [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
+* ⭐ [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
 
 ### [Programming] - [Kotlin]
 
@@ -928,7 +919,7 @@
 * [Kotlin Development](https://www.kotlindevelopment.com/)
 * [Kotlin by Example](http://kotlinbyexample.org/)
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
-* 💡 [Kotlin coding puzzle and solutions](https://github.com/igorwojda/kotlin-coding-puzzle)
+* ⭐ [Kotlin coding puzzle and solutions](https://github.com/igorwojda/kotlin-coding-puzzle)
 
 #### [Programming] - [Kotlin] - [Samples]
 
@@ -1012,7 +1003,7 @@
 * [Sails.js - Sails makes it easy to build custom, enterprise-grade Node.js apps](https://sailsjs.com/)
 * [Express is a minimal and flexible Node.js web application framework](https://expressjs.com/)
 * [Koa is a new web framework designed by the team behind Express](https://koajs.com/)
-* 👍 [NodeCloud is a resource directory gathering sites related to Node.js](http://www.nodecloud.org/)
+* ⭐ [NodeCloud is a resource directory gathering sites related to Node.js](http://www.nodecloud.org/)
 * [hapi.js - A rich framework for building applications and services](https://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](https://www.electrode.io/)
 
@@ -1104,7 +1095,7 @@
 * [HNPWA - Hacker News readers as Progressive Web Apps](https://hnpwa.com/)
 * [Introduction to progressive web apps - App Center | MDN](https://developer.mozilla.org/en-US/Apps/Progressive/Introduction)
 * 📺 [PWA Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
-* 🐙 [Github - PWA](https://github.com/topics/pwa)
+* ⭐ [Github - PWA](https://github.com/topics/pwa)
 * [Build Amazing Native Apps and Progressive Web Apps with Ionic Framework and Angular](https://ionicframework.com/)
 * [Capacitor - The Native Bridge for Cross-Platform Web Apps](https://capacitor.ionicframework.com/)
 
@@ -1193,10 +1184,10 @@
 
 ### [Programming] - [Web]
 
-* 🐙 [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
-* 🎓👌 [Let's build the future of the web](https://web.dev/)
-* 👉 [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
-* 👉 [MDN web docs - Mozilla](https://developer.mozilla.org/en-US/)
+* ⭐ [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
+* ⭐🎓 [Let's build the future of the web](https://web.dev/)
+* ⭐ [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
+* ⭐ [MDN web docs - Mozilla](https://developer.mozilla.org/en-US/)
 * [Yarn - Fast, reliable and secure dependency management](https://yarnpkg.com/lang/en/)
 * [Bower: A package manager for the web](https://bower.io/)
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
@@ -1218,7 +1209,7 @@
 * 🧰 [Web App Manifest Generator](https://tomitm.github.io/appmanifest/)
 * 🧰 [HEY META - Website Meta Tag Check](http://www.heymeta.com/)
 * 🧰 [Responsinator helps website makers quickly get an indication of how their responsive site.](http://www.responsinator.com/)
-* 🧰👍 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
+* ⭐🧰 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
 * 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
 
@@ -1250,7 +1241,7 @@
 * [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
 * [mini.css - Minimal, responsive, style-agnostic CSS framework](https://minicss.org/)
 * [Milligram - A minimalist CSS framework.](https://milligram.io/)
-* 👌 [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
+* ⭐⭐ [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
 * [PaperCSS · the less formal CSS framework](https://www.getpapercss.com/)
 * [Picnic CSS - Lightweight and beautiful library](https://picnicss.com/)
 * [Kube UI Framework - Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike](https://imperavi.com/kube/)
@@ -1260,7 +1251,7 @@
 * [Blaze - Open Source Modular UI Toolkit](https://www.blazeui.com/)
 * [Concise.CSS / A better front-end framework.](https://concisecss.com/)
 * [Flexbox Patterns - Build awesome user interfaces with CSS flexbox](https://www.flexboxpatterns.com/)
-* 👉 [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
+* ⭐ [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
 * [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/)
 * [Terminal CSS - A modern and minimal CSS framework for terminal lovers](https://terminalcss.xyz/)
 * [Fomantic-UI - A community fork of Semantic-UI](https://fomantic-ui.com/)
@@ -2034,7 +2025,7 @@
 * [Unity Machine Learning Agents Toolkit](https://github.com/Unity-Technologies/ml-agents)
 * [Crea juegos con Google](https://developers.google.com/games/)
 * [Google Play Games Services](https://developers.google.com/games/services/)
-* ☕ [Google Cloud Blog: Firebase Unity Solutions](https://cloud.google.com/blog/products/gaming/firebase-unity-solutions-update-game-behavior-without-deploying-with-remote-config)
+* ⭐ [Google Cloud Blog: Firebase Unity Solutions](https://cloud.google.com/blog/products/gaming/firebase-unity-solutions-update-game-behavior-without-deploying-with-remote-config)
 * [Firebase Unity Solutions - Github](https://github.com/firebase/unity-solutions)
 * [Página de Firebase](https://firebase.google.com/games/?hl=es-419)
 * [Compilar juegos Unity con Visual Studio](https://www.visualstudio.com/es/vs/unity-tools/)
@@ -2237,7 +2228,7 @@
 
 ## [Design]
 
-* ⭐🔝 [amp-what](http://www.amp-what.com/unicode/search/)
+* ⭐⭐ [amp-what](http://www.amp-what.com/unicode/search/)
 * ⭐ [Glyphy- Copy & paste glyphs with ease](https://www.glyphy.io/)
 * ⭐ [Emojipedia](https://emojipedia.org/)
 
@@ -2264,8 +2255,8 @@
 
 #### [Design] - [Resources] - [Images]
 
-* ⭐ 🧰 [Squoosh](https://squoosh.app/)
-* ⭐ 🧰 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
+* ⭐🧰 [Squoosh](https://squoosh.app/)
+* ⭐🧰 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
 * 🧰 [Lorem Ipsum... but for photos](https://picsum.photos/)
 * 🧰 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
 * 🧰 [Compress.io](https://compressor.io/)
@@ -2407,13 +2398,13 @@
 
 #### [Design] - [Resources] - [Fonts] - [Catalogue]
 
-* ⭐ [Google Fonts](https://fonts.google.com/)
+* ⭐⭐ [Google Fonts](https://fonts.google.com/)
 * ⭐ [GooFonts - A Google Font tagged repository](https://goofonts.com/)
 * [Font Library | An open source project to tag and organize Google Fonts](https://katydecorah.com/font-library/#!/)
 * [1001 Fonts · Free Fonts Baby!](https://www.1001fonts.com/)
 * [Abstract Fonts (13,731 free fonts)](http://www.abstractfonts.com/)
 * [Adobe® Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)
-* ⌨️ [chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
+* ⭐ [Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
 * ⭐ [DaFont - Descargar fuentes](https://www.dafont.com/es/)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Urban Fonts](https://www.urbanfonts.com/)
@@ -2428,25 +2419,25 @@
 * [Kreativ – Curated typography and fonts](https://www.kreativfont.com/freebies)
 * [OpenFoundry](https://open-foundry.com/fonts)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
-* ⌨️ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
+* ⭐ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
 * [Inspirational font combinations and color palettes](https://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
-* 🥇 [Programming Fonts](https://app.programmingfonts.org/)
-* ⭐⌨️ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
-* ⌨️ [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
-* ⌨️ [IBM Plex®](https://www.ibm.com/plex/)
-* ⌨️ [Monoid](https://larsenwork.com/monoid/)
+* ⭐⭐⭐ [Programming Fonts](https://app.programmingfonts.org/)
+* ⭐⭐ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* [IBM Plex®](https://www.ibm.com/plex/)
+* [Monoid](https://larsenwork.com/monoid/)
 * [Overpass Web Font](http://overpassfont.org/)
-* ⌨️ [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
-* ⌨️ [Space Mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
-* ⌨️ [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* ⌨️ [IBM 3270 is based on the font used in IBM 3270 terminal](https://github.com/rbanffy/3270font)
-* ⌨️ [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* [Space Mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
+* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [IBM 3270 is based on the font used in IBM 3270 terminal](https://github.com/rbanffy/3270font)
+* [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 * [The Inter UI font family](https://rsms.me/inter/)
-* ⌨️ [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
+* [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
 
 #### [Design] - [Resources] - [Icons]
 
@@ -2963,12 +2954,12 @@
 * 👓 [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
 * ⭐🎓 [Digital Ocean - Find all the resources you need to go from development to production](https://www.digitalocean.com/community)
 * 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
-* 👽 [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
+* [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
 * [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
 * ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
-* 📝 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
+* 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
 
 ### [Linux] - [Command-line]
 
@@ -2989,7 +2980,7 @@
 
 ### [Linux] - [Monitoring]
 
-* 👽 [firehol/netdata - Real-time performance monitoring, done right!](https://github.com/firehol/netdata)
+* [firehol/netdata - Real-time performance monitoring, done right!](https://github.com/firehol/netdata)
 * [firehol/netdata - Wiki](https://github.com/firehol/netdata/wiki)
 * [Chef - Automate IT Infrastructure | Chef](https://www.chef.io/chef/)
 * [Ansible - Ansible Documentation](https://docs.ansible.com/ansible/latest/index.html)
@@ -3010,9 +3001,24 @@
 * [uApp Explorer is the unofficial viewer for snaps and Ubuntu Touch apps.](https://uappexplorer.com/snaps)
 * [Welcome to Flathub, the home of hundreds of apps which can be easily installed on any Linux distribution.](https://flathub.org/home)
 * [Ubuntu Make is a command line tool which allows you to download the latest version of popular developer tools](https://wiki.ubuntu.com/ubuntu-make)
-* 📝 [Todo sobre Ubuntu - Ubunlog](http://ubunlog.com/)
+* 📰 [Todo sobre Ubuntu - Ubunlog](http://ubunlog.com/)
 * [The Log File Navigator - An advanced log file viewer for the small-scale](http://lnav.org/)
 * [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
-* 👽 [KittyKatt/screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
-* 🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
+* [screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
+* 🇪🇸🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
 * [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
+
+----
+
+🔸 - Official  
+⭐ - Interesting link  
+⭐⭐ - Very, very interesting link  
+⭐⭐⭐ - Only for essential links  
+👓 - Awesome list  
+🧰 - Tool or similar  
+📺 - Video, Youtube playlist or similar  
+📕 - Book  
+🎓 - Learning resource  
+📰 - Community, blog or similar
+📑 - Cheatsheet  
+🇪🇸 - Spanish link  
