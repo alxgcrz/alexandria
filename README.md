@@ -593,6 +593,7 @@
 * [CSS3 Generator](http://css3generator.com/)
 * [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.y2i5i8xwc)
+* [Flexbox Ninja - Flexbox Case Studies](https://flexbox.ninja/)
 * [Tridiv | CSS 3D Editor](http://tridiv.com/)
 * [The Ultimate CSS3 Generator | Web Code Tools](https://webcode.tools/css-generator)
 * [CSS Ruler • Explore CSS lengths](https://katydecorah.com/css-ruler/)
@@ -1190,6 +1191,7 @@
 * [Vuetify.js - Material Design Component Framework](https://vuetifyjs.com/en/)
 * 👓 [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
+* [Nuxt.js - The Progressive Vue.js Framework](https://nuxtjs.org/)
 
 ### [Programming] - [Web]
 
@@ -1222,7 +1224,7 @@
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
 * 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
 
-#### [Programming] - [Web] - [Front-End]
+#### [Programming] - [Web] - [CSS Frameworks]
 
 * [U.S. Web Design System.](https://v2.designsystem.digital.gov/documentation/)
 * [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/#/)
@@ -1262,6 +1264,13 @@
 * [Flexbox Patterns - Build awesome user interfaces with CSS flexbox](https://www.flexboxpatterns.com/)
 * 👉 [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
 * [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/)
+* [Terminal CSS - A modern and minimal CSS framework for terminal lovers](https://terminalcss.xyz/)
+* [Fomantic-UI - A community fork of Semantic-UI](https://fomantic-ui.com/)
+* [Raster Simple Grid System](https://rsms.me/raster/)
+* [Butter Cake is a free, open source modular responsive front-end CSS framework based on Flexbox](https://getbuttercake.com/)
+* [Destyle.css - Opinionated reset stylesheet that provides a clean slate for styling your html](https://nicolas-cusan.github.io/destyle.css/)
+* [css-fx-layout - A lightweight SCSS/CSS only flexbox library inspired by Angular's flex-layout](https://github.com/philmtd/css-fx-layout)
+* [TypeSafe CSS](https://uglyduck.ca/typesafe-css/)
 
 #### [Programming] - [Web] - [Bootstrap]
 
@@ -1310,6 +1319,7 @@
 * [OriDomi - origami for the web](http://oridomi.com/#)
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 * 🎓 [Learn Animation | kirupa.com](http://www.kirupa.com/html5/learn_animation.htm)
+* [CSSeffectsSnippets. – A collection of handy CSS animations that you can copy and paste](https://emilkowalski.github.io/css-effects-snippets/)
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Audio]
 
@@ -1421,6 +1431,7 @@
 * [Trianglify by @qrohlf](http://qrohlf.com/trianglify/)
 * [Usage Examples | MaxImage 2.0](http://www.aaronvanderzwan.com/maximage/)
 * [Vegas Background jQuery Plugin](http://vegas.jaysalvat.com/)
+* [Izmir Hover Effects - A mini CSS library for quickly creating beautifully animated image hover elements](https://ciar4n.com/izmir/)
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Menu]
 
@@ -2391,47 +2402,52 @@
 * 🧰 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
 * 🧰 [Identifont - Tools](http://www.identifont.com/tools.html)
 * 🧰 [Type Scale - A Visual Calculator](http://type-scale.com/)
-* [1001 Fonts · Free Fonts Baby!](http://www.1001fonts.com/)
-* [21,471 free fonts for Windows and Mac - FontSpace](http://www.fontspace.com/)
-* [A More Modern Scale for Web Typography | Design in the browser with web fonts and real content — Typecast](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
-* [A Pocket Guide to Master Every Day’s Typographic Adventures](http://www.typogui.de/)
+* [The Essential Guide to @font-face](https://www.webpagefx.com/blog/web-design/font-face-guide/)
+* [Understanding Web Fonts and Getting the Most Out of Them](https://css-tricks.com/understanding-web-fonts-getting/)
+* ⭐ [Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com/#home)
+
+#### [Design] - [Resources] - [Fonts] - [Catalogue]
+
+* ⭐ [Google Fonts](https://fonts.google.com/)
+* ⭐ [GooFonts - A Google Font tagged repository](https://goofonts.com/)
+* [Font Library | An open source project to tag and organize Google Fonts](https://katydecorah.com/font-library/#!/)
+* [1001 Fonts · Free Fonts Baby!](https://www.1001fonts.com/)
 * [Abstract Fonts (13,731 free fonts)](http://www.abstractfonts.com/)
 * [Adobe® Edge Web Fonts](https://edgewebfonts.adobe.com/fonts)
-* [chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
-* [DaFont - Descargar fuentes](https://www.dafont.com/es/)
-* [Download Free Fonts - Urban Fonts](https://www.urbanfonts.com/)
-* [Download Free Fonts for Mac, Android, Windows | Font Cubes](http://www.fontcubes.com/)
-* [FondFont - Download the best free fonts and web fonts](https://fondfont.com/)
-* [Font catalogue. Brick.](http://brick.im/fonts/)
-* [Font Library | An open source project to tag and organize Google Fonts.](https://katydecorah.com/font-library/#!/)
-* [FontCDN: A search tool for Google web fonts](https://fontcdn.org/)
-* [Fontfabric™](http://www.fontfabric.com/)
+* ⌨️ [chrissimpkins/codeface: Typefaces for source code beautification](https://github.com/chrissimpkins/codeface)
+* ⭐ [DaFont - Descargar fuentes](https://www.dafont.com/es/)
+* [Font Squirrel](https://www.fontsquirrel.com/)
+* [Urban Fonts](https://www.urbanfonts.com/)
+* [Font Cubes](http://www.fontcubes.com/)
+* [FondFont](https://fondfont.com/)
+* [Brick - Font catalogue](http://brick.im/fonts/)
+* [FontCDN: A search tool for Google web fonts](https://thomaspark.co/projects/fontcdn/)
 * [FontRiver: Downloadable fonts and dingbats for Windows and Mac](http://www.fontriver.com/)
 * [FREE Fonts To Download - Thousands of fonts to download free for windows and mac](https://fontzone.net/)
 * [Free Fonts, Cool Fonts, Tattoo fonts - Fontm.com](http://fontm.com/)
-* [Free Fonts! Legit Free & Quality » Font Squirrel](https://www.fontsquirrel.com/)
 * [Font collection](http://www.fontreactor.com/)
-* [Google Fonts](https://fonts.google.com/)
-* [Hack | A typeface designed for source code](http://sourcefoundry.org/hack/)
-* [IBM Type](https://ibm.github.io/type/)
-* [KREATIV – Curated typography and fonts](https://www.kreativfont.com/)veloz murciélago
-* [Monoid](http://larsenwork.com/monoid/)
-* [Nofont.com](http://www.nofont.com/typefaces/open-source-serif-fonts-for-body-text)
-* [OpenFoundry / Hot 30](http://open-foundry.com/hot30)
-* [Overpass Web Font](http://overpassfont.org/)
-* [The Essential Guide to @font-face](https://www.webpagefx.com/blog/web-design/font-face-guide/)
+* [Kreativ – Curated typography and fonts](https://www.kreativfont.com/freebies)
+* [OpenFoundry](https://open-foundry.com/fonts)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
-* [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
-* [TipoType](http://tipotype.com/)
-* ⭐ [tonsky/FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
-* [typespiration.com - treating typography with respect — treating typography with respect](http://typespiration.com/)
+* ⌨️ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
+* [Inspirational font combinations and color palettes](https://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
-* [11 Best Programming Fonts - Medium - 2018](https://itnext.io/11-best-programming-fonts-724283a9ed57)
-* [Segmented Fonts](https://aresluna.org/segmented-type/)
-* [The Inter UI font family](https://rsms.me/inter/)
+
+#### [Design] - [Resources] - [Fonts] - [Single]
+
 * 🥇 [Programming Fonts](https://app.programmingfonts.org/)
-* [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
-* ⭐ [Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com/#home)
+* ⭐⌨️ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* ⌨️ [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* ⌨️ [IBM Plex®](https://www.ibm.com/plex/)
+* ⌨️ [Monoid](https://larsenwork.com/monoid/)
+* [Overpass Web Font](http://overpassfont.org/)
+* ⌨️ [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* ⌨️ [Space Mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
+* ⌨️ [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* ⌨️ [IBM 3270 is based on the font used in IBM 3270 terminal](https://github.com/rbanffy/3270font)
+* ⌨️ [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
+* [The Inter UI font family](https://rsms.me/inter/)
+* ⌨️ [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
 
 #### [Design] - [Resources] - [Icons]
 
