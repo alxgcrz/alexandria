@@ -1773,15 +1773,12 @@
 
 ## [Games]
 
-### [Games] - [Comunidad]
+### [Games] - [Community]
 
 * [HTML5 Game Devs](https://www.html5gamedevs.com/)
 * [Gamasutra - The Art & Business of Making Games](https://www.gamasutra.com/)
-* [Game Dev Underground - Level Up your Games](http://gdu.io/)
-* [GameDev.net](https://www.gamedev.net/page/index.html)
-* [Slide DB](http://www.slidedb.com/)
-* [ZEHNGAMES](http://www.zehngames.com/)
-* [Cartrdge - The community for people making video games](https://cartrdge.com/)
+* [Game Dev Underground - Level Up your Games](https://gdu.io/)
+* [GameDev.net](https://www.gamedev.net/)
 * [TIGSource](https://www.tigsource.com/)
 * [IndieDB](http://www.indiedb.com/)
 * [Ludum Dare](https://ldjam.com/)
@@ -1794,20 +1791,8 @@
 
 #### [Games] - [Publishing] - [Publishers]
 
-* [DevolverDigital](http://www.devolverdigital.com/games/page/)
-* [PlayDigious](https://playdigious.com/)
-* [Snow Cannon Games](http://www.snowcannongames.com/)
 * [Game Publishers (Twitter List)](https://twitter.com/GameDevMasters/lists/game-publishers/members)
-* [Movyl](http://movyl.co)
-* [Phoenix Online Publishing](http://www.postudios.com/company/)
 * [Zerouno Games](http://www.elzerouno.com/publisher/)
-* [Team17](https://www.team17.com/)
-* [Rovio](http://www.rovio.com/developers)
-
-#### [Games] - [Publishing] - [Marketing]
-
-* [Tappx](https://www.tappx.com/es/)
-* [Cómo presentar vuestro juego a un publisher](http://www.marketingdevideojuegos.com/como-presentar-vuestro-juego-a-un-publisher/)
 
 #### [Games] - [Institucional]
 
@@ -1821,24 +1806,19 @@
 
 * ⭐ [Pixel Prospector](http://www.pixelprospector.com/)
 * [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
-* [How To Create A Press Kit For Games And Apps (Plus Press Kit Examples)](http://gamedevelopertips.com/create-press-kit-plus-press-kit-examples/)
-* [No tengo tiempo libre, estoy haciendo videojuegos»: la solitaria travesía del desarrollador indie](https://www.xataka.com/videojuegos/no-tengo-tiempo-libre-estoy-haciendo-videojuegos-la-solitaria-travesia-del-desarrollador-indie)
+* [GameDevelopersTips](http://gamedevelopertips.com/)
 * [Progressive Web Games](https://hacks.mozilla.org/2018/05/progressive-web-games/)
-* [PacktHub - Game Development](https://hub.packtpub.com/category/game-development/)
+* [PacktHub - Game Development News](https://hub.packtpub.com/category/game-development/)
 * [So, You Wanna Be a Game Designer?](http://wannabe.urustar.net/)
-* [Cosas interactivas y cómo empezar a hacerlas](http://ludipe.tumblr.com/sergamedev)
-
-#### [Games] - [Learn] - [Formación]
-
-* [Curso de Experto en Desarrollo de Videojuegos](http://www.cedv.es/)
-* [IHMAN 3D School](http://ihman3dschool.com/)
+* 🇪🇸 [Cosas interactivas y cómo empezar a hacerlas](http://ludipe.tumblr.com/sergamedev)
 
 #### [Games] - [Learn] - [Books]
 
-* [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
-* [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
-* [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
-* [Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
+* 🇪🇸📕 [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
+* 📕 [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
+* 📕 [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/table-of-contents.html)
+* 📕 [Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
+* [Curso de Experto en Desarrollo de Videojuegos](http://cedv.uclm.es/#material)
 
 #### [Games] - [Learn] - [Mechanics]
 
@@ -1978,7 +1958,7 @@
 
 #### [Games] - [Engines] - [Godot Engine]
 
-* [Godot Engine](https://godotengine.org/)
+* 🔸 [Godot Engine](https://godotengine.org/)
 * [Godot Docs](http://docs.godotengine.org/en/stable/)
 * 👓 [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/Calinou/awesome-godot)
 * [Godot Engine - ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
@@ -1990,6 +1970,7 @@
 * [A dictionary for people moving from GM:S to Godot](https://github.com/coppolaemilio/gamemaker-godot-dictionary)
 * [Make games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
 * [Make games with Godot: Developer Edition](https://www.gdquest.com/docs/guides/learn-godot/developer/)
+* [GodotSteam - Steam API for the Godot game engine (version 3.0 - 3.1). For the Windows, Linux, and Mac platforms](https://github.com/Gramps/GodotSteam)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
