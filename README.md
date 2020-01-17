@@ -2419,6 +2419,7 @@
 * [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 * [The Inter UI font family](https://rsms.me/inter/)
 * [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
+* [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 
 #### [Design] - [Resources] - [Icons]
 
