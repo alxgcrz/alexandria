@@ -1906,6 +1906,7 @@
 
 * [Which HTML5 Game Engine is right for you?](https://html5gameengine.com/)
 * [Phaser](https://phaser.io/)
+  * [PhaserEditor - A friendly IDE to develop HTML5 games based on the Phaser framework](https://github.com/PhaserEditor2D/PhaserEditor)
 * [Stage.js - 2D JavaScript library for cross-platform HTML5 game development](http://piqnt.com/stage.js/)
 * [Turbulenz](http://biz.turbulenz.com/turbulenz)
 * [MelonJS](http://melonjs.org/)
@@ -2942,6 +2943,7 @@
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
 * ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
 * 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
+* [Ampache - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere](http://ampache.org/index.html)
 
 ### [Linux] - [Command-line]
 
