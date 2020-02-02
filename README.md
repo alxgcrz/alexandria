@@ -41,13 +41,17 @@
 * [CSV to JSON - CSVJSON](https://www.csvjson.com/csv2json)
 * [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
 * [JSON Editor Online - view, edit and format JSON online](https://jsoneditoronline.org/)
-* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
-* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
 * [Random User Generator - A free, open-source API for generating random user data](http://randomuser.me/)
 * [uinames.com is a simple tool to generate fake names](https://uinames.com/)
 * [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
 * [Various README templates & tips on writing high-quality documentation](https://github.com/kylelobo/The-Documentation-Compendium/)
+
+### [Programming] - [Utils] - [Regex]
+
+* [Online regex tester and debugger: JavaScript, Python, PHP, and PCRE](https://regex101.com/)
+* ⭐ [Learn, Build and Test RegEx](https://regexr.com/)
+* [iHateRegex](https://ihateregex.io/)
 
 ### [Programming] - [Awesomeness]
 
@@ -583,6 +587,10 @@
 * [CSS Layout – A collection of popular CSS layouts and patterns](https://csslayout.io/)
 * 🇪🇸🎓 [CSS - Mozilla](https://developer.mozilla.org/es/docs/Web/CSS)
 * 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
+
+### [Programming] - [C++]
+
+* 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
 
 ### [Programming] - [Dart]
 
@@ -1195,9 +1203,6 @@
 * [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
 * 🧰 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
 * 🧰 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
-* [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
-* [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
-* [Nightmare - A high-level browser automation library](https://www.nightmarejs.org/)
 * [muicss/loadjs: A tiny async loader / dependency manager for modern browsers](https://github.com/muicss/loadjs)
 * [Perf-tooling is a collection of powerful resources which will help you to improve your workflow and to deliver better and faster websites](http://www.perf-tooling.today/)
 * [Couscous! Put your documentation in a website!](http://couscous.io/)
@@ -1212,6 +1217,13 @@
 * ⭐🧰 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
 * 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
+
+### [Programming] - [Web] - [Automation]
+
+* [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
+* [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
+* [Nightmare - A high-level browser automation library](https://www.nightmarejs.org/)
+* [Node library to automate Chromium, Firefox and WebKit with a single API - Microsoft](https://github.com/microsoft/playwright)
 
 #### [Programming] - [Web] - [CSS Frameworks]
 
@@ -2133,6 +2145,7 @@
 * [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
 * 🧰 [Awesome Bump](http://awesomebump.besaba.com/about/)
 * 🧰 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
+* 🧰 [ArmorPaint is a stand-alone software designed for physically-based texture painting](https://armorpaint.org/index.html)
 
 #### [Games] - [Resources] - [Materials]
 
@@ -2857,6 +2870,7 @@
 * [Servicio de seguridad web, desenmascarame](http://desenmascara.me/)
 * [Routerpwn 1.10.151](http://www.routerpwn.com/)
 * [Enhanced Mitigation Experience Toolkit - EMET - TechNet Security](http://technet.microsoft.com/es-es/security/jj653751)
+* [Microsoft ha publicado en GitHub una herramienta de análisis de código](https://github.com/Microsoft/ApplicationInspector)
 
 #### [Security] - [Utils] - [BruteForcer]
 
@@ -2944,6 +2958,7 @@
 * ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
 * 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
 * [Ampache - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere](http://ampache.org/index.html)
+* ⭐ [FreeNAS is an operating system that can be installed on virtually any hardware platform to share data over a network](https://www.freenas.org/)
 
 ### [Linux] - [Command-line]
 
@@ -2956,6 +2971,7 @@
 * ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
 * 📕 [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 * [WTF - the terminal dashboard](https://wtfutil.com/)
+* [BusyBox - The Swiss Army Knife of Embedded Linux](https://busybox.net/downloads/BusyBox.html)
 
 ### [Linux] - [Shell Scripting]
 
@@ -2991,6 +3007,16 @@
 * [screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🇪🇸🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
 * [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
+
+----
+
+## [Raspberry]
+
+* 👓 [Awesome Raspberry](https://github.com/thibmaek/awesome-raspberry-pi)
+* [Raspberry - Official](https://www.raspberrypi.org/)
+* [Retropie - Official](https://retropie.org.uk/)
+* [DietPi is more than just a minimal image](https://dietpi.com/)
+* [Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console](http://www.lakka.tv/)
 
 ----
 
