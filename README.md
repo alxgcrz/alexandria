@@ -2707,9 +2707,15 @@
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
 * [ConEmu - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more](https://github.com/Maximus5/ConEmu)
 * [AutoHotkey - The ultimate automation scripting language for Windows](https://www.autohotkey.com/)
+* [MPC-HC is an extremely light-weight, open source media player for Windows](https://mpc-hc.org/)
+* [mpv is a free (as in freedom) media player for the command line](https://mpv.io/)
+* [MusicBrainz Picard is a cross-platform music tagger written in Python](https://picard.musicbrainz.org/)
 
 ### [Software] - [Blender]
 
+* 🔸 [ES/Main Page - BlenderWiki](https://wiki.blender.org/index.php/ES/Main_Page)
+* 🔸 [Blender Reference Manual — Blender Manual](https://docs.blender.org/manual/en/dev/)
+* 🔸📺 [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
 * [¿Nuevo en Blender? | Blenderizad@](https://blender3drecursos.wordpress.com/nuevo-en-blender/)
 * [Blend4Web - Three-Dimensional Solutions For Your Site](https://www.blend4web.com/en/)
 * [Blender: 3D en la Educación - Índice](http://www.ite.educacion.es/formacion/materiales/181/cd/indice.htm)
@@ -2726,12 +2732,6 @@
 * [CGMasters](https://cgmasters.net/category/free-tutorials/)
 * 📺 [Blender Fundamentals - Youtube](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
 * [FBX Bundle add-on for Blender that is meant to simplify the process of batch exporting FBX files for Unity](http://renderhjs.net/fbxbundle/)
-
-#### [Software] - [Blender] - [Oficial]
-
-* [ES/Main Page - BlenderWiki](https://wiki.blender.org/index.php/ES/Main_Page)
-* [Blender Reference Manual — Blender Manual](https://docs.blender.org/manual/en/dev/)
-* 📺 [Blender Foundation - YouTube](https://www.youtube.com/user/BlenderFoundation)
 
 ### [Software] - [Cloud]
 
@@ -2759,6 +2759,7 @@
 * [ScreenToGif - Screen, webcam and sketchboard recorder with an integrated editor](http://www.screentogif.com/)
 * [ShareX - Screen capture, file sharing and productivity tool](https://getsharex.com/)
 * [Gifski - Highest-quality GIF encoder based on pngquant](https://gif.ski/)
+* [Monosnap service is more than just a screenshot and video tool](https://monosnap.com/)
 
 ### [Software] - [Video]
 
@@ -2767,11 +2768,11 @@
 * [Shotcut - Home](https://www.shotcutapp.com/)
 * [Kdenlive | Libre Video Editor](https://kdenlive.org/)
 * [Lightworks: The professional editor for everyone](https://www.lwks.com/)
-* [Lightworks](http://www.lwks.com/)
+* [Cinelerra GG Infinity is a free and open source video editing software for Linux](https://www.cinelerra-gg.org/)
 * [appleseed - A modern, open source production renderer](http://appleseedhq.net/)
 * [FFmpeg Nvidia Cuda](https://developer.nvidia.com/ffmpeg)
 * [Axiom - FFmpeg GUI](https://axiomui.github.io/)
-* [XMedia Recode](https://www.videohelp.com/software/XMedia-Recode)
+* [XMedia Recode](https://www.xmedia-recode.de/en/index.php)
 * [OBS- Free and open source software for video recording and live streaming](https://obsproject.com/)
 * [VSDC](http://www.videosoftdev.com/free-video-editor)
 * [Natron - Cross-platform open-source compositing software.](https://natron.fr/)
@@ -2782,6 +2783,10 @@
 * [Mps-youtube, reproducir y descargar vídeos de Youtube desde la terminal](https://ubunlog.com/mps-youtube-videos-terminal/)
 * [Curlew Multimedia Converter, instalación desde PPA en Ubuntu](https://ubunlog.com/curlew-multimedia-converter-ubuntu/)
 * [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
+
+### [Software] - [Audio]
+
+* [Ardour is a professional digital workstation for working with audio and MIDI](https://ardour.org/)
 
 ### [Software] - [Image]
 
@@ -2860,6 +2865,7 @@
 * [La importancia del bastionado de servidores - Part I](https://www.securityartwork.es/2019/07/01/la-importancia-del-bastionado-de-servidores-parte-1-introduccion-y-tipos-de-infraestructura/)
 * [La importancia del bastionado de servidores - Part II](https://www.securityartwork.es/2019/07/04/la-importancia-del-bastionado-de-servidores-parte-2-bastionando-el-servidor/)
 * [La importancia del bastionado de servidores - Part III](https://www.securityartwork.es/2019/07/08/la-importancia-del-bastionado-de-servidores-parte-3-el-incidente/)
+* 🎓 [The Ultimate Kali Linux Manual and Course](https://kali.training/)
 
 ### [Security] - [Utils]
 
