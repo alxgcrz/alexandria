@@ -886,6 +886,7 @@
 ### [Programming] - [Javascript]
 
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
+* 📕 [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 * 👓 [sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [CoffeeScript is a little language that compiles into JavaScript](https://coffeescript.org/)
 * [Closure Tools — The Closure Compiler, Library, Templates, and Stylesheets help developers create powerful and efficient JavaScript](https://developers.google.com/closure/)
@@ -2309,6 +2310,12 @@
 * [Free SVG Illustrations](https://lukaszadam.com/illustrations)
 * [Free Vector Illustrations to Class up Your Project](https://icons8.com/ouch)
 
+#### [Design] - [Resources] - [Images] - [Museum]
+
+* [The Metropolitan Museum of Art - New York](https://www.metmuseum.org/art/collection/search)
+* [Smithsonian Open Access](https://www.si.edu/openaccess)
+* [The Art Institute of Chicago](https://www.artic.edu/collection)
+
 #### [Design] - [Resources] - [Colors]
 
 * 🧰 [Color Hex - ColorHexa.com](http://www.colorhexa.com/)
@@ -2481,6 +2488,7 @@
 * [VectorLogoZone](https://www.vectorlogo.zone/)
 * [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
+* [Minimalistic icon library designed by code](https://css.gg/)
 
 #### [Design] - [Resources] - [Mockups]
 
@@ -2978,6 +2986,7 @@
 * 📕 [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
 * [WTF - the terminal dashboard](https://wtfutil.com/)
 * [BusyBox - The Swiss Army Knife of Embedded Linux](https://busybox.net/downloads/BusyBox.html)
+* [Spotify for the terminal written in Rust](https://github.com/Rigellute/spotify-tui)
 
 ### [Linux] - [Shell Scripting]
 
