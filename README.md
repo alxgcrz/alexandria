@@ -11,6 +11,7 @@
 * [CodeProject - For those who code](http://www.codeproject.com/)
 * ⭐ [Google Codelabs](https://codelabs.developers.google.com/)
 * [Open Source Guides](https://opensource.guide/)
+* [Discover, Track and Compare Open Source](https://www.openhub.net/)
 * ⭐ [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [/r/learningprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq)
 * ⭐ [Curated lists and insight into burgeoning industries, topics, and communities](https://github.com/collections)
@@ -21,6 +22,7 @@
 * [The open source tools and SaaS behind popular tech companies](https://stackshare.io/stacks)
 * [This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers](https://github.com/ripienaar/free-for-dev)
 * [Rosetta Code - The idea is to present solutions to the same task in as many different languages as possible](http://www.rosettacode.org/wiki/Rosetta_Code)
+* ⭐ [Trending - See what the GitHub community is most excited about today](https://github.com/trending)
 
 ### [Programming] - [Utils]
 
@@ -71,9 +73,10 @@
 * [Codewars - Achieve mastery through challenge](https://www.codewars.com/)
 * ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
 * [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
-* [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
+* ⭐ [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
 * ⭐ [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
+* [codility for programers](https://app.codility.com/programmers/)
 
 ### [Programming] - [Courses]
 
@@ -727,6 +730,7 @@
 * [Tranquil Java (TJ) is a small and fast integrated development environment(IDE)](https://tjide.sourceforge.io/)
 * [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
 * [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
+* [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
 
 ### [Programming] - [Java] - [Blogs]
 
@@ -770,11 +774,14 @@
 * [Java in the Browser with TeaVM](https://blogs.oracle.com/javamagazine/java-in-the-browser-with-teavm)
 * [GWT is a development toolkit for building and optimizing complex browser-based applications](http://www.gwtproject.org/)
 * [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
+* [CheerpJ 2.0 released — now with WebAssembly support](https://medium.com/leaningtech/cheerpj-2-0-released-381f6d03e4e)
 * ⭐ [Vaadin - Build Progressive Web Apps in Java](https://vaadin.com/)
 * [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
 * [Manifold: A Preprocessor for Java](http://manifold.systems/)
 * [Reducing boilerplate code with Project Lombok](https://projectlombok.org/)
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
+* [Joda-Time provides a quality replacement for the Java date and time classes](https://www.joda.org/joda-time/)
+* [Strata is the award-winning open source analytics and market risk library from OpenGamma](https://strata.opengamma.io/)
 
 ##### [Programming] - [Java] - [Libraries] -  [Artificial Intelligence (AI)]
 
@@ -812,6 +819,7 @@
 * [JMH - Java Microbenchmark Harness](http://openjdk.java.net/projects/code-tools/jmh/)
   * [Getting Started](https://www.baeldung.com/java-microbenchmark-harness)
 * 👓 [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
+* ⭐ [Karate - Test Automation Made Simple](https://intuit.github.io/karate/)
 
 #### [Programming] - [Java] - [Web]
 
@@ -836,7 +844,7 @@
 
 #### [Programming] - [Java] - [Microservices]
 
-* 🎓 [ava Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
+* 🎓 [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
 * [Eclipse MicroProfile - Optimizing Enterprise Java for a Microservices Architecture](https://microprofile.io/)
 * [Helidon is a collection of Java libraries for writing microservices](https://helidon.io)
 * [Payara Micro is the open source, lightweight middleware platform of choice for containerized Java EE (Jakarta EE) microservices deployments](https://www.payara.fish/software/payara-server/payara-micro/)
@@ -844,7 +852,7 @@
 * [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
 * [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
 * [Cricket - Microservices Framework](https://cricketmsf.org/)
-* [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/1.3.5/docs/)
+* [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/en/latest/)
 * [Thorntail - Optimised for microservice architectures - Red Hat](https://thorntail.io/)
 
 #### [Programming] - [Java] - [JavaFX]
@@ -863,6 +871,9 @@
 * [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
 * [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
 * [SynchronizeFX is a library for JavaFX 2 and later that enables property bindings between different JVMs, both on a local computer and over the network](https://github.com/saxsys/SynchronizeFX)
+* [JavaFX Tip 32: Need Icons? Use Ikonli!](https://dlsc.com/2020/03/11/javafx-tip-32-need-icons-use-ikonli/)
+* [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
+* [Icon packs for Java applications](http://kordamp.org/ikonli/) - <https://github.com/kordamp/ikonli>
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -887,6 +898,7 @@
 
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
 * 📕 [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+* 📕 [The JavaScript Way](https://github.com/thejsway/thejsway)
 * 👓 [sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [CoffeeScript is a little language that compiles into JavaScript](https://coffeescript.org/)
 * [Closure Tools — The Closure Compiler, Library, Templates, and Stylesheets help developers create powerful and efficient JavaScript](https://developers.google.com/closure/)
@@ -2144,6 +2156,7 @@
 * [Wild Textures](http://www.wildtextures.com/)
 * [Tileable.co - High resolution, seamless, tileable textures](https://tileable.co/)
 * [TextureHaven - 100% Free Textures, for Everyone](https://texturehaven.com/)
+* [cgbookcase.com](https://www.cgbookcase.com/textures/)
 * 🧰 [Awesome Bump](http://awesomebump.besaba.com/about/)
 * 🧰 [NormalMap - Online](http://cpetry.github.io/NormalMap-Online/)
 * 🧰 [ArmorPaint is a stand-alone software designed for physically-based texture painting](https://armorpaint.org/index.html)
@@ -2441,6 +2454,7 @@
 * [The Inter UI font family](https://rsms.me/inter/)
 * [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+* [MonoLisa](https://monolisa.dev/)
 
 #### [Design] - [Resources] - [Icons]
 
