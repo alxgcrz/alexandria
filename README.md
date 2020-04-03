@@ -23,6 +23,7 @@
 * [This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers](https://github.com/ripienaar/free-for-dev)
 * [Rosetta Code - The idea is to present solutions to the same task in as many different languages as possible](http://www.rosettacode.org/wiki/Rosetta_Code)
 * ⭐ [Trending - See what the GitHub community is most excited about today](https://github.com/trending)
+* [Webots - Open Source Robot Simulator](https://cyberbotics.com/#cyberbotics)
 
 ### [Programming] - [Utils]
 
@@ -122,6 +123,7 @@
 * [Yahoo Developer Network](https://developer.yahoo.com/)
 * [Stripe: Código abierto](https://stripe.com/open-source)
 * [Open Source @ IFTTT](http://ifttt.github.io/)
+* [Uber is committed to enabling collaboration for everyone, everywhere through open source](https://uber.github.io/#/)
 
 #### [Programming] - [Official] - [Microsoft]
 
@@ -820,6 +822,7 @@
   * [Getting Started](https://www.baeldung.com/java-microbenchmark-harness)
 * 👓 [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
 * ⭐ [Karate - Test Automation Made Simple](https://intuit.github.io/karate/)
+* [Error Prone](http://errorprone.info/index)
 
 #### [Programming] - [Java] - [Web]
 
@@ -1755,6 +1758,7 @@
 * [Wolf CMS - Open Source Content Management System -](http://www.wolfcms.org/)
 * [Zotonic, the Erlang Web Framework — Zotonic](http://zotonic.com/)
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
+* [Netlify CMS is an open source content management system for your Git](https://www.netlifycms.org/docs/intro/)
 
 ##### [Programming] - [Web] - [Blogging] - [Ghost]
 
@@ -1997,6 +2001,9 @@
 * [Make games with Godot: Beginner Edition](https://www.gdquest.com/docs/guides/learn-godot/beginner/)
 * [Make games with Godot: Developer Edition](https://www.gdquest.com/docs/guides/learn-godot/developer/)
 * [GodotSteam - Steam API for the Godot game engine (version 3.0 - 3.1). For the Windows, Linux, and Mac platforms](https://github.com/Gramps/GodotSteam)
+* [Godot edition of AllSky Free, a Unity skybox package](https://github.com/rpgwhitelock/AllSkyFree_Godot)
+* [Godot - Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water)
+* [Godot God Rays Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
