@@ -563,6 +563,11 @@
 * [Cloud Run is a service by Google Cloud Platform to run your stateless HTTP containers without worrying about provisioning machines, clusters or autoscaling](https://github.com/ahmetb/cloud-run-faq)
 * [Microservice Architecture](https://microservices.io/index.html)
 
+### [Programming] - [AS/400]
+
+* [Introductory Reference to the IBM AS/400](https://krypton.mnsu.edu/~aq5097xt/web/as400/intref.html)
+* [THE MAINFRAME CORNER](http://mainframecorner.com/)
+
 ### [Programming] - [CSS3]
 
 * 👓 [awesome-css-group/awesome-css - A curated contents of amazing CSS](https://github.com/awesome-css-group/awesome-css)
@@ -681,6 +686,10 @@
 
 * 🔸 [Haxe is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler](https://haxe.org/)
 * 👓 [Awesome - Resources for game development on haxe](https://github.com/Dvergar/awesome-haxe-gamedev)
+* [Heaps.io is a mature cross platform graphics engine designed for high performance games](https://heaps.io/)
+* [HashLink is a virtual machine for Haxe](https://hashlink.haxe.org/)
+* [Hide (Heaps IDE) is an extensible editor](https://github.com/HeapsIO/hide)
+* [Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
 
 ### [Programming] - [HTML5]
 
@@ -760,6 +769,7 @@
 * ⭐ [Eclipe Projects](https://projects.eclipse.org/)
 * ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://www.eclipse.org/collections/)
 * ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
+* ⭐ [Package Search - Jetbrains](https://package-search.jetbrains.com/)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
@@ -844,6 +854,7 @@
 * [Restlet Framework helps Java developers build better web APIs that follow the REST architecture style](https://restlet.com/open-source/)
 * [Cettia is a full-featured real-time web framework for Java that works with any web frameworks on the Java Virtual Machine](https://cettia.io/)
 * [Velocity is a Java-based template engine](https://velocity.apache.org/)
+* [WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications](https://wildfly.org/)
 
 #### [Programming] - [Java] - [Microservices]
 
@@ -984,6 +995,7 @@
 * [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
 * [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
 * ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
+* [Choose an open source license](https://choosealicense.com/)
 
 ### [Programming] - [LESS]
 
@@ -2171,7 +2183,7 @@
 #### [Games] - [Resources] - [Materials]
 
 * [The Big RenderMan 20 Library - RenderMan Community](https://community.renderman.pixar.com/article/653/the-big-renderman-library.html?l=r)
-* [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com/home)
+* [CC0 Textures - 190+ Free PBR Materials](https://www.cc0textures.com)
 * [Free C4D Materials](https://www.c4dcenter.com/)
 * 📺 [Nobiax Textures - Youtube](https://www.youtube.com/channel/UCMDRuUy1Hg4aoJyBhv_8hrg)
 * [Material charts](https://docs.unity3d.com/Manual/StandardShaderMaterialCharts.html)
@@ -2483,7 +2495,7 @@
 * [Icon search engine and market place | Iconfinder](https://www.iconfinder.com/)
 * [iconmonstr - Free icons for your next project](https://iconmonstr.com/)
 * [IKONS - 264 free vector icons from Piotr Kwiatkowski](http://ikons.piotrkwiatkowski.co.uk/)
-* [Ionicons](https://ionicframework.com/docs/ionicons/)
+* [Ionicons](https://ionicons.com/)
 * [Map Icons](http://map-icons.com/)
 * [Meteocons • 40+ Weather Icons Free](http://www.alessioatzeni.com/meteocons/)
 * [Meticulously-made interface open source icons. Download free icons.](https://standart.io/)
@@ -2510,6 +2522,8 @@
 * [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
 * [Minimalistic icon library designed by code](https://css.gg/)
+* [Bootstrap Icons](https://icons.getbootstrap.com/)
+* [Simply beautiful open source icons](https://feathericons.com/)
 
 #### [Design] - [Resources] - [Mockups]
 
@@ -2854,6 +2868,10 @@
 
 * [Synfig Studio :: Home](https://www.synfig.org/)
 * [Pencil2D is an animation/drawing software for Mac OS X, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source.](https://github.com/pencil2d/pencil)
+
+#### [Software] - [Image] - [Animation]
+
+* ⭐ [The Free Software Media System](https://jellyfin.org/)
 
 ----
 
