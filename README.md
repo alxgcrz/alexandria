@@ -2459,7 +2459,7 @@
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
-* ⭐⭐⭐ [Programming Fonts](https://app.programmingfonts.org/)
+* ⭐⭐⭐ [Programming Fonts](https://www.programmingfonts.org/)
 * ⭐⭐ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [IBM Plex®](https://www.ibm.com/plex/)
@@ -2474,6 +2474,8 @@
 * [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [MonoLisa](https://monolisa.dev/)
+* [Iosevka](https://typeof.net/Iosevka/)
+* [Iconsolata](https://github.com/googlefonts/Inconsolata)
 
 #### [Design] - [Resources] - [Icons]
 
