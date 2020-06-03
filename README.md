@@ -1300,6 +1300,7 @@
 * [Destyle.css - Opinionated reset stylesheet that provides a clean slate for styling your html](https://nicolas-cusan.github.io/destyle.css/)
 * [css-fx-layout - A lightweight SCSS/CSS only flexbox library inspired by Angular's flex-layout](https://github.com/philmtd/css-fx-layout)
 * [TypeSafe CSS](https://uglyduck.ca/typesafe-css/)
+* [New.css](https://github.com/xz/new.css)
 
 #### [Programming] - [Web] - [Bootstrap]
 
