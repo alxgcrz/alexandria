@@ -513,7 +513,6 @@
 
 * [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
 * 👓 [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
-* [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
 * [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.dev/)
 * [The official Angular library for Firebase](https://github.com/angular/angularfire2)
 * 📰 [Angular in depth](https://blog.angularindepth.com/)
@@ -1031,6 +1030,11 @@
 * [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 * [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
+
+### [Programming] - [NativeScript]
+
+* [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
+* [Learn NativeScript](https://www.tutorialspoint.com/nativescript/nativescript_quick_guide.htm)
 
 ### [Programming] - [Node.js]
 
