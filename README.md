@@ -709,8 +709,9 @@
 * ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
 * [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 * [Java API Specifications](https://www.oracle.com/technetwork/java/api-141528.html)
-* [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
-* [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
+* 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
+* 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
+* 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 * [OpenJDK](http://openjdk.java.net/)
 * [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
@@ -1207,6 +1208,7 @@
 * [Windows Community Toolkit Documentation | Microsoft Docs](https://docs.microsoft.com/en-us/windows/uwpcommunitytoolkit/)
 * [Documentación de Xamarin | Microsoft Docs](https://docs.microsoft.com/es-es/visualstudio/cross-platform/visual-studio-and-xamarin)
 * [Microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio/)
+* [UWP Comunity](https://uwpcommunity.com/projects/)
 
 ### [Programming] - [VM]
 
@@ -2280,6 +2282,7 @@
 * [Collection of Free Stock Resources](https://www.stockjo.com/)
 * ⭐ [UI Goodies - The best resources for designers in one place.](http://uigoodies.com/)
 * [All in One Tool for Makers](https://www.indiemakers.tools/)
+* [No Design Development - A collection of tools for developers who have little to no artistic talent](https://nodesign.dev/)
 
 #### [Design] - [Resources] - [ClipArt]
 
