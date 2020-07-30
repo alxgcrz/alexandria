@@ -78,6 +78,7 @@
 * ⭐ [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
 * [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
 * [codility for programers](https://app.codility.com/programmers/)
+* [Code Golf](https://code.golf/)
 
 ### [Programming] - [Courses]
 
@@ -135,6 +136,7 @@
 * [.NET](https://dotnet.microsoft.com/)
 * [Create .NET apps faster with NuGet](https://www.nuget.org/)
 * ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
+* [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 
 #### [Programming] - [Official] - [Google]
 
@@ -703,6 +705,11 @@
 * 🇪🇸🎓 [Introducción a HTML5](https://lenguajehtml.com/p/html/)
 * 🇪🇸🎓 [HTML5 - Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
 
+### [Programming] - [Identity Management]
+
+* [Keycloak - Open Source Identity and Access Management](https://www.keycloak.org/)
+* [Apache Syncope is an Open Source system for managing digital identities](https://syncope.apache.org/)
+
 ### [Programming] - [Java]
 
 * [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html)
@@ -761,6 +768,7 @@
 * [TheServerSide](https://www.theserverside.com/)
 * [Jaxenter](https://jaxenter.com/news/java)
 * [The Spring Blog](https://spring.io/blog)
+* [Inside Java - News and views from the Java team at Oracle](https://inside.java/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -889,6 +897,7 @@
 * [JavaFX Tip 32: Need Icons? Use Ikonli!](https://dlsc.com/2020/03/11/javafx-tip-32-need-icons-use-ikonli/)
 * [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
 * [Icon packs for Java applications](http://kordamp.org/ikonli/) - <https://github.com/kordamp/ikonli>
+* [Getting started with JavaFX on Raspberry Pi](https://blogs.oracle.com/javamagazine/getting-started-with-javafx-on-raspberry-pi)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -928,7 +937,8 @@
 * [DerbyJS is a full-stack framework for writing modern web applications](http://derbyjs.com/)
 * [Meteor is an open source platform for web, mobile, and desktop](https://www.meteor.com/)
 * [Dojo - A Progressive Framework for Modern Web Apps](https://dojo.io/)
-* [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
+* ⭐⭐ [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
+  * [Tailwind CSS & Svelte on Snowpack](https://dev.to/boywithsilverwings/tailwind-css-svelte-on-snowpack-svelte-preprocess-3841)
 * [Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects](https://underscorejs.org/)
 * [TaffyDB - The JavaScript Database](http://www.taffydb.com/)
 * [Umbrella JS - Tiny library for DOM manipulation, events and AJAX](https://umbrellajs.com/)
@@ -1170,6 +1180,12 @@
 
 * [ReactiveX](http://reactivex.io/)
 
+### [Programming] - [RPC]
+
+* [A high-performance, open source universal RPC framework](https://grpc.io/)
+* [Apache Thrift](http://thrift.apache.org/)
+* [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
+
 ### [Programming] - [Rust]
 
 * [The Rust Programming Language](https://www.rust-lang.org/)
@@ -1233,9 +1249,6 @@
 * ⭐ [MDN web docs - Mozilla](https://developer.mozilla.org/en-US/)
 * [Yarn - Fast, reliable and secure dependency management](https://yarnpkg.com/lang/en/)
 * [Bower: A package manager for the web](https://bower.io/)
-* [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
-* [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
-* [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
 * 🧰 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
 * 🧰 [webhint is a linting tool that will help you with your site's accessibility, speed, security and more](https://webhint.io/)
 * [muicss/loadjs: A tiny async loader / dependency manager for modern browsers](https://github.com/muicss/loadjs)
@@ -1252,8 +1265,16 @@
 * ⭐🧰 [The Front-End Checklist - 🔥 Your NEW Front-End Tool 🔥](https://frontendchecklist.io/)
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
 * 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
+* [CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
-### [Programming] - [Web] - [Automation]
+#### [Programming] - [Web] - [Bundlers]
+
+* [Snowpack is a modern, lightweight toolchain for web application development](https://www.snowpack.dev/)
+* [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
+* [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
+* [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
+
+#### [Programming] - [Web] - [Automation]
 
 * [Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol.](https://github.com/GoogleChrome/puppeteer)
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
@@ -1289,6 +1310,7 @@
 * [mini.css - Minimal, responsive, style-agnostic CSS framework](https://minicss.org/)
 * [Milligram - A minimalist CSS framework.](https://milligram.io/)
 * ⭐⭐ [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
+* [Text-based user interface CSS framework](https://github.com/vinibiavatti1/TuiCss/wiki)
 * [PaperCSS · the less formal CSS framework](https://www.getpapercss.com/)
 * [Picnic CSS - Lightweight and beautiful library](https://picnicss.com/)
 * [Kube UI Framework - Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike](https://imperavi.com/kube/)
@@ -1885,6 +1907,7 @@
 * [Red Blob Games - What if you could learn math and computer science topics the same way you learn while playing a game?](https://www.redblobgames.com/)
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
 * [Pixel Art Tutorials - Palette List - Pixel Art Tools](https://lospec.com)
+* ⭐ [Explore a collection of video games interfaces, screenshots, and clips](https://interfaceingame.com/games/)
 
 #### [Games] - [Learn] - [Maths & Physics]
 
@@ -2468,23 +2491,26 @@
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
-* ⭐⭐⭐ [Programming Fonts](https://www.programmingfonts.org/)
-* ⭐⭐ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
-* [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
+* ⌨ ⭐⭐⭐ [Programming Fonts](https://www.programmingfonts.org/)
+* ⌨ ⭐⭐ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
+* ⌨ [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [IBM Plex®](https://www.ibm.com/plex/)
-* [Monoid](https://larsenwork.com/monoid/)
+* ⌨ [Monoid](https://larsenwork.com/monoid/)
 * [Overpass Web Font](http://overpassfont.org/)
-* [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+* ⌨ [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 * [Space Mono](https://fonts.google.com/specimen/Space+Mono?query=space+mono)
-* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* ⌨ [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [IBM 3270 is based on the font used in IBM 3270 terminal](https://github.com/rbanffy/3270font)
 * [Droid Sans Mono ZeroMod](https://github.com/AlbertoDorado/droid-sans-mono-zeromod)
 * [The Inter UI font family](https://rsms.me/inter/)
-* [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
-* [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+* ⌨ [Cascadia Code - Microsoft](https://github.com/microsoft/cascadia-code)
+* ⌨ [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [MonoLisa](https://monolisa.dev/)
 * [Iosevka](https://typeof.net/Iosevka/)
 * [Iconsolata](https://github.com/googlefonts/Inconsolata)
+* ⌨ [Hasklig – Ligatures for code](https://github.com/i-tu/Hasklig)
+* ⌨ [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
+* ⌨ [Victor Mono is an open-source monospaced font](https://rubjo.github.io/victor-mono/)
 
 #### [Design] - [Resources] - [Icons]
 
@@ -2756,6 +2782,8 @@
 * [Duplicati - Free backup software to store encrypted backups online](https://www.duplicati.com/)
 * [Calligra Suite | The integrated work applications suite](http://www.calligra.org/)
 * [calibre - E-book management](http://calibre-ebook.com/)
+* [Sigil is a free, open source, multi-platform ebook editor that uses Qt](https://github.com/Sigil-Ebook/Sigil)
+  * [Manual Para Maquetar Libros Electronicos](https://universoabierto.org/2017/12/10/manual-para-maquetar-libros-electronicos/)
 * [Taiga.Io | Agile, Open Source, Free Project Management System](https://taiga.io/)
 * [Alternativas de código abierto - osalt.com](http://www.osalt.com/es/)
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
@@ -2837,6 +2865,8 @@
 * [Mps-youtube, reproducir y descargar vídeos de Youtube desde la terminal](https://ubunlog.com/mps-youtube-videos-terminal/)
 * [Curlew Multimedia Converter, instalación desde PPA en Ubuntu](https://ubunlog.com/curlew-multimedia-converter-ubuntu/)
 * [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
+* ⭐ [The Free Software Media System](https://jellyfin.org/)
+* [Stremio is a modern media center that's a one-stop solution for your video entertainment](https://www.stremio.com/)
 
 ### [Software] - [Audio]
 
@@ -2879,10 +2909,6 @@
 
 * [Synfig Studio :: Home](https://www.synfig.org/)
 * [Pencil2D is an animation/drawing software for Mac OS X, Windows, and Linux. It lets you create traditional hand-drawn animation (cartoon) using both bitmap and vector graphics. Pencil2D is free and open source.](https://github.com/pencil2d/pencil)
-
-#### [Software] - [Image] - [Animation]
-
-* ⭐ [The Free Software Media System](https://jellyfin.org/)
 
 ----
 
@@ -2974,6 +3000,7 @@
 * [ZMap · The Internet Scanner](https://zmap.io/)
 * [Nmap: Ejemplos de uso ~ Security By Default](http://www.securitybydefault.com/2014/09/nmap-ejemplos-de-uso.html)
 * [Netcap - A framework for secure and scalable network traffic analysis](https://github.com/dreadl0ck/netcap)
+* [Tsunami by Google - Tsunami is a general purpose network security scanner with an extensible plugin system](https://github.com/google/tsunami-security-scanner)
 
 #### [Security] - [Utils] - [Powershell]
 
