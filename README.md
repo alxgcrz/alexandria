@@ -2137,6 +2137,7 @@
 * [3D Models](https://flyingarchitecture.com/models)
 * [Free3D](https://free3d.com/)
 * [3D Models for Professionals](https://www.turbosquid.com/)
+* [Hum3D](https://hum3d.com/)
 * [Artstation](https://www.artstation.com/)
 * [Blendswap](https://www.blendswap.com/blends)
 * [Fr3dy](http://www.fr3dy.com/)
