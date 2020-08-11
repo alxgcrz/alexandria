@@ -2532,7 +2532,7 @@
 * [Icon search engine and market place | Iconfinder](https://www.iconfinder.com/)
 * [iconmonstr - Free icons for your next project](https://iconmonstr.com/)
 * [IKONS - 264 free vector icons from Piotr Kwiatkowski](http://ikons.piotrkwiatkowski.co.uk/)
-* [Ionicons](https://ionicons.com/)
+* ⭐ [Ionicons](https://ionicons.com/)
 * [Map Icons](http://map-icons.com/)
 * [Meteocons • 40+ Weather Icons Free](http://www.alessioatzeni.com/meteocons/)
 * [Meticulously-made interface open source icons. Download free icons.](https://standart.io/)
@@ -2554,13 +2554,15 @@
 * [Typicons](http://s-ings.com/typicons/)
 * [WebHostingHub Glyphs](http://www.webhostinghub.com/glyphs/)
 * [Ikonate - fully customisable & accessible vector icons](https://www.ikonate.com/)
-* [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/?type=outline)
+* ⭐ [Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.](https://akveo.github.io/eva-icons/#/)
 * [VectorLogoZone](https://www.vectorlogo.zone/)
 * [Unicons - 1000+ Pixel-perfect vector icons and Iconfont for your next project](https://iconscout.com/unicons)
 * [ICONSVG is a tool to simplify the process of finding and generating common icons for your project](https://iconsvg.xyz/)
-* [Minimalistic icon library designed by code](https://css.gg/)
+* ⭐ [Minimalistic icon library designed by code](https://css.gg/)
 * [Bootstrap Icons](https://icons.getbootstrap.com/)
-* [Simply beautiful open source icons](https://feathericons.com/)
+* ⭐ [Simply beautiful open source icons](https://feathericons.com/)
+* [Zwicon is a handcrafted icon set](https://www.zwicon.com/cheatsheet.html)
+* [Remix Icon is a set of open-source neutral-style system symbols](https://remixicon.com/)
 
 #### [Design] - [Resources] - [Mockups]
 
