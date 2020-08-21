@@ -137,6 +137,7 @@
 * [Create .NET apps faster with NuGet](https://www.nuget.org/)
 * ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
+* [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
 
 #### [Programming] - [Official] - [Google]
 
@@ -608,10 +609,14 @@
 
 * 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
 * 🔸 [Dart: Structured web apps](https://dart.dev/)
-* [Dart API Reference](https://api.dart.dev/stable/2.7.0/index.html)
+* [Dart API Reference](https://api.dart.dev/stable/index.html)
+* [Find and use packages to build Dart and Flutter apps](https://pub.dev/)
+  * [Official packages published by the Dart Team](https://pub.dev/publishers/dart.dev/packages)
+  * [Firebase helps Flutter app teams succeed](https://pub.dev/publishers/firebase.google.com/packages)
 * 🎓 [Dart Basics](https://www.raywenderlich.com/4482551-dart-basics)
 * 📑 [Dart 2 Cheat Sheet and Quick Reference 2019](https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019)
 * [DartPad is an open-source tool that lets you play with the Dart language in any modern browser](https://dartpad.dev/)
+* [Dart Academy](https://dart.academy/)
 
 ### [Programming] - [Database]
 
@@ -637,10 +642,15 @@
 ### [Programming] - [Flutter]
 
 * 👓 [Solido/awesome-flutter - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more](https://github.com/Solido/awesome-flutter)
-* 🔸 [Easy and fast SDK for beautiful apps - Flutter](https://flutter.dev/)
+* 🔸 [Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase](https://flutter.dev/)
   * 🎓 [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
 * 🇪🇸 [Flutter](https://flutter-es.io/)
+* [Find and use packages to build Dart and Flutter apps](https://pub.dev/)
+  * [Official packages published by the Flutter Team](https://pub.dev/publishers/flutter.dev/packages)
+  * [Firebase helps Flutter app teams succeed](https://pub.dev/publishers/firebase.google.com/packages)
+* [FlutterFire is a set of Flutter plugins which connect your Flutter application to Firebase](https://firebase.flutter.dev/docs/overview)
 * [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
+* [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://www.material.io/develop/flutter)
 
 ### [Programming] - [Git]
 
@@ -2036,6 +2046,7 @@
 * 👓 [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/Calinou/awesome-godot)
 * [Godot Engine - ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [KidsCanCode](http://kidscancode.org/blog/)
+* [GODOT RECIPES](http://kidscancode.org/godot_recipes/)
 * [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
 * 📺 [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
 * 📺 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
