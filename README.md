@@ -1340,6 +1340,9 @@
 * [css-fx-layout - A lightweight SCSS/CSS only flexbox library inspired by Angular's flex-layout](https://github.com/philmtd/css-fx-layout)
 * [TypeSafe CSS](https://uglyduck.ca/typesafe-css/)
 * [New.css](https://github.com/xz/new.css)
+* [Kor - An open source Design System and lightweight UI Component Library](https://kor-ui.com/introduction/welcome)
+* [Kirigami UI Framework - Build beautiful, convergent apps that run on phones, TVs and everything in between](https://develop.kde.org/frameworks/kirigami/)
+* [MauiKit - A free and modular front-end framework for developing fast and compelling user experiences](https://mauikit.org/)
 
 #### [Programming] - [Web] - [Bootstrap]
 
@@ -2139,6 +2142,7 @@
 * ⭐ [A list of Game Development resources to make magic happen.](https://github.com/ellisonleao/magictools)
 * ⭐ [Game Development Resources](https://game-development.zeef.com/david.arcila)
 * ⭐ [Game Assets](https://game-assets.zeef.com/andre.antonio.schmitz)
+* ⭐ [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev/src/master/README.md)
 * [RenderDoc - graphics debugger](https://renderdoc.org/)
 * [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
@@ -2500,6 +2504,7 @@
 * ⭐ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
 * [Inspirational font combinations and color palettes](https://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
+* ⌨ [Typography in 8 bits: System fonts](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
@@ -2523,6 +2528,7 @@
 * ⌨ [Hasklig – Ligatures for code](https://github.com/i-tu/Hasklig)
 * ⌨ [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * ⌨ [Victor Mono is an open-source monospaced font](https://rubjo.github.io/victor-mono/)
+* ⌨ [Input - Font for code](https://input.fontbureau.com/)
 
 #### [Design] - [Resources] - [Icons]
 
