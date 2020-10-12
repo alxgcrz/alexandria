@@ -760,6 +760,7 @@
 * [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
 * [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
 * [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
+* [jbang - Try out any Java API with one file](https://www.jbang.dev/)
 
 ### [Programming] - [Java] - [Blogs]
 
