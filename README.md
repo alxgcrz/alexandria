@@ -731,6 +731,7 @@
 * 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
 * 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 * [OpenJDK](http://openjdk.java.net/)
+* ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
 * [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
@@ -888,6 +889,7 @@
 * [Cricket - Microservices Framework](https://cricketmsf.org/)
 * [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/en/latest/)
 * [Thorntail - Optimised for microservice architectures - Red Hat](https://thorntail.io/)
+* [ActiveJ is an alternative Java platform built from the ground up as a replacement of Spring, Spark, Quarkus, Micronauts, and other solutions](https://activej.io/)
 
 #### [Programming] - [Java] - [JavaFX]
 
@@ -1045,6 +1047,7 @@
 * 📕 [Dive into Deep Learning](https://d2l.ai/index.html)
 * [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
 * [The Microsoft Cognitive Toolkit](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+* [Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science](https://www.streamlit.io/)
 
 ### [Programming] - [Markdown]
 
@@ -1321,6 +1324,7 @@
 * [mini.css - Minimal, responsive, style-agnostic CSS framework](https://minicss.org/)
 * [Milligram - A minimalist CSS framework.](https://milligram.io/)
 * ⭐⭐ [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
+* ⭐ [Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps](https://arwes.dev/)
 * [Text-based user interface CSS framework](https://github.com/vinibiavatti1/TuiCss/wiki)
 * [PaperCSS · the less formal CSS framework](https://www.getpapercss.com/)
 * [Picnic CSS - Lightweight and beautiful library](https://picnicss.com/)
@@ -3120,6 +3124,7 @@
 * [screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🇪🇸🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
 * [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
+* [Cockpit is an interactive server admin interface](https://cockpit-project.org/)
 
 ----
 
