@@ -1287,6 +1287,7 @@
 * [Parcel - Empaquetador de aplicaciones web ultra-rápido, sin configuración](https://parceljs.org/)
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
 * [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
+* [Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex](https://rollupjs.org/guide/en/)
 
 #### [Programming] - [Web] - [Automation]
 
