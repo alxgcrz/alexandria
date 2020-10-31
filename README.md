@@ -24,6 +24,8 @@
 * [Rosetta Code - The idea is to present solutions to the same task in as many different languages as possible](http://www.rosettacode.org/wiki/Rosetta_Code)
 * ⭐ [Trending - See what the GitHub community is most excited about today](https://github.com/trending)
 * [Webots - Open Source Robot Simulator](https://cyberbotics.com/#cyberbotics)
+* ⭐[Pimp Your GitHub Profile](https://dev.to/dailydevtips1/pimp-your-github-profile-hoc)
+* [Qt - One framework. One codebase. Any platform](https://www.qt.io/)
 
 ### [Programming] - [Utils]
 
@@ -136,6 +138,7 @@
 * [.NET](https://dotnet.microsoft.com/)
 * [Create .NET apps faster with NuGet](https://www.nuget.org/)
 * ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
+* [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 * [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
 
@@ -763,7 +766,7 @@
 * [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
 * [jbang - Try out any Java API with one file](https://www.jbang.dev/)
 
-### [Programming] - [Java] - [Blogs]
+#### [Programming] - [Java] - [Blogs]
 
 * [Oracle Blogs | The Java Source](https://blogs.oracle.com/java/)
 * [Oracle - Blog](https://blogs.oracle.com/javamagazine/)
@@ -1773,9 +1776,7 @@
 * [MSON Lang: Generate an app from JSON](https://github.com/redgeoff/mson)
 * [RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing](https://raml.org/)
 
-#### [Programming] - [Web] - [Blogging]
-
-##### [Programming] - [Web] - [Blogging] - [CMS]
+#### [Programming] - [Web] - [CMS]
 
 * ⭐ [headless - A list of Content Management System](https://headlesscms.org/)
 * [Hexo - A fast, simple & powerful blog framework](https://hexo.io/)
@@ -1821,7 +1822,7 @@
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 * [Netlify CMS is an open source content management system for your Git](https://www.netlifycms.org/docs/intro/)
 
-##### [Programming] - [Web] - [Blogging] - [Ghost]
+##### [Programming] - [Web] - [CMS] - [Ghost]
 
 * [Just 30 Beautiful Ghost Themes - CrazyLeaf Design Blog](http://www.crazyleafdesign.com/blog/30-beautiful-ghost-themes/)
 * [Blogging with Ease: Best Resources for Ghost - noupe](http://www.noupe.com/cms/blogging-with-ease-best-resources-for-the-new-ghost-platform-80211.html)
@@ -1838,7 +1839,7 @@
 * [How To Set Up a Host Name with DigitalOcean | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 * [How To Use the DigitalOcean Ghost Application | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-the-digitalocean-ghost-application)
 
-##### [Programming] - [Web] - [Blogging] - [Jekyll]
+##### [Programming] - [Web] - [CMS] - [Jekyll]
 
 * [Jekyll • Simple, blog-aware, static sites](http://jekyllrb.com/)
 * [Jekyll Themes and Templates - Jekyll Tips](http://jekyll.tips/templates/)
@@ -1846,7 +1847,7 @@
 * [Jekyll Portfolio Tutorial - David Leonard](http://drksephy.github.io/2014/04/09/jekyll/)
 * [A Guide to Creating and Hosting a Personal Website on GitHub | Jonathan McGlone | Librarian, Front-End Developer, Digital Publisher, Project Manager, Music Enthusiast, Web Noodler.](http://jmcglone.com/guides/github-pages/)
 
-##### [Programming] - [Web] - [Blogging] - [Static Generator]
+##### [Programming] - [Web] - [CMS] - [Static Generator]
 
 * ⭐ [StaticGen - A list of Static Site Generator](https://www.staticgen.com/)
 * [DocPad - Streamlined Web Development](https://docpad.org/)
@@ -3076,6 +3077,7 @@
 * 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
 * [Ampache - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere](http://ampache.org/index.html)
 * ⭐ [FreeNAS is an operating system that can be installed on virtually any hardware platform to share data over a network](https://www.freenas.org/)
+* [VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux](https://www.veracrypt.fr/en/Home.html)
 
 ### [Linux] - [Command-line]
 
