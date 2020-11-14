@@ -135,8 +135,6 @@
 * ⭐ [Chocolatey - The package manager for Windows](https://chocolatey.org/)
 * 🇪🇸 [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
 * 🇪🇸 [Documentación del subsistema de Windows para Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
-* [.NET](https://dotnet.microsoft.com/)
-* [Create .NET apps faster with NuGet](https://www.nuget.org/)
 * ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
 * [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
@@ -1065,6 +1063,11 @@
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org/)
 * [Learn NativeScript](https://www.tutorialspoint.com/nativescript/nativescript_quick_guide.htm)
 
+### [Programming] - [.NET]
+
+* [.NET is an open source developer platform, created by Microsoft, for building many different types of applications](https://dotnet.microsoft.com/)
+* [Create .NET apps faster with NuGet](https://www.nuget.org/)
+
 ### [Programming] - [Node.js]
 
 * 👓 [sindresorhus/awesome-nodejs - Delightful Node.js packages and resources](https://github.com/sindresorhus/awesome-nodejs)
@@ -1257,6 +1260,11 @@
 * 👓 [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
 * [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Nuxt.js - The Progressive Vue.js Framework](https://nuxtjs.org/)
+
+### [Programming] - [WebAssembly]
+
+* [WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine](https://webassembly.org/)
+* [WebAssembly is a new type of code that can be run in modern web browsers](https://developer.mozilla.org/en-US/docs/WebAssembly)
 
 ### [Programming] - [Web]
 
@@ -2589,6 +2597,7 @@
 * ⭐ [Simply beautiful open source icons](https://feathericons.com/)
 * [Zwicon is a handcrafted icon set](https://www.zwicon.com/cheatsheet.html)
 * [Remix Icon is a set of open-source neutral-style system symbols](https://remixicon.com/)
+* ⭐ [Super Tiny Icons - Github](https://github.com/edent/SuperTinyIcons)
 
 #### [Design] - [Resources] - [Mockups]
 
