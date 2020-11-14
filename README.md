@@ -2544,6 +2544,7 @@
 * [Batch • 300+ Icons for Web & User Interface Design](http://adamwhitcroft.com/batch/)
 * [Captain Icon](http://mariodelvalle.github.io/CaptainIconWeb/es/index.html)
 * [Devicons | The developer's iconic font](http://vorillaz.github.io/devicons/#/cheat)
+* [> 1200 open source icons - EOS icons](https://icons.eosdesignsystem.com/)
 * [erikflowers/weather-icons · GitHub](https://github.com/erikflowers/weather-icons)
 * [Font Awesome, the iconic font designed for Bootstrap](http://fontawesome.io/)
 * [Fontisto - the iconic font and css toolkit](http://fontisto.com/)
