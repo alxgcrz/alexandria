@@ -1937,6 +1937,7 @@
 * [Creating texture maps for realistics results in a Physically Based Rendering Engine (PBR)](https://virtualshade.tumblr.com/Tutorial)
 * [Pixel Art Tutorials - Palette List - Pixel Art Tools](https://lospec.com)
 * ⭐ [Explore a collection of video games interfaces, screenshots, and clips](https://interfaceingame.com/games/)
+* [The ultimate reference tool for interface designers](https://www.gameuidatabase.com/)
 
 #### [Games] - [Learn] - [Maths & Physics]
 
@@ -2905,6 +2906,7 @@
 * [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
 * ⭐ [The Free Software Media System](https://jellyfin.org/)
 * [Stremio is a modern media center that's a one-stop solution for your video entertainment](https://www.stremio.com/)
+* [LosslessCut aims to be the ultimate cross platform ffmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.](https://github.com/mifi/lossless-cut)
 
 ### [Software] - [Audio]
 
