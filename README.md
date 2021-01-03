@@ -1962,6 +1962,7 @@
 * [FOSS games available on Steam](https://www.reddit.com/r/opensourcegames/comments/91zs0p/would_anyone_like_to_help_me_compile_a_list_of/)
 * [Libregamewiki - the free gaming encyclopedia](https://libregamewiki.org/List_of_games)
 * [Open Source Old Game Clones](https://osgameclones.com/)
+* [Highlights from Game Off 2020 - Github](https://github.blog/2020-12-23-highlights-from-game-off-2020/)
 
 ### [Games] - [Engines]
 
