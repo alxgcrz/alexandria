@@ -1370,7 +1370,7 @@
 * [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
 * ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
 
-##### [Programming] - [Web] - [CSS Frameworks] - [TailBootstrap]
+##### [Programming] - [Web] - [CSS Frameworks] - [Tailwind]
 
 * ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 * 📺 [Curso de Tailwind CSS](https://www.youtube.com/watch?v=aUuYGDK6Oio)
