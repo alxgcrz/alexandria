@@ -1768,8 +1768,9 @@
 * [The feedly Cloud API](https://developer.feedly.com/)
 * [Battle.net Developer Portal - Blizzard Developer Portal](https://dev.battle.net/)
 * [IGDB: Free Video Game Database API - Internet Game Database](https://www.igdb.com/api)
-* [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/abhishekbanthia/Public-APIs)
+* [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/n0shake/Public-APIs)
 * [RapidAPI Marketplace | Home](https://rapidapi.com/)
+* [Power-up your application with these Public APIs](https://public-apis.io/)
 
 ##### [Programming] - [Web] - [API] - [Utils]
 
