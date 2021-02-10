@@ -675,6 +675,7 @@
 * 🇪🇸⭐ [Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
 * [hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal](https://hub.github.com/)
 * [GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD](https://github.com/features/actions)
+* [GitSheet](https://gitsheet.wtf/)
 
 ### [Programming] - [Go]
 
@@ -898,8 +899,7 @@
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
 * [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
 * [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
-* [Custom controls for JavaFX](https://github.com/controlsfx/controlsfx)
-* [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
+* [ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution](https://github.com/controlsfx/controlsfx)
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 * [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
@@ -911,7 +911,12 @@
 * [JavaFX Tip 32: Need Icons? Use Ikonli!](https://dlsc.com/2020/03/11/javafx-tip-32-need-icons-use-ikonli/)
 * [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
 * [Icon packs for Java applications](http://kordamp.org/ikonli/) - <https://github.com/kordamp/ikonli>
+* [TilesFX - A JavaFX library containing tiles that can be used for dashboards.](https://github.com/HanSolo/tilesfx)
+* [CalendarFX - A Java framework for creating sophisticated calendar views based on JavaFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX)
+* [JavaFX Game Development Framework](https://github.com/AlmasB/FXGL)
 * [Getting started with JavaFX on Raspberry Pi](https://blogs.oracle.com/javamagazine/getting-started-with-javafx-on-raspberry-pi)
+* [Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph](https://github.com/JonathanGiles/scenic-view/)
+* [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -2609,6 +2614,7 @@
 * [Zwicon is a handcrafted icon set](https://www.zwicon.com/cheatsheet.html)
 * [Remix Icon is a set of open-source neutral-style system symbols](https://remixicon.com/)
 * ⭐ [Super Tiny Icons - Github](https://github.com/edent/SuperTinyIcons)
+* [109,822 free open source icons & illustrations](https://iconduck.com/)
 
 #### [Design] - [Resources] - [Mockups]
 
