@@ -26,6 +26,7 @@
 * [Webots - Open Source Robot Simulator](https://cyberbotics.com/#cyberbotics)
 * ⭐[Pimp Your GitHub Profile](https://dev.to/dailydevtips1/pimp-your-github-profile-hoc)
 * [Qt - One framework. One codebase. Any platform](https://www.qt.io/)
+* ⭐⭐[Organize, learn, and practice keyboard shortcuts!](https://keycombiner.com/)
 
 ### [Programming] - [Utils]
 
@@ -2540,6 +2541,7 @@
 #### [Design] - [Resources] - [Fonts] - [Single]
 
 * ⌨ ⭐⭐⭐ [Programming Fonts](https://www.programmingfonts.org/)
+* ⌨ ⭐⭐⭐ [Coding Fonts](https://coding-fonts.css-tricks.com/fonts/)
 * ⌨ ⭐⭐ [FiraCode: Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * ⌨ [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [IBM Plex®](https://www.ibm.com/plex/)
