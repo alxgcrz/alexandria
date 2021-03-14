@@ -70,6 +70,7 @@
 * [The definitive list of resources & topics you need to know](http://www.gitlogs.com/resource-guides)
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
+* [Awesome Open Source](https://awesomeopensource.com/)
 
 ### [Programming] - [Challenge]
 
@@ -128,6 +129,7 @@
 * [Stripe: Código abierto](https://stripe.com/open-source)
 * [Open Source @ IFTTT](http://ifttt.github.io/)
 * [Uber is committed to enabling collaboration for everyone, everywhere through open source](https://uber.github.io/#/)
+* [Github](https://github.com/github)
 
 #### [Programming] - [Official] - [Microsoft]
 
@@ -140,6 +142,7 @@
 * [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 * [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
+* [Microsoft Learn](https://docs.microsoft.com/es-es/learn/)
 
 #### [Programming] - [Official] - [Google]
 
@@ -607,6 +610,10 @@
 
 * 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
 
+### [Programming] - [C#]
+
+* 📕 [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
+
 ### [Programming] - [Dart]
 
 * 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
@@ -619,6 +626,7 @@
 * 📑 [Dart 2 Cheat Sheet and Quick Reference 2019](https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019)
 * [DartPad is an open-source tool that lets you play with the Dart language in any modern browser](https://dartpad.dev/)
 * [Dart Academy](https://dart.academy/)
+* [Parses raw command-line arguments into a set of options and values](https://pub.dev/packages/args)
 
 ### [Programming] - [Database]
 
@@ -665,6 +673,7 @@
 * 🎓 [Resources to learn Git](https://try.github.io/)
 * 🎓 [Github Learning Lab](https://lab.github.com/)
 * 🎓 [GitHub Guides](https://guides.github.com/)
+* 🎓 [Training GitHub](https://training.github.com/)
 * 🎓 [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 * ⭐📑 [git-tips/tips - Most commonly used git tips and trick](https://github.com/git-tips/tips)
 * 🇪🇸⭐📑 [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
@@ -677,6 +686,8 @@
 * [hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal](https://hub.github.com/)
 * [GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD](https://github.com/features/actions)
 * [GitSheet](https://gitsheet.wtf/)
+* [Creating a Killer GitHub Profile README](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm)
+* [Keeping Git Commit Messages Consistent with a Custom Template](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm)
 
 ### [Programming] - [Go]
 
@@ -728,13 +739,16 @@
 * [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html)
 * [Oracle Technology Network / Java](https://www.oracle.com/technetwork/java/index.html)
 * ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+* ⭐ [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
 * [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 * [Java API Specifications](https://www.oracle.com/technetwork/java/api-141528.html)
 * 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
 * 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
 * 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
+* ⭐⭐[Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)
 * [OpenJDK](http://openjdk.java.net/)
 * ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
+* [foojay — a place for friends of OpenJDK](https://foojay.io/)
 * [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
 * [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
@@ -765,6 +779,7 @@
 * [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
 * [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
 * [jbang - Try out any Java API with one file](https://www.jbang.dev/)
+* [FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications](https://github.com/JFormDesigner/FlatLaf)
 
 #### [Programming] - [Java] - [Blogs]
 
@@ -784,6 +799,7 @@
 * [Jaxenter](https://jaxenter.com/news/java)
 * [The Spring Blog](https://spring.io/blog)
 * [Inside Java - News and views from the Java team at Oracle](https://inside.java/)
+* ⭐ [The JetBrains Blog](https://blog.jetbrains.com/category/news/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -818,6 +834,8 @@
 * [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
 * [Joda-Time provides a quality replacement for the Java date and time classes](https://www.joda.org/joda-time/)
 * [Strata is the award-winning open source analytics and market risk library from OpenGamma](https://strata.opengamma.io/)
+* [The Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
+* [crawler4j is an open source web crawler for Java](https://github.com/yasserg/crawler4j)
 
 ##### [Programming] - [Java] - [Libraries] -  [Artificial Intelligence (AI)]
 
@@ -893,6 +911,7 @@
 * [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/en/latest/)
 * [Thorntail - Optimised for microservice architectures - Red Hat](https://thorntail.io/)
 * [ActiveJ is an alternative Java platform built from the ground up as a replacement of Spring, Spark, Quarkus, Micronauts, and other solutions](https://activej.io/)
+* [Simplify cloud-native application development - Microsoft](https://dapr.io/)
 
 #### [Programming] - [Java] - [JavaFX]
 
@@ -918,6 +937,8 @@
 * [Getting started with JavaFX on Raspberry Pi](https://blogs.oracle.com/javamagazine/getting-started-with-javafx-on-raspberry-pi)
 * [Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph](https://github.com/JonathanGiles/scenic-view/)
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
+* [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
+* [StreamPi - Made in JavaFX](https://stream-pi.com/)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -1278,7 +1299,7 @@
 * ⭐ [Manually curated collection of resources for frontend web developers - Github](https://github.com/dypsilon/frontend-dev-bookmarks)
 * ⭐🎓 [Let's build the future of the web](https://web.dev/)
 * ⭐ [Mozilla Webdev - Building a better Web](https://mozilla.github.io/webdev/)
-* ⭐ [MDN web docs - Mozilla](https://developer.mozilla.org/en-US/)
+* ⭐ [MDN web docs - Mozilla](https://developer.mozilla.org/es/)
 * [Yarn - Fast, reliable and secure dependency management](https://yarnpkg.com/lang/en/)
 * [Bower: A package manager for the web](https://bower.io/)
 * 🧰 [Lighthouse es una herramienta automatizada de código abierto diseñada para mejorar la calidad de tus apps web | Google Developers](https://developers.google.com/web/tools/lighthouse/)
@@ -2093,6 +2114,7 @@
 * [Godot edition of AllSky Free, a Unity skybox package](https://github.com/rpgwhitelock/AllSkyFree_Godot)
 * [Godot - Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water)
 * [Godot God Rays Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin)
+* [Godot Shaders](https://godotshaders.com/)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
@@ -2828,7 +2850,6 @@
 
 * [Solo. Project Management](http://www.getsoloapp.com/)
 * [Overview - Redmine](http://www.redmine.org/projects/redmine/wiki)
-* [musikcube is a fully functional terminal-based music player, library, and streaming audio server](https://musikcube.com/)
 * [Microsoft DaRT: herramientas de diagnóstico y recuperación, reparación | TechNet](http://technet.microsoft.com/es-es/windows/hh826071)
 * [WinSCP es un cliente SFTP gráfico para Windows que emplea SSH](http://winscp.net/eng/docs/lang:es)
 * [OpenProject - Collaborative Project Management](https://www.openproject.org/docker/)
@@ -2845,9 +2866,6 @@
 * [Aplicaciones multimedia para GNU/Linux](https://blog.desdelinux.net/convierte-gnu-linux-distro-multimedia/)
 * [ConEmu - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more](https://github.com/Maximus5/ConEmu)
 * [AutoHotkey - The ultimate automation scripting language for Windows](https://www.autohotkey.com/)
-* [MPC-HC is an extremely light-weight, open source media player for Windows](https://mpc-hc.org/)
-* [mpv is a free (as in freedom) media player for the command line](https://mpv.io/)
-* [MusicBrainz Picard is a cross-platform music tagger written in Python](https://picard.musicbrainz.org/)
 
 ### [Software] - [Blender]
 
@@ -2928,6 +2946,10 @@
 ### [Software] - [Audio]
 
 * [Ardour is a professional digital workstation for working with audio and MIDI](https://ardour.org/)
+* [MPC-HC is an extremely light-weight, open source media player for Windows](https://mpc-hc.org/)
+* [MusicBrainz Picard is a cross-platform music tagger written in Python](https://picard.musicbrainz.org/)
+* [musikcube is a fully functional terminal-based music player, library, and streaming audio server](https://musikcube.com/)
+* [Airsonic is a free, web-based media streamer, providing ubiquitous access to your music](https://airsonic.github.io/)
 
 ### [Software] - [Image]
 
@@ -3122,6 +3144,8 @@
 * [WTF - the terminal dashboard](https://wtfutil.com/)
 * [BusyBox - The Swiss Army Knife of Embedded Linux](https://busybox.net/downloads/BusyBox.html)
 * [Spotify for the terminal written in Rust](https://github.com/Rigellute/spotify-tui)
+* [Record your terminal and generate animated gif images or share a web player](https://github.com/faressoft/terminalizer)
+* [mpv is a free (as in freedom) media player for the command line](https://mpv.io/)
 
 ### [Linux] - [Shell Scripting]
 
@@ -3158,6 +3182,7 @@
 * 🇪🇸🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
 * [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
 * [Cockpit is an interactive server admin interface](https://cockpit-project.org/)
+* [Reproductores de música para la línea de comandos en Ubuntu](https://ubunlog.com/reproductores-de-musica-para-la-linea-de-comandos/)
 
 ----
 
