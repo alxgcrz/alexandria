@@ -325,6 +325,7 @@
 * [Advanced Android Development](https://developers.google.com/training/courses/android-advanced)
   * [Concepts - GitBook](https://google-developer-training.github.io/android-developer-advanced-course-concepts/)
   * [Practicals - Codelabs](https://developer.android.com/courses/advanced-training/toc)
+* [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
   
 #### [Programming] - [Android] - [Recursos]
 
@@ -923,6 +924,7 @@
 * [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
 * [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client)
 * [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
+* [FXSkins - A collection of new Skins for existing JavaFX controls](https://pixelduke.com/fxskins/#Skins)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
 * [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
@@ -1273,6 +1275,7 @@
 * [Documentación de Xamarin | Microsoft Docs](https://docs.microsoft.com/es-es/visualstudio/cross-platform/visual-studio-and-xamarin)
 * [Microsoft/WindowsTemplateStudio: Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.](https://github.com/Microsoft/WindowsTemplateStudio/)
 * [UWP Comunity](https://uwpcommunity.com/projects/)
+* [A simple, elegant white noise app for Xbox and Windows](https://github.com/jenius-apps/ambie)
 
 ### [Programming] - [VM]
 
@@ -1985,6 +1988,7 @@
 * [Descubre las Matemáticas con GeoGebra](https://www.geogebra.org/)
 * [Calculus for the people - Geogebra](https://www.geogebra.org/m/x39ys4d7#material/phuyhqtw)
 * 🇪🇸 [Infinite Patterns](https://naukas.com/2019/10/06/los-conceptos-detras-de-infinite-patterns/)
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)
 
 ### [Games] - [OpenSource]
 
@@ -2062,7 +2066,8 @@
 
 * [PixiJS - The HTML5 Creation Engine - Create beautiful digital content with the fastest, most flexible 2D WebGL renderer](https://www.pixijs.com/)
 * [BabylonJS](https://www.babylonjs.com)
-* [three.js - Javascript 3D library](https://threejs.org/)
+* [Three.js - Javascript 3D library](https://threejs.org/)
+  * [Three.js Fundamentals](https://threejsfundamentals.org/)
 * [Konva - JavaScript 2d canvas library](https://konvajs.github.io/)
 * [p2.js - 2D rigid body physics engine](https://github.com/schteppe/p2.js)
 * [Planck.js - 2D JavaScript physics engine](http://piqnt.com/planck.js/)
@@ -2559,6 +2564,8 @@
 * [Inspirational font combinations and color palettes](https://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 * ⌨ [Typography in 8 bits: System fonts](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
+* [Fontshare is a free fonts service](https://www.fontshare.com/)
+* [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
@@ -3146,6 +3153,7 @@
 * [Spotify for the terminal written in Rust](https://github.com/Rigellute/spotify-tui)
 * [Record your terminal and generate animated gif images or share a web player](https://github.com/faressoft/terminalizer)
 * [mpv is a free (as in freedom) media player for the command line](https://mpv.io/)
+* [Create an encrypted file vault on Linux](https://opensource.com/article/21/4/linux-encryption)
 
 ### [Linux] - [Shell Scripting]
 
