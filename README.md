@@ -27,6 +27,10 @@
 * ⭐[Pimp Your GitHub Profile](https://dev.to/dailydevtips1/pimp-your-github-profile-hoc)
 * [Qt - One framework. One codebase. Any platform](https://www.qt.io/)
 * ⭐⭐[Organize, learn, and practice keyboard shortcuts!](https://keycombiner.com/)
+* [Everything you need to prepare for your technical interview](https://github.com/Olshansk/interview)
+* [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+* [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
+* [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 
 ### [Programming] - [Utils]
 
@@ -71,6 +75,7 @@
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
 * [Awesome Open Source](https://awesomeopensource.com/)
+* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ### [Programming] - [Challenge]
 
@@ -614,6 +619,7 @@
 ### [Programming] - [C#]
 
 * 📕 [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
+* ⭐⭐ [Pixel-Perfect Multi-Platform Applications with C# and WinUI](https://platform.uno/)
 
 ### [Programming] - [Dart]
 
@@ -688,6 +694,7 @@
 * [GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD](https://github.com/features/actions)
 * [GitSheet](https://gitsheet.wtf/)
 * [Creating a Killer GitHub Profile README](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm)
+* [Beautify your GitHub Profile](https://dev.to/philiphaines/beautify-your-github-40hh)
 * [Keeping Git Commit Messages Consistent with a Custom Template](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm)
 
 ### [Programming] - [Go]
@@ -811,6 +818,7 @@
 * ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://www.eclipse.org/collections/)
 * ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
 * ⭐ [Package Search - Jetbrains](https://package-search.jetbrains.com/)
+* [Trending Java Projects](https://www.libhunt.com/l/java/trending)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 * [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 * [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
@@ -941,6 +949,7 @@
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
 * [StreamPi - Made in JavaFX](https://stream-pi.com/)
+* [JavaFX Material Design Library](http://jfoenix.com/)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -1389,6 +1398,7 @@
 * [Kor - An open source Design System and lightweight UI Component Library](https://kor-ui.com/introduction/welcome)
 * [Kirigami UI Framework - Build beautiful, convergent apps that run on phones, TVs and everything in between](https://develop.kde.org/frameworks/kirigami/)
 * [MauiKit - A free and modular front-end framework for developing fast and compelling user experiences](https://mauikit.org/)
+* [Yogurt - A colossal low-level utility CSS framework for crafting beautiful and elegant user interface at an atomic level](https://yogurtcss.netlify.app/)
 
 ##### [Programming] - [Web] - [CSS Frameworks] - [Bootstrap]
 
@@ -2120,6 +2130,7 @@
 * [Godot - Realistic Water Shader](https://github.com/godot-extended-libraries/godot-realistic-water)
 * [Godot God Rays Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin)
 * [Godot Shaders](https://godotshaders.com/)
+* [Kotlin/JVM binding for the Godot Game Engine](https://github.com/utopia-rise/godot-kotlin-jvm)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
