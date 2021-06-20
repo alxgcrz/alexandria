@@ -936,7 +936,8 @@
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
 * [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
 * [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
-* [JavaFX Material Design Library](https://github.com/jfoenixadmin/JFoenix)
+* [A library of material components for JavaFX](https://github.com/palexdev/MaterialFX)
+* [JavaFX Material Design Library](http://jfoenix.com/)
 * [SynchronizeFX is a library for JavaFX 2 and later that enables property bindings between different JVMs, both on a local computer and over the network](https://github.com/saxsys/SynchronizeFX)
 * [JavaFX Tip 32: Need Icons? Use Ikonli!](https://dlsc.com/2020/03/11/javafx-tip-32-need-icons-use-ikonli/)
 * [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
@@ -949,7 +950,6 @@
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
 * [StreamPi - Made in JavaFX](https://stream-pi.com/)
-* [JavaFX Material Design Library](http://jfoenix.com/)
 
 #### [Programming] - [Java] - [RxJava]
 
