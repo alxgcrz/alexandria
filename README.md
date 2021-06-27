@@ -1186,6 +1186,7 @@
 ### [Programming] - [Powershell]
 
 * [PowerShell Documentation](https://docs.microsoft.com/es-es/powershell/)
+* [Welcome to the PowerShell Gallery](https://www.powershellgallery.com/)
 
 ### [Programming] - [Processing]
 
@@ -1225,6 +1226,7 @@
 * [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/)
 * [PyQt examples](https://github.com/pyqt/examples)
 * [Python and Qt are great for writing cross-platform desktop apps](https://build-system.fman.io/)
+* 📕 [Python books free to read online or download](https://github.com/pamoroso/free-python-books)
 
 ### [Programming] - [React]
 
@@ -2228,7 +2230,7 @@
 * [Fr3dy](http://www.fr3dy.com/)
 * [Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)
 * [Mixamo - Animated 3D characters](https://www.mixamo.com/#/)
-* [Poly - Google](https://poly.google.com/)
+* [Google Poly is shutting down](https://poly.pizza/)
 * [Remix 3D - Microsoft](https://www.remix3d.com)
 * [Free 3D Collections](http://www.rockthe3d.com/)
 * [Sketchfab - Publish and find 3D models online - Free & Paid](https://sketchfab.com/)
