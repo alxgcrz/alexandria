@@ -576,6 +576,10 @@
 * [AWS CloudFormation ofrece un lenguaje común para describir y aprovisionar todos los recursos de la infraestructura en el entorno en la nube](https://aws.amazon.com/es/cloudformation/)
 * [Cloud Run is a service by Google Cloud Platform to run your stateless HTTP containers without worrying about provisioning machines, clusters or autoscaling](https://github.com/ahmetb/cloud-run-faq)
 * [Microservice Architecture](https://microservices.io/index.html)
+* [Kool makes using Docker for local development easier, simpler, faster, and better](https://kool.dev/)
+* [API VS. Microservices](https://www.scalyr.com/blog/api-vs-microservices/)
+* [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
+* [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
 
 ### [Programming] - [AS/400]
 
@@ -808,6 +812,7 @@
 * [The Spring Blog](https://spring.io/blog)
 * [Inside Java - News and views from the Java team at Oracle](https://inside.java/)
 * ⭐ [The JetBrains Blog](https://blog.jetbrains.com/category/news/)
+* [James Ward](https://jamesward.com/)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -2637,7 +2642,7 @@
 * [Octicons](https://octicons.github.com/)
 * [Open Iconic, a free and open icon set](https://useiconic.com/open/)
 * [pfefferle/openwebicons: A font!](https://github.com/pfefferle/openwebicons)
-* [Simple Icons](https://simpleicons.org/)
+* [Simple Icons for popular brands](https://simpleicons.org/)
 * [smcllns/css-social-buttons: Zocial button set with CSS. Entirely vector-based social buttons.](https://github.com/smcllns/css-social-buttons)
 * [SomIcons - Free icon set for designers and developers](http://someicons.chrisveigt.com/)
 * [Sosa :: Ten by Twenty](http://tenbytwenty.com/?xxxx_posts=sosa)
@@ -3140,7 +3145,10 @@
 
 * 👓 [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
 * ⭐🎓 [Digital Ocean - Find all the resources you need to go from development to production](https://www.digitalocean.com/community)
+* [Manuales de usuario de Debian](https://www.debian.org/doc/user-manuals)
 * 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
+* 📕 [Guía de referencia de Debian](https://www.debian.org/doc/manuals/debian-reference/)
+  * 📕 [Guía de referencia de Debian - PDF](https://www.debian.org/doc/manuals/debian-reference/debian-reference.es.pdf)
 * [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
 * [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
