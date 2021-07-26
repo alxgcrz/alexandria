@@ -175,6 +175,17 @@
 * [Styleguide - A tool to make creating and maintaining styleguides easy](http://hugeinc.github.io/styleguide/)
 * [The Design Language Framework](https://diez.org/)
 
+### [Programming] - [Lofi Radio]
+
+* [lofi hip hop radio - beats to relax/study](https://www.youtube.com/watch?v=5qap5aO4i9A)
+* [lofi hip hop radio - beats to sleep/chill](https://www.youtube.com/watch?v=DWcJFNfaw9c)
+* [lofi hip hop radio - beats to study/relax](https://www.youtube.com/watch?v=7NOSDKb0HlU)
+* [Chillhop Radio - jazzy & lofi hip hop beats](https://www.youtube.com/watch?v=5yx6BWlEVcY)
+* [calm lofi radio ~ 24/7 lofi hiphop beats](https://www.youtube.com/watch?v=i-5hGeqMHTY)
+* [lofi hip hop radio - sad & sleepy beats](https://www.youtube.com/watch?v=l7TxwBhtTUY)
+* [Sessions: Vi | Creator-Safe | Música de Riot Games](https://www.youtube.com/watch?v=G8a45UZJGh4)
+* [freeCodeCamp](https://coderadio-relay-blr.freecodecamp.org/radio/8010/radio.mp3)
+
 ### [Programming] - [Algorithms]
 
 * ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
@@ -850,6 +861,7 @@
 * [Strata is the award-winning open source analytics and market risk library from OpenGamma](https://strata.opengamma.io/)
 * [The Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
 * [crawler4j is an open source web crawler for Java](https://github.com/yasserg/crawler4j)
+* [JReleaser - The quick and effortless way to release your Java project!](https://jreleaser.org/)
 
 ##### [Programming] - [Java] - [Libraries] -  [Artificial Intelligence (AI)]
 
@@ -1806,7 +1818,6 @@
 * [Quandl Documentation](https://docs.quandl.com/#introduction)
 * [Open Exchange Rates](https://openexchangerates.org/)
 * [Acciona SA: BME:ANA quotes & news - Google Finance](https://www.google.com/finance?q=BME%3AANA&ei=zosbVqmeN4nGU4Xqu4gG)
-* [toddmotto/public-apis: A collective list of public JSON APIs for use in web development.](https://github.com/toddmotto/public-apis)
 * [AnyAPI - Discover and Try Public APIs](https://any-api.com/)
 * [API Dashboard: ProgrammableWeb](http://www.programmableweb.com/apis)
 * [Google APIs Explorer](https://developers.google.com/apis-explorer/?csw=1#p/)
@@ -1818,6 +1829,7 @@
 * [abhishekbanthia/Public-APIs: 📚 A curated list of APIs from round the web.](https://github.com/n0shake/Public-APIs)
 * [RapidAPI Marketplace | Home](https://rapidapi.com/)
 * [Power-up your application with these Public APIs](https://public-apis.io/)
+* ⭐ [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
 
 ##### [Programming] - [Web] - [API] - [Utils]
 
