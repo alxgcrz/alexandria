@@ -1295,6 +1295,7 @@
 
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
 * [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
+* [A lightweight TypeScript library for creating particles](https://github.com/matteobruni/tsparticles)
 
 ### [Programming] - [UWP]
 
