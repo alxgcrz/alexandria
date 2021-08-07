@@ -765,6 +765,7 @@
 * ⭐ [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
 * [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 * [Java API Specifications](https://www.oracle.com/technetwork/java/api-141528.html)
+* [Java Platform, Standard Edition Troubleshooting Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html)
 * 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
 * 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
 * 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
@@ -1008,6 +1009,8 @@
 * [Dojo - A Progressive Framework for Modern Web Apps](https://dojo.io/)
 * ⭐⭐ [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
   * [Tailwind CSS & Svelte on Snowpack](https://dev.to/boywithsilverwings/tailwind-css-svelte-on-snowpack-svelte-preprocess-3841)
+* [Alpine.js - Think of it like Tailwind for JavaScript.](https://github.com/alpinejs/alpine)
+* [Descubriendo Alpine.js](https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery)
 * [Underscore is a JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects](https://underscorejs.org/)
 * [TaffyDB - The JavaScript Database](http://www.taffydb.com/)
 * [Umbrella JS - Tiny library for DOM manipulation, events and AJAX](https://umbrellajs.com/)
@@ -1359,6 +1362,7 @@
 * [Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
 * [Brunch | ultra-fast HTML5 build tool](https://brunch.io/)
 * [Rollup is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex](https://rollupjs.org/guide/en/)
+* [Vite](https://vitejs.dev/)
 
 #### [Programming] - [Web] - [Automation]
 
@@ -1433,10 +1437,16 @@
 ##### [Programming] - [Web] - [CSS Frameworks] - [Tailwind]
 
 * ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
+* [Tailwind Labs - Creators of Tailwind CSS, Tailwind UI, and Refactoring UI.](https://github.com/tailwindlabs)
 * 📺 [Curso de Tailwind CSS](https://www.youtube.com/watch?v=aUuYGDK6Oio)
 * [Tailblocks - Ready-to-use Tailwind CSS blocks](https://github.com/mertJF/tailblocks)
-* [Alpine.js - Think of it like Tailwind for JavaScript.](https://github.com/alpinejs/alpine)
-* [Descubriendo Alpine.js](https://www.solucionex.com/blog/descubriendo-alpinejs-el-framework-liviano-alternativa-jquery)
+* [wickedblocks - ready made Tailwind CSS blocks, for your next project](https://blocks.wickedtemplates.com/)
+* [Meraki UI Components](https://merakiui.com/)
+* [Kometa UI Kit](https://kitwind.io/products/kometa)
+* [Mamba UI](https://mambaui.com/)
+* [Tail-kit](https://www.tailwind-kit.com/)
+* [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
+* [DaisyUI](https://daisyui.com/)
 
 #### [Programming] - [Web] -  [Bibliotecas]
 
@@ -1809,6 +1819,9 @@
 
 #### [Programming] - [Web] - [API]
 
+* [OpenAPI Initiative](https://www.openapis.org/)
+* [OpenAPI Initiative Github](https://github.com/oai)
+
 ##### [Programming] - [Web] - [API] - [Learn]
 
 * [Buenas prácticas para el Diseño de una API RESTful Pragmática](https://elbauldelprogramador.com/buenas-practicas-para-el-diseno-de-una-api-restful-pragmatica/)
@@ -1898,6 +1911,7 @@
 * [Zotonic, the Erlang Web Framework — Zotonic](http://zotonic.com/)
 * [JBake is a Java based, open source, static site/blog generator for developers & designers](https://jbake.org/)
 * [Netlify CMS is an open source content management system for your Git](https://www.netlifycms.org/docs/intro/)
+* [Strapi is the leading open-source headless CMS](https://strapi.io/)
 
 ##### [Programming] - [Web] - [CMS] - [Ghost]
 
@@ -2973,13 +2987,18 @@
 * [Cómo usar ffmpeg para editar video | Emezeta](http://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
 * [17 trucos (y algún extra) para aprovechar VLC al máximo](http://www.xataka.com/aplicaciones/17-trucos-y-algun-extra-para-aprovechar-vlc-al-maximo)
 * [10 razones para utilizar Flowblade como editor de videos | Desde Linux](http://blog.desdelinux.net/10-razones-para-utilizar-flowblade-como-editor-de-videos/)
-* [Natron, software de composición similar a After Effects de código abierto](https://ubunlog.com/natron-after-effects-ubuntu/)
 * [Mps-youtube, reproducir y descargar vídeos de Youtube desde la terminal](https://ubunlog.com/mps-youtube-videos-terminal/)
 * [Curlew Multimedia Converter, instalación desde PPA en Ubuntu](https://ubunlog.com/curlew-multimedia-converter-ubuntu/)
-* [User Documentation - NotABug.org: Free code hosting](https://notabug.org/GPast/avideo/wiki/User+Documentation)
+* [AVideo is a powerful, 100% libre video and audio downloader for GNU/Linux](https://notabug.org/GPast/avideo/wiki/User+Documentation)
+* [LosslessCut aims to be the ultimate cross platform ffmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.](https://github.com/mifi/lossless-cut)
+* [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
+
+### [Software] - [Media Center]
+
 * ⭐ [The Free Software Media System](https://jellyfin.org/)
 * [Stremio is a modern media center that's a one-stop solution for your video entertainment](https://www.stremio.com/)
-* [LosslessCut aims to be the ultimate cross platform ffmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.](https://github.com/mifi/lossless-cut)
+* [gerbera - A free media server](https://gerbera.io/)
+* [Ampache - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere](http://ampache.org/index.html)
 
 ### [Software] - [Audio]
 
@@ -3163,12 +3182,10 @@
 * 📕 [Guía de referencia de Debian](https://www.debian.org/doc/manuals/debian-reference/)
   * 📕 [Guía de referencia de Debian - PDF](https://www.debian.org/doc/manuals/debian-reference/debian-reference.es.pdf)
 * [atech/postal: 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail](https://github.com/atech/postal)
-* [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
 * [Transfer.sh, comparte archivos fácilmente desde la terminal](https://ubunlog.com/transfer-compartir-archivos-terminal/)
 * [Una alternativa rápida y abierta a Windows y macOS ⋅ elementary OS](https://elementary.io/es/)
 * ⭐ [Aptik Migration Utility](https://teejeetech.in/aptik/)
 * 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
-* [Ampache - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere](http://ampache.org/index.html)
 * ⭐ [FreeNAS is an operating system that can be installed on virtually any hardware platform to share data over a network](https://www.freenas.org/)
 * [VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux](https://www.veracrypt.fr/en/Home.html)
 
@@ -3188,6 +3205,8 @@
 * [Record your terminal and generate animated gif images or share a web player](https://github.com/faressoft/terminalizer)
 * [mpv is a free (as in freedom) media player for the command line](https://mpv.io/)
 * [Create an encrypted file vault on Linux](https://opensource.com/article/21/4/linux-encryption)
+* [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
+* [Reproductores de música para la línea de comandos en Ubuntu](https://ubunlog.com/reproductores-de-musica-para-la-linea-de-comandos/)
 
 ### [Linux] - [Shell Scripting]
 
@@ -3219,12 +3238,10 @@
 * [Ubuntu Make is a command line tool which allows you to download the latest version of popular developer tools](https://wiki.ubuntu.com/ubuntu-make)
 * 📰 [Todo sobre Ubuntu - Ubunlog](http://ubunlog.com/)
 * [The Log File Navigator - An advanced log file viewer for the small-scale](http://lnav.org/)
-* [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
 * [screenFetch - Fetches system/theme information in terminal for Linux desktop screenshots](https://github.com/KittyKatt/screenFetch)
 * 🇪🇸🎓 [Testear los discos duros utilizando smartctl](http://claves-de-linux.blogspot.com.es/2012/10/smartctl-checkear-disco-duro.html)
-* [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
+* [Webmin is a web-based interface for system administration for Unix](http://www.webmin.com/)
 * [Cockpit is an interactive server admin interface](https://cockpit-project.org/)
-* [Reproductores de música para la línea de comandos en Ubuntu](https://ubunlog.com/reproductores-de-musica-para-la-linea-de-comandos/)
 
 ----
 
