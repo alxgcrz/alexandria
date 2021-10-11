@@ -148,11 +148,13 @@
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 * [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
 * [Microsoft Learn](https://docs.microsoft.com/es-es/learn/)
+* [Windows Sysinternals](https://docs.microsoft.com/es-es/sysinternals/)
 
 #### [Programming] - [Official] - [Google]
 
 * 🔸 [Google Developers](https://developers.google.com/)
 * ⭐ [Google Devs](https://google.dev/home?hl=en)
+* [Welcome to Dev Library, a showcase of what developers like you have built with Google technologies](https://devlibrary.withgoogle.com/)
 * [Google Web Fundamentals](https://developers.google.com/web)
 * [Google Open Source – opensource.google.com](https://opensource.google/)
 * [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
@@ -711,6 +713,7 @@
 * [Creating a Killer GitHub Profile README](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm)
 * [Beautify your GitHub Profile](https://dev.to/philiphaines/beautify-your-github-40hh)
 * [Keeping Git Commit Messages Consistent with a Custom Template](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm)
+* [Git and GitHub: The Complete Guides](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
 
 ### [Programming] - [Go]
 
@@ -2149,10 +2152,10 @@
 * 🔸 [Godot Engine](https://godotengine.org/)
 * [Godot Docs](http://docs.godotengine.org/en/stable/)
 * 👓 [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/Calinou/awesome-godot)
+* 👓 [A curated list of free/libre plugins, scripts and add-ons for Godot](https://github.com/godotengine/awesome-godot)
 * [Godot Engine - ZEEF](https://godot-engine.zeef.com/andre.antonio.schmitz)
 * [KidsCanCode](http://kidscancode.org/blog/)
 * [GODOT RECIPES](http://kidscancode.org/godot_recipes/)
-* [Godot Game Engine Resources](https://www.reddit.com/user/linkans/comments/6dydej/godot_game_engine_resources/)
 * 📺 [Angega Studios](https://www.youtube.com/channel/UChv-gaPlKNROf6iMDhxIpUA/videos?view=0&sort=dd&shelf_id=1)
 * 📺 [Godot 101: Learning the Godot Game Engine](https://www.youtube.com/playlist?list=PLsk-HSGFjnaFISfGRTXxp65FXOa9UkYc5)
 * [RPG in a Box](http://www.rpginabox.com/)
@@ -2348,6 +2351,7 @@
 * ⭐ [ShaderToy](https://www.shadertoy.com/)
 * 🧰 [Shader Playground](http://shader-playground.timjones.io/)
 * ⭐ [The Book of Shaders](https://thebookofshaders.com/00/?lan=es)
+* [A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 #### [Games] - [Resources] - [Stores]
 
@@ -2438,6 +2442,7 @@
 * ⭐🧰 [Squoosh](https://squoosh.app/)
 * ⭐🧰 [waifu2x - Mejora la resolución de ilustraciones de tipo anime utilizando redes neuronales convolucionales](http://waifu2x.udp.jp/)
 * 🧰 [Lorem Ipsum... but for photos](https://picsum.photos/)
+* 🧰 [Doodle Ipsum - The lorem ipsum of illustrations](https://doodleipsum.com/)
 * 🧰 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
 * 🧰 [Compress.io](https://compressor.io/)
 * 🧰 [Duri.me - DataURI Generator](http://duri.me/)
@@ -2691,6 +2696,7 @@
 * [Remix Icon is a set of open-source neutral-style system symbols](https://remixicon.com/)
 * ⭐ [Super Tiny Icons - Github](https://github.com/edent/SuperTinyIcons)
 * [109,822 free open source icons & illustrations](https://iconduck.com/)
+* [A monotone line-based icon pack](https://github.com/Donnnno/Arcticons)
 
 #### [Design] - [Resources] - [Mockups]
 
@@ -3065,6 +3071,8 @@
 * [bWAPP, una aplicación para aprender seguridad jugando | Wh0s](http://wh0s.org/2014/04/03/bwapp-2/)
 * [Bienvenidos A Backtrack Academy - LATM - Comunidad Informatica](http://backtrackacademy.com/)
 * [0xWORD](http://0xword.com/)
+* [The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games](https://overthewire.org/wargames/)
+* [Scripting en Bash para principiantes #1](https://youtu.be/RUorAzaDftg?t=226)
 
 ### [Security] - [Learn]
 
@@ -3175,7 +3183,6 @@
 
 ## [Linux]
 
-* 👓 [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
 * ⭐🎓 [Digital Ocean - Find all the resources you need to go from development to production](https://www.digitalocean.com/community)
 * [Manuales de usuario de Debian](https://www.debian.org/doc/user-manuals)
 * 📕 [El libro del administrador de Debian](http://debian-handbook.info/browse/es-ES/stable/)
@@ -3191,6 +3198,8 @@
 
 ### [Linux] - [Command-line]
 
+* 👓 [A curated list of awesome command-line frameworks, toolkits, guides and gizmos. · GitHub](https://github.com/alebcay/awesome-shell)
+* 👓 [A curated list of command line apps. · GitHub](https://github.com/agarrharr/awesome-cli-apps)
 * ⭐ [CheatSheet con 400 comandos para GNU/Linux que deberías saber | Blackploit [PenTest]](http://www.blackploit.com/2013/05/cheatsheet-comandos-para-GNU-Linux.html)
 * ⭐ [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
 * ⭐ [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
@@ -3207,6 +3216,8 @@
 * [Create an encrypted file vault on Linux](https://opensource.com/article/21/4/linux-encryption)
 * [MOC (Music On Console), un reproductor de música para la terminal](https://ubunlog.com/moc-music-on-console-reproductor-terminal/)
 * [Reproductores de música para la línea de comandos en Ubuntu](https://ubunlog.com/reproductores-de-musica-para-la-linea-de-comandos/)
+* [A cat(1) clone with syntax highlighting and Git integration](https://github.com/sharkdp/bat)
+* [Blending the terminal in a GUI world](https://github.com/jarun)
 
 ### [Linux] - [Shell Scripting]
 
