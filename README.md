@@ -685,6 +685,7 @@
 * [FlutterFire is a set of Flutter plugins which connect your Flutter application to Firebase](https://firebase.flutter.dev/docs/overview)
 * [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
 * [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://www.material.io/develop/flutter)
+* 📺 [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 
 ### [Programming] - [Git]
 
@@ -2345,6 +2346,7 @@
 * [Material Packs](https://gumroad.com/juliosillet)
 * 🧰 [Materialize - image to material tool](http://www.boundingboxsoftware.com/materialize/)
 * ⭐[Quixel Megscans - Epic Games](https://quixel.com/megascans/library)
+* [MaterialX Library](https://matlib.gpuopen.com/main/materials/all)
 
 #### [Games] - [Resources] - [Shaders]
 
