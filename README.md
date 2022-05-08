@@ -56,6 +56,7 @@
 * [Lorem Ipsum - Placeholders - Colors - Mides](https://www.lorem.cat/disseny-adaptatiu.html)
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
 * [Various README templates & tips on writing high-quality documentation](https://github.com/kylelobo/The-Documentation-Compendium/)
+* [Swiss Army knife for developers - An offline Windows app that helps developers in daily tasks](https://devtoys.app/)
 
 ### [Programming] - [Utils] - [Regex]
 
@@ -686,6 +687,7 @@
 * [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
 * [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://www.material.io/develop/flutter)
 * 📺 [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
+* [Secure Open-Source Backend Server for Web, Mobile & Flutter Developers](https://appwrite.io/)
 
 ### [Programming] - [Git]
 
@@ -937,6 +939,7 @@
 * [Payara Micro is the open source, lightweight middleware platform of choice for containerized Java EE (Jakarta EE) microservices deployments](https://www.payara.fish/software/payara-server/payara-micro/)
 * [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
 * [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
+  * ⭐ [The quickest way to learn all things Open Liberty, and beyond!](https://openliberty.io/guides/)
 * [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
 * [Cricket - Microservices Framework](https://cricketmsf.org/)
 * [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/en/latest/)
@@ -1067,6 +1070,7 @@
 * [A handy collection of most commonly used Kotlin extensions to boost your productivity in Android development](http://kotlinextensions.com)
 * [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
 * [Korlibs is a set of Kotlin Common modern libraries](https://korlibs.soywiz.com/)
+* [KVision - object oriented web framework for Kotlin/JS](https://kvision.io/)
 
 ### [Programming] - [Legal]
 
@@ -1427,6 +1431,8 @@
 * [Kirigami UI Framework - Build beautiful, convergent apps that run on phones, TVs and everything in between](https://develop.kde.org/frameworks/kirigami/)
 * [MauiKit - A free and modular front-end framework for developing fast and compelling user experiences](https://mauikit.org/)
 * [Yogurt - A colossal low-level utility CSS framework for crafting beautiful and elegant user interface at an atomic level](https://yogurtcss.netlify.app/)
+* [gd.css styles all visible HTML elements in line with modern best practice.](https://gdcss.netlify.app/)
+* [Minimal CSS Framework for semantic HTML](https://picocss.com/)
 
 ##### [Programming] - [Web] - [CSS Frameworks] - [Bootstrap]
 
@@ -1578,7 +1584,7 @@
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Highlight]
 
-* [Prism](http://prismjs.com/)
+* [Prism is a lightweight, extensible syntax highlighter](https://prismjs.com/)
 * [google/code-prettify: Automatically exported from code.google.com/p/google-code-prettify](https://github.com/google/code-prettify)
 * [highlight.js](https://highlightjs.org/)
 
@@ -1954,6 +1960,8 @@
 * [Sculpin is a static site generator written in PHP](https://sculpin.io/)
 * [Wintersmith - Flexible, minimalistic, multi-platform static site generator built on top of node.js.](http://wintersmith.io/)
 * [Cogear.JS is a static websites generator](https://cogearjs.org/)
+* [Astro is a new kind of static site builder for the modern web](https://astro.build/)
+* [Eleventy, a simpler static site generator](https://www.11ty.dev/)
 
 ----
 
@@ -2699,6 +2707,8 @@
 * ⭐ [Super Tiny Icons - Github](https://github.com/edent/SuperTinyIcons)
 * [109,822 free open source icons & illustrations](https://iconduck.com/)
 * [A monotone line-based icon pack](https://github.com/Donnnno/Arcticons)
+* [Iconoir is one of the biggest open source libraries](https://iconoir.com/)
+* ⭐ [Iconify - Thousands of icons, one unified framework](https://icon-sets.iconify.design/)
 
 #### [Design] - [Resources] - [Mockups]
 
@@ -3000,6 +3010,7 @@
 * [AVideo is a powerful, 100% libre video and audio downloader for GNU/Linux](https://notabug.org/GPast/avideo/wiki/User+Documentation)
 * [LosslessCut aims to be the ultimate cross platform ffmpeg GUI for extremely fast and lossless operations on video, audio, subtitle and other related media files.](https://github.com/mifi/lossless-cut)
 * [Selene Media Encoder, convierte archivos de vídeo y audio fácilmente](http://ubunlog.com/selene-media-encoder-convierte-video-y-audio-facilmente/)
+* [gstreamer - open source multimedia framework](https://gstreamer.freedesktop.org/)
 
 ### [Software] - [Media Center]
 
