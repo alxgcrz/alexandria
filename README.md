@@ -31,6 +31,7 @@
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
 * [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
+* [Ace your Technical Interview](https://www.interviewbit.com/technical-interview-questions/)
 
 ### [Programming] - [Utils]
 
@@ -77,6 +78,7 @@
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
 * [Awesome Open Source](https://awesomeopensource.com/)
 * [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
+* [Coding Interview](https://www.interviewbit.com/coding-interview-questions/)
 
 ### [Programming] - [Challenge]
 
@@ -104,6 +106,7 @@
 * ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 * [The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki](https://course.elementsofai.com/)
 * [The Odin Project](https://www.theodinproject.com/home)
+* [Programming - DSA](https://www.interviewbit.com/courses/programming/)
 
 ### [Programming] - [Books]
 
@@ -198,6 +201,7 @@
 * ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * ⭐📕 [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/)
 * [Visualgo - Visualising data structures and algorithms through animation](https://visualgo.net)
+* [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ### [Programming] - [Android]
 
@@ -210,6 +214,7 @@
 * [Android Developers Blog](https://android-developers.googleblog.com/)
 * [Google's Maven Repositoy](https://dl.google.com/dl/android/maven2/index.html)
 * [Android Code Search](https://cs.android.com/)
+* [Android Code Search](https://www.interviewbit.com/android-interview-questions/)
 
 #### [Programming] - [Android] - [Design]
 
@@ -275,6 +280,7 @@
 * [¿Cómo se declaran en Hacienda la venta de aplicaciones en Google Play?](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-la-venta-de-aplicaciones-en-google-play)
 * [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
 * [Running and Debugging Your Android Application Remotely](http://docwiki.appmethod.com/appmethod/1.15/topics/en/Running_and_Debugging_Your_Android_Application_Remotely)
+* * [Android Interview Questions](https://www.interviewbit.com/android-interview-questions/)
 
 ##### [Programming] - [Android] - [Learn] - [Android Studio]
 
@@ -559,6 +565,7 @@
 * [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
 * [Transloco - The internationalization (i18n) library for Angular](https://netbasal.gitbook.io/transloco/)
 * [Reactive State for Angular](https://ngrx.io/)
+* [Angular Interview Questions](https://www.interviewbit.com/angular-interview-questions/)
 
 ### [Programming] - [Architecture & Container Platforms]
 
@@ -629,15 +636,18 @@
 * [CSS Layout – A collection of popular CSS layouts and patterns](https://csslayout.io/)
 * 🇪🇸🎓 [CSS - Mozilla](https://developer.mozilla.org/es/docs/Web/CSS)
 * 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
+* [CSS3 Interview Questions](https://www.interviewbit.com/css-interview-questions/)
 
 ### [Programming] - [C++]
 
 * 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
+* [C++ Interview Questions](https://www.interviewbit.com/cpp-interview-questions/)
 
 ### [Programming] - [C#]
 
 * 📕 [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
 * ⭐⭐ [Pixel-Perfect Multi-Platform Applications with C# and WinUI](https://platform.uno/)
+* * [C# Interview Questions](https://www.interviewbit.com/c-sharp-interview-questions/)
 
 ### [Programming] - [Dart]
 
@@ -669,6 +679,7 @@
 * [jOOQ: The easiest way to write SQL in Java](https://www.jooq.org/)
 * [Flyway - Version control for your database](https://flywaydb.org/)
 * [HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
+* [DBMS Interview Questions](https://www.interviewbit.com/dbms-interview-questions/)
 
 ### [Programming] - [Electron]
 
@@ -688,6 +699,7 @@
 * [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://www.material.io/develop/flutter)
 * 📺 [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 * [Secure Open-Source Backend Server for Web, Mobile & Flutter Developers](https://appwrite.io/)
+* [Flutter Interview Questions](https://www.interviewbit.com/flutter-interview-questions/)
 
 ### [Programming] - [Git]
 
@@ -717,6 +729,7 @@
 * [Beautify your GitHub Profile](https://dev.to/philiphaines/beautify-your-github-40hh)
 * [Keeping Git Commit Messages Consistent with a Custom Template](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm)
 * [Git and GitHub: The Complete Guides](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
+* [Git Interview Questions](https://www.interviewbit.com/git-interview-questions/)
 
 ### [Programming] - [Go]
 
@@ -757,6 +770,7 @@
 * ⭐⭐ [htmlreference.io - A free guide to all HTML elements and attributes.](https://htmlreference.io/)
 * 🇪🇸🎓 [Introducción a HTML5](https://lenguajehtml.com/p/html/)
 * 🇪🇸🎓 [HTML5 - Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
+* [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
 
 ### [Programming] - [Identity Management]
 
@@ -810,6 +824,7 @@
 * [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
 * [jbang - Try out any Java API with one file](https://www.jbang.dev/)
 * [FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications](https://github.com/JFormDesigner/FlatLaf)
+* [Java Interview Questions](https://www.interviewbit.com/java-interview-questions/)
 
 #### [Programming] - [Java] - [Blogs]
 
@@ -1026,6 +1041,7 @@
 * [ccampbell/mousetrap - Mousetrap is a simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
 * ⭐ [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
+* [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### [Programming] - [Kotlin]
 
@@ -1045,6 +1061,7 @@
 * [Kotlin by Example](http://kotlinbyexample.org/)
 * [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664)
 * ⭐ [Kotlin coding puzzle and solutions](https://github.com/igorwojda/kotlin-coding-puzzle)
+* [Kotlin Interview Questions](https://www.interviewbit.com/kotlin-interview-questions/)
 
 #### [Programming] - [Kotlin] - [Samples]
 
@@ -1115,6 +1132,7 @@
 * [Apache MXNet - A flexible and efficient library for deep learning.](https://mxnet.apache.org/)
 * [The Microsoft Cognitive Toolkit](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 * [Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science](https://www.streamlit.io/)
+* [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
 
 ### [Programming] - [Markdown]
 
@@ -1123,6 +1141,7 @@
 * [QOwnNotes - Plain-text file notepad with markdown support and ownCloud integration](https://www.qownnotes.org/)
 * [Pandoc - If you need to convert files from one markup format into another, pandoc is your swiss-army knife.](https://pandoc.org/)
 * [Strapdown.js makes it embarrassingly simple to create elegant Markdown documents.](http://strapdownjs.com/)
+* [Markdown Cheat Sheet](https://www.interviewbit.com/markdown-cheat-sheet/)
 
 ### [Programming] - [NativeScript]
 
@@ -1133,6 +1152,7 @@
 
 * [.NET is an open source developer platform, created by Microsoft, for building many different types of applications](https://dotnet.microsoft.com/)
 * [Create .NET apps faster with NuGet](https://www.nuget.org/)
+* [.Net Interview Questions](https://www.interviewbit.com/dot-net-interview-questions/)
 
 ### [Programming] - [Node.js]
 
@@ -1144,6 +1164,8 @@
 * ⭐ [NodeCloud is a resource directory gathering sites related to Node.js](http://www.nodecloud.org/)
 * [hapi.js - A rich framework for building applications and services](https://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](https://www.electrode.io/)
+* [.Net Interview Questions](https://www.interviewbit.com/dot-net-interview-questions/)
+* [Node.js Interview Questions](https://www.interviewbit.com/node-js-interview-questions/)
 
 ### [Programming] - [Online Editors]
 
@@ -1158,6 +1180,7 @@
 * [CodeSandbox](https://codesandbox.io/)
 * [StackBlitz - Create, edit & deploy fullstack apps](https://stackblitz.com/)
 * [Codiva is an online compiler and IDE for Java](https://www.codiva.io/java)
+* [Online Compiler](https://www.interviewbit.com/online-c-compiler/)
 
 ### [Programming] - [Patterns]
 
@@ -1199,6 +1222,7 @@
 * [PHP: Referencia del lenguaje - Manual](http://php.net/manual/es/langref.php)
 * [phpDocumentor](http://www.phpdoc.org/docs/latest/index.html)
 * [Testing y TDD para PHP](https://leanpub.com/testingytddparaphp/read)
+* [PHP Interview Questions](https://www.interviewbit.com/php-interview-questions/)
 
 ### [Programming] - [Polymer]
 
@@ -1215,6 +1239,7 @@
 
 * [PowerShell Documentation](https://docs.microsoft.com/es-es/powershell/)
 * [Welcome to the PowerShell Gallery](https://www.powershellgallery.com/)
+* [PowerShell Interview Questions](https://www.interviewbit.com/powershell-interview-questions/)
 
 ### [Programming] - [Processing]
 
@@ -1255,6 +1280,7 @@
 * [PyQt examples](https://github.com/pyqt/examples)
 * [Python and Qt are great for writing cross-platform desktop apps](https://build-system.fman.io/)
 * 📕 [Python books free to read online or download](https://github.com/pamoroso/free-python-books)
+* [Python Interview Questions](https://www.interviewbit.com/python-interview-questions/)
 
 ### [Programming] - [React]
 
@@ -1263,6 +1289,7 @@
 * [Belle - Configurable React Components with great UX](http://nikgraf.github.io/belle/#/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](http://www.electrode.io/site/native.html)
 * [Smooth UI - Modern UI library for React](https://www.smooth-code.com/open-source/smooth-ui/)
+* [React Interview Questions](https://www.interviewbit.com/react-interview-questions/)
 
 ### [Programming] - [ReactiveX]
 
@@ -1307,6 +1334,7 @@
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
 * [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
 * [A lightweight TypeScript library for creating particles](https://github.com/matteobruni/tsparticles)
+* [TypeScript Interview Questions](https://www.interviewbit.com/typescript-interview-questions/)
 
 ### [Programming] - [UWP]
 
@@ -1443,6 +1471,7 @@
 * [Froala Design Blocks - Over 170 responsive design blocks ready to be used in your web or mobile apps](https://www.froala.com/design-blocks)
 * [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
 * ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
+* [BootStrap Interview Questions](https://www.interviewbit.com/bootstrap-interview-questions/)
 
 ##### [Programming] - [Web] - [CSS Frameworks] - [Tailwind]
 
@@ -3231,6 +3260,7 @@
 * [Reproductores de música para la línea de comandos en Ubuntu](https://ubunlog.com/reproductores-de-musica-para-la-linea-de-comandos/)
 * [A cat(1) clone with syntax highlighting and Git integration](https://github.com/sharkdp/bat)
 * [Blending the terminal in a GUI world](https://github.com/jarun)
+* [Linux Commands Cheat Sheet](https://www.interviewbit.com/linux-commands-cheat-sheet/)
 
 ### [Linux] - [Shell Scripting]
 
