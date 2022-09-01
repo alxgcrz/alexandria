@@ -633,6 +633,7 @@
 ### [Programming] - [C++]
 
 * 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
+* 🎓 [Learn the concept of C++ in detail](https://www.scaler.com/topics/cpp).
 
 ### [Programming] - [C#]
 
