@@ -104,6 +104,7 @@
 * ⭐ [SoloLearn - Learn to Code for free](https://www.sololearn.com/)
 * [The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki](https://course.elementsofai.com/)
 * [The Odin Project](https://www.theodinproject.com/home)
+* [Learn Programming In Detail | Scaler Topics](https://www.scaler.com/topics/)
 
 ### [Programming] - [Books]
 
