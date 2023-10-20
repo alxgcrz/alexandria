@@ -31,6 +31,8 @@
 * [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 * [A complete computer science study plan to become a software engineer](https://github.com/jwasham/coding-interview-university)
 * [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
+* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
+* 🇪🇸📕 [Fundamentos de sistemas operativos](https://sistop.org/)
 
 ### [Programming] - [Utils]
 
@@ -57,6 +59,8 @@
 * [Codepad - Organize and Share Code Snippets](https://codepad.co/)
 * [Various README templates & tips on writing high-quality documentation](https://github.com/kylelobo/The-Documentation-Compendium/)
 * [Swiss Army knife for developers - An offline Windows app that helps developers in daily tasks](https://devtoys.app/)
+* ⭐ [IT-TOOLS | Handy tools for developers](https://it-tools.tech/)
+* [AsciiDoc is a plain text markup language for writing technical content](https://asciidoc.org/)
 
 ### [Programming] - [Utils] - [Regex]
 
@@ -76,7 +80,6 @@
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
 * [Awesome Open Source](https://awesomeopensource.com/)
-* [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 
 ### [Programming] - [Challenge]
 
@@ -198,6 +201,7 @@
 * ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
 * ⭐📕 [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/)
 * [Visualgo - Visualising data structures and algorithms through animation](https://visualgo.net)
+* [Algorithm Visualizer is an interactive online platform that visualizes algorithms from code](https://algorithm-visualizer.org/)
 
 ### [Programming] - [Android]
 
@@ -559,6 +563,7 @@
 * [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
 * [Transloco - The internationalization (i18n) library for Angular](https://netbasal.gitbook.io/transloco/)
 * [Reactive State for Angular](https://ngrx.io/)
+* 📕 [Angular Mini-Book](https://github.com/mraible/angular-book)
 
 ### [Programming] - [Architecture & Container Platforms]
 
@@ -599,6 +604,19 @@
 
 * [Introductory Reference to the IBM AS/400](https://krypton.mnsu.edu/~aq5097xt/web/as400/intref.html)
 * [THE MAINFRAME CORNER](http://mainframecorner.com/)
+
+### [Programming] - [Bash]
+
+* [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
+* [Ultimate List of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
+* [Pure Bash Bible | A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+* [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
+
+### [Programming] - [Cobol]
+
+* [COBOL Tutorial](https://www.tutorialspoint.com/cobol/index.htm)
+* [COBOL | IBM](https://www.ibm.com/docs/es/i/7.3?topic=languages-cobol)
+* [Curso de COBOL totalmente desde cero](https://www.programacionfacil.org/cursos/cobol/cobol_index.html)
 
 ### [Programming] - [CSS3]
 
@@ -652,6 +670,7 @@
 * [DartPad is an open-source tool that lets you play with the Dart language in any modern browser](https://dartpad.dev/)
 * [Dart Academy](https://dart.academy/)
 * [Parses raw command-line arguments into a set of options and values](https://pub.dev/packages/args)
+* [Jaspr | A modern web framework for building websites in Dart with support for both client-side and server-side rendering](https://github.com/schultek/jaspr)
 
 ### [Programming] - [Database]
 
@@ -797,7 +816,8 @@
 * ⭐ [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
 * ⭐⭐ [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
 * [Ideone is an online compiler and debugging tool](http://ideone.com/)
-* ⭐⭐ [Repl.it - Code Java, compile Java, run Java, and host your programs and apps online for free](https://repl.it/languages/java)
+* ⭐⭐ [The Java Playground](https://java-playground.com/)
+* ⭐⭐ [The Java Playground is a simple online tool that helps you to explore Java Language features - Oracle](https://dev.java/playground/)
 * [Weld is the reference implementation of CDI: Contexts and Dependency Injection for the Java EE Platform](http://weld.cdi-spec.org/)
 * [Containerizing Apps with jlink](https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink)
 * [Get Started with Java](https://www.baeldung.com/get-started-with-java-series)
@@ -808,8 +828,14 @@
 * [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
 * [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
 * [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
+* [picocli, un poderoso framework para la creación de aplicaciones de línea de comandos](https://ubunlog.com/picocli-un-poderoso-framework-para-la-creacion-de-aplicaciones-de-linea-de-comandos/)
+* ⭐ [picocli - a mighty tiny command line interface](https://picocli.info/)
 * [jbang - Try out any Java API with one file](https://www.jbang.dev/)
 * [FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications](https://github.com/JFormDesigner/FlatLaf)
+* [New language features since Java 8 to 18](https://advancedweb.hu/new-language-features-since-java-8-to-18/)
+* [Eclipse JKube is a collection of plugins and libraries that are used for building container images using Docker, JIB or S2I build strategies](https://eclipse.dev/jkube/)
+* [JBehave is a framework for Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design](https://jbehave.org/)
+* [Cucumber Open is the world’s #1 automation tool for Behavior-Driven Development](https://cucumber.io/tools/cucumber-open/)
 
 #### [Programming] - [Java] - [Blogs]
 
@@ -831,6 +857,7 @@
 * [Inside Java - News and views from the Java team at Oracle](https://inside.java/)
 * ⭐ [The JetBrains Blog](https://blog.jetbrains.com/category/news/)
 * [James Ward](https://jamesward.com/)
+* [Microsoft | Java at Microsoft](https://developer.microsoft.com/en-us/java)
 
 #### [Programming] - [Java] - [Libraries]
 
@@ -839,6 +866,7 @@
 * ⭐ [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
 * ⭐ [Eclipe Projects](https://projects.eclipse.org/)
 * ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://www.eclipse.org/collections/)
+* [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
 * ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
 * ⭐ [Package Search - Jetbrains](https://package-search.jetbrains.com/)
 * [Trending Java Projects](https://www.libhunt.com/l/java/trending)
@@ -870,7 +898,7 @@
 * [crawler4j is an open source web crawler for Java](https://github.com/yasserg/crawler4j)
 * [JReleaser - The quick and effortless way to release your Java project!](https://jreleaser.org/)
 
-##### [Programming] - [Java] - [Libraries] -  [Artificial Intelligence (AI)]
+##### [Programming] - [Java] - [Libraries] - [Artificial Intelligence (AI)]
 
 * [Overview of AI Libraries in Java](https://www.baeldung.com/java-ai)
 * [Apache Jena is an open source Java framework for building semantic web and linked data applications from RDF data](https://jena.apache.org/)
@@ -975,6 +1003,7 @@
 * [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
 * [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
 * [StreamPi - Made in JavaFX](https://stream-pi.com/)
+* [AtlantaFX | Modern JavaFX CSS theme collection with additional controls](https://github.com/mkpaz/atlantafx)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -995,11 +1024,12 @@
 * <https://maven.apache.org/plugins/index.html>
 * <https://itnext.io/writing-a-full-featured-maven-pom-f5b874eef312>
 
-### [Programming] - [Javascript]
+### [Programming] - [JavaScript]
 
 * 📕 [Eloquent JavaScript](http://eloquentjavascript.net/)
 * 📕 [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 * 📕 [The JavaScript Way](https://github.com/thejsway/thejsway)
+* 📕 [The Modern JavaScript Tutorial](https://javascript.info/)
 * 👓 [sorrycc/awesome-javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things](https://github.com/sorrycc/awesome-javascript)
 * [CoffeeScript is a little language that compiles into JavaScript](https://coffeescript.org/)
 * [Closure Tools — The Closure Compiler, Library, Templates, and Stylesheets help developers create powerful and efficient JavaScript](https://developers.google.com/closure/)
@@ -1026,6 +1056,7 @@
 * [ccampbell/mousetrap - Mousetrap is a simple library for handling keyboard shortcuts in Javascript](https://github.com/ccampbell/mousetrap)
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
 * ⭐ [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
+* ⭐ [QX82 is a tiny Javascript engine that lets you create games and experiences inspired by the look and feel of a retro 80s computer](https://btco.github.io/qx82/)
 
 ### [Programming] - [Kotlin]
 
@@ -1144,6 +1175,10 @@
 * ⭐ [NodeCloud is a resource directory gathering sites related to Node.js](http://www.nodecloud.org/)
 * [hapi.js - A rich framework for building applications and services](https://hapijs.com/)
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](https://www.electrode.io/)
+* [Node Version Manager](https://github.com/nvm-sh/nvm)
+* [NVM for Windows](https://github.com/coreybutler/nvm-windows)
+* [Así puedes instalar un entorno básico de desarrollo de Node.js en Windows (sin necesidad de WSL)](https://www.genbeta.com/desarrollo/asi-puedes-instalar-entorno-basico-desarrollo-node-js-windows-necesidad-wsl)
+* [Instalación de NodeJS en Windows](https://learn.microsoft.com/es-es/windows/dev-environment/javascript/nodejs-on-windows)
 
 ### [Programming] - [Online Editors]
 
@@ -1255,6 +1290,8 @@
 * [PyQt examples](https://github.com/pyqt/examples)
 * [Python and Qt are great for writing cross-platform desktop apps](https://build-system.fman.io/)
 * 📕 [Python books free to read online or download](https://github.com/pamoroso/free-python-books)
+* 🇪🇸📕 [Python para todos](https://es.py4e.com/book)
+* 📕 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### [Programming] - [React]
 
@@ -1362,6 +1399,8 @@
 * [HTML5, CSS3, JS Demos, Creations and Experiments | CSSDeck](http://cssdeck.com/)
 * 🧰 [HEAD - A free guide to HTML5 `<head>` elements](https://htmlhead.dev/)
 * [CS Visualized: CORS](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+* [Curated Webdev Resources](https://intab.io/resources/)
+* [Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React](https://www.patterns.dev/)
 
 #### [Programming] - [Web] - [Bundlers]
 
@@ -1497,6 +1536,7 @@
 * [LookForward.js is a small library that helps you to create smooth transitions between pages with the easiest way](https://appleple.github.io/lookforward/)
 * 🎓 [Learn Animation | kirupa.com](http://www.kirupa.com/html5/learn_animation.htm)
 * [CSSeffectsSnippets. – A collection of handy CSS animations that you can copy and paste](https://emilkowalski.github.io/css-effects-snippets/)
+* [WinBox is a modern HTML5 window manager for the web. Lightweight, outstanding performance, no dependencies, fully customizable, free and open source!](https://nextapps-de.github.io/winbox/)
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Audio]
 
@@ -2081,7 +2121,7 @@
 * [Stencyl](http://www.stencyl.com/)
 * [Defold](https://www.defold.com/)
   * 📺 [Introductory Defold Game Engine Tutorials](https://www.youtube.com/playlist?list=PLseKVnAXs_iVaksj-sjkz6R1D9Fpv1EaT)
-* [Wave Engine](https://waveengine.net/)
+* [Evergine (previously known as Wave Engine)](https://evergine.com/)
 * [Haxe](https://haxe.org/)
 * [Construct3](https://www.scirra.com/)
 * [Ren'Py](https://www.renpy.org/)
@@ -2177,6 +2217,7 @@
 * [Godot God Rays Plugin](https://github.com/SIsilicon/Godot-God-Rays-Plugin)
 * [Godot Shaders](https://godotshaders.com/)
 * [Kotlin/JVM binding for the Godot Game Engine](https://github.com/utopia-rise/godot-kotlin-jvm)
+* [GDScript Mastery - GDScript Cheatsheet](https://dev.to/godot/gdscript-cheatsheet-5ghe)
 
 #### [Games] - [Engines] - [Unreal Engine 4]
 
@@ -2596,6 +2637,7 @@
 * [The Essential Guide to @font-face](https://www.webpagefx.com/blog/web-design/font-face-guide/)
 * [Understanding Web Fonts and Getting the Most Out of Them](https://css-tricks.com/understanding-web-fonts-getting/)
 * ⭐ [Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com/#home)
+* ⭐ [Dev Fonts](https://devfonts.gafi.dev/)
 
 #### [Design] - [Resources] - [Fonts] - [Catalogue]
 
@@ -2620,12 +2662,14 @@
 * [Kreativ – Curated typography and fonts](https://www.kreativfont.com/freebies)
 * [OpenFoundry](https://open-foundry.com/fonts)
 * [The League of Moveable Type](https://www.theleagueofmoveabletype.com/)
-* ⭐ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/fontlist/#ibm_pc_bios)
+* ⭐ [The Ultimate Oldschool PC Font Pack: The Fonts!](http://int10h.org/oldschool-pc-fonts/)
 * [Inspirational font combinations and color palettes](https://typespiration.com/)
 * [Typography Inspiration for the Modern Web · Typewolf](https://www.typewolf.com/)
 * ⌨ [Typography in 8 bits: System fonts](https://damieng.com/blog/2011/02/20/typography-in-8-bits-system-fonts)
 * [Fontshare is a free fonts service](https://www.fontshare.com/)
 * [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
+* [Fonts In Use | An independent archive of typography](https://fontsinuse.com/)
+* [ZX Origins - 8x8 fonts](https://damieng.com/typography/zx-origins/)
 
 #### [Design] - [Resources] - [Fonts] - [Single]
 
@@ -2651,6 +2695,9 @@
 * ⌨ [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
 * ⌨ [Victor Mono is an open-source monospaced font](https://rubjo.github.io/victor-mono/)
 * ⌨ [Input - Font for code](https://input.fontbureau.com/)
+* ⌨ [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
+* ⌨ [Intel One Mono, una tipografía clara y legible para quienes trabajan con código](https://www.microsiervos.com/archivo/arte-y-diseno/intel-one-mono-tipografia-clara-legible-codigo.html)
+* [B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens](https://github.com/polarsys/b612)
 
 #### [Design] - [Resources] - [Icons]
 
@@ -2748,6 +2795,7 @@
 * [TEMPLATED - Free CSS, HTML5 and Responsive Site Templates](https://templated.co/)
 * [themefisher/infinity-bootstrap4-coming-soon-template](https://github.com/themefisher/infinity-bootstrap4-coming-soon-template)
 * [WordPress Themes & Website Templates from ThemeForest](https://themeforest.net/)
+* [Openblog is an elegant, simple, and user-friendly blog. Focused on accessibility, SEO and performance.](https://github.com/danielcgilibert/blog-template)
 
 #### [Design] - [Resources] - [UI Kit]
 
@@ -2813,6 +2861,7 @@
 * [The iOS Design Guidelines - Ivo Mynttinen / User Interface Designer](http://iosdesign.ivomynttinen.com/)
 * [The ultimate guide to flat design | Webdesigner Depot](http://www.webdesignerdepot.com/2013/09/the-ultimate-guide-to-flat-design/)
 * ⭐ [Refactoring UI](https://refactoringui.com/)
+* ⭐ [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/)
 
 ### [Design] - [Inspiration]
 
@@ -2829,6 +2878,7 @@
 * [Collect UI - Daily inspiration collected from daily ui archive and beyond. Based on Dribbble shots, hand picked, updating daily.](http://collectui.com/)
 * [Science Fiction Interfaces](http://sciencefictioninterfaces.tumblr.com/)
 * [Odyssey example FTW | By CartoDB using Odyssey.js](http://bl.ocks.org/anonymous/raw/bb0a6baace7549a41f05/)
+* [HUDS+GUIS was created as an inspiration and resource site for interactive designers](https://www.hudsandguis.com/)
 
 #### [Design] - [Inspiration] - [Web]
 
@@ -3073,7 +3123,7 @@
 * [Linux Kodachi3, un SO seguro, anti-forense, anónimo... y fácil de usar : hackplayers](http://www.hackplayers.com/2017/01/linux-kodachi3-un-so-seguro-anti.html)
 * [vFeed: una BD de vulnerabilidades - Security Art Work](http://www.securityartwork.es/2015/07/21/vfeed-una-bd-de-vulnerabilidades/)
 * [Two Factor Auth List](https://twofactorauth.org/)
-* [INCIBE - Instituto Nacional de Ciberseguridad](https://www.incibe.es/)
+* ⭐ [INCIBE - Instituto Nacional de Ciberseguridad](https://www.incibe.es/)
 * [Tor Project: Anonymity Online](http://www.torproject.org/)
 * [SHODAN - Computer Search Engine](http://www.shodanhq.com/)
 * [PSI - Consumer - Products](http://secunia.com/vulnerability_scanning/personal/)
@@ -3218,6 +3268,7 @@
 * ⭐ [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
 * [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
 * [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
+* [Linux Command Library](https://linuxcommandlibrary.com/)
 * [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
 * ⭐ [fish - the friendly interactive shel](https://github.com/fish-shell/fish-shell)
 * 📕 [The Linux Command Line by William E. Shotts, Jr.](http://linuxcommand.org/tlcl.php)
