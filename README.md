@@ -33,14 +33,16 @@
 * [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
 * [Awesome Interviews](https://github.com/DopplerHQ/awesome-interview-questions)
 * 🇪🇸📕 [Fundamentos de sistemas operativos](https://sistop.org/)
+* ⭐ [Community driven roadmaps, articles and resources for developers](https://github.com/kamranahmedse/developer-roadmap)
 
 ### [Programming] - [Utils]
 
 * ⭐⭐ [DevDocs](https://devdocs.io/)
+* ⭐⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
 * ⭐ [Zeal - offline API documentation browser](https://zealdocs.org/)
-* ⭐ [Devhints — TL;DR for developer documentation](https://devhints.io/)
 * ⭐ [searchcode | source code search engine](https://searchcode.com/)
 * ⭐ [Collecting All Cheat Sheets](http://overapi.com/)
+* [John's Cheatsheets](https://www.john-cd.com/cheatsheets/)
 * [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [Pointers to useful, well-written, and otherwise beautiful documentation](https://github.com/PharkMillups/beautiful-docs)
 * ⭐ [gitignore.io - Create Useful .gitignore Files For Your Project](https://www.gitignore.io/)
@@ -61,6 +63,8 @@
 * [Swiss Army knife for developers - An offline Windows app that helps developers in daily tasks](https://devtoys.app/)
 * ⭐ [IT-TOOLS | Handy tools for developers](https://it-tools.tech/)
 * [AsciiDoc is a plain text markup language for writing technical content](https://asciidoc.org/)
+* [MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation](https://www.mkdocs.org/)
+* [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 ### [Programming] - [Utils] - [Regex]
 
@@ -80,6 +84,10 @@
 * [An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.](https://github.com/lk-geimfari/awesomo)
 * [400+ Free Resources for DevOps and Sysadmins - DZone DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins)
 * [Awesome Open Source](https://awesomeopensource.com/)
+* [A collection of tech resources that allow you to learn new things by playing games](https://github.com/lmammino/awesome-learn-by-playing)
+* [A Collection of application ideas which can be used to improve your coding skills](https://github.com/florinpop17/app-ideas)
+* [A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev)
+* [A curated list of software and architecture related design patterns](https://github.com/DovAmir/awesome-design-patterns)
 
 ### [Programming] - [Challenge]
 
@@ -151,7 +159,7 @@
 * [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
 * [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
 * [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
-* [Microsoft Learn](https://docs.microsoft.com/es-es/learn/)
+* [Microsoft Learn](https://learn.microsoft.com/es-es/training/)
 * [Windows Sysinternals](https://docs.microsoft.com/es-es/sysinternals/)
 
 #### [Programming] - [Official] - [Google]
@@ -194,6 +202,7 @@
 
 ### [Programming] - [Algorithms]
 
+* [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms)
 * ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Learn how to code and build efficient algorithms](https://www.spoj.com/)
@@ -564,6 +573,8 @@
 * [Transloco - The internationalization (i18n) library for Angular](https://netbasal.gitbook.io/transloco/)
 * [Reactive State for Angular](https://ngrx.io/)
 * 📕 [Angular Mini-Book](https://github.com/mraible/angular-book)
+* [Nebular is a customizable Angular UI library](https://akveo.github.io/nebular/)
+* [ngx-admin - Customizable admin dashboard template based on Angular 10+](https://github.com/akveo/ngx-admin)
 
 ### [Programming] - [Architecture & Container Platforms]
 
@@ -610,6 +621,7 @@
 * [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
 * [Ultimate List of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
 * [Pure Bash Bible | A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
+* [ShellCheck - finds bugs in your shell scripts.](https://www.shellcheck.net/)
 * [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
 
 ### [Programming] - [Cobol]
@@ -618,35 +630,130 @@
 * [COBOL | IBM](https://www.ibm.com/docs/es/i/7.3?topic=languages-cobol)
 * [Curso de COBOL totalmente desde cero](https://www.programacionfacil.org/cursos/cobol/cobol_index.html)
 
-### [Programming] - [CSS3]
+### [Programming] - [CSS]
 
 * 👓 [awesome-css-group/awesome-css - A curated contents of amazing CSS](https://github.com/awesome-css-group/awesome-css)
-* [Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS](http://stylus-lang.com/)
-* [Basscss - Low-Level CSS Toolkit](https://basscss.com/)
-* [PostCSS - A tool for transforming CSS with JavaScript](https://postcss.org/)
-* [PostCSS Preset Env lets you convert modern CSS into something most browsers can understand](https://preset-env.cssdb.org/)
-* [cssnano is a modern, modular compression tool written on top of the PostCSS ecosystem](https://cssnano.co/)
-* [Crayon.css is a list of css variables linking color names to hexadecimal values](https://riccardoscalco.it/crayon/)
-* 🎓 [CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
+* [W3C CSS Spec](https://www.w3.org/Style/CSS/)
+* ["Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers](https://caniuse.com/)
+* 🎓 [CSS - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [W3Schools provides a beginner-friendly tutorials with live examples](https://www.w3schools.com/css/default.asp)
 * ⭐⭐ [cssreference.io - A free visual guide to the most popular CSS properties](https://cssreference.io/)
-* 🇪🇸🎓 [Lenguaje CSS (Hojas de estilo)](https://lenguajecss.com/p/css/)
+* 🇪🇸🎓 [Lenguaje CSS (Hojas de estilo)](https://lenguajecss.com/css/)
+* [CSS-Tricks](https://css-tricks.com/almanac/>)
+* 🎓 [CSS Guidelines - High-level advice and guidelines for writing sane, manageable, scalable CSS](https://cssguidelin.es/)
 * 🎓 [The Magic of CSS — Adam Schwartz](https://adamschwartz.co/magic-of-css/)
-* 🇪🇸🎓 [Cómo perder peso (en el navegador)](https://browserdiet.com/es/)
+* [CSS Zen Garden is a great source to get inspiration for creating unique designs using CSS](https://www.csszengarden.com/)
+* [Grid by Example](https://gridbyexample.com/learn/)
 * 🧰 [CSS3 Generator](http://css3generator.com/)
-* 🎓 [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-* 🎓 [How Flexbox works — explained with big, colorful, animated gifs](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
-* 🎓 [Flexbox Ninja - Flexbox Case Studies](https://flexbox.ninja/)
-* 🧰 [Tridiv | CSS 3D Editor](http://tridiv.com/)
 * 🧰 [The Ultimate CSS3 Generator | Web Code Tools](https://webcode.tools/css-generator)
-* 🎓 [CSS Ruler • Explore CSS lengths](https://katydecorah.com/css-ruler/)
-* 🧰 [Amino is a Chrome browser extension for writing user CSS that persists](https://aminoeditor.com/)
-* [Styled System - Style props for rapid UI development](https://styled-system.com/)
-* [Styled Components - Use the best bits of ES6 and CSS to style your apps without stress](https://www.styled-components.com/)
-* [xstyled - A new way to style components](https://xstyled.dev/)
-* 🎓 [CSS selectors cheatsheet](https://frontend30.com/css-selectors-cheatsheet/)
-* [CSS Layout – A collection of popular CSS layouts and patterns](https://csslayout.io/)
-* 🇪🇸🎓 [CSS - Mozilla](https://developer.mozilla.org/es/docs/Web/CSS)
 * 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
+
+#### [Programming] - [CSS] - [Frameworks]
+
+* [Basscss - Low-Level CSS Toolkit](https://basscss.com/)
+* [U.S. Web Design System.](https://v2.designsystem.digital.gov/documentation/)
+* [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/#/)
+* [Base Web, Uber’s New Design System for Building Websites in React](https://baseweb.design/)
+* [Primer - Resources, tooling, and design guidelines for building interfaces with GitHub’s design system](https://primer.style/)
+* [Vanilla Framework - Vanilla is a simple extensible CSS framework, written in Sass, by the Ubuntu Web Team](https://vanillaframework.io/)
+* [PatternFly 4 is an open source design system built to drive consistency and unify teams - Red Hat](https://www.patternfly.org/v4/)
+* [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
+* [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
+* [Ring UI — JetBrains Web UI components](https://jetbrains.github.io/ring-ui/master/index.html)
+* [Skin is eBay's official CSS framework](https://ebay.github.io/skin/)
+* [Marko - eBay](https://markojs.com/)
+* ⭐ [Bulma: a modern CSS framework based on Flexbox](https://bulma.io/)
+* ⭐ [Foundation - The most advanced responsive front-end framework in the world](https://foundation.zurb.com/)
+* [CodyHouse's Design System is an arsenal of production-ready components and tools](https://codyhouse.co/ds/get-started)
+* [Pure.css - A set of small, responsive CSS modules that you can use in every web project](https://purecss.io/)
+* [InK - Create responsive web interfaces quick and efficiently](https://ink.sapo.pt/)
+* [Metro 4 is an open source toolkit for developing with HTML, CSS, and JS](https://metroui.org.ua/index.html)
+* [Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML](https://semantic-ui.com/)
+* [UIkit - A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://getuikit.com/)
+* [Shards Demo - A Modern UI Toolkit for Web Makers](https://designrevision.com/demo/shards/)
+* [Yoga | Flexible Layouts with Yoga](https://yogalayout.com/)
+* [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
+* [mini.css - Minimal, responsive, style-agnostic CSS framework](https://minicss.org/)
+* [Milligram - A minimalist CSS framework.](https://milligram.io/)
+* ⭐⭐ [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
+* ⭐⭐ [98.css is a CSS library for building interfaces that look like Windows 98](https://jdan.github.io/98.css/)
+* ⭐ [Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps](https://arwes.dev/)
+* [Text-based user interface CSS framework](https://github.com/vinibiavatti1/TuiCss/wiki)
+* [PaperCSS · the less formal CSS framework](https://www.getpapercss.com/)
+* [Picnic CSS - Lightweight and beautiful library](https://picnicss.com/)
+* [Kube UI Framework - Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike](https://imperavi.com/kube/)
+* [Base - A Rock Solid, Responsive CSS Framework](http://getbase.org/)
+* [Sierra: The smallest and lightest SCSS library](http://sierra-library.github.io/)
+* [siimple - A flat, minimal and different CSS framework](https://www.siimple.xyz/)
+* [Blaze - Open Source Modular UI Toolkit](https://www.blazeui.com/)
+* [Concise.CSS / A better front-end framework.](https://concisecss.com/)
+* [Flexbox Patterns - Build awesome user interfaces with CSS flexbox](https://www.flexboxpatterns.com/)
+* ⭐ [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
+* [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/)
+* [Terminal CSS - A modern and minimal CSS framework for terminal lovers](https://terminalcss.xyz/)
+* [Fomantic-UI - A community fork of Semantic-UI](https://fomantic-ui.com/)
+* [Raster Simple Grid System](https://rsms.me/raster/)
+* [Butter Cake is a free, open source modular responsive front-end CSS framework based on Flexbox](https://getbuttercake.com/)
+* [Destyle.css - Opinionated reset stylesheet that provides a clean slate for styling your html](https://nicolas-cusan.github.io/destyle.css/)
+* [css-fx-layout - A lightweight SCSS/CSS only flexbox library inspired by Angular's flex-layout](https://github.com/philmtd/css-fx-layout)
+* [TypeSafe CSS](https://uglyduck.ca/typesafe-css/)
+* [New.css](https://github.com/xz/new.css)
+* [Kor - An open source Design System and lightweight UI Component Library](https://kor-ui.com/introduction/welcome)
+* [Kirigami UI Framework - Build beautiful, convergent apps that run on phones, TVs and everything in between](https://develop.kde.org/frameworks/kirigami/)
+* [MauiKit - A free and modular front-end framework for developing fast and compelling user experiences](https://mauikit.org/)
+* [Yogurt - A colossal low-level utility CSS framework for crafting beautiful and elegant user interface at an atomic level](https://yogurtcss.netlify.app/)
+* [gd.css styles all visible HTML elements in line with modern best practice.](https://gdcss.netlify.app/)
+* [Minimal CSS Framework for semantic HTML](https://picocss.com/)
+
+##### [Programming] - [CSS] - [Frameworks] - [Bootstrap]
+
+* ⭐ [Bootstrap](https://getbootstrap.com/)
+* [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
+* [Start Bootstrap - Free HTML Templates for Bootstrap 3](https://startbootstrap.com/)
+* [Smoke - Form validation and components for Bootstrap](http://alfredobarron.github.io/smoke/#/)
+* [Froala Design Blocks - Over 170 responsive design blocks ready to be used in your web or mobile apps](https://www.froala.com/design-blocks)
+* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
+* ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
+
+##### [Programming] - [CSS] - [Frameworks] - [Tailwind]
+
+* ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
+* [Tailwind Labs - Creators of Tailwind CSS, Tailwind UI, and Refactoring UI.](https://github.com/tailwindlabs)
+* 📺 [Curso de Tailwind CSS](https://www.youtube.com/watch?v=aUuYGDK6Oio)
+* [Tailblocks - Ready-to-use Tailwind CSS blocks](https://github.com/mertJF/tailblocks)
+* [wickedblocks - ready made Tailwind CSS blocks, for your next project](https://blocks.wickedtemplates.com/)
+* [Meraki UI Components](https://merakiui.com/)
+* [Kometa UI Kit](https://kitwind.io/products/kometa)
+* [Mamba UI](https://mambaui.com/)
+* [Tail-kit](https://www.tailwind-kit.com/)
+* [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
+* [DaisyUI](https://daisyui.com/)
+
+### [Programming] - [CSS] - [Preprocesadores]
+
+* [Stylus is a revolutionary new language, providing an efficient, dynamic, and expressive way to generate CSS](http://stylus-lang.com/)
+* [PostCSS - A tool for transforming CSS with JavaScript](https://postcss.org/)
+* [cssnano is a modern, modular compression tool written on top of the PostCSS ecosystem](https://cssnano.co/)
+
+### [Programming] - [CSS] - [Preprocesadores] - [SASS]
+
+* 👓 [Famolus/awesome-sass - Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources](https://github.com/Famolus/awesome-sass)
+* [Sass is the most mature, stable, and powerful professional grade CSS extension language in the world](https://sass-lang.com/)
+* [csstyle is a modern approach for crafting beautifully maintainable stylesheets](https://www.csstyle.io/)
+* [Compass is an open-source CSS Authoring Framework](http://compass-style.org/)
+* [Bourbon - A Sass Mixin Library](https://www.bourbon.io/)
+* [Neat - A lightweight and flexible Sass grid](https://neat.bourbon.io/)
+* [Bitters - Scaffold styles, variables and structure for Bourbon projects](http://bitters.bourbon.io/)
+* [Scut is a collection of Sass utilities to ease and improve our implementations of common style-code patterns.](http://davidtheclark.github.io/scut/)
+* [Typebase.css is a minimal, customizable typography stylesheet](http://devinhunt.github.io/typebase.css/)
+* 🎓 [Digging Into Sass - A Guide - Hongkiat](http://www.hongkiat.com/blog/easy-sass-guide/)
+* 🎓 [Sass Guidelines](https://sass-guidelin.es/es/#introduccin)
+
+### [Programming] - [CSS] - [Preprocesadores] - [LESS]
+
+* [LESS - The Dynamic Stylesheet language](http://lesscss.org/)
+* 👓 [LucasBassetti/awesome-less -  curated list of awesome {Less}](https://github.com/LucasBassetti/awesome-less)
+* [Preboot is a comprehensive and flexible collection of LESS utilities](http://getpreboot.com/)
 
 ### [Programming] - [C++]
 
@@ -697,16 +804,14 @@
 
 * 👓 [Solido/awesome-flutter - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more](https://github.com/Solido/awesome-flutter)
 * 🔸 [Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase](https://flutter.dev/)
-  * 🎓 [Build Native Mobile Apps with Flutter by Google - Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
-* 🇪🇸 [Flutter](https://flutter-es.io/)
 * [Find and use packages to build Dart and Flutter apps](https://pub.dev/)
   * [Official packages published by the Flutter Team](https://pub.dev/publishers/flutter.dev/packages)
   * [Firebase helps Flutter app teams succeed](https://pub.dev/publishers/firebase.google.com/packages)
-* [FlutterFire is a set of Flutter plugins which connect your Flutter application to Firebase](https://firebase.flutter.dev/docs/overview)
-* [Flutter Codelabs](https://codelabs.developers.google.com/flutterlive/?cat=Flutter)
-* [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://www.material.io/develop/flutter)
+* [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://m3.material.io/develop/flutter)
 * 📺 [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
 * [Secure Open-Source Backend Server for Web, Mobile & Flutter Developers](https://appwrite.io/)
+* [Flutter Gems is a curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality](https://fluttergems.dev/)
+* [Flutter Gallery provides examples of different widgets, layouts, and animations](https://gallery.flutter.dev/#/)
 
 ### [Programming] - [Git]
 
@@ -769,7 +874,7 @@
 
 * 👓 [Awesome - A curated list of awesome HTML5 resources](https://github.com/diegocard/awesome-html5)
 * ⭐ [Web Fundamentals and Tools - Google](https://developers.google.com/web/)
-* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* ["Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers](https://caniuse.com/)
 * [HTML5 Please - Look up HTML5, CSS3, etc features, know if they are ready for use](https://html5please.com/)
 * [HTML5 Boilerplate - The web’s most popular front-end template](https://html5boilerplate.com/)
 * [Modernizr: the feature detection library for HTML5/CSS3](https://modernizr.com/)
@@ -797,6 +902,7 @@
 * ⭐⭐[Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)
 * [OpenJDK](http://openjdk.java.net/)
 * ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
+* [The Destination for Java Developers](https://dev.java/)
 * [foojay — a place for friends of OpenJDK](https://foojay.io/)
 * [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 * [Java Development Kit builds, from Oracle](http://jdk.java.net/)
@@ -981,29 +1087,26 @@
 * [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
 * [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
 * [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
-* [ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution](https://github.com/controlsfx/controlsfx)
-* [Gluon - JavaFX Scene Builder](http://gluonhq.com/products/scene-builder/)
-* [The Gluon Client plugin leverages GraalVM, OpenJDK and JavaFX 11+, by compiling into native code the Java Client application](https://docs.gluonhq.com/client)
-* [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/)
-* [FXSkins - A collection of new Skins for existing JavaFX controls](https://pixelduke.com/fxskins/#Skins)
+* [Home to anything JavaFx related](https://www.jfx-central.com/)
+* [Gluon - JavaFX Long Term Support](https://gluonhq.com/)
 * [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
-* [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlemmermann/WorkbenchFX)
-* [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlemmermann/PreferencesFX)
-* [A library of material components for JavaFX](https://github.com/palexdev/MaterialFX)
-* [JavaFX Material Design Library](http://jfoenix.com/)
-* [SynchronizeFX is a library for JavaFX 2 and later that enables property bindings between different JVMs, both on a local computer and over the network](https://github.com/saxsys/SynchronizeFX)
-* [JavaFX Tip 32: Need Icons? Use Ikonli!](https://dlsc.com/2020/03/11/javafx-tip-32-need-icons-use-ikonli/)
-* [FontAwesomeFX](https://bitbucket.org/Jerady/fontawesomefx/src/master/)
-* [Icon packs for Java applications](http://kordamp.org/ikonli/) - <https://github.com/kordamp/ikonli>
-* [TilesFX - A JavaFX library containing tiles that can be used for dashboards.](https://github.com/HanSolo/tilesfx)
-* [CalendarFX - A Java framework for creating sophisticated calendar views based on JavaFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX)
-* [JavaFX Game Development Framework](https://github.com/AlmasB/FXGL)
-* [Getting started with JavaFX on Raspberry Pi](https://blogs.oracle.com/javamagazine/getting-started-with-javafx-on-raspberry-pi)
-* [Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph](https://github.com/JonathanGiles/scenic-view/)
-* [Say no to Electron! Using JavaFX to write a fast, responsive desktop application](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/saynotoelectronusingjavafxtowriteafastresponsivedesktopapplication)
-* [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
 * [StreamPi - Made in JavaFX](https://stream-pi.com/)
+
+#### [Programming] - [Java] - [JavaFX] - [Libraries]
+
+* [ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution](https://github.com/controlsfx/controlsfx)
+* [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/java-javafx-theme-jmetro/)
+* [FXSkins - A collection of new Skins for existing JavaFX controls](https://www.pixelduke.com/FXSkins/)
+* [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX)
+* [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX)
+* [CalendarFX - A Java framework for creating sophisticated calendar views based on JavaFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX)
+* [A library of material components for JavaFX](https://github.com/palexdev/MaterialFX)
+* [TilesFX - A JavaFX library containing tiles that can be used for dashboards.](https://github.com/HanSolo/tilesfx)
+* [JavaFX Game Development Framework](https://github.com/AlmasB/FXGL)
+* [Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph](https://github.com/JonathanGiles/scenic-view/)
 * [AtlantaFX | Modern JavaFX CSS theme collection with additional controls](https://github.com/mkpaz/atlantafx)
+* [Icon packs for Java applications](https://github.com/kordamp/ikonli)
+* [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
 
 #### [Programming] - [Java] - [RxJava]
 
@@ -1057,6 +1160,9 @@
 * [Inferno is an insanely fast, React-like library for building high-performance user interfaces on both the client and server](https://infernojs.org/)
 * ⭐ [Zdog - Round, flat, designer-friendly pseudo-3D engine for canvas & SVG](https://zzz.dog/)
 * ⭐ [QX82 is a tiny Javascript engine that lets you create games and experiences inspired by the look and feel of a retro 80s computer](https://btco.github.io/qx82/)
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [ESLint statically analyzes your code to quickly find problems](https://eslint.org/)
+* [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
 
 ### [Programming] - [Kotlin]
 
@@ -1118,12 +1224,9 @@
 * [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
 * ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
 * [Choose an open source license](https://choosealicense.com/)
-
-### [Programming] - [LESS]
-
-* [LESS - The Dynamic Stylesheet language](http://lesscss.org/)
-* 👓 [LucasBassetti/awesome-less -  curated list of awesome {Less}](https://github.com/LucasBassetti/awesome-less)
-* [Preboot is a comprehensive and flexible collection of LESS utilities](http://getpreboot.com/)
+* [LICENSE CHOOSER](https://chooser-beta.creativecommons.org/)
+* [Licencias Creative Commons: ¿Qué son y cuáles existen?](https://ubunlog.com/licencias-creative-commons/)
+* [REUSE was started by the Free Software Foundation Europe (FSFE) to provide a set of recommendations to make licensing your Free Software projects easier](https://reuse.software/)
 
 ### [Programming] - [Lua]
 
@@ -1177,8 +1280,8 @@
 * [Electrode | Universal React and Node.js Application Platform @WalmartLabs Powered](https://www.electrode.io/)
 * [Node Version Manager](https://github.com/nvm-sh/nvm)
 * [NVM for Windows](https://github.com/coreybutler/nvm-windows)
-* [Así puedes instalar un entorno básico de desarrollo de Node.js en Windows (sin necesidad de WSL)](https://www.genbeta.com/desarrollo/asi-puedes-instalar-entorno-basico-desarrollo-node-js-windows-necesidad-wsl)
 * [Instalación de NodeJS en Windows](https://learn.microsoft.com/es-es/windows/dev-environment/javascript/nodejs-on-windows)
+* [Nest.js - A progressive Node.js framework for building efficient, reliable and scalable server-side applications](https://nestjs.com/)
 
 ### [Programming] - [Online Editors]
 
@@ -1305,6 +1408,11 @@
 
 * [ReactiveX](http://reactivex.io/)
 
+### [Programming] - [Roadmap]
+
+* [A curated list of roadmaps](https://github.com/liuchong/awesome-roadmaps)
+* [roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings](https://roadmap.sh/)
+
 ### [Programming] - [RPC]
 
 * [A high-performance, open source universal RPC framework](https://grpc.io/)
@@ -1318,20 +1426,6 @@
 * [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
 * [You can build stuff!](http://www.arewewebyet.org/)
 
-### [Programming] - [SASS]
-
-* 👓 [Famolus/awesome-sass - Curated list of awesome Sass and SCSS frameworks, libraries, style guides, articles, and resources](https://github.com/Famolus/awesome-sass)
-* [Sass is the most mature, stable, and powerful professional grade CSS extension language in the world](https://sass-lang.com/)
-* [csstyle is a modern approach for crafting beautifully maintainable stylesheets](https://www.csstyle.io/)
-* [Compass is an open-source CSS Authoring Framework](http://compass-style.org/)
-* [Bourbon - A Sass Mixin Library](https://www.bourbon.io/)
-* [Neat - A lightweight and flexible Sass grid](https://neat.bourbon.io/)
-* [Bitters - Scaffold styles, variables and structure for Bourbon projects](http://bitters.bourbon.io/)
-* [Scut is a collection of Sass utilities to ease and improve our implementations of common style-code patterns.](http://davidtheclark.github.io/scut/)
-* [Typebase.css is a minimal, customizable typography stylesheet](http://devinhunt.github.io/typebase.css/)
-* 🎓 [Digging Into Sass - A Guide - Hongkiat](http://www.hongkiat.com/blog/easy-sass-guide/)
-* 🎓 [Sass Guidelines](https://sass-guidelin.es/es/#introduccin)
-
 ### [Programming] - [Templating Engine]
 
 * [Liquid Templating Engine](http://shopify.github.io/liquid/)
@@ -1344,6 +1438,15 @@
 * [Welcome to TypeScript](http://www.typescriptlang.org/)
 * [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
 * [A lightweight TypeScript library for creating particles](https://github.com/matteobruni/tsparticles)
+* [Zod is a TypeScript-first schema declaration and validation library](https://github.com/colinhacks/zod)
+* [Zustand - A small, fast and scalable bearbones state-management solution using simplified flux principles](https://github.com/pmndrs/zustand)
+* [tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation](https://github.com/trpc/trpc)
+* [Prisma is next-generation ORM for Node.js & TypeScript](https://github.com/prisma/prisma)
+* [Trigger.dev is the open source background jobs framework for TypeScript](https://github.com/triggerdotdev/trigger.dev)
+* [Novu - The open-source notification infrastructure with fully functional embedded notification center](https://github.com/novuhq/novu)
+* [Nest is a framework for building efficient, scalable Node.js server-side applications](https://github.com/nestjs/nest)
+* [tsParticles - TypeScript Particles](https://github.com/tsparticles/tsparticles)
+* [TypeDoc is a documentation generator for TypeScript](https://typedoc.org/guides/overview/)
 
 ### [Programming] - [UWP]
 
@@ -1365,8 +1468,9 @@
 * [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
 * [Vuetify.js - Material Design Component Framework](https://vuetifyjs.com/en/)
 * 👓 [GitHub - vuejs/awesome-vue: A curated list of awesome things related to Vue.js](https://github.com/vuejs/awesome-vue)
-* [Intro to Vue.js: Rendering, Directives, and Events | CSS-Tricks](https://css-tricks.com/intro-to-vue-1-rendering-directives-events/)
 * [Nuxt.js - The Progressive Vue.js Framework](https://nuxtjs.org/)
+* [Vue.js Serie in Dev.to](https://dev.to/hi_iam_chris/series/24385)
+* [Introducción a Vue.js](https://lenguajejs.com/vuejs/)
 
 ### [Programming] - [WebAssembly]
 
@@ -1417,85 +1521,6 @@
 * [Taiko - A node.js library to automate chrome/chromium browser](https://github.com/getgauge/taiko)
 * [Nightmare - A high-level browser automation library](https://www.nightmarejs.org/)
 * [Node library to automate Chromium, Firefox and WebKit with a single API - Microsoft](https://github.com/microsoft/playwright)
-
-#### [Programming] - [Web] - [CSS Frameworks]
-
-* [U.S. Web Design System.](https://v2.designsystem.digital.gov/documentation/)
-* [Microsoft Fluent Design System](https://www.microsoft.com/design/fluent/#/)
-* [Base Web, Uber’s New Design System for Building Websites in React](https://baseweb.design/)
-* [Primer - Resources, tooling, and design guidelines for building interfaces with GitHub’s design system](https://primer.style/)
-* [Vanilla Framework - Vanilla is a simple extensible CSS framework, written in Sass, by the Ubuntu Web Team](https://vanillaframework.io/)
-* [PatternFly 4 is an open source design system built to drive consistency and unify teams - Red Hat](https://www.patternfly.org/v4/)
-* [Atlassian's official UI library, built according to the Atlassian Design Guidelines.](https://atlaskit.atlassian.com/)
-* [OpenUI5 is an open source JavaScript UI library, maintained by SAP](https://openui5.org/)
-* [Ring UI — JetBrains Web UI components](https://jetbrains.github.io/ring-ui/master/index.html)
-* [Skin is eBay's official CSS framework](https://ebay.github.io/skin/)
-* [Marko - eBay](https://markojs.com/)
-* ⭐ [Bulma: a modern CSS framework based on Flexbox](https://bulma.io/)
-* ⭐ [Foundation - The most advanced responsive front-end framework in the world](https://foundation.zurb.com/)
-* [CodyHouse's Design System is an arsenal of production-ready components and tools](https://codyhouse.co/ds/get-started)
-* [Pure.css - A set of small, responsive CSS modules that you can use in every web project](https://purecss.io/)
-* [InK - Create responsive web interfaces quick and efficiently](https://ink.sapo.pt/)
-* [Metro 4 is an open source toolkit for developing with HTML, CSS, and JS](https://metroui.org.ua/index.html)
-* [Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML](https://semantic-ui.com/)
-* [UIkit - A lightweight and modular front-end framework for developing fast and powerful web interfaces](https://getuikit.com/)
-* [Shards Demo - A Modern UI Toolkit for Web Makers](https://designrevision.com/demo/shards/)
-* [Yoga | Flexible Layouts with Yoga](https://yogalayout.com/)
-* [W3.CSS is a modern CSS framework with built-in responsiveness](https://www.w3schools.com/w3css/default.asp)
-* [mini.css - Minimal, responsive, style-agnostic CSS framework](https://minicss.org/)
-* [Milligram - A minimalist CSS framework.](https://milligram.io/)
-* ⭐⭐ [NES.css is NES-style (8bit-like) CSS Framework](https://nostalgic-css.github.io/NES.css/)
-* ⭐ [Arwes - Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps](https://arwes.dev/)
-* [Text-based user interface CSS framework](https://github.com/vinibiavatti1/TuiCss/wiki)
-* [PaperCSS · the less formal CSS framework](https://www.getpapercss.com/)
-* [Picnic CSS - Lightweight and beautiful library](https://picnicss.com/)
-* [Kube UI Framework - Clean, minimalistic and fast to implement CSS & JS framework for professional developers and designers alike](https://imperavi.com/kube/)
-* [Base - A Rock Solid, Responsive CSS Framework](http://getbase.org/)
-* [Sierra: The smallest and lightest SCSS library](http://sierra-library.github.io/)
-* [siimple - A flat, minimal and different CSS framework](https://www.siimple.xyz/)
-* [Blaze - Open Source Modular UI Toolkit](https://www.blazeui.com/)
-* [Concise.CSS / A better front-end framework.](https://concisecss.com/)
-* [Flexbox Patterns - Build awesome user interfaces with CSS flexbox](https://www.flexboxpatterns.com/)
-* ⭐ [CSS Front-end Frameworks with comparison - By usabli.ca](http://usablica.github.io/front-end-frameworks/compare.html)
-* [Cirrus.CSS](https://spiderpig86.github.io/Cirrus/)
-* [Terminal CSS - A modern and minimal CSS framework for terminal lovers](https://terminalcss.xyz/)
-* [Fomantic-UI - A community fork of Semantic-UI](https://fomantic-ui.com/)
-* [Raster Simple Grid System](https://rsms.me/raster/)
-* [Butter Cake is a free, open source modular responsive front-end CSS framework based on Flexbox](https://getbuttercake.com/)
-* [Destyle.css - Opinionated reset stylesheet that provides a clean slate for styling your html](https://nicolas-cusan.github.io/destyle.css/)
-* [css-fx-layout - A lightweight SCSS/CSS only flexbox library inspired by Angular's flex-layout](https://github.com/philmtd/css-fx-layout)
-* [TypeSafe CSS](https://uglyduck.ca/typesafe-css/)
-* [New.css](https://github.com/xz/new.css)
-* [Kor - An open source Design System and lightweight UI Component Library](https://kor-ui.com/introduction/welcome)
-* [Kirigami UI Framework - Build beautiful, convergent apps that run on phones, TVs and everything in between](https://develop.kde.org/frameworks/kirigami/)
-* [MauiKit - A free and modular front-end framework for developing fast and compelling user experiences](https://mauikit.org/)
-* [Yogurt - A colossal low-level utility CSS framework for crafting beautiful and elegant user interface at an atomic level](https://yogurtcss.netlify.app/)
-* [gd.css styles all visible HTML elements in line with modern best practice.](https://gdcss.netlify.app/)
-* [Minimal CSS Framework for semantic HTML](https://picocss.com/)
-
-##### [Programming] - [Web] - [CSS Frameworks] - [Bootstrap]
-
-* ⭐ [Bootstrap](https://getbootstrap.com/)
-* [Bootstrap Magic : Generate your own bootstrap theme quickly and easily](http://pikock.github.io/bootstrap-magic/)
-* [Start Bootstrap - Free HTML Templates for Bootstrap 3](https://startbootstrap.com/)
-* [Smoke - Form validation and components for Bootstrap](http://alfredobarron.github.io/smoke/#/)
-* [Froala Design Blocks - Over 170 responsive design blocks ready to be used in your web or mobile apps](https://www.froala.com/design-blocks)
-* [A collection of stylized Bootstrap 4 Themes by HackerThemes](https://hackerthemes.com/)
-* ⭐ [Stream - A beautiful open source Bootstrap 4 UI Kit!](https://htmlstream.com/preview/stream-ui-kit/)
-
-##### [Programming] - [Web] - [CSS Frameworks] - [Tailwind]
-
-* ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
-* [Tailwind Labs - Creators of Tailwind CSS, Tailwind UI, and Refactoring UI.](https://github.com/tailwindlabs)
-* 📺 [Curso de Tailwind CSS](https://www.youtube.com/watch?v=aUuYGDK6Oio)
-* [Tailblocks - Ready-to-use Tailwind CSS blocks](https://github.com/mertJF/tailblocks)
-* [wickedblocks - ready made Tailwind CSS blocks, for your next project](https://blocks.wickedtemplates.com/)
-* [Meraki UI Components](https://merakiui.com/)
-* [Kometa UI Kit](https://kitwind.io/products/kometa)
-* [Mamba UI](https://mambaui.com/)
-* [Tail-kit](https://www.tailwind-kit.com/)
-* [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
-* [DaisyUI](https://daisyui.com/)
 
 #### [Programming] - [Web] -  [Bibliotecas]
 
@@ -1795,6 +1820,7 @@
 * [SVGMagic - Great jQuery SVG fallback plugin](http://dirkgroenen.nl/SVGMagic/index.html)
 * [Paper.js is an open source vector graphics scripting framework](http://paperjs.org/about/)
 * ⭐ [Image Vectorizer - Convert raster images like PNGs, BMPs and JPEGs to scalable vector graphics (SVG)](https://www.vectorizer.io/)
+* [SVGRepo - Search, explore, edit and share open-licensed SVG vectors](https://www.svgrepo.com/)
 
 ##### [Programming] - [Web] -  [Bibliotecas] - [Text]
 
@@ -1894,6 +1920,7 @@
 * [RapidAPI Marketplace | Home](https://rapidapi.com/)
 * [Power-up your application with these Public APIs](https://public-apis.io/)
 * ⭐ [A collective list of free APIs for use in software and web development](https://github.com/public-apis/public-apis)
+* [Public APIS](https://publicapis.dev/)
 
 ##### [Programming] - [Web] - [API] - [Utils]
 
@@ -2016,6 +2043,7 @@
 * [TIGSource](https://www.tigsource.com/)
 * [IndieDB](http://www.indiedb.com/)
 * [Ludum Dare](https://ldjam.com/)
+* [Experience classic games with modern convenience at DOS_deck](https://dosdeck.com/)
 
 ### [Games] - [Publishing]
 
@@ -2698,6 +2726,7 @@
 * ⌨ [Intel One Mono Typeface](https://github.com/intel/intel-one-mono)
 * ⌨ [Intel One Mono, una tipografía clara y legible para quienes trabajan con código](https://www.microsiervos.com/archivo/arte-y-diseno/intel-one-mono-tipografia-clara-legible-codigo.html)
 * [B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens](https://github.com/polarsys/b612)
+* ⌨ [Monospace](https://monaspace.githubnext.com/)
 
 #### [Design] - [Resources] - [Icons]
 
@@ -3266,7 +3295,7 @@
 * ⭐ [CheatSheet con 400 comandos para GNU/Linux que deberías saber | Blackploit [PenTest]](http://www.blackploit.com/2013/05/cheatsheet-comandos-para-GNU-Linux.html)
 * ⭐ [explainshell.com - match command-line arguments to their help text](http://explainshell.com/)
 * ⭐ [TLDR pages - Simplified and community-driven man pages](http://tldr.sh/)
-* [Unix Toolbox](http://cb.vu/unixtoolbox.xhtml)
+* [Unix Toolbox](https://devdoc.net/linux/UnixToolbox.html)
 * [All commands | commandlinefu.com](http://www.commandlinefu.com/commands/browse)
 * [Linux Command Library](https://linuxcommandlibrary.com/)
 * [Eugeny/terminus: A terminal for a more modern age](https://github.com/Eugeny/terminus)
@@ -3327,6 +3356,7 @@
 * [Retropie - Official](https://retropie.org.uk/)
 * [DietPi is more than just a minimal image](https://dietpi.com/)
 * [Lakka is a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console](http://www.lakka.tv/)
+* [A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages](https://gethomepage.dev/)
 
 ----
 
