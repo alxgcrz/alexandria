@@ -51,7 +51,7 @@
 * [Boilrplate - A curated directory of boilerplates to help you start your projects!](http://www.boilrplate.com/)
 * ⭐ [Emmet — the essential toolkit for web-developers](https://emmet.io/)
 * 📑 [Cheat Sheet Emmet](https://docs.emmet.io/cheat-sheet/)
-* [Control character — Unicode® character table](https://unicode-table.com/en/#control-character)
+* [Control character — Unicode® character table](https://symbl.cc/en/unicode-table/#control-character)
 * [CSV to JSON - CSVJSON](https://www.csvjson.com/csv2json)
 * [Free Online Tools For Developers - to Beautify, Validate, Minify, Analyse, Convert JSON, XML, JavaScript, CSS, HTML, Excel](https://codebeautify.org/)
 * [JSON Editor Online - view, edit and format JSON online](https://jsoneditoronline.org/)
