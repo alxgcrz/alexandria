@@ -202,18 +202,6 @@
 * [Sessions: Vi | Creator-Safe | Música de Riot Games](https://www.youtube.com/watch?v=G8a45UZJGh4)
 * [freeCodeCamp](https://coderadio-relay-blr.freecodecamp.org/radio/8010/radio.mp3)
 
-### [Programming] - [Algorithms]
-
-* [A curated list of awesome places to learn and/or practice algorithms](https://github.com/tayllan/awesome-algorithms)
-* ⭐ [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
-* 📕 [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
-* [Learn how to code and build efficient algorithms](https://www.spoj.com/)
-* [All Algorithms implemented in Java - Github](https://github.com/TheAlgorithms/Java)
-* ⭐ [Cosmos is your personal offline collection of every algorithm and data structure](https://github.com/OpenGenus/cosmos)
-* ⭐📕 [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/ODSA/Books/Everything/html/)
-* [Visualgo - Visualising data structures and algorithms through animation](https://visualgo.net)
-* [Algorithm Visualizer is an interactive online platform that visualizes algorithms from code](https://algorithm-visualizer.org/)
-
 ### [Programming] - [Android]
 
 * [Android](https://www.android.com/)
@@ -553,31 +541,6 @@
 * [Shape Shifter](https://shapeshifter.design/)
 * [SVG to Vector Drawable Converter – Convert SVG images to Android VectorDrawable XML resource files online](http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
 
-### [Programming] - [Angular]
-
-* [Angular is a development platform for building mobile and desktop web applications - Angular](https://angular.io/)
-* 👓 [A curated list of awesome Angular resources](https://github.com/PatrickJS/awesome-angular)
-* [AngularDart — Superheroic MVW Framework for Dart](https://angulardart.dev/)
-* [The official Angular library for Firebase](https://github.com/angular/angularfire2)
-* 📰 [Angular in depth](https://blog.angularindepth.com/)
-* [Add a blog to your Angular website using markdown files](https://medium.com/@david.dalbusco/add-a-blog-to-your-angular-website-using-markdown-files-31cdb0627bdd)
-* [Cheatsheet for developing ⚡lightning⚡ fast progressive Angular applications](https://github.com/mgechev/angular-performance-checklist)
-* [A list of helpful material to develop using Angular](https://github.com/timjacobi/angular-education)
-* ⭐ [Angular Material - Material Design components for Angular](https://material.angular.io/)
-* [PrimeNG - The Most Complete User Interface Suite for Angular](https://www.primefaces.org/primeng/#/)
-* 🇪🇸 [Recursos, tutoriales y artículos para aprender Angular en español](https://github.com/Frostqui/angular-espanol)
-* [Scully is a static site generator for Angular projects](https://github.com/scullyio/scully)
-* [Angular Augury - A Chrome and Firefox Dev Tools extension for debugging Angular applications.](https://augury.rangle.io/)
-* [Bit helps your team share components and collaborate to build faster together](https://bit.dev/components?q=angular)
-* [Stackblitz allows you to build full-stack applications fully in your browser](https://stackblitz.com/)
-* [Angular Flex-Layout - Provides HTML UI layout for Angular applications; using Flexbox and a Responsive API](https://github.com/angular/flex-layout)
-* [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
-* [Transloco - The internationalization (i18n) library for Angular](https://netbasal.gitbook.io/transloco/)
-* [Reactive State for Angular](https://ngrx.io/)
-* 📕 [Angular Mini-Book](https://github.com/mraible/angular-book)
-* [Nebular is a customizable Angular UI library](https://akveo.github.io/nebular/)
-* [ngx-admin - Customizable admin dashboard template based on Angular 10+](https://github.com/akveo/ngx-admin)
-
 ### [Programming] - [Architecture & Container Platforms]
 
 * 👓 [Awesome Back-End Development](https://github.com/sindresorhus/awesome#back-end-development)
@@ -617,6 +580,7 @@
 
 * [Introductory Reference to the IBM AS/400](https://krypton.mnsu.edu/~aq5097xt/web/as400/intref.html)
 * [THE MAINFRAME CORNER](http://mainframecorner.com/)
+* <https://www.xataka.com/especiales/as-400-viejos-rockeros-que-nunca-mueren-sigue-activo-decadas-despues-nacer-hay-demanda-profesionales>
 
 ### [Programming] - [Bash]
 
@@ -795,6 +759,8 @@
 
 ### [Programming]
 
+- [Algorithms](./programming/Algorithms.md)
+- [Angular](./programming/Angular.md)
 - [C#](./programming/Csharp.md)
 - [Electron](./programming/Electron.md)
 - [Flutter](./programming/Flutter.md)
@@ -805,6 +771,7 @@
 - [Haxe](./programming/Haxe.md)
 - [HTML5](./programming/HTML5.md)
 - [Identity Management](./programming/IdentityManagement.md)
+- [TypeScript](./programming/TypeScript.md)
 
 ### [Programming] - [Java]
 
@@ -1346,23 +1313,6 @@
 * [Swig - A Node.js and Browser JavaScript Template Engine](http://node-swig.github.io/swig-templates/)
 * [Jade - Template Engine](http://jade-lang.com/)
 * [Pug - Template Engine](https://pugjs.org/api/getting-started.html)
-
-### [Programming] - [Typescript]
-
-* [Welcome to TypeScript](https://www.typescriptlang.org/)
-* [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
-* [Zod is a TypeScript-first schema declaration and validation library](https://zod.dev/)
-* [Nest is a framework for building efficient, scalable Node.js server-side applications](https://nestjs.com/)
-* [Deno is a modern runtime for JavaScript and TypeScript](https://deno.com/)
-* [Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager](https://bun.sh/)
-* [Storybook is a frontend workshop for building UI components and pages in isolation.](https://storybook.js.org/)
-* [tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation](https://trpc.io/)
-* [Prisma is next-generation ORM for Node.js & TypeScript](https://www.prisma.io/)
-* [Trigger.dev is the open source background jobs framework for TypeScript](https://trigger.dev/)
-* [Novu - The open-source notification infrastructure with fully functional embedded notification center](https://novu.co/)
-* [tsParticles - TypeScript Particles](https://github.com/tsparticles/tsparticles)
-* [TypeDoc is a documentation generator for TypeScript](https://typedoc.org/guides/overview/)
-* [Biome is a fast formatter for JavaScript, TypeScript, JSX, and JSON](https://biomejs.dev/)
 
 ### [Programming] - [UWP]
 
