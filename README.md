@@ -857,10 +857,19 @@
 * 🎓 [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d)
 * 🎓 [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](https://rominirani.com/gradle-tutorial-part-4-java-web-applications-9f4225cc02e5)
 
-### [Programming]
+### [Programming] - [GraphQL]
 
-- [GraphQL](./programming/GraphQL.md)
-- [Haxe](./programming/Haxe.md)
+* 🔸 [GraphQL | A query language for your API](https://graphql.org/)
+* 👓 [Awesome - Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
+
+### [Programming] - [Haxe]
+
+* 👓 [Awesome - Resources for game development on haxe](https://github.com/Dvergar/awesome-haxe-gamedev)
+* 🔸 [Haxe is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler](https://haxe.org/)
+* [Heaps.io is a mature cross platform graphics engine designed for high performance games](https://heaps.io/)
+* [HashLink is a virtual machine for Haxe](https://hashlink.haxe.org/)
+* [Hide (Heaps IDE) is an extensible editor](https://github.com/HeapsIO/hide)
+* [Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
 
 ### [Programming] - [HTML5]
 
