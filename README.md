@@ -12,6 +12,7 @@
 * ⭐ [Google Codelabs](https://codelabs.developers.google.com/)
 * [Open Source Guides](https://opensource.guide/)
 * [Discover, Track and Compare Open Source](https://www.openhub.net/)
+* [Open Source Projects](https://www.opensourceagenda.com/)
 * ⭐ [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [/r/learningprogramming](https://www.reddit.com/r/learnprogramming/wiki/faq)
 * ⭐ [Curated lists and insight into burgeoning industries, topics, and communities](https://github.com/collections)
@@ -42,6 +43,7 @@
 * ⭐ [Zeal - offline API documentation browser](https://zealdocs.org/)
 * ⭐ [searchcode | source code search engine](https://searchcode.com/)
 * ⭐ [Collecting All Cheat Sheets](http://overapi.com/)
+* [Quick Reference](https://quickref.me/)
 * [John's Cheatsheets](https://www.john-cd.com/cheatsheets/)
 * [HubSearch is a small web app that leverages Github's api to provide a better experience for search](http://projects.jga.me/hubsearch/)
 * [Pointers to useful, well-written, and otherwise beautiful documentation](https://github.com/PharkMillups/beautiful-docs)
@@ -65,6 +67,7 @@
 * [AsciiDoc is a plain text markup language for writing technical content](https://asciidoc.org/)
 * [MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation](https://www.mkdocs.org/)
 * [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+* [829 hand-picked tools & resources for web designers & developers](https://toolkit.addy.codes/)
 
 ### [Programming] - [Utils] - [Regex]
 
@@ -132,20 +135,19 @@
 
 ### [Programming] - [Official]
 
-* [Amazon Developer Services](https://developer.amazon.com/)
-* [Desarrolladores de Facebook - Facebook para desarrolladores](https://developers.facebook.com/)
-* [Facebook - Open Source](https://opensource.facebook.com/)
-* [Home | Oracle Developers](https://developer.oracle.com/)
-* [IBM developerWorks : IBM's resource for developers and IT professionals](https://developer.ibm.com/)
+* [Amazon Developer Services](https://developer.amazon.com/es/)
+* [Facebook - Open Source](https://opensource.fb.com/)
+* [Oracle Developers](https://developer.oracle.com/)
+* [IBM](https://developer.ibm.com/)
 * [Mozilla Developer Network](https://developer.mozilla.org/es/)
-* [Red Hat Developer Program | Red Hat Developers](https://developers.redhat.com/)
+* [Red Hat Developer Program](https://developers.redhat.com/)
 * [Software Intel®](https://software.intel.com/es-es)
 * [Ubuntu Developer](https://developer.ubuntu.com/)
 * [Welcome to The Apache Software Foundation!](https://www.apache.org/)
-* [Yahoo Developer Network](https://developer.yahoo.com/)
-* [Stripe: Código abierto](https://stripe.com/open-source)
-* [Open Source @ IFTTT](http://ifttt.github.io/)
-* [Uber is committed to enabling collaboration for everyone, everywhere through open source](https://uber.github.io/#/)
+* [Yahoo Developer Network](https://developer.yahoo.com)
+* [Stripe: Código abierto](https://github.com/stripe)
+* [Open Source @ IFTTT](https://ifttt.github.io/)
+* [Uber Open Source](https://uber.github.io/#/)
 * [Github](https://github.com/github)
 
 #### [Programming] - [Official] - [Microsoft]
@@ -855,20 +857,10 @@
 * 🎓 [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d)
 * 🎓 [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](https://rominirani.com/gradle-tutorial-part-4-java-web-applications-9f4225cc02e5)
 
-### [Programming] - [GraphQL]
+### [Programming]
 
-* 🔸 [GraphQL | A query language for your API](https://graphql.org/)
-* 👓 [Awesome - Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
-* [Graphcool - GraphQL Backend Development Framework](https://www.graph.cool/)
-
-### [Programming] - [Haxe]
-
-* 🔸 [Haxe is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler](https://haxe.org/)
-* 👓 [Awesome - Resources for game development on haxe](https://github.com/Dvergar/awesome-haxe-gamedev)
-* [Heaps.io is a mature cross platform graphics engine designed for high performance games](https://heaps.io/)
-* [HashLink is a virtual machine for Haxe](https://hashlink.haxe.org/)
-* [Hide (Heaps IDE) is an extensible editor](https://github.com/HeapsIO/hide)
-* [Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
+- [GraphQL](./programming/GraphQL.md)
+- [Haxe](./programming/Haxe.md)
 
 ### [Programming] - [HTML5]
 
@@ -905,13 +897,8 @@
 * [The Destination for Java Developers](https://dev.java/)
 * [foojay — a place for friends of OpenJDK](https://foojay.io/)
 * [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
-* [Java Development Kit builds, from Oracle](http://jdk.java.net/)
-* [OpenJDK - RedHat](https://developers.redhat.com/products/openjdk/overview/)
-* [Amazon Corretto](https://aws.amazon.com/es/corretto/)
-* [Prebuilt OpenJDK Binaries for Free!](https://adoptopenjdk.net/)
 * [Javadoc hosting for open source projects](https://javadoc.io/)
 * [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
-* ⭐ [Codota - Search for Java code](https://www.codota.com/code/)
 * 👓 [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
 * ⭐ [Java Ecosystem Master List - Hundreds of Links for Java Developers, All in One Place](https://javasites.dev/)
 * [The Scala Programming Language](http://www.scala-lang.org/)
@@ -1018,7 +1005,7 @@
 * [Stanford CoreNLP is the most popular Java NLP framework which provides various tools for performing NLP tasks](https://stanfordnlp.github.io/CoreNLP/)
 * [Java-ML is an open source Java framework which provides various machine learning algorithms specifically for programmers](http://java-ml.sourceforge.net/)
 * [RapidMiner is a data science platform which provides various machine learning algorithms through GUI and Java API](https://rapidminer.com/)
-* [Weka is a collection of machine learning algorithms which can be applied directly to the dataset, through the provided GUI or called through the provided API](http://www.cs.waikato.ac.nz/ml/weka/)
+* [Weka is a collection of machine learning algorithms which can be applied directly to the dataset, through the provided GUI or called through the provided API](https://ml.cms.waikato.ac.nz/weka/)
 * [Encong is a Java machine learning framework which supports many machine learning algorithms](https://www.heatonresearch.com/encog/)
 * [Jenetics is an advanced genetic algorithm written in Java](http://jenetics.io/)
 * [Watchmaker Framework is a framework for implementing genetic algorithms in Java](http://watchmaker.uncommons.org/)
@@ -1435,18 +1422,20 @@
 
 ### [Programming] - [Typescript]
 
-* [Welcome to TypeScript](http://www.typescriptlang.org/)
+* [Welcome to TypeScript](https://www.typescriptlang.org/)
 * [Feathers is a web-framework for creating real-time applications and REST APIs using JavaScript or TypeScript](https://feathersjs.com/)
-* [A lightweight TypeScript library for creating particles](https://github.com/matteobruni/tsparticles)
-* [Zod is a TypeScript-first schema declaration and validation library](https://github.com/colinhacks/zod)
-* [Zustand - A small, fast and scalable bearbones state-management solution using simplified flux principles](https://github.com/pmndrs/zustand)
-* [tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation](https://github.com/trpc/trpc)
-* [Prisma is next-generation ORM for Node.js & TypeScript](https://github.com/prisma/prisma)
-* [Trigger.dev is the open source background jobs framework for TypeScript](https://github.com/triggerdotdev/trigger.dev)
-* [Novu - The open-source notification infrastructure with fully functional embedded notification center](https://github.com/novuhq/novu)
-* [Nest is a framework for building efficient, scalable Node.js server-side applications](https://github.com/nestjs/nest)
+* [Zod is a TypeScript-first schema declaration and validation library](https://zod.dev/)
+* [Nest is a framework for building efficient, scalable Node.js server-side applications](https://nestjs.com/)
+* [Deno is a modern runtime for JavaScript and TypeScript](https://deno.com/)
+* [Bun is an all-in-one JavaScript runtime & toolkit designed for speed, complete with a bundler, test runner, and Node.js-compatible package manager](https://bun.sh/)
+* [Storybook is a frontend workshop for building UI components and pages in isolation.](https://storybook.js.org/)
+* [tRPC allows you to easily build & consume fully typesafe APIs without schemas or code generation](https://trpc.io/)
+* [Prisma is next-generation ORM for Node.js & TypeScript](https://www.prisma.io/)
+* [Trigger.dev is the open source background jobs framework for TypeScript](https://trigger.dev/)
+* [Novu - The open-source notification infrastructure with fully functional embedded notification center](https://novu.co/)
 * [tsParticles - TypeScript Particles](https://github.com/tsparticles/tsparticles)
 * [TypeDoc is a documentation generator for TypeScript](https://typedoc.org/guides/overview/)
+* [Biome is a fast formatter for JavaScript, TypeScript, JSX, and JSON](https://biomejs.dev/)
 
 ### [Programming] - [UWP]
 
@@ -2045,6 +2034,10 @@
 * [Ludum Dare](https://ldjam.com/)
 * [Experience classic games with modern convenience at DOS_deck](https://dosdeck.com/)
 
+### [Games] - [Hacking]
+
+* [Tutorials, tools, and more as related to reverse engineering video games](https://github.com/dsasmblr/game-hacking)
+
 ### [Games] - [Publishing]
 
 * [Nintendo](https://developer.nintendo.com/)
@@ -2510,6 +2503,7 @@
 * ⭐ [UI Goodies - The best resources for designers in one place.](http://uigoodies.com/)
 * [All in One Tool for Makers](https://www.indiemakers.tools/)
 * [No Design Development - A collection of tools for developers who have little to no artistic talent](https://nodesign.dev/)
+* [fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds](https://fffuel.co/)
 
 #### [Design] - [Resources] - [ClipArt]
 
@@ -3287,6 +3281,7 @@
 * 📰 [Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre.](https://blog.desdelinux.net/)
 * ⭐ [FreeNAS is an operating system that can be installed on virtually any hardware platform to share data over a network](https://www.freenas.org/)
 * [VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux](https://www.veracrypt.fr/en/Home.html)
+* [DistroWatch is a website dedicated to talking about, reviewing and keeping up to date with open source operating systems](https://distrowatch.com/)
 
 ### [Linux] - [Command-line]
 
