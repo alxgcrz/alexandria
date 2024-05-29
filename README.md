@@ -761,11 +761,6 @@
 
 * 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
 
-### [Programming] - [C#]
-
-* 📕 [The C# Yellow Book](https://www.robmiles.com/c-yellow-book/)
-* ⭐⭐ [Pixel-Perfect Multi-Platform Applications with C# and WinUI](https://platform.uno/)
-
 ### [Programming] - [Dart]
 
 * 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
@@ -798,95 +793,18 @@
 * [Flyway - Version control for your database](https://flywaydb.org/)
 * [HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
 
-### [Programming] - [Electron]
+### [Programming]
 
-* 🔸 [Electron | Crea aplicaciones multiplataforma de escritorio con JavaScript, HTML y CSS.](https://electronjs.org/)
-
-### [Programming] - [Flutter]
-
-* 👓 [Solido/awesome-flutter - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more](https://github.com/Solido/awesome-flutter)
-* 🔸 [Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase](https://flutter.dev/)
-* [Find and use packages to build Dart and Flutter apps](https://pub.dev/)
-  * [Official packages published by the Flutter Team](https://pub.dev/publishers/flutter.dev/packages)
-  * [Firebase helps Flutter app teams succeed](https://pub.dev/publishers/firebase.google.com/packages)
-* [Build beautiful, usable products using Material Components for Flutter, a mobile UI framework](https://m3.material.io/develop/flutter)
-* 📺 [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT)
-* [Secure Open-Source Backend Server for Web, Mobile & Flutter Developers](https://appwrite.io/)
-* [Flutter Gems is a curated list of 5500+ useful Dart & Flutter packages that are categorized based on functionality](https://fluttergems.dev/)
-* [Flutter Gallery provides examples of different widgets, layouts, and animations](https://gallery.flutter.dev/#/)
-
-### [Programming] - [Git]
-
-* 🔸 [Git](https://git-scm.com/)
-* [GitLab | Open source software to collaborate on code](https://about.gitlab.com/)
-* 🇪🇸📕 [Git - Book](https://git-scm.com/book/es/v2)
-* 🇪🇸📕 [Pro Git, el libro oficial de Git](https://uniwebsidad.com/libros/pro-git)
-* ⭐ [JitPack - Publish your JVM and Android libraries](https://jitpack.io/)
-* 🎓 [A Hacker’s Guide to Git | Wildly Inaccurate](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
-* 🎓 [Resources to learn Git](https://try.github.io/)
-* 🎓 [Github Learning Lab](https://lab.github.com/)
-* 🎓 [GitHub Guides](https://guides.github.com/)
-* 🎓 [Training GitHub](https://training.github.com/)
-* 🎓 [Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
-* ⭐📑 [git-tips/tips - Most commonly used git tips and trick](https://github.com/git-tips/tips)
-* 🇪🇸⭐📑 [Tips: Más de 100 comandos para GitHub / Git que deberías conocer | Desde Linux](http://blog.desdelinux.net/tips-mas-de-40berias-conocer/)
-* 📑 [First Aid git](http://firstaidgit.io/#/)
-* 🇪🇸📑 [GIT – Guía rápida](http://www.edy.es/dev/docs/git-guia-rapida/)
-* 🇪🇸📑 [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.es_ES.html)
-* 📑 [Git and Git Flow Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
-* 🇪🇸📑 [Git: Mini Tutorial y chuleta de comandos](http://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/)
-* 🇪🇸⭐ [Una guía para programadores usando git acerca de qué hacer cuando las cosas van mal](https://github.com/k88hudson/git-flight-rules/blob/master/README_es.md)
-* [hub is an extension to command-line git that helps you do everyday GitHub tasks without ever leaving the terminal](https://hub.github.com/)
-* [GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD](https://github.com/features/actions)
-* [GitSheet](https://gitsheet.wtf/)
-* [Creating a Killer GitHub Profile README](https://dev.to/dailydotdev/creating-a-killer-github-profile-readme-part-1-33nm)
-* [Beautify your GitHub Profile](https://dev.to/philiphaines/beautify-your-github-40hh)
-* [Keeping Git Commit Messages Consistent with a Custom Template](https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm)
-* [Git and GitHub: The Complete Guides](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
-
-### [Programming] - [Go]
-
-* 🔸 [Go is an open source programming language that makes it easy to build simple, reliable, and efficient software](https://golang.org/)
-* 👓 [Awesome - A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
-
-### [Programming] - [Gradle]
-
-* 🔸 [Gradle is an open-source build automation tool focused on flexibility and performance](https://gradle.org/)
-* 🎓 [Gradle Tutorial : Part 1 : Installation + Setup | iRomin](https://rominirani.com/gradle-tutorial-part-1-installation-setup-2ea77729fc8c)
-* 🎓 [Gradle Tutorial : Part 2 : Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-2-java-projects-5aaf99368018)
-* 🎓 [Gradle Tutorial : Part 3 : Multiple Java Projects | iRomin](https://rominirani.com/gradle-tutorial-part-3-multiple-java-projects-5b1c4d1fbd8d)
-* 🎓 [Gradle Tutorial : Part 4 : Java Web Applications | iRomin](https://rominirani.com/gradle-tutorial-part-4-java-web-applications-9f4225cc02e5)
-
-### [Programming] - [GraphQL]
-
-* 🔸 [GraphQL | A query language for your API](https://graphql.org/)
-* 👓 [Awesome - Awesome list of GraphQL & Relay](https://github.com/chentsulin/awesome-graphql)
-
-### [Programming] - [Haxe]
-
-* 👓 [Awesome - Resources for game development on haxe](https://github.com/Dvergar/awesome-haxe-gamedev)
-* 🔸 [Haxe is an open source high-level strictly-typed programming language with a fast optimizing cross-compiler](https://haxe.org/)
-* [Heaps.io is a mature cross platform graphics engine designed for high performance games](https://heaps.io/)
-* [HashLink is a virtual machine for Haxe](https://hashlink.haxe.org/)
-* [Hide (Heaps IDE) is an extensible editor](https://github.com/HeapsIO/hide)
-* [Shiro Games Technology Stack](https://haxe.org/blog/shirogames-stack/)
-
-### [Programming] - [HTML5]
-
-* 👓 [Awesome - A curated list of awesome HTML5 resources](https://github.com/diegocard/awesome-html5)
-* ⭐ [Web Fundamentals and Tools - Google](https://developers.google.com/web/)
-* ["Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers](https://caniuse.com/)
-* [HTML5 Please - Look up HTML5, CSS3, etc features, know if they are ready for use](https://html5please.com/)
-* [HTML5 Boilerplate - The web’s most popular front-end template](https://html5boilerplate.com/)
-* [Modernizr: the feature detection library for HTML5/CSS3](https://modernizr.com/)
-* ⭐⭐ [htmlreference.io - A free guide to all HTML elements and attributes.](https://htmlreference.io/)
-* 🇪🇸🎓 [Introducción a HTML5](https://lenguajehtml.com/p/html/)
-* 🇪🇸🎓 [HTML5 - Mozilla](https://developer.mozilla.org/es/docs/Web/HTML)
-
-### [Programming] - [Identity Management]
-
-* [Keycloak - Open Source Identity and Access Management](https://www.keycloak.org/)
-* [Apache Syncope is an Open Source system for managing digital identities](https://syncope.apache.org/)
+- [C#](./programming/Csharp.md)
+- [Electron](./programming/Electron.md)
+- [Flutter](./programming/Flutter.md)
+- [Git](./programming/Git.md)
+- [Go](./programming/Go.md)
+- [Gradle](./programming/Gradle.md)
+- [GraphQL](./programming/GraphQL.md)
+- [Haxe](./programming/Haxe.md)
+- [HTML5](./programming/HTML5.md)
+- [Identity Management](./programming/IdentityManagement.md)
 
 ### [Programming] - [Java]
 
