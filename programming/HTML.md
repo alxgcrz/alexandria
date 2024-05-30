@@ -1,4 +1,4 @@
-# [HTML5]
+# [HTML]
 
 - <https://html.spec.whatwg.org/>
 - <https://www.w3.org/TR/>
