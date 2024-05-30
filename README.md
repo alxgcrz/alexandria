@@ -133,56 +133,6 @@
 * ⭐ [X-Files](https://doc.lagout.org/)
 * 📕 [The Nature of Code](https://natureofcode.com/book/)
 
-### [Programming] - [Official]
-
-* [Amazon Developer Services](https://developer.amazon.com/es/)
-* [Facebook - Open Source](https://opensource.fb.com/)
-* [Oracle Developers](https://developer.oracle.com/)
-* [IBM](https://developer.ibm.com/)
-* [Mozilla Developer Network](https://developer.mozilla.org/es/)
-* [Red Hat Developer Program](https://developers.redhat.com/)
-* [Software Intel®](https://software.intel.com/es-es)
-* [Ubuntu Developer](https://developer.ubuntu.com/)
-* [Welcome to The Apache Software Foundation!](https://www.apache.org/)
-* [Yahoo Developer Network](https://developer.yahoo.com)
-* [Stripe: Código abierto](https://github.com/stripe)
-* [Open Source @ IFTTT](https://ifttt.github.io/)
-* [Uber Open Source](https://uber.github.io/#/)
-* [Github](https://github.com/github)
-
-#### [Programming] - [Official] - [Microsoft]
-
-* 🇪🇸🔸 [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows)
-* 🇪🇸 [Microsoft Docs](https://docs.microsoft.com/es-es/)
-* ⭐ [Chocolatey - The package manager for Windows](https://chocolatey.org/)
-* 🇪🇸 [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://www.visualstudio.com/es/)
-* 🇪🇸 [Documentación del subsistema de Windows para Linux | Microsoft Docs](https://docs.microsoft.com/es-es/windows/wsl/about)
-* ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://www.microsoft.com/design/fluent/#/)
-* [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
-* [Windows Sysinternals](https://docs.microsoft.com/en-us/sysinternals/)
-* [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
-* [Microsoft Learn](https://learn.microsoft.com/es-es/training/)
-* [Windows Sysinternals](https://docs.microsoft.com/es-es/sysinternals/)
-
-#### [Programming] - [Official] - [Google]
-
-* 🔸 [Google Developers](https://developers.google.com/)
-* ⭐ [Google Devs](https://google.dev/home?hl=en)
-* [Welcome to Dev Library, a showcase of what developers like you have built with Google technologies](https://devlibrary.withgoogle.com/)
-* [Google Web Fundamentals](https://developers.google.com/web)
-* [Google Open Source – opensource.google.com](https://opensource.google/)
-* [Google Webmasters: Ayuda, Formación, Comunidad y Search Console – Google](https://www.google.com/webmasters/#?modal_active=none)
-* [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
-* [Google Trends](https://trends.google.com/trends/)
-* [Apps Script – Google Apps Script](https://www.google.com/script/start/)
-* [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
-* [Cloud Computing, servicios de alojamiento y APIs de Google Cloud](https://cloud.google.com/)
-* [GCP products described in 4 words or less – Google Cloud Platform](https://github.com/gregsramblings/google-cloud-4-words)
-* [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
-* [Google Arts & Culture](https://artsandculture.google.com/)
-* [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
-* [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
-
 ### [Programming] - [Style Guide]
 
 * ⭐ [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
@@ -541,61 +491,6 @@
 * [Shape Shifter](https://shapeshifter.design/)
 * [SVG to Vector Drawable Converter – Convert SVG images to Android VectorDrawable XML resource files online](http://a-student.github.io/SvgToVectorDrawableConverter.Web/)
 
-### [Programming] - [Architecture & Container Platforms]
-
-* 👓 [Awesome Back-End Development](https://github.com/sindresorhus/awesome#back-end-development)
-* ⭐ [Container tools by Google](https://github.com/GoogleContainerTools)
-* ⭐ [Kubernetes | Production-Grade Container Orchestration](https://kubernetes.io/)
-  * ⭐ [Learn Kubernetes using Interactive Browser-Based Scenarios](https://www.katacoda.com/courses/kubernetes)
-  * [Learning-K8S - Keep it simple](https://github.com/knrt10/kubernetes-basicLearning)
-* [Kubernetes for workstations and appliances](https://microk8s.io/)
-* ⭐ [Docker - Build, Ship, and Run Any App, Anywhere](https://www.docker.com/)
-  * [Docker - Explore official repositories](https://hub.docker.com/explore/)
-  * [Docker | DigitalOcean](https://www.digitalocean.com/community/tags/docker/tutorials)
-  * 🇪🇸 [De Docker a Kubernetes: entendiendo qué son los contenedores](https://www.xataka.com/otros/docker-a-kubernetes-entendiendo-que-contenedores-que-mayores-revoluciones-industria-desarrollo)
-* [LXC - Linux Containers](https://linuxcontainers.org/)
-* [Openshift](https://www.okd.io/)
-  * [OpenShift Container Platform Reference Architecture Implementation Guides](https://blog.openshift.com/openshift-container-platform-reference-architecture-implementation-guides/)
-* [CoreOS](https://coreos.com/)
-  * [rkt - A security-minded, standards-based container engine](https://coreos.com/rkt/)
-* [The Fn project is an open-source container-native serverless platform that you can run anywhere](https://fnproject.io/)
-* [Crossplane - The open source multicloud control plane](https://crossplane.io/)
-* [traefik - The Cloud Native Edge Router](https://traefik.io/)
-* [Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently.](https://www.terraform.io/)
-* [Razee - A multi-cluster continuous delivery tool for Kubernetes](https://razee.io/)
-* ⭐⭐ [Serverless Guide - An open-source definitive guide to serverless architectures.](https://github.com/serverless/guide)
-* [Serverless framework open source](https://serverless.com/framework/)
-* [The foundation for your cloud-powered mobile & web apps](https://aws-amplify.github.io)
-* [The AWS Cloud Development Kit (AWS CDK) is a software development framework for defining your cloud infrastructure in code and provisioning it through AWS CloudFormation](https://docs.aws.amazon.com/cdk/)
-* [Infrastructure as Code in the Era of GraphQL and Full Stack Serverless](https://dev.to/dabit3/infrastructure-as-code-in-the-era-of-graphql-and-full-stack-serverless-11bc)
-* [AWS CloudFormation ofrece un lenguaje común para describir y aprovisionar todos los recursos de la infraestructura en el entorno en la nube](https://aws.amazon.com/es/cloudformation/)
-* [Cloud Run is a service by Google Cloud Platform to run your stateless HTTP containers without worrying about provisioning machines, clusters or autoscaling](https://github.com/ahmetb/cloud-run-faq)
-* [Microservice Architecture](https://microservices.io/index.html)
-* [Kool makes using Docker for local development easier, simpler, faster, and better](https://kool.dev/)
-* [API VS. Microservices](https://www.scalyr.com/blog/api-vs-microservices/)
-* [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
-* [Microservices: a definition of this new architectural term](https://martinfowler.com/articles/microservices.html)
-
-### [Programming] - [AS/400]
-
-* [Introductory Reference to the IBM AS/400](https://krypton.mnsu.edu/~aq5097xt/web/as400/intref.html)
-* [THE MAINFRAME CORNER](http://mainframecorner.com/)
-* <https://www.xataka.com/especiales/as-400-viejos-rockeros-que-nunca-mueren-sigue-activo-decadas-despues-nacer-hay-demanda-profesionales>
-
-### [Programming] - [Bash]
-
-* [Awesome Bash](https://github.com/awesome-lists/awesome-bash)
-* [Ultimate List of Linux bash commands](https://github.com/trinib/Linux-Bash-Commands)
-* [Pure Bash Bible | A collection of pure bash alternatives to external processes](https://github.com/dylanaraps/pure-bash-bible)
-* [ShellCheck - finds bugs in your shell scripts.](https://www.shellcheck.net/)
-* [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting)
-
-### [Programming] - [Cobol]
-
-* [COBOL Tutorial](https://www.tutorialspoint.com/cobol/index.htm)
-* [COBOL | IBM](https://www.ibm.com/docs/es/i/7.3?topic=languages-cobol)
-* [Curso de COBOL totalmente desde cero](https://www.programacionfacil.org/cursos/cobol/cobol_index.html)
-
 ### [Programming] - [CSS]
 
 * 👓 [awesome-css-group/awesome-css - A curated contents of amazing CSS](https://github.com/awesome-css-group/awesome-css)
@@ -721,25 +616,6 @@
 * 👓 [LucasBassetti/awesome-less -  curated list of awesome {Less}](https://github.com/LucasBassetti/awesome-less)
 * [Preboot is a comprehensive and flexible collection of LESS utilities](http://getpreboot.com/)
 
-### [Programming] - [C++]
-
-* 🎓 [LearnCpp.com is a free website devoted to teaching you how to program in C++](https://www.learncpp.com/)
-
-### [Programming] - [Dart]
-
-* 👓 [Awesome - Dart](https://github.com/yissachar/awesome-dart)
-* 🔸 [Dart: Structured web apps](https://dart.dev/)
-* [Dart API Reference](https://api.dart.dev/stable/index.html)
-* [Find and use packages to build Dart and Flutter apps](https://pub.dev/)
-  * [Official packages published by the Dart Team](https://pub.dev/publishers/dart.dev/packages)
-  * [Firebase helps Flutter app teams succeed](https://pub.dev/publishers/firebase.google.com/packages)
-* 🎓 [Dart Basics](https://www.raywenderlich.com/4482551-dart-basics)
-* 📑 [Dart 2 Cheat Sheet and Quick Reference 2019](https://www.raywenderlich.com/4482580-dart-2-cheat-sheet-and-quick-reference-2019)
-* [DartPad is an open-source tool that lets you play with the Dart language in any modern browser](https://dartpad.dev/)
-* [Dart Academy](https://dart.academy/)
-* [Parses raw command-line arguments into a set of options and values](https://pub.dev/packages/args)
-* [Jaspr | A modern web framework for building websites in Dart with support for both client-side and server-side rendering](https://github.com/schultek/jaspr)
-
 ### [Programming] - [Database]
 
 * 👓 [Awesome - Databases](https://github.com/sindresorhus/awesome#databases)
@@ -757,11 +633,22 @@
 * [Flyway - Version control for your database](https://flywaydb.org/)
 * [HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
 
+### [Other]
+
+- [Identity Management](./other/IdentityManagement.md)
+- [Legal](./other/Legal.md)
+
 ### [Programming]
 
 - [Algorithms](./programming/Algorithms.md)
 - [Angular](./programming/Angular.md)
+- [Architecture](./programming/Architecture.md)
+- [AS/400](./programming/AS400.md)
+- [Bash](./programming/Bash.md)
+- [C/C++](./programming/C.md)
+- [Cobol](./programming/Cobol.md)
 - [C#](./programming/Csharp.md)
+- [Dart](./programming/Dart.md)
 - [Electron](./programming/Electron.md)
 - [Flutter](./programming/Flutter.md)
 - [Git](./programming/Git.md)
@@ -770,243 +657,13 @@
 - [GraphQL](./programming/GraphQL.md)
 - [Haxe](./programming/Haxe.md)
 - [HTML5](./programming/HTML5.md)
-- [Identity Management](./programming/IdentityManagement.md)
+- [Java](./programming/Java.md)
+- [JavaFX](./programming/JavaFX.md)
+- [Maven](./programming/Maven.md)
+- [Official](./programming/Official.md)
+- [Rust](./programming/Rust.md)
 - [TypeScript](./programming/TypeScript.md)
-
-### [Programming] - [Java]
-
-* [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html)
-* [Oracle Technology Network / Java](https://www.oracle.com/technetwork/java/index.html)
-* ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
-* ⭐ [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
-* [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
-* [Java API Specifications](https://www.oracle.com/technetwork/java/api-141528.html)
-* [Java Platform, Standard Edition Troubleshooting Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/troubleshoot/toc.html)
-* 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
-* 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
-* 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
-* ⭐⭐[Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)
-* [OpenJDK](http://openjdk.java.net/)
-* ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
-* [The Destination for Java Developers](https://dev.java/)
-* [foojay — a place for friends of OpenJDK](https://foojay.io/)
-* [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
-* [Javadoc hosting for open source projects](https://javadoc.io/)
-* [Using Java 11 In Production: Important Things To Know](https://blog.jetbrains.com/idea/2018/09/using-java-11-in-production-important-things-to-know/)
-* 👓 [Awesome Java - A curated list of awesome frameworks, libraries and software for the Java programming language.](https://github.com/akullpp/awesome-java)
-* ⭐ [Java Ecosystem Master List - Hundreds of Links for Java Developers, All in One Place](https://javasites.dev/)
-* [The Scala Programming Language](http://www.scala-lang.org/)
-* [GraalVM - Run Programs Faster Anywhere](https://www.graalvm.org/)
-  * [#WHATIS? GRAALVM](https://rieckpil.de/whatis-graalvm/)
-* [Jenkins - he leading open source automation server](https://jenkins.io/index.html)
-* [TestNG is a testing framework inspired from JUnit and NUnit](https://testng.org/doc/)
-* ⭐ [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
-* ⭐⭐ [Java Development in 2018](https://coggle.it/diagram/WqgTTNMJtPiHph_q/t/java-development-in-2018)
-* [Ideone is an online compiler and debugging tool](http://ideone.com/)
-* ⭐⭐ [The Java Playground](https://java-playground.com/)
-* ⭐⭐ [The Java Playground is a simple online tool that helps you to explore Java Language features - Oracle](https://dev.java/playground/)
-* [Weld is the reference implementation of CDI: Contexts and Dependency Injection for the Java EE Platform](http://weld.cdi-spec.org/)
-* [Containerizing Apps with jlink](https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink)
-* [Get Started with Java](https://www.baeldung.com/get-started-with-java-series)
-* ⭐ [JetBrains Academy](https://hyperskill.org/knowledge-map/73)
-* [Sourcetrail - Free and open-source cross-platform source explorer](https://www.sourcetrail.com/)
-* [A short guide to Maven](https://www.marcobehler.com/guides/mvn-clean-install-a-short-guide-to-maven)
-* [Tranquil Java (TJ) is a small and fast integrated development environment(IDE)](https://tjide.sourceforge.io/)
-* [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
-* [Explore Java en AWS](https://aws.amazon.com/es/developer/language/java/)
-* [Build Great Native CLI Apps in Java with Graalvm and Picocli](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/)
-* [picocli, un poderoso framework para la creación de aplicaciones de línea de comandos](https://ubunlog.com/picocli-un-poderoso-framework-para-la-creacion-de-aplicaciones-de-linea-de-comandos/)
-* ⭐ [picocli - a mighty tiny command line interface](https://picocli.info/)
-* [jbang - Try out any Java API with one file](https://www.jbang.dev/)
-* [FlatLaf is a modern open-source cross-platform Look and Feel for Java Swing desktop applications](https://github.com/JFormDesigner/FlatLaf)
-* [New language features since Java 8 to 18](https://advancedweb.hu/new-language-features-since-java-8-to-18/)
-* [Eclipse JKube is a collection of plugins and libraries that are used for building container images using Docker, JIB or S2I build strategies](https://eclipse.dev/jkube/)
-* [JBehave is a framework for Behaviour-Driven Development (BDD). BDD is an evolution of test-driven development (TDD) and acceptance-test driven design](https://jbehave.org/)
-* [Cucumber Open is the world’s #1 automation tool for Behavior-Driven Development](https://cucumber.io/tools/cucumber-open/)
-
-#### [Programming] - [Java] - [Blogs]
-
-* [Oracle Blogs | The Java Source](https://blogs.oracle.com/java/)
-* [Oracle - Blog](https://blogs.oracle.com/javamagazine/)
-* [JavaWorld](https://www.javaworld.com/)
-* [InfoQ - Java](https://www.infoq.com/java/)
-* [Javarevisited](https://javarevisited.blogspot.com/)
-* [Java, SQL and JOOQ](https://blog.jooq.org/)
-* [A Java geek](https://blog.frankel.ch/)
-* [Baeldung](https://www.baeldung.com/)
-* [Rieckpil](https://rieckpil.de/java-in-general/)
-* [programming[guide]](https://programming.guide/java/)
-* [Java Code Geeks](https://www.javacodegeeks.com/)
-* [DZone](https://dzone.com/java-jdk-development-tutorials-tools-news)
-* [TheServerSide](https://www.theserverside.com/)
-* [Jaxenter](https://jaxenter.com/news/java)
-* [The Spring Blog](https://spring.io/blog)
-* [Inside Java - News and views from the Java team at Oracle](https://inside.java/)
-* ⭐ [The JetBrains Blog](https://blog.jetbrains.com/category/news/)
-* [James Ward](https://jamesward.com/)
-* [Microsoft | Java at Microsoft](https://developer.microsoft.com/en-us/java)
-
-#### [Programming] - [Java] - [Libraries]
-
-* ⭐ [Guava - Google core libraries for Java](https://github.com/google/guava)
-* ⭐ [Apache Commons is an Apache project focused on all aspects of reusable Java components.](http://commons.apache.org/)
-* ⭐ [Apache Projects Directory is a catalog of Apache Software Foundation projects.](https://projects.apache.org/projects.html?language#Java)
-* ⭐ [Eclipe Projects](https://projects.eclipse.org/)
-* ⭐ [Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.](https://www.eclipse.org/collections/)
-* [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
-* ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
-* ⭐ [Package Search - Jetbrains](https://package-search.jetbrains.com/)
-* [Trending Java Projects](https://www.libhunt.com/l/java/trending)
-* [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
-* [JAR Search - findJAR.com](https://www.findjar.com/index.x)
-* [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
-* [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
-* [Moshi - A modern JSON library for Android and Java](https://github.com/square/moshi)
-* ⭐ [Flogger - A Fluent Logging API for Java by Google](https://github.com/google/flogger)
-* [The Simple Logging Facade for Java (SLF4J) serves as a simple facade or abstraction for various logging frameworks](https://www.slf4j.org/manual.html)
-* [WebJars are client-side web libraries (e.g. jQuery & Bootstrap) packaged into JAR files](https://www.webjars.org/)
-* [update4j - Auto-updater and launcher for your distributed applications. Built with Java 9's module system in mind](https://github.com/update4j/update4j)
-* [Graviton is an app browser and cross-platform software manager](https://graviton-browser.readthedocs.io/en/latest/)
-* [Open Source Web Crawler for Java](https://github.com/yasserg/crawler4j)
-* [jsweet - A transpiler from Java to TypeScript/JavaScript](http://www.jsweet.org/)
-* [TeaVM is an ahead-of-time compiler for Java bytecode that emits JavaScript and WebAssembly that runs in a browser](http://teavm.org/)
-* [Java in the Browser with TeaVM](https://blogs.oracle.com/javamagazine/java-in-the-browser-with-teavm)
-* [GWT is a development toolkit for building and optimizing complex browser-based applications](http://www.gwtproject.org/)
-* [CheerpJ is the Java compiler for Web applications](https://leaningtech.com/cheerpj/)
-* [CheerpJ 2.0 released — now with WebAssembly support](https://medium.com/leaningtech/cheerpj-2-0-released-381f6d03e4e)
-* ⭐ [Vaadin - Build Progressive Web Apps in Java](https://vaadin.com/)
-* [J2CL is a powerful, simple and lightweight transpiler from Java to Closure style JavaScript.](https://github.com/google/j2cl)
-* [Manifold: A Preprocessor for Java](http://manifold.systems/)
-* [Reducing boilerplate code with Project Lombok](https://projectlombok.org/)
-* [Robo4j.io robotics/IoT framework](https://github.com/Robo4J/robo4j)
-* [Joda-Time provides a quality replacement for the Java date and time classes](https://www.joda.org/joda-time/)
-* [Strata is the award-winning open source analytics and market risk library from OpenGamma](https://strata.opengamma.io/)
-* [The Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
-* [crawler4j is an open source web crawler for Java](https://github.com/yasserg/crawler4j)
-* [JReleaser - The quick and effortless way to release your Java project!](https://jreleaser.org/)
-
-##### [Programming] - [Java] - [Libraries] - [Artificial Intelligence (AI)]
-
-* [Overview of AI Libraries in Java](https://www.baeldung.com/java-ai)
-* [Apache Jena is an open source Java framework for building semantic web and linked data applications from RDF data](https://jena.apache.org/)
-* [PowerLoom is a platform for the creation of intelligent, knowledge-based applications](http://www.isi.edu/isd/LOOM/PowerLoom/)
-* [d3web is an open source reasoning engine for developing, testing and applying problem-solving knowledge onto a given problem situation, with many algorithms already included](https://www.d3web.de/)
-* [Eye is an open source reasoning engine for performing semi-backward reasoning.](http://www.agfa.com/w3c/euler/)
-* [Tweety is a collection of Java frameworks for logical aspects of AI and knowledge representation](http://tweetyproject.org/index.html)
-* [Neuroph is an open source Java framework for neural network creation](http://neuroph.sourceforge.net/index.html)
-* [Deeplearning4j is a deep learning library for JVM but it also provides API for neural network creation](https://deeplearning4j.org/index.html)
-* [Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)
-* [Stanford CoreNLP is the most popular Java NLP framework which provides various tools for performing NLP tasks](https://stanfordnlp.github.io/CoreNLP/)
-* [Java-ML is an open source Java framework which provides various machine learning algorithms specifically for programmers](http://java-ml.sourceforge.net/)
-* [RapidMiner is a data science platform which provides various machine learning algorithms through GUI and Java API](https://rapidminer.com/)
-* [Weka is a collection of machine learning algorithms which can be applied directly to the dataset, through the provided GUI or called through the provided API](https://ml.cms.waikato.ac.nz/weka/)
-* [Encong is a Java machine learning framework which supports many machine learning algorithms](https://www.heatonresearch.com/encog/)
-* [Jenetics is an advanced genetic algorithm written in Java](http://jenetics.io/)
-* [Watchmaker Framework is a framework for implementing genetic algorithms in Java](http://watchmaker.uncommons.org/)
-* [ECJ 23 is a Java based research framework with strong algorithmic support for genetic algorithms](https://cs.gmu.edu/~eclab/projects/ecj/)
-* [Eva is a simple Java OOP evolutionary algorithm framework](https://github.com/decorators-squad/eva)
-* [Deep Java Library - Open source library to build and deploy Deep Learning in Java](https://djl.ai/)
-
-#### [Programming] - [Java] - [Code Quality]
-
-* ⭐ [Google Java Style](http://google.github.io/styleguide/javaguide.html)
-* [PMD - An extensible cross-language static code analyzer](https://pmd.github.io/)
-* [Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard](http://checkstyle.sourceforge.net/)
-* [Continuous Code Quality](https://www.sonarqube.org/)
-* [FindBugs](http://findbugs.sourceforge.net/)
-* [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
-* [Apache JMeter may be used to test performance both on static and dynamic resources, Web dynamic applications.](https://jmeter.apache.org/)
-* [JProfiler's intuitive UI helps you resolve performance bottlenecks](https://www.ej-technologies.com/products/jprofiler/overview.html)
-* [VisualVM is a visual tool integrating commandline JDK tools and lightweight profiling capabilities.](https://visualvm.github.io/)
-* [JMH - Java Microbenchmark Harness](http://openjdk.java.net/projects/code-tools/jmh/)
-  * [Getting Started](https://www.baeldung.com/java-microbenchmark-harness)
-* 👓 [guardrailsio/awesome-java-security - Awesome Java Security Resources](https://github.com/guardrailsio/awesome-java-security)
-* ⭐ [Karate - Test Automation Made Simple](https://intuit.github.io/karate/)
-* [Error Prone](http://errorprone.info/index)
-
-#### [Programming] - [Java] - [Web]
-
-* ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
-* ⭐ [Spring Framework](https://spring.io/projects/spring-framework)
-* ⭐ [Spring Boot](https://spring.io/projects/spring-boot)
-* [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
-* [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
-* [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
-* [Apache TomEE & OpenEJB](http://openejb.apache.org/)
-* [Pippo - It’s an open source micro web framework in Java](http://www.pippo.ro/)
-* [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
-* ⭐ [JHipster is a development platform to generate, develop and deploy Spring Boot + Angular/React/Vue Web applications and Spring microservices](https://www.jhipster.tech/)
-* [Play Framework - Build Modern & Scalable Web Apps with Java and Scala](https://www.playframework.com/)
-* [Payara Server is an open source middleware platform that supports reliable and secure deployments of Java EE](https://www.payara.fish/)
-* [Quarkus is a Cloud Native, Container First framework for writing Java applications.](https://quarkus.io/)
-* [Spincast is an highly flexible Java web framework, based on Guice](https://github.com/spincast/spincast-framework)
-* [Jersey - RESTful Web Services in Java - Oracle](https://jersey.github.io/)
-* [Restlet Framework helps Java developers build better web APIs that follow the REST architecture style](https://restlet.com/open-source/)
-* [Cettia is a full-featured real-time web framework for Java that works with any web frameworks on the Java Virtual Machine](https://cettia.io/)
-* [Velocity is a Java-based template engine](https://velocity.apache.org/)
-* [WildFly is a flexible, lightweight, managed application runtime that helps you build amazing applications](https://wildfly.org/)
-
-#### [Programming] - [Java] - [Microservices]
-
-* 🎓 [Java Microservices: A Practical Guide](https://www.marcobehler.com/guides/java-microservices-a-practical-guide)
-* [Eclipse MicroProfile - Optimizing Enterprise Java for a Microservices Architecture](https://microprofile.io/)
-* [Helidon is a collection of Java libraries for writing microservices](https://helidon.io)
-* [Payara Micro is the open source, lightweight middleware platform of choice for containerized Java EE (Jakarta EE) microservices deployments](https://www.payara.fish/software/payara-server/payara-micro/)
-* [Lagom - an open source framework for building reactive microservice systems in Java or Scala](https://www.lagomframework.com/)
-* [Open Liberty from IBM. Build cloud-native apps and microservices while running only what you need.](https://openliberty.io/)
-  * ⭐ [The quickest way to learn all things Open Liberty, and beyond!](https://openliberty.io/guides/)
-* [Micronaut - A modern, JVM-based, full-stack framework for building modular, easily testable microservice applications](http://micronaut.io/)
-* [Cricket - Microservices Framework](https://cricketmsf.org/)
-* [Dropwizard is a Java framework for developing ops-friendly, high-performance, RESTful web services](https://www.dropwizard.io/en/latest/)
-* [Thorntail - Optimised for microservice architectures - Red Hat](https://thorntail.io/)
-* [ActiveJ is an alternative Java platform built from the ground up as a replacement of Spring, Spark, Quarkus, Micronauts, and other solutions](https://activej.io/)
-* [Simplify cloud-native application development - Microsoft](https://dapr.io/)
-
-#### [Programming] - [Java] - [JavaFX]
-
-* 👓 [Awesome JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
-* [JavaFX - Oracle](https://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
-* [OpenJFX is an open source, next generation client application platform](https://wiki.openjdk.java.net/display/OpenJFX/Main)
-* [OpenJFX Official - OpenJFX is an open source, next generation client application platform for desktop, mobile and embedded systems built on Java](https://openjfx.io/)
-* [Home to anything JavaFx related](https://www.jfx-central.com/)
-* [Gluon - JavaFX Long Term Support](https://gluonhq.com/)
-* [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
-* [StreamPi - Made in JavaFX](https://stream-pi.com/)
-
-#### [Programming] - [Java] - [JavaFX] - [Libraries]
-
-* [ControlsFX is an open source project for JavaFX that aims to provide really high quality UI controls and other tools to complement the core JavaFX distribution](https://github.com/controlsfx/controlsfx)
-* [JMetro - Styling of JavaFX controls based on the Metro design style introduced by Microsoft](https://www.pixelduke.com/java-javafx-theme-jmetro/)
-* [FXSkins - A collection of new Skins for existing JavaFX controls](https://www.pixelduke.com/FXSkins/)
-* [WorkbenchFX - A lightweight RCP (Rich Client Framework) framework for JavaFX applications](https://github.com/dlsc-software-consulting-gmbh/WorkbenchFX)
-* [PreferencesFX - A framework for easily creating a UI for application settings / preferences.](https://github.com/dlsc-software-consulting-gmbh/PreferencesFX)
-* [CalendarFX - A Java framework for creating sophisticated calendar views based on JavaFX](https://github.com/dlsc-software-consulting-gmbh/CalendarFX)
-* [A library of material components for JavaFX](https://github.com/palexdev/MaterialFX)
-* [TilesFX - A JavaFX library containing tiles that can be used for dashboards.](https://github.com/HanSolo/tilesfx)
-* [JavaFX Game Development Framework](https://github.com/AlmasB/FXGL)
-* [Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph](https://github.com/JonathanGiles/scenic-view/)
-* [AtlantaFX | Modern JavaFX CSS theme collection with additional controls](https://github.com/mkpaz/atlantafx)
-* [Icon packs for Java applications](https://github.com/kordamp/ikonli)
-* [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
-
-#### [Programming] - [Java] - [RxJava]
-
-* [RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.](https://github.com/ReactiveX/RxJava)
-* [Vert.x- Effortless asynchronous application development for the modern web and enterprise](http://vertx.io/)
-* 👓 [eleventigers/awesome-rxjava - Useful resources for working with RxJava](https://github.com/eleventigers/awesome-rxjava)
-* [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-* [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
-* [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
-
-#### [Programming] - [Java] - [Maven]
-
-* <https://maven.apache.org/guides/index.html>
-* <https://maven.apache.org/guides/MavenQuickReferenceCard.pdf>
-* <http://maven.apache.org/ref/3.1.0/maven-embedder/cli.html>
-* <https://www.javaguides.net/2018/12/maven-commands-list-pdf.html>
-* <https://www.javaguides.net/p/maven.html>
-* <https://maven.apache.org/plugins/index.html>
-* <https://itnext.io/writing-a-full-featured-maven-pom-f5b874eef312>
+- [WebAssembly](./programming/WebAssembly.md)
 
 ### [Programming] - [JavaScript]
 
@@ -1090,25 +747,6 @@
 * [Korlibs is a set of Kotlin Common modern libraries](https://korlibs.soywiz.com/)
 * [KVision - object oriented web framework for Kotlin/JS](https://kvision.io/)
 
-### [Programming] - [Legal]
-
-* [10 Free Contract Templates for Web Designers](http://mashable.com/2014/06/30/free-contract-templates/)
-* [21 servicios online y otros recursos para asesorarte y recibir ayuda legal](http://www.genbeta.com/a-fondo/21-servicios-online-y-otros-recursos-para-asesorarte-y-recibir-ayuda-legal)
-* [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/)
-* [Aviso Legal Web y LOPD](http://www.techlegal.es/)
-* [Billable: Billing Made Simple. Period.](http://billable.me/)
-* [Docracy - Free Legal Documents](https://www.docracy.com/)
-* [Freebie — The Collective Legal Guide For Designers (Contract Samples) | Smashing Magazine](http://www.smashingmagazine.com/2013/04/03/legal-guide-contract-samples-for-designers/)
-* ⭐ [Home | Software Package Data Exchange (SPDX)](https://spdx.org/)
-* [Invoice Ninja - Free and Open-Source Online Invoicing](https://www.invoiceninja.com/)
-* [Licenciando material](http://www.zehngames.com/developers/formacion-developers/licenciando-material/)
-* [Microsoft Word - Acuerdo de confidencialidad. Ejemplos..doc](http://www.inapi.cl/portal/publicaciones/608/articles-1598_recurso_1.pdf)
-* ⭐ [TLDRLegal - Software Licenses Explained in Plain English](https://tldrlegal.com/)
-* [Choose an open source license](https://choosealicense.com/)
-* [LICENSE CHOOSER](https://chooser-beta.creativecommons.org/)
-* [Licencias Creative Commons: ¿Qué son y cuáles existen?](https://ubunlog.com/licencias-creative-commons/)
-* [REUSE was started by the Free Software Foundation Europe (FSFE) to provide a set of recommendations to make licensing your Free Software projects easier](https://reuse.software/)
-
 ### [Programming] - [Lua]
 
 * 👓 [LewisJEllis/awesome-lua - A curated list of quality Lua packages and resources](https://github.com/LewisJEllis/awesome-lua)
@@ -1177,16 +815,6 @@
 * [CodeSandbox](https://codesandbox.io/)
 * [StackBlitz - Create, edit & deploy fullstack apps](https://stackblitz.com/)
 * [Codiva is an online compiler and IDE for Java](https://www.codiva.io/java)
-
-### [Programming] - [Patterns]
-
-* [Design Patterns & Refactoring](https://sourcemaking.com/)
-* [Design Patterns for Humans™ - An ultra-simplified explanation - Github](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design Patterns | Object Oriented Design](http://www.oodesign.com/)
-* 👓 [Awesome design patterns - Github](https://github.com/DovAmir/awesome-design-patterns)
-* [Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
-* ⭐ [Design patterns implemented in Java](http://java-design-patterns.com/)
-* ⭐ [The twelve-factor app](https://12factor.net/es/)
 
 ### [Programming] - [PHP]
 
@@ -1294,19 +922,6 @@
 * [A curated list of roadmaps](https://github.com/liuchong/awesome-roadmaps)
 * [roadmap.sh is a community effort to create roadmaps, guides and other educational content to help guide developers in picking up a path and guide their learnings](https://roadmap.sh/)
 
-### [Programming] - [RPC]
-
-* [A high-performance, open source universal RPC framework](https://grpc.io/)
-* [Apache Thrift](http://thrift.apache.org/)
-* [Understanding RPC Vs REST For HTTP APIs](https://www.smashingmagazine.com/2016/09/understanding-rest-and-rpc-for-http-apis/)
-
-### [Programming] - [Rust]
-
-* [The Rust Programming Language](https://www.rust-lang.org/)
-* [The Rust Programming Language - Github](https://github.com/rust-lang)
-* [The Rust Book](https://doc.rust-lang.org/book/title-page.html)
-* [You can build stuff!](http://www.arewewebyet.org/)
-
 ### [Programming] - [Templating Engine]
 
 * [Liquid Templating Engine](http://shopify.github.io/liquid/)
@@ -1323,12 +938,6 @@
 * [UWP Comunity](https://uwpcommunity.com/projects/)
 * [A simple, elegant white noise app for Xbox and Windows](https://github.com/jenius-apps/ambie)
 
-### [Programming] - [VM]
-
-* ⭐ [Bitnami - Packaged Applications for Any Platform](https://bitnami.com/)
-* [TurnKey GNU/Linux: 100+ free ready-to-use system images for virtual machines, the cloud, and bare metal.](https://www.turnkeylinux.org/)
-* [Images | VirtualBoxes - Free VirtualBox® Images](https://virtualboxes.org/images/)
-
 ### [Programming] - [Vue]
 
 * [Vue.js - The Progressive JavaScript Framework](https://vuejs.org/)
@@ -1337,12 +946,6 @@
 * [Nuxt.js - The Progressive Vue.js Framework](https://nuxtjs.org/)
 * [Vue.js Serie in Dev.to](https://dev.to/hi_iam_chris/series/24385)
 * [Introducción a Vue.js](https://lenguajejs.com/vuejs/)
-
-### [Programming] - [WebAssembly]
-
-* [WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine](https://webassembly.org/)
-* [WebAssembly is a new type of code that can be run in modern web browsers](https://developer.mozilla.org/en-US/docs/WebAssembly)
-* [AssemblyScript - A language made for WebAssembly](https://www.assemblyscript.org/)
 
 ### [Programming] - [Web]
 
