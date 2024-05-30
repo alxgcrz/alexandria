@@ -1,0 +1,47 @@
+# [Official]
+
+- [Amazon Developer Services](https://developer.amazon.com/es/)
+- [Facebook - Open Source](https://opensource.fb.com/)
+- [Oracle Developers](https://developer.oracle.com/)
+- [IBM](https://developer.ibm.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/es/)
+- [Red Hat Developer Program](https://developers.redhat.com/)
+- [Software Intel®](https://software.intel.com/es-es)
+- [Ubuntu Developer](https://developer.ubuntu.com/)
+- [Welcome to The Apache Software Foundation!](https://www.apache.org/)
+- [Yahoo Developer Network](https://developer.yahoo.com)
+- [Stripe: Código abierto](https://github.com/stripe)
+- [Open Source @ IFTTT](https://ifttt.github.io/)
+- [Uber Open Source](https://uber.github.io/#/)
+- [Github](https://github.com/github)
+
+## [Microsoft]
+
+- 🇪🇸🔸 [Centro de desarrollo de Windows](https://developer.microsoft.com/es-es/windows/)
+- 🇪🇸 [Microsoft Learn](https://learn.microsoft.com/es-es/)
+- [Chocolatey](https://chocolatey.org/)
+- [Winget](https://learn.microsoft.com/es-es/windows/package-manager/winget/)
+- 🇪🇸 [IDE de Visual Studio, editor de código, Team Services y Mobile Center](https://visualstudio.microsoft.com/es/)
+- 🇪🇸 [Documentación del subsistema de Windows para Linux | Microsoft Docs](https://learn.microsoft.com/es-es/windows/wsl/about)
+- ⭐ [Fluent Design System - Web - Windows - iOS - Android](https://fluent2.microsoft.design/#/)
+- [The adaptive interface system for modern web experiences - Fast from Microsoft](https://www.fast.design/)
+- [Microsoft products and services embrace open source to bring choice, technology and community to our customers](https://opensource.microsoft.com/)
+- [Windows Sysinternals](https://learn.microsoft.com/es-es/sysinternals/)
+- [PowerToys](https://learn.microsoft.com/es-es/windows/powertoys/)
+
+## [Google]
+
+- 🔸 [Google Developers](https://developers.google.com/)
+- [Welcome to Dev Library](https://devlibrary.withgoogle.com/)
+- [Google Web Fundamentals](https://developers.google.com/focus/web-development)
+- [Google Open Source – opensource.google.com](https://opensource.google/)
+- [Make the Web Faster — Google Developers](https://developers.google.com/speed/pagespeed/)
+- [Google Trends](https://trends.google.com/trends/)
+- [Apps Script – Google Apps Script](https://www.google.com/script/start/)
+- [Google Cloud Platform](https://github.com/GoogleCloudPlatform)
+- [Cloud Computing, servicios de alojamiento y APIs de Google Cloud](https://cloud.google.com/)
+- [GCP products described in 4 words or less – Google Cloud Platform](https://github.com/gregsramblings/google-cloud-4-words)
+- [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome)
+- [Google Arts & Culture](https://artsandculture.google.com/)
+- [Think with Google: Marketing Research & Digital Trends](https://www.thinkwithgoogle.com/intl/es-es/)
+- [Escritorio Remoto de Chrome](https://remotedesktop.google.com/)
