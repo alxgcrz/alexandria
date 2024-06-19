@@ -5,6 +5,7 @@
 
 ## [Angular] - [Learning]
 
+- 📺 <https://www.youtube.com/@Angular>
 - 📕 [Angular Mini-Book](https://github.com/mraible/angular-book)
 - 📕 <https://goalkicker.com/Angular2Book/>
 - <https://roadmap.sh/angular>
@@ -20,3 +21,8 @@
 - [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
 - [Reactive State for Angular](https://ngrx.io/)
 - [Nebular is a customizable Angular UI library](https://akveo.github.io/nebular/)
+
+## [Angular] - [Other]
+
+- <https://github.com/andresjosehr/andresjosehr-portfolio>
+- <https://tailwindcss.com/docs/guides/angular>

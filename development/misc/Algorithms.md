@@ -14,3 +14,4 @@
 - <https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial>
 - <https://www.freecodecamp.org/news/search/?query=algorithms>
 - ⭐ <https://roadmap.sh/datastructures-and-algorithms>
+- [Algorithms and data structures implemented in JavaScript with explanations and links to further readings](https://github.com/trekhleb/javascript-algorithms)
