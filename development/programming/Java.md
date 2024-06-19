@@ -82,7 +82,7 @@
 - ⭐ [Sonatype - The Central Repository](https://search.maven.org/)
 - ⭐ [Package Search - Jetbrains](https://package-search.jetbrains.com/)
 - [Trending Java Projects](https://www.libhunt.com/l/java/trending)
-- [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+- ⭐ [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
 - [JAR Search - findJAR.com](https://www.findjar.com/index.x)
 - [Guice is a lightweight dependency injection framework for Java 6 and above](https://github.com/google/guice)
 - [jsoup - Java HTML Parser, with best of DOM, CSS, and jquery](https://jsoup.org/)
@@ -130,8 +130,6 @@
 ## [Java] - [Web]
 
 - ⭐ [Jib - Build container images for your Java applications.](https://github.com/GoogleContainerTools/jib)
-- ⭐ [Spring Framework](https://spring.io/projects/spring-framework)
-- ⭐ [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spark Framework - A micro framework for creating web applications in Kotlin and Java 8 with minimal effort](http://sparkjava.com/)
 - [Jooby - Scalable, fast and modular micro web framework for Java](https://jooby.org/)
 - [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)

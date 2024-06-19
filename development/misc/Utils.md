@@ -38,7 +38,7 @@
 - ⭐ [Coderbyte - Improve your coding skills](https://coderbyte.com/challenges)
 - [Codingame - The new way to improve your programming skills](https://www.codingame.com/start)
 - ⭐ [LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews](https://leetcode.com/)
-- ⭐ [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/)
+- ⭐ [The HackerRank Community is the largest learning and competition community for programmers](https://www.hackerrank.com/dashboard)
 - [Project Euler is a series of challenging mathematical/computer programming problems](https://projecteuler.net/)
 - [codility for programers](https://app.codility.com/programmers/)
 - [Code Golf](https://code.golf/)
