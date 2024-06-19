@@ -109,6 +109,8 @@
 - [The Simple Logging Facade for Java (SLF4J)](http://www.slf4j.org/)
 - [crawler4j is an open source web crawler for Java](https://github.com/yasserg/crawler4j)
 - [JReleaser - The quick and effortless way to release your Java project!](https://jreleaser.org/)
+- <https://github.com/GeoLatte/geolatte-geom>
+- [JTS Topology Suite](https://github.com/locationtech/jts)
 
 ## [Java] - [Code_Quality]
 
@@ -171,3 +173,9 @@
 - [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 - [The Essential RxJava Guide for Android Developers | Learn Android The Easy Way](http://blog.jimbaca.com/essential-rxjava-guide-for-android-developers/)
 - [RxJava cheat sheet for Java and Android applications zeroturnaround.com](https://zeroturnaround.com/rebellabs/rxjava-cheat-sheet-with-a-pinch-of-android/)
+
+## [Java] - [SQL]
+
+- [Hibernate](https://hibernate.org/)
+- [Jdbi provides convenient, idiomatic access to relational data in Java](https://jdbi.org/)
+- [jOOQ: The easiest way to write SQL in Java](https://www.jooq.org/)

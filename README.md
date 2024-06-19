@@ -36,6 +36,7 @@
 - [Gradle](./development/programming/Gradle.md)
 - [GraphQL](./development/programming/GraphQL.md)
 - [Haxe](./development/programming/Haxe.md)
+- [Hibernate](./development/programming/Hibernate.md)
 - [HTML](./development/programming/HTML.md)
 - [Java](./development/programming/Java.md)
 - [JavaFX](./development/programming/JavaFX.md)

@@ -42,3 +42,7 @@
 - [Ktor is a framework for building asynchronous servers and clients in connected systems using Kotlin](https://ktor.io/)
 - [Korlibs is a set of Kotlin Common modern libraries](https://korlibs.soywiz.com/)
 - [KVision - object oriented web framework for Kotlin/JS](https://kvision.io/)
+
+## [Kotlin] - [SQL]
+
+- [Exposed is a Kotlin SQL database library](https://jetbrains.github.io/Exposed/home.html)
