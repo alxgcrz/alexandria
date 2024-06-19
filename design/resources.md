@@ -136,6 +136,7 @@
 - ⭐ [Trendy Palettes - Curated collection of beautiful hand-made color palettes](https://trendypalettes.com/)
 - [Curated colors in context](https://www.happyhues.co/)
 - [Color Hex Color Codes](http://www.color-hex.com/)
+- <https://python-graph-gallery.com/color-palette-finder/>
 
 ## [Resources] - [Freebies]
 
