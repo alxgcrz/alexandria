@@ -7,12 +7,13 @@
   - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
   - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [OpenJDK](https://openjdk.org/)
-- [The Destination for Java Developers](https://dev.java/)
+
 - [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 - ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
 - 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 - 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
 - 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
+- 📕 <https://goalkicker.com/JavaBook>
 - 👓 [Awesome Java](https://github.com/akullpp/awesome-java)
 - [The Scala Programming Language](http://www.scala-lang.org/)
 - ⭐ [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
@@ -34,8 +35,9 @@
 - [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
 - [Ideone is an online compiler and debugging tool](https://ideone.com/)
 
-## [Java] - [Blogs]
+## [Java] - [Sites]
 
+- ⭐ [The Destination for Java Developers](https://dev.java/)
 - ⭐ [Baeldung](https://www.baeldung.com/)
 - [Oracle Blogs | The Java Source](https://blogs.oracle.com/java/)
 - [Oracle Blogs | Java Magazine](https://blogs.oracle.com/javamagazine/)
@@ -179,3 +181,14 @@
 - [Hibernate](https://hibernate.org/)
 - [Jdbi provides convenient, idiomatic access to relational data in Java](https://jdbi.org/)
 - [jOOQ: The easiest way to write SQL in Java](https://www.jooq.org/)
+
+## [Java] - [Builds]
+
+- <https://www.oracle.com/java/technologies/downloads/>
+- <https://jdk.java.net/>
+- <https://aws.amazon.com/es/corretto/>
+- <https://adoptium.net/es/>
+- <https://www.microsoft.com/openjdk>
+- <https://developer.ibm.com/languages/java/semeru-runtimes/downloads>
+- <https://www.azul.com/downloads>
+- <https://developers.redhat.com/products/openjdk/overview>
