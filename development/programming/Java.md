@@ -7,7 +7,7 @@
   - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
   - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [OpenJDK](https://openjdk.org/)
-
+- ⭐ <https://roadmap.sh/java>
 - [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 - ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
 - 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
