@@ -3,17 +3,9 @@
 - 🔸 [Java Platform, Standard Edition Documentation](https://docs.oracle.com/en/java/javase/index.html)
 - [Oracle Technology Network / Java](https://www.oracle.com/java/)
 - [Java Documentation](https://docs.oracle.com/en/java/)
-- ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
-  - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
-  - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - [OpenJDK](https://openjdk.org/)
-- ⭐ <https://roadmap.sh/java>
 - [This JEP is the index of all JDK Enhancement Proposals, known as JEPs](http://openjdk.java.net/jeps/0)
 - ⭐ [The Java Version Almanac - Collection of information about the history and future of Java.](https://javaalmanac.io/)
-- 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
-- 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
-- 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
-- 📕 <https://goalkicker.com/JavaBook>
 - 👓 [Awesome Java](https://github.com/akullpp/awesome-java)
 - [The Scala Programming Language](http://www.scala-lang.org/)
 - ⭐ [Writing Java with Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
@@ -60,7 +52,16 @@
 
 ## [Java] - [Learn]
 
-- [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
+- ⭐ <https://roadmap.sh/java>
+- ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)
+  - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/reallybigindex.html)
+  - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+- ⭐ [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
+- <https://www.tutorialspoint.com/java/index.htm>
+- 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
+- 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
+- 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
+- 📕 <https://goalkicker.com/JavaBook>
 
 ## [Java] - [Libraries]
 

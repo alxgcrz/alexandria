@@ -11,4 +11,4 @@
 - ⭐ [The Firebase Realtime Database is a cloud-hosted NoSQL database that lets you store and sync data between your users in realtime](https://firebase.google.com/products/realtime-database/)
 - [Flyway - Version control for your database](https://flywaydb.org/)
 - [HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
-- <https://www.db-fiddle.com/>
+- <https://docs.oracle.com/en/database/oracle/oracle-database/index.html>

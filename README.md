@@ -55,6 +55,7 @@
 - [React](./development/programming/React.md)
 - [Rust](./development/programming/Rust.md)
 - [Spring](./development/programming/Spring.md)
+- [SQL](./development/programming/SQL.md)
 - [TypeScript](./development/programming/TypeScript.md)
 - [UWP](./development/programming/UWP.md)
 - [Vue](./development/programming/Vue.md)
