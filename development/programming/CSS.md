@@ -15,6 +15,7 @@
 - 🧰 [CSS3 Generator](http://css3generator.com/)
 - 🧰 [The Ultimate CSS3 Generator | Web Code Tools](https://webcode.tools/css-generator)
 - 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
+- <https://web.dev/learn/css?hl=es>
 
 ## [CSS] - [Frameworks]
 

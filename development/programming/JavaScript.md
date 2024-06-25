@@ -20,6 +20,7 @@
 - <https://overapi.com/javascript>
 - <https://htmlcheatsheet.com/js/>
 - <https://cheatsheets.shecodes.io/javascript>
+- <https://web.dev/learn/javascript>
 
 ## [JavaScript] - [Libraries]
 

@@ -23,3 +23,4 @@
 - 📕 <https://goalkicker.com/HTML5Book/>
 - 📕 <https://goalkicker.com/HTML5CanvasBook/>
 - 🎓 <https://alxgcrz.com/html5.html>
+- <https://web.dev/learn/html>
