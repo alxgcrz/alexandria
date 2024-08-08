@@ -22,5 +22,5 @@
 - <https://roadmap.sh/frontend>
 - 📕 <https://goalkicker.com/HTML5Book/>
 - 📕 <https://goalkicker.com/HTML5CanvasBook/>
-- 🎓 <https://alxgcrz.com/html5.html>
 - <https://web.dev/learn/html>
+- [htmx is a library that allows you to access modern browser features directly from HTML](https://htmx.org/)

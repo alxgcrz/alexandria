@@ -161,17 +161,17 @@
 
 ## [Resources] - [Fonts]
 
-- 🧰 [Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
-- 🧰 [Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
-- 🧰 [Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
-- 🧰 [FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
-- 🧰 [Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
-- 🧰 [Identifont - Tools](http://www.identifont.com/tools.html)
-- 🧰 [Type Scale - A Visual Calculator](http://type-scale.com/)
+- 🧰[Create Your Own @font-face Kits » Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+- 🧰[Easy web-font generator — Fontie](https://fontie.pixelsvsbytes.com/webfont-generator)
+- 🧰[Font Combiner | Custom web fonts and web icons](https://fontcombiner.com/)
+- 🧰[FontForge Open Source Font Editor](http://fontforge.github.io/en-US/)
+- 🧰[Glyphr Studio, the free HTML5 based font editor](http://glyphrstudio.com/)
+- 🧰[Identifont - Tools](http://www.identifont.com/tools.html)
+- 🧰[Type Scale - A Visual Calculator](http://type-scale.com/)
 - [The Essential Guide to @font-face](https://www.webpagefx.com/blog/web-design/font-face-guide/)
 - [Understanding Web Fonts and Getting the Most Out of Them](https://css-tricks.com/understanding-web-fonts-getting/)
-- ⭐ [Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com/#home)
-- ⭐ [Dev Fonts](https://devfonts.gafi.dev/)
+- ⭐⌨[Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com)
+- ⭐[Dev Fonts](https://devfonts.gafi.dev/)
 
 ### [Resources] - [Fonts] - [Catalogue]
 
@@ -204,6 +204,7 @@
 - [25 Awesome Fonts From Google Fonts](https://dev.to/kiranrajvjd/25-awesome-fonts-from-google-fonts-40im)
 - [Fonts In Use | An independent archive of typography](https://fontsinuse.com/)
 - [ZX Origins - 8x8 fonts](https://damieng.com/typography/zx-origins/)
+- <https://modernfontstacks.com/>
 
 ### [Resources] - [Fonts] - [Single]
 

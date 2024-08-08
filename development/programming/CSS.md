@@ -16,6 +16,8 @@
 - 🧰 [The Ultimate CSS3 Generator | Web Code Tools](https://webcode.tools/css-generator)
 - 🎓 [CSS3 Properties](https://www.web4college.com/css-play/index.php)
 - <https://web.dev/learn/css?hl=es>
+- <https://cheatsheets.zip/css3>
+- <https://overapi.com/css>
 
 ## [CSS] - [Frameworks]
 
@@ -73,6 +75,7 @@
 - [Yogurt - A colossal low-level utility CSS framework for crafting beautiful and elegant user interface at an atomic level](https://yogurtcss.netlify.app/)
 - [gd.css styles all visible HTML elements in line with modern best practice.](https://gdcss.netlify.app/)
 - [Minimal CSS Framework for semantic HTML](https://picocss.com/)
+- <https://www.beercss.com/>
 
 ### [CSS] - [Frameworks] - [Bootstrap]
 
@@ -88,15 +91,15 @@
 
 - ⭐ [Tailwind CSS - A Utility-First CSS Framework for Rapid UI Development](https://tailwindcss.com/)
 - [Tailwind Labs - Creators of Tailwind CSS, Tailwind UI, and Refactoring UI.](https://github.com/tailwindlabs)
-- 📺 [Curso de Tailwind CSS](https://www.youtube.com/watch?v=aUuYGDK6Oio)
-- [Tailblocks - Ready-to-use Tailwind CSS blocks](https://github.com/mertJF/tailblocks)
-- [wickedblocks - ready made Tailwind CSS blocks, for your next project](https://blocks.wickedtemplates.com/)
+- [Tailblocks - Ready-to-use Tailwind CSS blocks](https://tailblocks.cc/)
+- [wickedblocks - ready made Tailwind CSS blocks, for your next project](https://wickedblocks.dev/)
 - [Meraki UI Components](https://merakiui.com/)
 - [Kometa UI Kit](https://kitwind.io/products/kometa)
 - [Mamba UI](https://mambaui.com/)
 - [Tail-kit](https://www.tailwind-kit.com/)
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 - [DaisyUI](https://daisyui.com/)
+- <https://tailwindflex.com/>
 
 ## [CSS] - [Preprocesadores]
 

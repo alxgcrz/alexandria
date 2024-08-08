@@ -1,22 +1,26 @@
 # [Python]
 
-- 👓 <https://github.com/vinta/awesome-python>
-- [A Byte of Python](http://www.swaroopch.com/notes/python/)
-- [BeeWare - The IDEs of Python](http://pybee.org/)
-- [Bottle: Python Web Framework — Bottle 0.13-dev documentation](http://bottlepy.org/docs/dev/index.html)
-- [gregmalcolm/python_koans · GitHub](https://github.com/gregmalcolm/python_koans)
-- [Guía de aprendizaje de Python](http://pyspanishdoc.sourceforge.net/tut/tut.html)
-- [Learn Python](http://learnpythonthehardway.org/book/)
-- [Python for System Administrators — Python for System Administrators 0.1a documentation](http://python-for-system-administrators.readthedocs.org/en/latest/)
-- [Python Programming with Minecraft Pi: Early Draft | arghbox](http://arghbox.wordpress.com/2013/06/13/programming-minecraft-pi-with-python-early-draft/)
-- [spyderlib - Spyder is the Scientific PYthon Development EnviRonment - Google Project Hosting](https://code.google.com/p/spyderlib/)
-- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](http://python-guide-pt-br.readthedocs.io/en/latest/)
-- [Welcome | Flask (A Python Microframework)](http://flask.pocoo.org/)
-- [Welcome to Fabric! — Fabric documentation](http://www.fabfile.org/)
-- [PyQt examples](https://github.com/pyqt/examples)
-- [Python and Qt are great for writing cross-platform desktop apps](https://build-system.fman.io/)
-- 📕 [Python books free to read online or download](https://github.com/pamoroso/free-python-books)
-- 🇪🇸📕 [Python para todos](https://es.py4e.com/book)
-- 📕 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- 🔸<https://www.python.org/>
+- 👓<https://github.com/vinta/awesome-python>
 - <https://roadmap.sh/python>
+- <https://www.djangoproject.com/>
+- <https://flask.palletsprojects.com/en/3.0.x/>
+- <https://www.fabfile.org/>
+- <http://www.fabfile.org/>
+- <https://github.com/pyqt/examples>
+- <https://build-system.fman.io/>
+
+## [Python] - [Learn]
+
+- ⭐<https://cheatsheets.zip/python>
+- <https://exercism.org/tracks/python>
+- <https://the-algorithms.com/es>
+- [gregmalcolm/python_koans · GitHub](https://github.com/gregmalcolm/python_koans)
+- [Python para todos](https://es.py4e.com/html3/)
+- 📕[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- 📕[Python books free to read online or download](https://github.com/pamoroso/free-python-books)
+- [A Byte of Python](https://python.swaroopch.com/)
+- <https://ellibrodepython.com/>
+- <https://pyspanishdoc.sourceforge.net/tut/tut.html>
+- <https://python-for-system-administrators.readthedocs.io/en/latest/>
 - <https://goalkicker.com/PythonBook/>

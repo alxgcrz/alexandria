@@ -1,6 +1,6 @@
 # [TypeScript]
 
-- 🔸 [Welcome to TypeScript](https://www.typescriptlang.org/)
+- 🔸 <https://www.typescriptlang.org/>
 - 👓 <https://github.com/dzharii/awesome-typescript>
 - 👓 <https://github.com/semlinker/awesome-typescript>
 
@@ -8,6 +8,7 @@
 
 - 📕 <https://goalkicker.com/TypeScriptBook2/>
 - <https://roadmap.sh/typescript>
+- <https://cheatsheets.zip/typescript>
 - <https://the-algorithms.com/language/typescript>
 - <https://www.tutorialsteacher.com/typescript>
 - <https://learntypescript.dev/>
@@ -17,7 +18,6 @@
 - <https://www.freecodecamp.org/news/learn-typescript-beginners-guide/>
 - <https://www.tutorialspoint.com/typescript/index.htm>
 - <https://github.com/type-challenges/type-challenges>
-- <https://alxgcrz.com/typescript.html>
 
 ## [TypeScript] - [Runtime]
 

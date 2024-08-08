@@ -1,6 +1,6 @@
 # [Algorithms]
 
-- [All Algorithms implemented in Java - Github](https://the-algorithms.com/es)
+- [All Algorithms - Github](https://the-algorithms.com/es)
 - 👓 <https://github.com/tayllan/awesome-algorithms>
 - 👓 <https://github.com/gaerae/awesome-algorithms-education>
 - <https://www.khanacademy.org/computing/computer-science/algorithms>

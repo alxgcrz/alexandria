@@ -3,6 +3,11 @@
 - 🔸 [Angular](https://angular.dev/)
 - 👓 <https://github.com/PatrickJS/awesome-angular>
 
+## [Angular] - [TypeScript]
+
+- <https://www.typescriptlang.org/>
+- <https://cheatsheets.zip/typescript>
+
 ## [Angular] - [Learning]
 
 - 📺 <https://www.youtube.com/@Angular>
@@ -10,7 +15,9 @@
 - 📕 <https://goalkicker.com/Angular2Book/>
 - <https://roadmap.sh/angular>
 - <https://dev.to/rustcodeweb/angularjs-tutorials-2a9d>
-- <https://alxgcrz.com/angular.html>
+- <https://github.com/sudheerj/angular-interview-questions>
+- <https://geekflare.com/es/angular-interview-questions/>
+- <https://v17.angular.io/guide/cheatsheet>
 
 ## [Angular] - [Frameworks]
 
@@ -21,8 +28,4 @@
 - [Bootstrap components, powered by Angular](https://valor-software.com/ngx-bootstrap/#/)
 - [Reactive State for Angular](https://ngrx.io/)
 - [Nebular is a customizable Angular UI library](https://akveo.github.io/nebular/)
-
-## [Angular] - [Other]
-
-- <https://github.com/andresjosehr/andresjosehr-portfolio>
 - <https://tailwindcss.com/docs/guides/angular>

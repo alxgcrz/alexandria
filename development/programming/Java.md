@@ -27,6 +27,13 @@
 - [JShell was a great addition to the JDK. Now it’s online!](https://www.tryjshell.org/)
 - [Ideone is an online compiler and debugging tool](https://ideone.com/)
 
+## [Java] - [Jakarta]
+
+- [Jakarta EE](https://jakarta.ee/)
+- [Jakarta EE Platform 10](https://jakarta.ee/specifications/platform/10/)
+- [Apache TomEE is an all-Apache Jakarta EE 9.1 certified application server](http://openejb.apache.org/)
+- [Eclipse GlassFish - Open Source Jakarta EE Platform Implementation](https://glassfish.org/)
+
 ## [Java] - [Sites]
 
 - ⭐ [The Destination for Java Developers](https://dev.java/)
@@ -58,6 +65,7 @@
   - [Java Tutorials Learning Paths](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 - ⭐ [Eclipse Collections Kata](https://github.com/eclipse/eclipse-collections-kata)
 - <https://www.tutorialspoint.com/java/index.htm>
+- <https://www.javatpoint.com/java-tutorial>
 - 📕 [Introduction to Programming Using Java, Eighth Edition](http://math.hws.edu/javanotes/)
 - 📕 [Think Java](https://handwiki.org/wiki/Book:ThinkJava)
 - 📕 [Java Book](http://www.java2s.com/Book/Java/CatalogJava.htm)
@@ -144,7 +152,6 @@
 - [Eclipse Jetty provides a highly scalable and memory-efficient web server and servlet container](https://jetty.org/)
 - [Netty is an asynchronous event-driven network application framework](https://netty.io/)
 - [Akka - Build powerful reactive, concurrent, and distributed applications more easily](https://akka.io/)
-- [Apache TomEE & OpenEJB](http://openejb.apache.org/)
 - [Apache Wicket](https://wicket.apache.org/)
 - [Javalin - A simple web framework for Java and Kotlin](https://javalin.io/)
 - [Spincast is an highly flexible Java web framework, based on Guice](https://www.spincast.org)
@@ -182,6 +189,7 @@
 - [Hibernate](https://hibernate.org/)
 - [Jdbi provides convenient, idiomatic access to relational data in Java](https://jdbi.org/)
 - [jOOQ: The easiest way to write SQL in Java](https://www.jooq.org/)
+- [EclipseLink](https://eclipse.dev/eclipselink/)
 
 ## [Java] - [Builds]
 

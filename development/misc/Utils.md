@@ -122,6 +122,9 @@
 - ⭐ [Community driven roadmaps, articles and resources for developers](https://github.com/kamranahmedse/developer-roadmap)
 - [A curated list of roadmaps](https://github.com/liuchong/awesome-roadmaps)
 - [roadmap.sh is a community effort to create roadmaps](https://roadmap.sh/)
+- ⭐[The Absolute Minimum Every Software Developer Must Know About Unicode](https://tonsky.me/blog/unicode/)
+- <https://github.com/mtdvio/every-programmer-should-know>
+- <https://github.com/jwasham/coding-interview-university>
 
 ## [Utils] - [Online_editors]
 

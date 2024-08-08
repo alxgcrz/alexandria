@@ -6,8 +6,6 @@
 - [OpenJFX Official](https://openjfx.io/)
 - [Home to anything JavaFx related](https://www.jfx-central.com/)
 - [Gluon - JavaFX Long Term Support](https://gluonhq.com/)
-- [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
-- [StreamPi - Made in JavaFX](https://stream-pi.com/)
 
 ## [JavaFX] - [Libraries]
 
@@ -24,3 +22,9 @@
 - [AtlantaFX | Modern JavaFX CSS theme collection with additional controls](https://github.com/mkpaz/atlantafx)
 - [Icon packs for Java applications](https://github.com/kordamp/ikonli)
 - [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
+
+## [JavaFX] - [Apps]
+
+- [Advanced and Modern JavaFX Media Player](https://github.com/goxr3plus/XR3Player)
+- <https://github.com/PavelKastornyy/jeditermfx>
+- [StreamPi - Made in JavaFX](https://stream-pi.com/)

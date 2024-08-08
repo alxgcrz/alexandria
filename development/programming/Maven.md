@@ -7,4 +7,4 @@
 - <https://www.javaguides.net/2018/12/maven-commands-list-pdf.html>
 - <https://www.javaguides.net/p/maven.html>
 - <https://www.baeldung.com/category/maven>
-- <https://alxgcrz.com/maven.html>
+- <https://github.com/apache/maven-mvndk>

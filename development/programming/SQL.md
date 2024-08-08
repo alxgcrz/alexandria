@@ -10,6 +10,11 @@
 - <https://www.sqltutorial.org/>
 - <https://github.com/XD-DENG/SQL-exercise>
 - <https://www.w3schools.com/mysql/default.asp>
+- <https://cheatsheets.zip/mysql>
+- <https://cheatsheets.zip/postgres>
+- <https://sql-academy.org/en/guide>
+- <https://www.codecademy.com/learn/learn-sql>
+- <https://sqlbolt.com/>
 
 ## [SQL] - [Online]
 

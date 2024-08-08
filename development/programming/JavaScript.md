@@ -39,3 +39,4 @@
 - [CreateJS | A suite of Javascript libraries and tools designed for working with HTML5](https://createjs.com/)
 - [ESLint statically analyzes your code to quickly find problems](https://eslint.org/)
 - <https://websocket.org/>
+- [Apache ECharts - An Open Source JavaScript Visualization Library](https://echarts.apache.org/en/index.html)

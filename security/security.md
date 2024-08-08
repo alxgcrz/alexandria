@@ -38,6 +38,7 @@
 - [La importancia del bastionado de servidores - Part II](https://www.securityartwork.es/2019/07/04/la-importancia-del-bastionado-de-servidores-parte-2-bastionando-el-servidor/)
 - [La importancia del bastionado de servidores - Part III](https://www.securityartwork.es/2019/07/08/la-importancia-del-bastionado-de-servidores-parte-3-el-incidente/)
 - 🎓 [The Ultimate Kali Linux Manual and Course](https://kali.training/)
+- <https://github.com/HadessCS/Red-team-Interview-Questions>
 
 ## [Security] - [Utils]
 
