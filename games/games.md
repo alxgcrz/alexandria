@@ -70,6 +70,7 @@
 - [Pixel Art Tutorials - Palette List - Pixel Art Tools](https://lospec.com)
 - ⭐ [Explore a collection of video games interfaces, screenshots, and clips](https://interfaceingame.com/games/)
 - [The ultimate reference tool for interface designers](https://www.gameuidatabase.com/)
+- [Game UI Database](https://www.gameuidatabase.com/index.php)
 
 ### [Games] - [Learn] - [Physics]
 
@@ -138,7 +139,7 @@
 - [Squiffy - A simple way to write interactive fiction](http://textadventures.co.uk/squiffy)
 - [Inform is a design system for interactive fiction](http://inform7.com/)
 
-## [Games] - [HTML5 Game Framework]
+## [Games] - [HTML5_Game_Framework]
 
 - [Which HTML5 Game Engine is right for you?](https://html5gameengine.com/)
 - [Phaser](https://phaser.io/)
@@ -156,7 +157,7 @@
 - [PlayCanvas](https://github.com/playcanvas/engine)
 - [Blacksmith 2D - the world’s most supported system ever built - seamlessly runs on all browsers and platforms.](http://blacksmith2d.io/)
 
-## [Games] - [Canvas Library]
+## [Games] - [Canvas_Library]
 
 - [PixiJS - The HTML5 Creation Engine - Create beautiful digital content with the fastest, most flexible 2D WebGL renderer](https://www.pixijs.com/)
 - [BabylonJS](https://www.babylonjs.com)
@@ -194,7 +195,7 @@
 - [RenderDoc - graphics debugger](https://renderdoc.org/)
 - [A list of Game Development resources to make magic happen - Github](https://github.com/ellisonleao/magictools)
 
-### [Games] - [Resources] - [3D Models]
+### [Games] - [Resources] - [3D_Models]
 
 - [3dsky](https://3dsky.org/)
 - [3D Models](https://flyingarchitecture.com/models)

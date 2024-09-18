@@ -1,5 +1,7 @@
 # [Security]
 
+- [OWASP](https://owasp.org/)
+- ⭐⭐[OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
 - [Suricata | Open Source IDS / IPS / NSM engine](https://suricata-ids.org/)
 - [Linux Kodachi3, un SO seguro, anti-forense, anónimo... y fácil de usar : hackplayers](http://www.hackplayers.com/2017/01/linux-kodachi3-un-so-seguro-anti.html)
 - [vFeed: una BD de vulnerabilidades - Security Art Work](http://www.securityartwork.es/2015/07/21/vfeed-una-bd-de-vulnerabilidades/)
@@ -8,8 +10,6 @@
 - [Tor Project: Anonymity Online](http://www.torproject.org/)
 - [SHODAN - Computer Search Engine](http://www.shodanhq.com/)
 - [PSI - Consumer - Products](http://secunia.com/vulnerability_scanning/personal/)
-- [OWASP WebGoat Web Hacking Simulation Series © YGN Ethical Hacker Group (YEHG), Yangon, Myanmar - http://yehg.net](http://webappsecmovies.sourceforge.net/webgoat/#Web_Services)
-- [OWASP](https://www.owasp.org/index.php/Main_Page)
 - [Oficina de Seguridad del Internauta](https://www.osi.es/es)
 - [itsecgames](http://www.itsecgames.com/)
 - [bWAPP, una aplicación para aprender seguridad jugando | Wh0s](http://wh0s.org/2014/04/03/bwapp-2/)
@@ -17,6 +17,14 @@
 - [0xWORD](http://0xword.com/)
 - [The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games](https://overthewire.org/wargames/)
 - [Scripting en Bash para principiantes #1](https://youtu.be/RUorAzaDftg?t=226)
+
+## [Security] - [Vulnerability_Database]
+
+- <https://nvd.nist.gov/>
+- <https://www.cve.org/>
+- <https://www.cvedetails.com/>
+- <https://cwe.mitre.org/>
+- <https://osv.dev/>
 
 ## [Security] - [Learn]
 
