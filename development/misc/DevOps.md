@@ -8,6 +8,7 @@
 - <https://roadmap.sh/docker>
 - <https://containerd.io/>
 - <https://mobyproject.org/>
+- [Welcome to the Oracle Container Registry](https://container-registry.oracle.com/)
 
 ### [Docker] - [Learn]
 
