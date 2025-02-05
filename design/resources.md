@@ -172,6 +172,7 @@
 - [Understanding Web Fonts and Getting the Most Out of Them](https://css-tricks.com/understanding-web-fonts-getting/)
 - ⭐⌨[Nerd Fonts patches developer targeted fonts with a high number of glyphs (icons)](https://www.nerdfonts.com)
 - ⭐[Dev Fonts](https://devfonts.gafi.dev/)
+- [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 ### [Resources] - [Fonts] - [Catalogue]
 

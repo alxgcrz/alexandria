@@ -22,6 +22,7 @@
 - [AtlantaFX | Modern JavaFX CSS theme collection with additional controls](https://github.com/mkpaz/atlantafx)
 - [Icon packs for Java applications](https://github.com/kordamp/ikonli)
 - [JavaFX + jpackage + Maven template project for generating native desktop applications](https://github.com/wiverson/maven-jpackage-template)
+- [openglfx](https://github.com/husker-dev/openglfx)
 
 ## [JavaFX] - [Apps]
 
