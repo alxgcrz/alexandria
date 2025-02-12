@@ -4,7 +4,7 @@
 - 👓 <https://github.com/sorrycc/awesome-javascript>
 - <https://caniuse.com/>
 
-## [JavaScript] - [Learn]
+## [JavaScript] - [Learning]
 
 - <https://roadmap.sh/javascript>
 - ⭐ <https://lenguajejs.com>

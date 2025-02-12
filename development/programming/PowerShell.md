@@ -8,7 +8,7 @@
 - <https://devblogs.microsoft.com/powershell/>
 - <https://devblogs.microsoft.com/powershell-community/>
 
-## [Powershell] - [Learn]
+## [Powershell] - [Learning]
 
 - <https://learn.microsoft.com/es-es/training/browse/?terms=PowerShell>
 - <https://gist.github.com/pcgeek86/336e08d1a09e3dd1a8f0a30a9fe61c8a>

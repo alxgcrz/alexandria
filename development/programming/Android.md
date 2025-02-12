@@ -49,7 +49,7 @@
 - [Weex](https://weex.apache.org/)
 - [WinJS Tutorial](http://try.buildwinjs.com/)
 
-## [Android] - [Learn]
+## [Android] - [Learning]
 
 - [Android Development](http://www.vogella.com/tutorials/android.html)
 - [ConstraintLayout](https://constraintlayout.com/)
@@ -75,7 +75,7 @@
 - [Cómo se declaran en Hacienda los ingresos de publicidad en aplicaciones o webs](http://www.xatakandroid.com/play-store/como-se-declaran-en-hacienda-los-ingresos-de-publicidad-en-aplicaciones-o-webs)
 - [Running and Debugging Your Android Application Remotely](http://docwiki.appmethod.com/appmethod/1.15/topics/en/Running_and_Debugging_Your_Android_Application_Remotely)
 
-### [Android] - [Learn] - [Android_Studio]
+### [Android] - [Learning] - [Android_Studio]
 
 - [Android Studio - Android Developers](https://developer.android.com/studio/?hl=es)
 - [Android Studio Shortcuts - Android Developers](https://developer.android.com/studio/intro/keyboard-shortcuts?hl=es-419)
@@ -86,7 +86,7 @@
 - [Making production YouTube videos from Android Studio screen recordings(video capture) : androiddev](https://www.reddit.com/r/androiddev/comments/5cdikb/making_production_youtube_videos_from_android/)
 - [Welcome to my very own Android Studio protip series](https://tips.seebrock3r.me/clear-the-app-data-quickly-android-studio-protips-1-ebc47ea06286)
 
-### [Android] - [Learn] - [Samples]
+### [Android] - [Learning] - [Samples]
 
 - [Boilerplate for your next Android project, made simple](http://androidstarters.com/)
 - ⭐ [The Google I/O 2018 Android App](https://github.com/google/iosched/)
@@ -95,7 +95,7 @@
 - [UniversalMusicPlayer - This sample shows how to implement an audio media app that works across multiple form factors and provide a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices](https://github.com/googlesamples/android-UniversalMusicPlayer)
 - [Plaid - An Android app which provides design news & inspiration as well as being an example of implementing material design.](https://github.com/nickbutcher/plaid)
 
-### [Android] - [Learn] - [FOSS]
+### [Android] - [Learning] - [FOSS]
 
 - [F-Droid](https://f-droid.org/packages/)
 - [Subreddit r/fossdroid](https://www.reddit.com/r/fossdroid/)
@@ -126,7 +126,7 @@
 - [ExoPlayer is an application level media player for Android](https://github.com/google/ExoPlayer)
 - [AntennaPod - A podcast manager for Android](https://github.com/AntennaPod/AntennaPod)
 
-### [Android] - [Learn] - [Training]
+### [Android] - [Learning] - [Training]
 
 - ⭐ [Google Developers Training  |  Google Developers](https://developers.google.com/training/)
 - [Google Developer Training Repository](https://github.com/google-developer-training)

@@ -1,3 +1,3 @@
-# [Hiberante]
+# [Hibernate]
 
 - <https://alxgcrz.com/hibernate.html>

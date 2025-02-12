@@ -10,7 +10,7 @@
 - <https://github.com/pyqt/examples>
 - <https://build-system.fman.io/>
 
-## [Python] - [Learn]
+## [Python] - [Learning]
 
 - ⭐<https://cheatsheets.zip/python>
 - <https://exercism.org/tracks/python>

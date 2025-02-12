@@ -13,7 +13,7 @@
 - [Modernizr: the feature detection library for HTML5/CSS3](https://modernizr.com/)
 - [htmx is a library that allows you to access modern browser features directly from HTML](https://htmx.org/)
 
-## [HTML] - [Learn]
+## [HTML] - [Learning]
 
 - <https://developer.mozilla.org/en-US/docs/Web/HTML>
 - 🇪🇸 <https://lenguajehtml.com/html/>

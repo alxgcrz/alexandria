@@ -34,7 +34,7 @@
 - [Asociación Española de Videojuegos](http://www.aevi.org.es/)
 - [Asociación Española de Empresas Productoras y Desarrolladoras de Videojuegos y Software de Entretenimiento](http://www.dev.org.es/)
 
-## [Games] - [Learn]
+## [Games] - [Learning]
 
 - ⭐ [Pixel Prospector](http://www.pixelprospector.com/)
 - [How to write a Game Desing Document](http://trickgs.com/blog/how-to-write-a-game-design-document/)
@@ -44,7 +44,7 @@
 - [So, You Wanna Be a Game Designer?](http://wannabe.urustar.net/)
 - 🇪🇸 [Cosas interactivas y cómo empezar a hacerlas](http://ludipe.tumblr.com/sergamedev)
 
-### [Games] - [Learn] - [Books]
+### [Games] - [Learning] - [Books]
 
 - 🇪🇸📕 [Videojuegos Multiplataforma con OpenFL](http://www.openflbook.com/)
 - 📕 [GPU Gems (Nvidia)](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
@@ -52,13 +52,13 @@
 - 📕 [Physically Based Rendering:From Theory To Implementation](http://www.pbr-book.org/)
 - [Curso de Experto en Desarrollo de Videojuegos](http://cedv.uclm.es/#material)
 
-### [Games] - [Learn] - [Mechanics]
+### [Games] - [Learning] - [Mechanics]
 
 - [Three Hundred Mechanics](http://www.squidi.net/three/index.php)
 - [Game Mechanic Explorer](https://gamemechanicexplorer.com/)
 - [49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
-### [Games] - [Learn] - [Design]
+### [Games] - [Learning] - [Design]
 
 - [Game design patterns for building friendships](http://www.lostgarden.com/2017/01/game-design-patterns-for-building.html)
 - [The Four Elements of Game Design: Part 1](https://gamedevelopment.tutsplus.com/articles/four-elements-of-game-design-1--cms-22720)
@@ -72,7 +72,7 @@
 - [The ultimate reference tool for interface designers](https://www.gameuidatabase.com/)
 - [Game UI Database](https://www.gameuidatabase.com/index.php)
 
-### [Games] - [Learn] - [Physics]
+### [Games] - [Learning] - [Physics]
 
 - ⭐ [Immersive linear algebra](http://immersivemath.com/ila/index.html)
 - 📺 [Essence of linear algebra - Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

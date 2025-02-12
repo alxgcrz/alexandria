@@ -26,7 +26,7 @@
 - <https://cwe.mitre.org/>
 - <https://osv.dev/>
 
-## [Security] - [Learn]
+## [Security] - [Learning]
 
 - [Buenas prácticas con OpenSSH](http://blog.desdelinux.net/buenas-practicas-openssh/)
 - [How To Protect SSH With Two-Factor Authentication | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-two-factor-authentication)

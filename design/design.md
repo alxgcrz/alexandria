@@ -4,7 +4,7 @@
 - ⭐ [Glyphy- Copy & paste glyphs with ease](https://www.glyphy.io/)
 - ⭐ [Emojipedia](https://emojipedia.org/)
 
-## [Design] - [Learn]
+## [Design] - [Learning]
 
 - [20 steps to the perfect website layout | Web design | Creative Bloq](http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625)
 - [29 Well-Designed Online Style Guides - Web Design Ledger](https://webdesignledger.com/29-online-style-guides)
@@ -62,7 +62,7 @@
 
 ## [Design] - [MD]
 
-### [Design] - [MD] - [Learn]
+### [Design] - [MD] - [Learning]
 
 - [Material Design](https://material.io/)
 - [A Closer Look at Google's Material Design Components Library](https://www.xda-developers.com/a-closer-look-at-googles-material-design-components-library-and-how-to-get-started-with-it/)

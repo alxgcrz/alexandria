@@ -57,7 +57,7 @@
 - [Java en AWS](https://aws.amazon.com/es/developer/language/java/)
 - [foojay — a place for friends of OpenJDK](https://foojay.io/today/)
 
-## [Java] - [Learn]
+## [Java] - [Learning]
 
 - ⭐ <https://roadmap.sh/java>
 - ⭐ [The Java™ Tutorials](http://docs.oracle.com/javase/tutorial/)

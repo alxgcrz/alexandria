@@ -5,7 +5,7 @@
 - ⭐ [Kotlin is Awesome!](https://kotlin.link/)
 - 👓 [Kotlin is Awesome!](https://github.com/KotlinBy/awesome-kotlin)
 
-## [Kotlin] - [Learn]
+## [Kotlin] - [Learning]
 
 - [From Java to Kotlin](https://fabiomsr.github.io/from-java-to-kotlin/index.html)
 - [Kotlin Academy](https://blog.kotlin-academy.com/)

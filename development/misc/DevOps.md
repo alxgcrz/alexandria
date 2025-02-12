@@ -10,7 +10,7 @@
 - <https://mobyproject.org/>
 - [Welcome to the Oracle Container Registry](https://container-registry.oracle.com/)
 
-### [Docker] - [Learn]
+### [Docker] - [Learning]
 
 - <https://cheatsheets.zip/docker>
 - <https://github.com/wsargent/docker-cheat-sheet/tree/master/es-es>
