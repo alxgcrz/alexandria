@@ -12,7 +12,6 @@
 - [AI](./development/misc/AI.md)
 - [Algorithms](./development/misc/Algorithms.md)
 - [Architecture](./development/misc/Architecture.md)
-- [DevOps](./development/misc/DevOps.md)
 - [Official](./development/misc/Official.md)
 - [Utils](./development/misc/utils.md)
 
