@@ -125,6 +125,7 @@
 - ⭐[The Absolute Minimum Every Software Developer Must Know About Unicode](https://tonsky.me/blog/unicode/)
 - <https://github.com/mtdvio/every-programmer-should-know>
 - <https://github.com/jwasham/coding-interview-university>
+- <https://versionlog.com/>
 
 ## [Utils] - [Online_editors]
 
