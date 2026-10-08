@@ -29,6 +29,7 @@
 - 🧰 [Doodle Ipsum - The lorem ipsum of illustrations](https://doodleipsum.com/)
 - 🧰 [TinyPNG - Smart PNG and JPEG compression](https://tinypng.com/)
 - 🧰 [Compress.io](https://compressor.io/)
+- 🧰 [SnapShrink - Free in-browser image compressor, no uploads](https://getsnapshrink.com/)
 - 🧰 [Duri.me - DataURI Generator](http://duri.me/)
 - 🧰 [Daturi - Convert images to Base64](https://daturi.me/)
 - 🧰 [GraphicsMagick Image Processing System](http://www.graphicsmagick.org/)
